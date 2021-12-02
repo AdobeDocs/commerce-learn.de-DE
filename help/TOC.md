@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videos und Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Commerce und Magento Open Source.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 + [[!DNL Commerce] Videos und Tutorials](overview.md)
 
-+ Erste Schritte mit {#getting-started}
-   + [!DNL Commerce] zur Cloud-Infrastruktur  {#cloud}
++ Erste Schritte {#getting-started}
+   + [!DNL Commerce] zur Cloud-Infrastruktur {#cloud}
       + [1 - Übersicht](./cloud/1-overview.md)
       + [2 - Gehostete Konten](./cloud/2-accounts.md)
       + [3 - Cloud-Projekte](./cloud/3-projects.md)
       + [4 - Implementierung](./cloud/4-deployment.md)
       + [5 - Entwicklung](./cloud/5-dev-config.md)
       + [6 - Dienste und DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] für Entwickler  {#development}
+   + [!DNL Commerce] für Entwickler {#development}
       + [1.1 - Übersicht](./developer/backend-1-1-overview.md)
       + [1.2 - Entwicklungs-Workflow](./developer/backend-1-2-workflow.md)
       + [2 - Installation](./developer/backend-2-install.md)
@@ -30,9 +30,9 @@ ht-degree: 0%
       + [5.1 - Grundlagen zur Entwicklung](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Deklaratives Schema](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Routing](./developer/backend-5-3-routing.md)
-      + [5.4 - Erstellen einer [!DNL Admin] Seite](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Erstellen einer [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
       + [6 - Übungen](./developer/backend-6-practice.md)
-   + [!DNL Commerce] für Geschäftsbenutzer  {#merchants}
+   + [!DNL Commerce] für Geschäftsbenutzer {#merchants}
       + [1.1 - [!DNL Admin] Menüs](./merchant/introduction/1-1-menus.md)
       + [1.2 - Datenraster](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - Bereiche, Sites und Stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,6 +55,19 @@ ht-degree: 0%
       + [5.1 - Storefront-Erlebnis](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Kundenverwaltung](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-Mail-Kommunikation](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - Übersicht](./merchant/business-intelligence/1-overview.md)
+      + [2 - Data Warehouse](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 - Berichte erstellen](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - Metriken](./merchant/business-intelligence/4-metrics.md)
+      + [5 - Standardberichte](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 - Zusammenfassung](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - Dashboard &quot;Bestellungen&quot;](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 - Kundenorientierte Dashboards](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - Kategorieanalyse](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - ROI-Tracking](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - Ergebnisse freigeben und Daten exportieren](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 - Erfolgsgeschichten von Kunden](./merchant/business-intelligence/12-customer-success.md)
 
 + Backend-Entwicklung {#backend-development}
    + [Hinzufügen einer neuen Tabelle zu einer Datenbank](./developer/add-new-db-table.md)
@@ -63,7 +76,7 @@ ht-degree: 0%
    + [Beispiel für eine Injektion von Abhängigkeiten](./developer/dependency-injection.md)
 
 + Frontend-Entwicklung {#frontend-development}
-   + Seitenaufbau {#page-builder}
+   + Page Builder {#page-builder}
       + [1 - Einleitung](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Konfiguration und Inhalt](./developer/page-builder/2-config-create-content.md)
       + [3 - Themen](./developer/page-builder/3-themes.md)
