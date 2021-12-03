@@ -6,9 +6,9 @@ kt: 5648
 doc-type: video
 activity: use
 exl-id: 92d3dae7-1b3d-4c07-985f-f0c5cafda1a5
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 1b08cf80f56295aaec6a84f529e4da63fdc232e2
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ In diesem Video:
 - Erste Schritte mit PWA Studio
 - Erste Projekteinrichtung &#x200B;
 - Generieren lokaler SSL-&#x200B;
-- CLI-Befehle für Build-Pakete
+- [!DNL Buildpack] CLI-Befehle
 
 ## Für wen ist dieses Video?
 
