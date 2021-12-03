@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 39002bea0d28c7c5027de001bba1c794b8224a71
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -28,11 +28,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den Versionshinweisen zu [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) .
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Konfigurierbares Produkt -  [!DNL Commerce] Benutzerhandbuch-](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
-[Attributsätze -  [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Konfigurierbares Produkt - [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+
+[Attributsätze - [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/stores/attribute-sets.html)
