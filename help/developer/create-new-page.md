@@ -6,7 +6,7 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c8b2a7771a9f96856c666d880175b8fee3e143a2
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,15 +24,15 @@ Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
 ## Schritte zum Hinzufügen einer Seite
 
 - Modul erstellen
-- Hinzufügen einer **routes.xml**-Datei
+- Hinzufügen einer **routes.xml** file
 - Hinzufügen einer Controller-Datei (Aktionsdatei)
 
 ## Schritte zum Erstellen eines Moduls
 
 - Erstellen des Modulordners
-- Erstellen Sie die Datei `etc/module.xml` .
-- Erstellen Sie die Datei `registration.php` .
-- Führen Sie das Skript `bin/magento setup:upgrade`aus, um das neue Modul zu installieren
+- Erstellen Sie die `etc/module.xml` file
+- Erstellen Sie die `registration.php` file
+- Führen Sie die `bin/magento setup:upgrade` Skript zur Installation des neuen Moduls
 - Überprüfen Sie, ob das Modul funktioniert.
 
 ## Videoinhalt
