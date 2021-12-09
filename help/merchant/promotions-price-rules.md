@@ -1,0 +1,41 @@
+---
+title: Preisregeln für Werbeaktionen
+description: Erfahren Sie, wie Sie Preisregeln für [!DNL Commerce] Storefront-Promotions für drei gängige Szenarien.
+kt: 5607
+doc-type: feature video
+audience: all
+activity: use
+source-git-commit: fbafe35c45ff36d847d4db05cc29aea115ba1125
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
+
+---
+
+
+# Preisregeln für Werbeaktionen
+
+Richten Sie in Admin Produktbeziehungen ein und verwenden Sie Preisregeln, um Trigger-Rabatte auf der Grundlage verschiedener Bedingungen zu gewähren. In diesem Video wird gezeigt, wie Sie Regeln für Promotion-Preise für die folgenden Szenarien einrichten können:
+
+- Kostenlosen Versand für Einkäufe über einen bestimmten Betrag anbieten
+- Werberabatt für einen Zeitraum planen
+- Ihren besten Kunden einen Gutscheincode für einen Rabatt geben
+
+## Für wen ist dieses Video?
+
+- Store-Administratoren
+- E-Commerce-Marketer
+
+## Videoinhalt
+
+>[!NOTE]
+>
+>Der Inhalt im Video spiegelt die Version 2.0 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
+
+>[!VIDEO](https://video.tv.adobe.com/v/35773?quality=12&learn=on)
+
+## Zusätzliche Ressourcen
+
+- [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html)
+- [Katalogpreisregeln](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html)
+- [Warenkorbpreisregeln](https://docs.magento.com/user-guide/marketing/price-rules-cart.html)
