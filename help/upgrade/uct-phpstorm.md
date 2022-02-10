@@ -1,27 +1,28 @@
 ---
-title: Verwenden des Upgrade-Kompatibilitätstools auf PHPStorm
-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Upgrade-Kompatibilitätstool mit dem PhpStorm-Plug-in verwenden.
-landing-page-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitätstools mit dem PhpStorm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
+title: Verwenden des Upgrade-Kompatibilitätstools für PHP Storm
+description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Upgrade-Kompatibilitätstool mit dem PHP Storm-Plug-in verwenden.
+landing-page-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitätstools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
 kt: 9651
 doc-type: technical video
 role: Developer
 audience: all
 activity: use
-source-git-commit: 40e99e67478a92febe36a676a63f112254027d87
+exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
+source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-# Verwenden des Upgrade-Kompatibilitätstools auf PHPStorm
+# Verwenden des Upgrade-Kompatibilitätstools für PHP Storm
 
-Das Upgrade Compatibility Tool (UCT) ist ein kostenloses Tool, das die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Ziel-Upgrade-Version in nur wenigen Minuten analysiert. Das PhpStorm-Plug-in erleichtert die Verwendung dieses Tools.
+Das Upgrade Compatibility Tool (UCT) ist ein kostenloses Tool, das die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Ziel-Upgrade-Version in nur wenigen Minuten analysiert. Das PHP Storm Plugin macht dieses Tool noch einfacher zu benutzen.
 
 In diesem Video:
 
 - Was ist das Upgrade-Kompatibilitätstool?
-- Verwendung mit dem Magento PhpStorm-Plug-in
+- Verwendung mit dem Magento PHP Storm Plugin
 - Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
 
 ## Für wen ist dieses Video?
@@ -35,5 +36,5 @@ In diesem Video:
 ## Zusätzliche Ressourcen
 
 - [Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PhpStorm-Plug-in](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Magento PHP Storm-Plug-in](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Veröffentlichte Versionen](https://devdocs.magento.com/release/released-versions.html)
