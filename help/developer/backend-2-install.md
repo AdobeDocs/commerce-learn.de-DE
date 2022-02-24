@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] für Entwickler - Installation'
+title: '"[!DNL Commerce] für Entwickler - Installation"'
 description: Erfahren Sie mehr über die Installation von Composer und Beispieldaten.
 kt: 5692
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36194.jpeg
 activity: use
 exl-id: 070fe7d2-77f9-40d9-86e8-f2c8dccb2548
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In diesem Video:
 
 >[!IMPORTANT]
 >
->Der Web-Setup-Assistent wurde in Adobe Commerce und Magento Open Source 2.3.6 nicht mehr unterstützt und in 2.3.7 und 2.4.0 entfernt. Sie müssen die Befehlszeile zum Installieren oder Aktualisieren Ihrer Instanz sowie Module und Erweiterungen verwenden.
+>Der Websetup-Assistent wurde in Adobe Commerce und Magento Open Source 2.3.6 nicht mehr unterstützt und in 2.3.7 und 2.4.0 entfernt. Sie müssen die Befehlszeile zum Installieren oder Aktualisieren Ihrer Instanz sowie Module und Erweiterungen verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 

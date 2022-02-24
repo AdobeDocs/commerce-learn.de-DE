@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen'
+title: '"[!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen"'
 description: Erfahren Sie mehr über Gebietsschemaeinstellungen, Informationen speichern, sichere und unsichere URLs, Website-Titel, Logo, Copyright-Informationen, E-Mail-Logos für Kommunikation, E-Mail-Adressen speichern, Währungsoptionen und Währungsraten.
 topic: Commerce
 kt: 5764
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -36,10 +36,10 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den Versionshinweisen zu [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) .
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Store-Details -  [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/stores/store-details.html)
+[Store-Details - [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/stores/store-details.html)

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] für Entwickler - Routing'
+title: '"[!DNL Commerce] für Entwickler - Routing"'
 description: Erfahren Sie mehr über Routing, Erstellen eines einfachen Frontend-Controllers, Ergebnisobjekte und Aktionsklassen.
 kt: 5697
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36199.jpeg
 activity: use
 exl-id: b94f5c1e-deec-4419-975b-518796cdf371
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den Versionshinweisen zu [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) .
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36199?quality=12&learn=on)
 
