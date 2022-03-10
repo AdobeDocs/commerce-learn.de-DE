@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Modul erstellen
 
-Modul ist ein Strukturelement von [!DNL Commerce] - das gesamte System basiert auf Modulen. In der Regel besteht der erste Schritt beim Erstellen einer Anpassung darin, ein Modul zu erstellen.
+Das Modul ist ein strukturelles Element von [!DNL Commerce] - das ganze System basiert auf Modulen. In der Regel besteht der erste Schritt beim Erstellen einer Anpassung darin, ein Modul zu erstellen.
 
 ## Für wen ist dieses Video?
 
