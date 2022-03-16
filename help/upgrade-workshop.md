@@ -11,7 +11,7 @@ exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
 source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
@@ -37,6 +37,6 @@ In diesem Workshop arbeitete Adobe Commerce mit Merkle zusammen, um Folgendes zu
 
 ## Zusätzliche Ressourcen
 
-- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://devdocs.magento.com/release/released-versions.html)
 - [Bevorstehende Versionen](https://devdocs.magento.com/release/)

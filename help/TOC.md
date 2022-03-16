@@ -4,7 +4,7 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Commer
 source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
