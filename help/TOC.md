@@ -1,9 +1,9 @@
 ---
 user-guide-title: Videos und Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Commerce und Magento Open Source.
-source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
+source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 7%
 
 ---
@@ -78,6 +78,11 @@ ht-degree: 7%
    + [Preisregeln für Werbeaktionen](./merchant/promotions-price-rules.md)
    + [Page Builder - Übersicht](./merchant/page-builder-overview.md)
 
++ Upgrades {#upgrade}
+   + [Adobe Commerce 2.4 Upgrade-Workshop](./upgrade/2.4-upgrade-workshop.md)
+   + [Überblick über das Upgrade-Kompatibilitätstool](./upgrade/upgrade-compatibility-tool-overview.md)
+   + [Verwenden des Upgrade-Kompatibilitätstools in PHP Storm](./upgrade/uct-phpstorm.md)
+
 + Backend-Entwicklung {#backend-development}
    + [Hinzufügen einer neuen Tabelle zu einer Datenbank](./developer/add-new-db-table.md)
    + [Modul erstellen](developer/create-module.md)
@@ -105,6 +110,3 @@ ht-degree: 7%
       + [6 - Peregrine](./pwa/introduction/6-peregrine.md)
    + [PWA Docker-Entwicklung](./pwa/pwa-docker-development.md)
    + [Einrichten einer Venia für die Entwicklung](pwa/set-up-venia-for-dev.md)
-
-+ [Adobe Commerce 2.4 Upgrade-Workshop](./upgrade-workshop.md)
-+ [Verwenden des Upgrade-Kompatibilitätstools in PHP Storm](./upgrade/uct-phpstorm.md)
