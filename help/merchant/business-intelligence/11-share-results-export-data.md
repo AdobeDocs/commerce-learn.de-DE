@@ -3,13 +3,13 @@ title: Business Intelligence - Ergebnisse freigeben und Daten exportieren
 description: Erfahren Sie mehr über die Freigabe Ihrer Business Intelligence-Ergebnisse und den Export von Daten zur Integration mit anderen Business Tools.
 kt: 5728
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
