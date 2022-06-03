@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Kundenorientierte Dashboards
+title: MBI - Kundenorientierte Dashboards
 description: Sehen Sie sich eine Demonstration und detaillierte Erläuterung der kundenorientierten Dashboards an.
 kt: 5736
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Kundenorientierte Dashboards
+# MBI - Kundenorientierte Dashboards
 
 Um fundierte Geschäftsentscheidungen zu ermöglichen, bieten kundenorientierte Dashboards Ihren Kunden viele Einblicke. Beispiele sind neue oder registrierte Kunden, der Lebenszeitwert von Kunden, der Umsatz, der von Ihren Kundengruppen aufgeschlüsselt wird, und die Nutzung von Coupons durch Ihre Kunden.
 
@@ -27,7 +27,7 @@ Um fundierte Geschäftsentscheidungen zu ermöglichen, bieten kundenorientierte 
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [Business Intelligence-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 

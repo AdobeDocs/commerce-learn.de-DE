@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence - Verwalten von Datensätzen
-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen von Business Intelligence Data Warehouse Manager.
-landing-page-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen von Business Intelligence Data Warehouse Manager.
+title: Verwalten von Datensätzen in MBI
+description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des MBI-Data Warehouse-Managers.
+landing-page-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des MBI-Data Warehouse-Managers.
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Verwalten von Datensätzen
+# Verwalten von Datensätzen in MBI
 
-Erfahren Sie mehr über einige der leistungsstarken Funktionen des Business Intelligence Data Warehouse Managers direkt vom Adobe Commerce-Produktteam. Gehen Sie über die grundlegende Berichterstellung hinaus und lernen Sie, wie Sie mit Ihren Daten mehr erreichen können.
+Erfahren Sie mehr über einige der leistungsstarken Funktionen des MBI Data Warehouse Manager direkt vom Adobe Commerce-Produktteam. Gehen Sie über die grundlegende Berichterstellung hinaus und lernen Sie, wie Sie mit Ihren Daten mehr erreichen können.
 
 In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Werbekampagnen berechnen können, indem Sie sich Daten aus Adobe Commerce, Google Ecommerce und Google AdWords anschließen.
 
 >[!TIP]
 >
->Wenn Sie mit Business Intelligence noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](./../1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](./../1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 

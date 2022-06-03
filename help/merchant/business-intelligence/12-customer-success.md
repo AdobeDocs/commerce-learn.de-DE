@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Kundenerfolgsgeschichten
-description: Erfahren Sie mehr über Kundenerfolgsgeschichten mithilfe von Business Intelligence.
+title: MBI - Erfolgsgeschichten von Kunden
+description: Erfahren Sie mehr über Kundenerfolgsgeschichten mit MBI.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Kundenerfolgsgeschichten
+# MBI - Erfolgsgeschichten von Kunden
 
-Wenn Sie sich mit einigen der nützlichsten Analysemöglichkeiten in der Business Intelligence auskennen, sollten Sie sich einige Kundenerfolge ansehen und erfahren, wie sie ihre Analysen nutzten, um echte Ergebnisse zu erzielen.
+Wenn Sie sich mit einigen der nützlichsten Arten von Analyseleistern in MBI auskennen, sollten Sie einige Kundenerfolgsgeschichten lesen und erfahren, wie sie ihre Analyse nutzten, um echte Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 

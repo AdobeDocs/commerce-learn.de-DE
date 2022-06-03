@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - Kohorten-Report Builder
-description: Erfahren Sie, wie Sie mit dem Business Intelligence Cohort Report Builder optimierte Berichte und Analysen erstellen können, die für Ihr Unternehmen relevant sind.
-landing-page-description: In diesem Video erfahren Sie, wie Sie mit dem Business Intelligence Cohort Report Builder optimierte Berichte und Analysen erstellen, die für Ihr Unternehmen relevant sind.
+title: MBI - Kohorten-Report Builder
+description: Erfahren Sie, wie Sie mit dem MBI-Kohorte-Report Builder optimierte Berichte und Analysen erstellen können, die für Ihr Unternehmen relevant sind.
+landing-page-description: In diesem Video erfahren Sie, wie Sie mit dem MBI-Kohorte-Report Builder optimierte Berichte und Analysen erstellen, die für Ihr Unternehmen relevant sind.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Kohorten-Report Builder
+# MBI - Kohorten-Report Builder
 
-Wollten Sie schon einmal untersuchen, wie sich unterschiedliche Untergruppen Ihrer Benutzer im Laufe der Zeit verhalten? Haben Sie sich beispielsweise schon einmal gefragt, ob Benutzer, die sich während eines Promo-Zeitraums registrieren, einen höheren durchschnittlichen Lebensdauerumsatz haben als Benutzer, die dies nicht tun? Wenn die Antwort _Ja_, dann ist der Kohorten-Report Builder das perfekte Tool für Sie. Die Business Intelligence wurde optimiert, um diese Analyse durchzuführen und sie für Ihr Unternehmen relevant zu machen.
+Wollten Sie schon einmal untersuchen, wie sich unterschiedliche Untergruppen Ihrer Benutzer im Laufe der Zeit verhalten? Haben Sie sich beispielsweise schon einmal gefragt, ob Benutzer, die sich während eines Promo-Zeitraums registrieren, einen höheren durchschnittlichen Lebensdauerumsatz haben als Benutzer, die dies nicht tun? Wenn die Antwort _Ja_, dann ist der Kohorten-Report Builder das perfekte Tool für Sie. MBI ist optimiert, um diese Analyse durchzuführen und sie für Ihr Unternehmen relevant zu machen.
 
 In diesem Video:
 
@@ -26,7 +27,7 @@ In diesem Video:
 
 >[!TIP]
 >
->Wenn Sie mit Business Intelligence noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 

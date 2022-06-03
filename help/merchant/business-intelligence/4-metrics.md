@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Metriken
-description: Erfahren Sie mehr über die Metriken der Business Intelligence und wie sie zur Erstellung von Berichten verwendet werden.
+title: MBI - Metriken
+description: Erfahren Sie mehr über MBI-Metriken und deren Verwendung zur Erstellung von Berichten.
 kt: 5725
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Metriken
+# MBI - Metriken
 
 Eine Metrik ist eine Messung. In SQL- und Datenbankstrukturen entspricht eine Metrik einer gespeicherten Abfrage über einen variablen Zeitraum. Ihr Team erstellt die relevanten Metriken, mit denen die für Ihr Unternehmen benötigten Berichte erstellt werden.
 
@@ -27,7 +27,7 @@ Eine Metrik ist eine Messung. In SQL- und Datenbankstrukturen entspricht eine Me
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [Business Intelligence-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 
