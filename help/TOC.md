@@ -1,10 +1,10 @@
 ---
 user-guide-title: Videos und Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Commerce und Magento Open Source.
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 6%
+source-wordcount: '357'
+ht-degree: 5%
 
 ---
 
@@ -27,43 +27,63 @@ ht-degree: 6%
       + [2 - Installation](./developer/backend-2-install.md)
       + [3 - Nach der Installation](./developer/backend-3-post-install.md)
       + [4 - Codebasis](./developer/backend-4-code-base.md)
-      + [5.1 - Grundlagen zur Entwicklung](./developer/backend-5-1-dev-basics.md)
+      + [5.1 - Entwicklungsgrundlagen](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Deklaratives Schema](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Routing](./developer/backend-5-3-routing.md)
-      + [5.4 - Erstellen einer [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Erstellen einer [!DNL Admin] Seite](./developer/backend-5-4-admin-page.md)
       + [6 - Übungen](./developer/backend-6-practice.md)
    + [!DNL Commerce] für Geschäftsbenutzer {#merchants}
       + [1.1 - [!DNL Admin] Menüs](./merchant/introduction/1-1-menus.md)
       + [1.2 - Datenraster](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - Bereiche, Sites und Stores](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
       + [1.4 - Ansichten und Caches speichern](./merchant/introduction/1-4-store-views-cache.md)
-      + [1.5 - Admin-Benutzerkonten und Rollen](./merchant/introduction/1-5-users-roles.md)
+      + [1.5 - Benutzerkonten und Rollen für Administratoren](./merchant/introduction/1-5-users-roles.md)
       + [1.6 - Rollenbereiche](./merchant/introduction/1-6-role-scopes.md)
-      + [1.7 - Geschäftseinstellungen](./merchant/introduction/1-7-business-settings.md)
+      + [1.7 - Unternehmenseinstellungen](./merchant/introduction/1-7-business-settings.md)
       + [2.1 - Kategorien](./merchant/introduction/2-1-categories.md)
-      + [2.2 - Landingpages für Kategorien](./merchant/introduction/2-2-category-landing-page.md)
-      + [3.1 - Produktarten und Optionen](./merchant/introduction/3-1-product-types-options.md)
+      + [2.2 - Landingpages der Kategorie](./merchant/introduction/2-2-category-landing-page.md)
+      + [3.1 - Produkttypen und -optionen](./merchant/introduction/3-1-product-types-options.md)
       + [3.2 - Produkteinstellungen](./merchant/introduction/3-2-product-settings.md)
       + [3.3 - Produktattribute](./merchant/introduction/3-3-product-attributes.md)
       + [3.4 - Produktattributsätze](./merchant/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - Einfaches Produkt erstellen](./merchant/introduction/3-5-create-simple-product.md)
+      + [3.5 - Erstellen eines einfachen Produkts](./merchant/introduction/3-5-create-simple-product.md)
       + [3.6 - Konfigurierbare Attribute](./merchant/introduction/3-6-configurable-attributes.md)
-      + [3.7 - Einfuhr-/Ausfuhrerzeugnisse](./merchant/introduction/3-7-import-export-products.md)
-      + [3.8 - Geschenkkarten](./merchant/introduction/3-8-gift-cards.md)
+      + [3.7 - Import/Export-Produkte](./merchant/introduction/3-7-import-export-products.md)
+      + [3.8 - Gift Cards](./merchant/introduction/3-8-gift-cards.md)
       + [4.1 - Navigation mit Ebenen](./merchant/introduction/4-1-layered-navigation.md)
       + [4.2 - Sortieren von Produktkategorien](./merchant/introduction/4-2-arrange-product-categories.md)
       + [5.1 - Storefront-Erlebnis](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Kundenverwaltung](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-Mail-Kommunikation](./merchant/introduction/5-3-store-communications.md)
 
-+ Arbeiten in der Admin-Konsole {#admin}
-   + [Benutzer, Rollen und Berechtigungen](./merchant/users-roles-permissions.md)
++ Store Administration {#admin}
+   + [Benutzerrollen und Berechtigungen verwalten](./merchant/users-roles-permissions.md)
    + [Zweifaktorauthentifizierung](./merchant/two-factor-authentication.md)
-   + [Hinzufügen von Websites, Geschäften und Store-Ansichten](./merchant/add-websites-stores-views.md)
+   + [Währungs- und Steuerregeln verwalten](./merchant/currency-tax-rules.md)
+   + [Versand- und Bereitstellungsmethoden](./merchant/shipping-delivery.md)
+   + [Hinzufügen von Websites, Stores und Store-Ansichten](./merchant/add-websites-stores-views.md)
    + [Ändern der Store-URL](./merchant/change-store-url.md)
-   + [Einrichten von Sitemap-Apps](./merchant/site-map-setup.md)
-   + [Preisregeln für Werbeaktionen](./merchant/promotions-price-rules.md)
+   + [Einrichten von Sitemap](./merchant/site-map-setup.md)
+
++ Kundenverwaltung {#customers}
+   + [Kundensegmente erstellen](./merchant/customer-segments.md)
+   + [Kundengruppen erstellen](./merchant/customer-groups.md)
+   + [Kundenattribute erstellen](./merchant/customer-attributes.md)
+   + [Händlerunterstütztes Shopping](./merchant/seller-assisted-shopping.md)
+
++ Katalogverwaltung {#catalog}
+   + [Erstellen einer Kategorie](./merchant/category-create.md)
+   + [Verwalten von Produkten in einer Kategorie](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [Erstellen von Produktattributen](./merchant/product-attributes-create.md)
+   + [Verwalten von SEO-Metadaten](./merchant/seo-metadata.md)
+   + [Verwalten von URL-Neuschreibungen für SEO](./merchant/seo-url-rewrites.md)
+
++ Content Management {#content}
    + [Page Builder - Übersicht](./merchant/page-builder-overview.md)
+
++ Marketing-Tools {#marketing}
+   + [Preisregeln für Werbeaktionen](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [Filtersätze](./merchant/business-intelligence/filter-sets.md)
@@ -91,7 +111,7 @@ ht-degree: 6%
       + [Ergebnisse freigeben und Daten exportieren](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Erfolgsgeschichten von Kunden](./merchant/business-intelligence/12-customer-success.md)
 
-+ Upgrades {#upgrade}
++ Commerce-Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade-Workshop](./upgrade/2.4-upgrade-workshop.md)
    + [Überblick über das Upgrade-Kompatibilitätstool](./upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitätstools in PHP Storm](./upgrade/uct-phpstorm.md)
@@ -103,7 +123,7 @@ ht-degree: 6%
    + [Beispiel für eine Injektion von Abhängigkeiten](./developer/dependency-injection.md)
 
 + Frontend-Entwicklung {#frontend-development}
-   + Page Builder {#page-builder}
+   + Seitenaufbau für Entwickler {#page-builder}
       + [1 - Einleitung](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Konfiguration und Inhalt](./developer/page-builder/2-config-create-content.md)
       + [3 - Themen](./developer/page-builder/3-themes.md)
