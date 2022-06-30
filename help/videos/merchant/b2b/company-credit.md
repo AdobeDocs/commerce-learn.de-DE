@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b-feature}
 
-Für Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert ist und Firmenkredite zur Verfügung stehen, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Wenn diese Option aktiviert ist, können Kunden den Status ihrer Unternehmensgutschrift über ihr Konto-Dashboard überprüfen.
+Für Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert ist und Firmenkredite zur Verfügung stehen, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kunden den Status ihrer Unternehmensgutschrift über ihr Konto-Dashboard überprüfen.
 
 Sie können für jedes Unternehmensprofil die folgenden kreditbezogenen Parameter festlegen:
 
