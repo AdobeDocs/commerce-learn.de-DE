@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Commerce] Videos und Tutorials"'
+title: "[!DNL Commerce] Videos und Tutorials"
 description: Eine Sammlung von Videos und Tutorials für Adobe Commerce und Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 5%
 
 ---
@@ -27,7 +27,10 @@ Die neuesten Ergänzungen und Updates finden Sie hier:
 | Auftragserfüllung | [Store Fulfillment - Übersicht](./merchant/store-fulfillment.md) <br>[Bestellstatus verwalten](./merchant/order-status.md) |
 | B2B für Adobe Commerce | [Verwalten von Unternehmenskonten](./merchant/b2b/company-accounts.md)  <br>[Verwalten freigegebener Kataloge](./merchant/b2b/shared-catalogs.md) <br>[Verwalten von Firmenguthaben](./merchant/b2b/company-credit.md) <br>[Bestellungen und Validierungen](./merchant/b2b/purchase-orders.md) |
 | Systemwerkzeuge | [Dashboard des Site-weiten Analyse-Tools](./tools/site-wide-analysis-tool.md) <br>[Beobachtung für Adobe Commerce](./tools/observation-tool.md) <br>[Verwenden des Quality Patch-Tools](./tools/quality-patch-tool.md) |
-| MBI | [Erste Schritte mit MBI](./merchant/business-intelligence/webinars/getting-started.md) <br>[Verwalten von Datensätzen in MBI](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Optimieren Ihrer MBI-Data Warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[MBI-Dashboards - Tiefgang](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Urlaubsbereitschaft mit MBI](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Vorbereitung auf die Zukunft](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - Experten fragen](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>Die [Commerce-Ereignisse](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) -Bereich bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie nach Bedarf ansehen können.
 
 ## Zusätzliche Ressourcen
 
