@@ -3,8 +3,8 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Commerce und Magento Open Source.
 source-git-commit: c6ee7f37aed4093c7752e6683a8f7a9e26b10a11
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '485'
+ht-degree: 3%
 
 ---
 
