@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Ein Data Warehouse ist eine relationale Datenbank, die zur Konsolidierung und Speicherung von Daten für die Ausführung von Geschäftsanalysen konfiguriert ist. Data Warehouse ermöglicht den Zugriff auf Daten, um die Produktionsdatenbanken zu denormalisieren und sie für eine effizientere Analyse zu organisieren.
 
-Mit dem Data Warehouse Manager können Benutzer mit Zugriff auf Administratorebene die Synchronisierungseinstellungen für Tabellen und Spalten verwalten, einen Drilldown in das Schema einer Tabelle durchführen und berechnete Spalten erstellen, die in Berichten verwendet werden sollen.
+Mithilfe des Data Warehousen-Managers können Benutzer mit Zugriff auf Administratorebene die Synchronisierungseinstellungen für Tabellen und Spalten verwalten, einen Drilldown im Tabellenschema durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.
 
 ## Für wen ist dieses Video?
 
@@ -29,11 +29,11 @@ Mit dem Data Warehouse Manager können Benutzer mit Zugriff auf Administratorebe
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Eine Übersicht über den Data Warehouse Manager](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/tour-dwm.html)
-- [Daten verbinden](https://docs.magento.com/mbi/data-analyst/importing-data/connecting-data/connecting-data.html)
+- [Überblick über Data Warehouse Manager - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [Daten verbinden - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

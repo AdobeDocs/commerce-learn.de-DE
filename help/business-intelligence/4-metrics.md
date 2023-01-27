@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Eine Metrik ist eine Messung. In SQL- und Datenbankstrukturen entspricht eine Me
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen von Metriken](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-metrics.html)
-- [Filtersätze für Metriken erstellen](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
+- [Erstellen von Metriken - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
+- [Erstellen von Filtersätzen - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)

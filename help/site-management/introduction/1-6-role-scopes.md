@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -28,12 +28,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Benutzer hinzufügen - [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+[Verwalten von Admin-Benutzerkonten - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Benutzerrollen - [!DNL Commerce] Benutzerhandbuch](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Benutzerrollen - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

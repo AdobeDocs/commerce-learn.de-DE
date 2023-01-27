@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 16%
@@ -31,8 +31,8 @@ In diesem Video:
 >Dieser Inhalt spiegelt die Adobe Commerce- und Magento Open Source 2.3.1-Version wider.
 >
 >- PWA und [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) sind jetzt als _Headless_ Implementierung des Frontend.
->- Der Technologie-Stack hat sich in späteren Versionen der Release-Zeile 2.3.x und der Release-Zeile 2.4.x geändert. Überprüfen Sie die [Systemanforderungen](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) um sicherzustellen, dass Sie über die richtigen Systemkomponenten verfügen.
->- Aufgrund der bevorstehenden Schließung von Temando ist Magento Shipping nicht mehr verfügbar. Ausführliche Statusinformationen und Empfehlungen für neue Versandimplementierungen in Commerce finden Sie im Abschnitt [Produktinformationen-Seite](https://magento.com/shipping).
+>- Der Technologie-Stack hat sich in späteren Versionen der Release-Zeile 2.3.x und der Release-Zeile 2.4.x geändert. Überprüfen Sie die [Systemanforderungen](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) um sicherzustellen, dass Sie über die richtigen Systemkomponenten verfügen.
+>- Aufgrund der bevorstehenden Schließung von Temando ist Magento Shipping nicht mehr verfügbar. Ausführliche Statusinformationen und Empfehlungen für neue Versandimplementierungen in Commerce finden Sie im Abschnitt [Produktinformationen-Seite](https://business.adobe.com/products/magento/shipping.html).
 
 
 
@@ -40,6 +40,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[[!DNL Commerce] Architekturhandbuch](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+[[!DNL Commerce] Architekturhandbuch](https://developer.adobe.com/commerce/php/architecture/)
 
-[[!DNL Commerce] PHP-Entwicklerhandbuch](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP-Entwicklerhandbuch](https://developer.adobe.com/commerce/php/development/)

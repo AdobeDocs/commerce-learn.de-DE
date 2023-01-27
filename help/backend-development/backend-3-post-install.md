@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >Die Funktion zur Aufspaltung der Datenbank wurde in Version 2.4.2 eingestellt.
 
@@ -37,7 +37,7 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-- [Installation überprüfen](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
-- [Festlegen einer Umfrage](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
-- [Beispieldaten installieren](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
-- [Über Anwendungsmodi](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)
+- [Installation überprüfen](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Festlegen einer Umfrage](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Beispieldaten installieren](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [Über Anwendungsmodi](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

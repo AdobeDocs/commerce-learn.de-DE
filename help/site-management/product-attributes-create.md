@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,6 @@ Adobe Commerce verwendet Attribute, um die Informationen zu Produkten, Kunden un
 
 ## Zusätzliche Ressourcen
 
-- [Produktattribute](https://docs.magento.com/user-guide/catalog/product-attributes.html)
-- [Attributsätze](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Übersicht über Produktattribute - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+
+[Attributsätze - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

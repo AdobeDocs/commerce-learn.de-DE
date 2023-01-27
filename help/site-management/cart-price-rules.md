@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Preisregeln für Warenkorb gelten für Artikel im Warenkorb, die auf einer Reihe
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Preisregel für Warenkorb](https://docs.magento.com/user-guide/marketing/price-rules-cart-create.html)
-- [Coupon-Codes](https://docs.magento.com/user-guide/marketing/price-rules-cart-coupon.html)
+- [Erstellen einer Warenkorbpreisregel - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Couponcodes - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

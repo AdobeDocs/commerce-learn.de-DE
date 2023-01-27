@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Das Dashboard &quot;Executive Overview&quot;bietet allgemeine Einblicke in Umsat
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Zusammenfassung](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
-- [Freigeben von Dashboards für andere Benutzer](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)
+- [Executive Summary - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [Dashboards für andere Benutzer freigeben - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)

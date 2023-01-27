@@ -7,16 +7,16 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Kundenattribute erstellen
 
-Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-, Erfüllungs- und Kundenverwaltungsprozesse erforderlich sind. Da Ihr Unternehmen einzigartig ist, benötigen Sie möglicherweise neben den vom System bereitgestellten Standardfeldern auch Felder. Sie können benutzerdefinierte Attribute zu den Abschnitten Kontoinformationen, Adressbuch und Rechnungsinformationen des Kundenkontos hinzufügen.
+Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-, Erfüllungs- und Kundenverwaltungsprozesse erforderlich sind. Da Ihr Unternehmen einzigartig ist, benötigen Sie möglicherweise neben den vom System bereitgestellten Standardfeldern auch Felder. Sie können den Abschnitten Kontoinformationen, Adressbuch und Rechnungsinformationen des Kundenkontos benutzerdefinierte Attribute hinzufügen.
 
 ## Für wen ist dieses Video?
 
@@ -29,5 +29,5 @@ Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-,
 
 ## Zusätzliche Ressourcen
 
-- [Kundenattribute](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [Erstellen eines individuellen Kundenkontos](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Kundenattributeigenschaften - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Erstellen eines individuellen Kundenkontos - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

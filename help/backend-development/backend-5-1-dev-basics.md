@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36197.jpeg
 activity: use
 exl-id: f27b31b7-6226-4e58-b2c0-6dafcc677940
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) und [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) Versionshinweise.
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36197?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Erweiterbarkeit und Modularität](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [Konfigurieren des Stores](https://devdocs.magento.com/cloud/configure/configuration-overview.html)
+- [Erweiterbarkeit und Modularität](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [Überblick über Speicheroptionen und Konfigurationsverwaltung](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)

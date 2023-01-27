@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Die Kategorieanalyse soll einen allgemeinen Überblick über ausgewählte Produk
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://docs.magento.com/mbi/) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version 2.2 wider. Siehe [MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) für die aktuellsten Informationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Produktsegmente](https://docs.magento.com/mbi/best-practices/segment-filter.html#product-segments)
-- [Business Performance Analysis](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
+- [Produktsegmente - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [Business Performance Analysis - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

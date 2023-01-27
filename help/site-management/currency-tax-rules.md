@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Die Steuerregeln beinhalten eine Kombination aus Produktklasse, Kundenklasse und
 
 ## Zusätzliche Ressourcen
 
-- [Steuervorschriften](https://docs.magento.com/user-guide/tax/tax-rules.html)
-- [Währung](https://docs.magento.com/user-guide/stores/currency.html)
+- [Steuervorschriften - [!DNL Commerce] Handbuch für Stores und Einkaufserlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Währung - [!DNL Commerce] Handbuch für Stores und Einkaufserlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
