@@ -5,10 +5,10 @@ landing-page-description: Erfahren Sie, was App Builder ist und wie es bei den E
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # Out-of-Process-Erweiterbarkeit
 
-Die Entwicklung von Adobe Commerce erfolgt historisch mit demselben Repository wie die Hauptanwendung.  Dies wird in der Verarbeitung bezeichnet.  Diese Technik ist sehr gut und bietet dem Entwickler einen erwarteten Mechanismus für die Erweiterung der Anwendung.  Dies ist jedoch preiswert.  Jedes Mal, wenn Sie neuen Code zur Codebase hinzufügen, muss er mit allen Upgrades kompatibel sein.  Sie müssen auch mit der PHP-Version der Server sowie mit vielen anderen Serveranwendungen und -diensten kompatibel sein, die Commerce nutzen wird.  Adobe Developer App Builder erfordert die Erweiterung der Funktionalität, verschiebt sie jedoch von der Site.  Der Code und die Logik sind vollständig extern, und diese Methode wird als Out-of-Process bezeichnet.
+In der Vergangenheit hat die Adobe Commerce-Entwicklung eine Erweiterung der Prozesse verwendet, eine leistungsstarke Funktion, aber das In-Process-Modell erfordert, dass jeder neue Code mit Upgrades, der PHP-Version des Servers und vielen anderen wichtigen Serveranwendungen und -diensten kompatibel ist, die Commerce verwendet. Adobe Developer App Builder verwendet Out-of-Process-Erweiterbarkeit, um diese Kompatibilitätsprobleme zu vermeiden.
 
 ## App Builder für Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder bietet ein Erweiterbarkeits-Framework für Entwickler zum Erweitern von [!DNL Adobe Commerce] zur Bereitstellung einer Out-of-Process-Erweiterbarkeit.
+Adobe Developer App Builder ist eine Server-lose Erweiterungsplattform zur Integration und Erstellung benutzerdefinierter Erlebnisse, um Adobe-Lösungen zu erweitern. Jetzt ist er für Adobe Commerce verfügbar. Mit App Builder können Sie sichere und skalierbare Apps erstellen, die Commerce-native Funktionen erweitern und in Lösungen von Drittanbietern integrieren. Als Entwickler können Sie jetzt die Out-of-Process-Erweiterbarkeit mit Adobe Commerce nutzen, was wiederum sofortige und langfristige Vorteile bietet.
 
-App Builder bietet ein einheitliches Erweiterbarkeits-Framework von Drittanbietern für die Integration und Erstellung benutzerdefinierter Anwendungen, die [!DNL Adobe Commerce]. Da dieses Erweiterbarkeits-Framework auf der Infrastruktur der Adobe basiert, können Entwickler benutzerdefinierte Microservices erstellen sowie erweitern und integrieren [!DNL Adobe Commerce] über Adobe-Lösungen und andere Drittanbieterintegrationen.
+App Builder bietet ein einheitliches Erweiterbarkeits-Framework von Drittanbietern für die Integration und Erstellung benutzerdefinierter Anwendungen, die [!DNL Adobe Commerce]. Da dieses Erweiterbarkeits-Framework auf der Infrastruktur der Adobe basiert, können Entwickler benutzerdefinierte Microservices erstellen sowie erweitern und integrieren [!DNL Adobe Commerce] über andere Adobe-Lösungen und Drittanbieterintegrationen.
 
 App Builder bietet Kunden die Möglichkeit, [!DNL Adobe Commerce] in verschiedenen Anwendungsfällen:
 
@@ -36,13 +36,13 @@ App Builder (früher als Project Firefly bekannt) ist eine Cloud-basierte Lösun
 
 ## Warum sollten Sie mehr über App Builder erfahren?
 
-Da Adobe Commerce nicht vollständig SAAS ist, kann der Code, den Sie entwickeln oder installieren, Komplexität und Aktualisierungsprobleme hinzufügen. Durch die Verwendung von Out-of-Process-Erweiterbarkeit wie App Builder können Sie Ihrem Adobe Commerce Store benutzerdefinierte, einzigartige Funktionen bereitstellen, ohne dass hierfür In-Process-Methoden erforderlich sind.
+Da Adobe Commerce kein vollwertiges SAAS-Produkt ist, kann der von Ihnen entwickelte Code Komplexität und Aktualisierungsprobleme hinzufügen. Durch die Verwendung von Out-of-Process-Erweiterbarkeit wie App Builder können Sie Ihrem Adobe Commerce Store benutzerdefinierte, einzigartige Funktionen bereitstellen, ohne dass hierfür In-Process-Methoden erforderlich sind.
 
 Weitere Vorteile sind:
 
 * Entkoppelte Funktionen ermöglichen schnellere Startzeiten.
-* Upgrades sind jetzt einfacher. Die benutzerdefinierten Funktionen befinden sich außerhalb der Commerce-Codebasis, wodurch Kompatibilitätsprobleme beim Aktualisieren verhindert werden.
-* Durch das Verschieben von Funktionen und Logik außerhalb des Commerce werden Ressourcen freigesetzt, die normalerweise von Entwicklungsmethoden in Prozessen verwendet werden.
+* Upgrades sind jetzt einfacher. Die benutzerdefinierten Funktionen befinden sich außerhalb der Commerce-Codebase, wodurch Kompatibilitätsprobleme beim Upgrade verhindert werden.
+* Durch das Verschieben von Funktionen und Logik außerhalb von Commerce werden Ressourcen freigesetzt, die normalerweise von Entwicklungsmethoden in Prozessen verwendet werden.
 
 ## Architektur {#architecture}
 
@@ -58,6 +58,14 @@ Die folgende Abbildung zeigt, wie eine auf App Builder aufbauende Standardanwend
 ![Architektur](/help/assets/app-builder/firefly-architecture.jpeg)
 
 Weitere Informationen zur App Builder-Architektur finden Sie im Abschnitt [Architekturüberblick](https://developer.adobe.com/app-builder/docs/guides/).
+
+## Amazon Sales Channel-Erweiterung {#amazon-sales-channel-extension}
+
+Die folgenden Tutorials zeigen, wie Sie mit einer App Builder-Erweiterung eine Verbindung zwischen Adobe Commerce und Amazon Sales Channel herstellen.
+
+* [Technische Übersicht App Builder](../app-builder/app-builder-technical-overview.md)
+* [Erweiterungs-Framework](../app-builder/extensibility-framework-commerce-eventing.md)
+* [Funktionale Demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Erste Schritte mit App Builder {#additional-resources}
 
@@ -81,4 +89,3 @@ Bereit zur Entwicklung? Der folgende Link enthält Beispielanwendungen, die Ihne
 ## Support {#support}
 
 Verwenden Sie für Support-Anfragen für Entwickler den [Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) Hilfe.
-
