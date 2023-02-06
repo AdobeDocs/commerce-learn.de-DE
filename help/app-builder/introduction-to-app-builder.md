@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 ---
 
 
-# Out-of-Process-Erweiterbarkeit
+# Einführung in App Builder
 
-In der Vergangenheit hat die Adobe Commerce-Entwicklung eine Erweiterung der Prozesse verwendet, eine leistungsstarke Funktion, aber das In-Process-Modell erfordert, dass jeder neue Code mit Upgrades, der PHP-Version des Servers und vielen anderen wichtigen Serveranwendungen und -diensten kompatibel ist, die Commerce verwendet. Adobe Developer App Builder verwendet Out-of-Process-Erweiterbarkeit, um diese Kompatibilitätsprobleme zu vermeiden.
+In der Vergangenheit wurde bei der Adobe Commerce-Entwicklung eine Erweiterung der Prozesse verwendet. Das In-Process-Modell erfordert, dass jeder neue Code mit Upgrades, der PHP-Version des Servers und vielen anderen wichtigen Server-Anwendungen und -Services kompatibel ist, die Commerce verwendet. Adobe Developer App Builder verwendet Out-of-Process-Erweiterbarkeit, um diese Kompatibilitätsprobleme zu vermeiden.
 
 ## App Builder für Adobe Commerce {#project-firefly}
 

@@ -6,17 +6,17 @@ kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 3cff43b65f139a7a247baacc82e92f671ab9117f
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
-# Erweiterungs-Framework und Commerce-Eventing
+# Erweiterungs-Framework für App Builder
 
-Um zu erfahren, wie Sie Adobe Commerce mit Adobe Developer App Builder verwenden, sehen Sie sich das folgende Video an, in dem die Verwendung von Commerce-Ereignissen mit App Builder veranschaulicht wird. In dieser funktionalen Demonstration wird beschrieben, wie die Integration funktioniert, und das Potenzial von App Builder untersucht. Diese Demonstration bietet eine Einführung in das Erweiterbarkeits-Framework, Commerce Eventing und die Verwendung dieser Tools zur Entwicklung der Amazon Sales Channel-Erweiterung.
+Um zu erfahren, wie Sie Adobe Commerce mit Adobe Developer App Builder verwenden, sehen Sie sich das folgende Video an, in dem die Verwendung von Commerce-Ereignissen mit App Builder veranschaulicht wird. In dieser funktionalen Demonstration wird beschrieben, wie die Integration funktioniert, und das Potenzial von App Builder untersucht. Diese Demonstration bietet eine Einführung in das Erweiterbarkeits-Framework, Commerce Eventing und die Verwendung dieses Frameworks zur Entwicklung der Amazon Sales Channel-Erweiterung.
 
 ## App Builder für Adobe Commerce {#app-builder-extensibility}
 
