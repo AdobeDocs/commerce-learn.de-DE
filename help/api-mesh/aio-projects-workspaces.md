@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,31 @@ ht-degree: 0%
 
 # Arbeiten mit Projekten und Arbeitsbereichen
 
-Grundlegende Informationen zum Erstellen eines Projekts und eines Arbeitsbereichs. Die meisten Funktionen der Benutzeroberfläche werden in [Adobe Developer-Konsole](https://developer.adobe.com/console).
+In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs mit Ihrem Gitter erläutert. Diese Arbeit findet vorwiegend im [Adobe Developer-Konsole](https://developer.adobe.com/console) Benutzeroberfläche.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe App Builder einen einzelnen API-Endpunkt erstellen, indem sie einen Arbeitsbereich verwenden, der mehrere Quellen oder Proxys in einer Quelle zusammenfasst
+* Entwickler, die Zugriff auf ein Adobe Developer Console-Konto haben und ein Projekt und einen Arbeitsbereich erstellen möchten.
 
 ## Videoinhalt
 
-* Arbeiten mit Projekten und Arbeitsbereichen in der Adobe Developer Console
-* Hinzufügen des API-Bildschirms zum Arbeitsbereich in der Adobe Developer-Konsole
-* Mit der Adobe Developer-Konsole anmelden
-* Projekt und Arbeitsbereich über die Adobe Developer-Befehlszeile anzeigen
-* Ändern der Organisation, wenn Sie bei der falschen angemeldet sind
-* Auswählen und Herstellen einer Verbindung zu einem Adobe Developer-Projekt und Arbeitsbereich über die Befehlszeile von Adobe Developer
-* Testen grundlegender API-Gitterbefehle
+* Arbeiten mit Projekten und Arbeitsbereichen in der Adobe Developer-Konsole
+* Hinzufügen von API-Gittern zum Arbeitsbereich in der Adobe Developer-Konsole
+* Anmeldung bei der Adobe Developer-Konsole in der CLI
+* Ausgewähltes Projekt und Arbeitsbereich in der CLI anzeigen
+* Ändern der ausgewählten Organisation, des Projekts oder Arbeitsbereichs in der CLI
+* Testen einfacher API-Mesh-Befehle
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
 ## Informationen zur Adobe Developer Console
 
-Es gibt verschiedene Aspekte der Adobe Developer-Konsole, die Sie kennen sollten, z. B. Projekte, Arbeitsbereiche und Organisationen. Weitere Informationen zum Adobe App Builder, zur Anmeldung bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+In der Adobe Developer-Konsole stellt die folgende Hierarchie dar, wie Ihre APIs in Ihre Organisation passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zu Adobe App Builder, zum Anmelden bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
 ## Einführung in Projekte in der Adobe Developer-Konsole
 
-Die gesamte Entwicklungsarbeit in der Adobe Developer Console erfolgt im Rahmen eines Projekts. Ein Projekt kann ein oder mehrere Produkte sowie eine Kombination aus APIs, Ereignissen, Laufzeitumgebungen und Plug-ins umfassen. Weitere Informationen zu Projekten in der Adobe Developer Console finden Sie unter [Projektübersicht](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Die gesamte Entwicklungsarbeit in der Adobe Developer Console erfolgt im Rahmen eines Projekts. Ein Projekt kann ein oder mehrere Produkte sowie eine Kombination aus APIs, Ereignissen, Laufzeiten und Plug-ins enthalten. Weitere Informationen zu Projekten in der Adobe Developer Console finden Sie unter [Projekte](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+Weitere Informationen zur Verwendung von Projekten und Arbeitsbereichen im Kontext von API-Mesh finden Sie unter [Projekte und Arbeitsbereiche ändern](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}
