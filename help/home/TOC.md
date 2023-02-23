@@ -2,7 +2,7 @@
 user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie mehr über Adobe Commerce und Magento Open Source in Videos und Tutorials.
 breadcrumb-title: Videos und Tutorials
-source-git-commit: a4863c70ed9b0b0daee82c569b284f98163e5769
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -57,7 +57,11 @@ ht-degree: 0%
       + [5.3 - E-Mail-Kommunikation](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Globale Referenzarchitektur](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL und REST {#graphql-rest}
-   + [Einführung in GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+   + [Erste Schritte mit GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
+   + [Abfragen](../graphql-rest/graphql-queries.md)
+   + [Mutationen](../graphql-rest/graphql-mutations.md)
+   + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
    + [Erweiterungs-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)

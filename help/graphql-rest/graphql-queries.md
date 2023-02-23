@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -186,5 +187,6 @@ In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und
 
 Genau wie Sie gesehen haben, dass die eigentliche HTTP-Anforderung für eine GraphQL-Abfrage &quot;Abfrage&quot;enthält: `{string}`&quot;, enthält jede Anfrage, die ein Variablenwörterbuch enthält, einfach eine zusätzliche &quot;Variablen: `{json}`&quot;in derselben Stelle, wobei `{json}` ist die JSON-Zeichenfolge mit den Variablenwerten.
 
-Die neue Abfrage verwendet auch eine _fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen zu Fragmenten](https://graphql.org/learn/queries/#fragments) in der GraphQL-Dokumentation.
+Die neue Abfrage verwendet auch eine _fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen zu Fragmenten](https://graphql.org/learn/queries/#fragments){target="_blank"} in der GraphQL-Dokumentation.
 
+{{$include /help/_includes/graphql-rest-related-links.md}}
