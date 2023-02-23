@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Eine plausible Antwort von einem GraphQL-Server für die obige Abfrage könnte s
 }
 ```
 
-Das obige Beispiel basiert auf dem vordefinierten GraphQL-Schema für Magento, das auf dem Server definiert ist. In dieser Anfrage werden mehrere Datentypen gleichzeitig abgefragt. Die Abfrage gibt genau die gewünschten Felder aus und die zurückgegebenen Daten werden ähnlich wie die Abfrage selbst formatiert.
+Das obige Beispiel beruht auf dem vordefinierten GraphQL-Schema für Adobe Commerce, das auf dem Server definiert ist. In dieser Anfrage werden mehrere Datentypen gleichzeitig abgefragt. Die Abfrage gibt genau die Felder aus, die Sie benötigen, und die zurückgegebenen Daten werden ähnlich wie die Abfrage selbst formatiert.
 
 >[!NOTE]
 >
@@ -114,14 +114,14 @@ Das obige Beispiel basiert auf dem vordefinierten GraphQL-Schema für Magento, d
 
 ## Abfrage zu dem, was Sie möchten
 
-`country` und `categories` im Beispiel stellen zwei verschiedene &quot;Abfragen&quot;für zwei verschiedene Arten von Daten dar. Im Gegensatz zu einem herkömmlichen API-Paradigma wie REST, das separate und explizite Endpunkte für jeden Datentyp definiert, bietet Ihnen GraphQL die Flexibilität, einen einzelnen Endpunkt mit einem Ausdruck abzufragen, der viele Datentypen gleichzeitig abrufen kann.
+`country` und `categories` im Beispiel stellen zwei verschiedene &quot;Abfragen&quot;für zwei verschiedene Arten von Daten dar. Im Gegensatz zu einem herkömmlichen API-Paradigma wie REST, das separate und explizite Endpunkte für jeden Datentyp definiert. GraphQL bietet Ihnen die Flexibilität, einen einzelnen Endpunkt mit einem Ausdruck abzufragen, der viele Datentypen gleichzeitig abrufen kann.
 
 Gleichermaßen gibt die Abfrage genau die Felder an, die für beide `country` (`id` und `full_name_english`) und `categories` (`items`, das selbst eine Unterauswahl von Feldern aufweist), und die Daten, die Sie erhalten, spiegeln diese Feldspezifikation wider. Für diese Datentypen sind vermutlich viele weitere Felder verfügbar, Sie erhalten jedoch nur das, was Sie angefordert haben.
 
 
 >[!NOTE]
 >
->Sie werden feststellen, dass der Rückgabewert für `items` ist tatsächlich _array_ Werte, aber Sie wählen trotzdem direkt Unterfelder aus. Wenn der Typ eines Felds eine Liste ist, versteht GraphQL implizit die Unterauswahlen, die auf jedes Element in der Liste angewendet werden sollen.
+>Sie werden feststellen, dass der Rückgabewert für `items` ist tatsächlich _array_ Werte, aber Sie wählen trotzdem direkt die entsprechenden Unterfelder aus. Wenn der Typ eines Felds eine Liste ist, versteht GraphQL implizit die Unterauswahl, die auf jedes Element in der Liste angewendet werden soll.
 
 ## Argumente
 
@@ -133,7 +133,7 @@ Sie übergeben eine `id` -Argument `country`, wobei das Land angegeben wird, das
 
 Während Sie neigen könnten, `country` und `categories` als separate Abfragen oder Entitäten, besteht die gesamte in Ihrer Abfrage ausgedrückte Baumstruktur tatsächlich nur aus Feldern. Der Ausdruck von `products` syntaktisch nicht anders ist als `categories`. Beide sind Felder, und es gibt keinen Unterschied zwischen ihrer Konstruktion.
 
-Jedes GraphQL-Datendiagramm hat einen einzigen &quot;Stammtyp&quot;(typischerweise verwiesen) `Query`), um den Baum zu starten, und die häufig als Entitäten betrachteten Typen werden einfach Feldern auf diesem Stammverzeichnis zugewiesen. Unsere Beispielabfrage führt tatsächlich eine generische Abfrage für den Stammtyp durch und wählt die Felder aus `country` und `categories`. Anschließend werden Unterfelder dieser Felder ausgewählt usw., möglicherweise mehrere Ebenen tief. Wenn der Rückgabetyp eines Felds ein komplexer Typ ist (z. B. ein Feld mit eigenen Feldern und kein Skalartyp), wählen Sie weiterhin die gewünschten Felder aus.
+Jedes GraphQL-Datendiagramm hat einen einzigen &quot;Stammtyp&quot;(typischerweise verwiesen) `Query`), um den Baum zu starten, und die häufig als Entitäten betrachteten Typen werden Feldern auf diesem Stammverzeichnis zugewiesen. Die Beispielabfrage führt tatsächlich eine generische Abfrage für den Stammtyp durch und wählt die Felder aus `country` und `categories`. Anschließend werden Unterfelder dieser Felder ausgewählt usw., möglicherweise mehrere Ebenen tief. Wenn der Rückgabetyp eines Felds ein komplexer Typ ist (z. B. ein Feld mit eigenen Feldern und kein Skalartyp), wählen Sie weiterhin die gewünschten Felder aus.
 
 Aus diesem Konzept verschachtelter Felder können Sie auch Argumente für `products` (`pageSize` und `currentPage`) auf die gleiche Weise wie für die oberste Ebene `categories` -Feld.
 
@@ -169,7 +169,7 @@ Zunächst ist zu beachten, dass das Keyword hinzugefügt wird. `query` vor der �
 
 In der vorherigen Abfrage haben Sie Werte für die Argumente Ihrer Felder direkt als Zeichenfolgen oder Ganzzahlen hartcodiert. Die GraphQL-Spezifikation unterstützt jedoch die Trennung der Benutzereingabe von der Hauptabfrage mithilfe von Variablen.
 
-In der neuen Abfrage verwenden Sie Klammern vor der ersten Klammer der gesamten Abfrage, um eine `$search` (Variablen verwenden immer die Syntax des Dollarzeichen-Präfixes) und es ist diese Variable, die dem `search` Argument für `products`.
+In der neuen Abfrage verwenden Sie Klammern vor der ersten Klammer der gesamten Abfrage, um eine `$search` (Variablen verwenden immer die Dollarzeichen-Präfixsyntax). Diese Variable wird der Variablen `search` Argument für `products`.
 
 Wenn eine Abfrage Variablen enthält, wird erwartet, dass die GraphQL-Anforderung ein separates JSON-kodiertes Wertewörterbuch neben der Abfrage selbst enthält. Für die obige Abfrage können Sie zusätzlich zum Abfragetext die folgende JSON-Datei mit Variablenwerten senden:
 
@@ -181,7 +181,7 @@ Wenn eine Abfrage Variablen enthält, wird erwartet, dass die GraphQL-Anforderun
 
 >[!NOTE]
 >
->Wenn Sie diese Abfragen für die Venia-Beispielsite und nicht für Ihre eigene Magento-Instanz ausprobieren, erhalten Sie wahrscheinlich keine Ergebnisse für `related_products`.
+>Wenn Sie diese Abfragen für die Venia-Beispielsite und nicht für Ihre eigene Adobe Commerce-Instanz ausprobieren, sind die zurückgegebenen Ergebnisse wahrscheinlich leer für `related_products`.
 
 In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und GraphiQL), unterstützt die Benutzeroberfläche die Eingabe der Variablen JSON separat von der Abfrage.
 

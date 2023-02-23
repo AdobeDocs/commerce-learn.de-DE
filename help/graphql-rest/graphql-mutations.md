@@ -7,7 +7,7 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -84,7 +84,7 @@ Beachten Sie vor allem, dass im oben genannten Beispiel neben der Verwendung des
 * Ein anfängliches Feld (`addProductsToCart`) mit Argumenten (z. B. `cartId`, auf den Wert von `$cartId`) in Klammern
 * Eine Unterauswahl von Feldern in geschweiften Klammern
 
-Über die Unterauswahl der Felder können Sie flexibel die Felder definieren, die zurückgegeben werden sollen (aus dem Typ, der als Rückgabewert von `addProductsToCart` - `AddProductsToCartOutput`), nachdem die Mutation abgeschlossen ist.
+Die Teilauswahl der Felder ermöglicht es, die Felder, die Sie zurückgeben möchten, flexibel zu definieren (aus dem Typ, der als Rückgabewert von `addProductsToCart` - `AddProductsToCartOutput`), nachdem die Mutation abgeschlossen ist.
 
 Wie bereits erläutert, beginnen in einem GraphQL-Schema definierte Felder bei Abfragen mit einem Stammtyp (in der Regel als `Query`). Ähnlich gibt es auch einen anderen Stammtyp für Mutationen (in der Regel als `Mutation`). `addProductsToCart` ist ein Feld dieses Stammtyps.
 
