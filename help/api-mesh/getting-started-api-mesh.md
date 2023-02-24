@@ -6,9 +6,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wenn Sie mit API Measurement für Adobe Developer App Builder noch nicht vertrau
 
 API-Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, die Ihre Anwendung nutzen kann.
 
-[Vollständige API-Mesh-Dokumentation anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[Vollständige API-Mesh-Dokumentation anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Anwendungsbeispiele
 
@@ -31,7 +31,7 @@ Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt.
 
 Entwickler, die Adobe App Builder und API Measurement verwenden, müssen nicht wissen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktionalität interessiert sind, da sie sich auf Adobe App Builder bezieht, verwenden Sie die folgenden Ressourcen:
 
-* [Was ist ein Reverse-Proxy?](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [Was ist ein Reverse-Proxy und warum ist es wichtig?](https://blog.hubspot.com/website/reverse-proxy)
+* [Was ist ein Reverse-Proxy?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Was ist ein Reverse-Proxy und warum ist es wichtig?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

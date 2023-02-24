@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Erstellen eines Netzwerks mit mehreren Quellen
 
-In diesem Video erfahren Entwickler, wie ein Gitter mit mehreren Quellen im API-Mesh für Adobe Developer App Builder erstellt wird. In diesem Video erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und Fehler identifizieren. Weitere Informationen und Codebeispiele finden Sie unter [Erstellen eines Gitters](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+In diesem Video erfahren Entwickler, wie ein Gitter mit mehreren Quellen im API-Mesh für Adobe Developer App Builder erstellt wird. In diesem Video erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und Fehler identifizieren. Weitere Informationen und Codebeispiele finden Sie unter [Erstellen eines Gitters](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Für wen ist dieses Video?
 
@@ -24,7 +24,7 @@ In diesem Video erfahren Entwickler, wie ein Gitter mit mehreren Quellen im API-
 
 ## Videoinhalt
 
-* Verwendung [Transformationen](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) Ändern des Standardquellschemas
+* Verwendung [Transformationen](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} Ändern des Standardquellschemas
 * Beheben von Fehlern, wie Namenskonflikten, Schemaverfügbarkeit und andere Probleme mit der Schemasyntax
 * Aktualisieren Ihres Netzwerks mit einer geänderten Konfiguration
 
