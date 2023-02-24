@@ -5,10 +5,11 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+badge: label="Nur in Adobe Commerce" type="Positiv"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -30,5 +31,5 @@ Das Content Staging bietet Ihrem Business-Team die Möglichkeit, direkt vom Admi
 
 ## Zusätzliche Ressourcen
 
-- [Content Staging - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
-- [Vorschau einer Kampagne - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)
+- [Content Staging - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [Vorschau einer Kampagne - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
