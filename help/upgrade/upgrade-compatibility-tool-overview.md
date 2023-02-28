@@ -1,7 +1,7 @@
 ---
 title: Überblick über das Upgrade-Kompatibilitätstool
-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
-landing-page-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
+description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitätstool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
+landing-page-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitätstool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
@@ -11,7 +11,7 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 18%
+ht-degree: 0%
 
 ---
 
@@ -39,6 +39,6 @@ Weitere Informationen zum Tool finden Sie unter [Dokumentation zum Upgrade-Kompa
 ## Zusätzliche Ressourcen
 
 - [Dokumentation zum Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
