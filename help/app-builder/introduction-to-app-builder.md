@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
+source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,10 @@ Die folgenden Tutorials zeigen, wie Sie mit einer App Builder-Erweiterung eine V
 * [Funktionale Demonstration App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Erste Schritte mit App Builder {#additional-resources}
+
+Eine Übersicht über die Strategie für den kombinierbaren Handel, einschließlich der ersten Einrichtung, finden Sie in folgendem Blogpost:
+
+[Wie App Builder die geschäftliche Agilität Ihrer Commerce-Plattform fördert](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
 
 Für die ersten Schritte mit App Builder hat Adobe die folgende Dokumentation erstellt:
 
