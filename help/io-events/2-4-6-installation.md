@@ -2,14 +2,15 @@
 title: Erfahren Sie, wie Sie IO-Ereignisse für Adobe Commerce 2.4.6 installieren.
 description: Erfahren Sie, wie Sie Module installieren, die für IO-Ereignisse in Adobe Commerce 2.4.6 zur Verwendung in Adobe Developer App Builder erforderlich sind
 landing-page-description: Erfahren Sie, wie Sie mehrere Module installieren, die für Adobe Commerce 2.4.6 erforderlich sind.
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.6"
-source-git-commit: 4f73e2a6852d545d9b30b03158b6d8a35e3eba49
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

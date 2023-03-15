@@ -2,11 +2,12 @@
 title: Erfahren Sie, wie Sie mit Commerce Events ein App Builder-Projekt erstellen
 description: Erfahren Sie, wie Sie ein App Builder-Projekt zur Verwendung mit Commerce-Ereignissen erstellen
 landing-page-description: Erfahren Sie, wie Sie ein Adobe App Builder-Projekt zur Verwendung von Adobe Commerce-Ereignissen erstellen
+short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: e31325570a0b816eee5b250224d6442399685611
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
