@@ -1,7 +1,7 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Befolgte Namensstandards]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] Entsprechen das Inhaltsverzeichnis und das H1 für jede Seite, die erstellt oder aktualisiert wird?
-- [ ] Enthält das Inhaltsverzeichnis und das H1 ein Aktionsbeispiel: Erfahren Sie, wie Sie eine PR erstellen
+- [ ] [Befolgte Namensstandards]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] Das Inhaltsverzeichnis und die H1-Übereinstimmung für jede Seite, die erstellt oder aktualisiert wird.
+- [ ] Dem Inhaltsverzeichnis und dem H1 ist eine Aktion zugeordnet, z. B.: Erfahren Sie, wie Sie eine Pull-Anforderung von GutHub erstellen
 - [ ] In H1 darf kein Abstand vorhanden sein
-- [ ] Jeder Seitentitel sollte mit einem Großbuchstaben beginnen
-- [ ] Videos haben Kapitel
-- [ ] Videos, denen ein Poster zugewiesen wurde, um das Video ordnungsgemäß darzustellen
+- [ ] Jeder Seitentitel sollte mit einem ***C***apitolbuchstaben beginnen
+- [ ] Ich habe überprüft, ob Videos Kapitel enthalten sollten.
+- [ ] Für alle Videos wurde ein Poster zugewiesen, mit dem das Video ordnungsgemäß dargestellt wird
+- [ ] Haben Sie [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
