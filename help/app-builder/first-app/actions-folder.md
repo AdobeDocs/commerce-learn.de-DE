@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` Ordner {#actions-folder}
+# Erfahren Sie mehr über den Ordner &quot;actions&quot; {#actions-folder}
 
 Die `actions` Der Ordner für diese Beispielanwendung enthält einige JavaScript-Dateien und einen Ordner mit dem Namen `commerce`. Das angezeigte JavaScript ist eine hervorragende Beispieldatei, die wiederverwendet werden kann, wenn sie für Ihre Arbeit relevant ist. Mit diesem Ordner sparen Sie Zeit bei Entwicklungsbemühungen, wenn Sie mit OAuth und REST eine Verbindung zur Adobe Commerce-Anwendung herstellen.
 

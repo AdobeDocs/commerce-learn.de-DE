@@ -6,15 +6,15 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 
-# Die `.env` file {#env-file}
+# .env-Datei generieren und konfigurieren {#env-file}
 
 Die `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie es, diese Datei an ein Code-Repository zu übergeben.
 

@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# Die `web-src` Ordner {#web-src-folder}
+# Den Zweck des Ordners web-src ermitteln {#web-src-folder}
 
 Der Ordner web-src für diese Beispielanwendung enthält viele JavaScript-Dateien und -Ordner. Dieser Ordner wird für Anwendungen mit einer Benutzeroberfläche verwendet. Nicht alle Anwendungen verwenden diese Funktion. Beispielsweise erfordert eine Commerce-Integration mit einem externen Bestandsverwaltungssystem möglicherweise keine Frontend-Oberfläche und keinen Code.
 
