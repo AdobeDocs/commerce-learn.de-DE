@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Wenn Sie mit API Measurement für Adobe Developer App Builder noch nicht vertrau
 API-Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, die Ihre Anwendung nutzen kann.
 
 [Vollständige API-Mesh-Dokumentation anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## Für wen ist dieses Video?
+
+* Entwickler, die neu im API-Mesh sind oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+
+## Videoinhalt
+
+* Übersicht über das API-Gitter
+* Links zur zusätzlichen Dokumentation
+* Anwendungsbeispiel für eine Bestandsüberprüfung in Echtzeit beim Checkout
+* Verschieben von Entwicklungsbemühungen und Ressourcennutzung von Ihrer Commerce-Anwendung
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Anwendungsbeispiele
 
