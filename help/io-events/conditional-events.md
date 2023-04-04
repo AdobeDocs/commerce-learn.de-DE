@@ -7,7 +7,7 @@ kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Deve
 * Definieren von Regeln für die Verwendung in bedingten Ereignissen
 * Erfahren Sie, wie Sie Ereignisse in den Commerce-Instanzen registrieren. `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 
