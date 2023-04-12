@@ -2,18 +2,18 @@
 title: Installieren der Befehlszeilenschnittstelle von Adobe I/O Runtime und des API-Mesh-Plug-ins
 description: Erfahren Sie, wie Sie die Befehlszeilenschnittstelle von Adobe I/O Runtime und das API-Mesh-Plug-in installieren.
 landing-page-description: Erfahren Sie, wie Sie Adobe App Builder verwenden und Adobe I/O Runtime mit API-Mesh-Plug-in installieren.
-short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: Erfahren Sie, wie Sie Adobe App Builder verwenden und Adobe I/O Runtime mit API-Mesh-Plug-in installieren.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Installieren des Adobe I/O Runtime-CLI- und Mesh-Plug-ins
 

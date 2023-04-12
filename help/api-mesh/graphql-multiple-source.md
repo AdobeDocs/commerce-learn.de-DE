@@ -2,14 +2,15 @@
 title: Erstellen einer GraphQL mit mehreren Quellen zur Verwendung im API-Mesh
 description: Erfahren Sie, wie Sie mehrere Quellen für das API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie mehr über einige häufige Fehler und wie Sie diese beheben können.
 landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
+short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

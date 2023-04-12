@@ -2,7 +2,7 @@
 title: MBI - Vorbereitung auf die Zukunft
 description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
 landing-page-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
-short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
+short-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

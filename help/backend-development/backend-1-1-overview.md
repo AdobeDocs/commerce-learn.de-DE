@@ -2,7 +2,7 @@
 title: "[!DNL Commerce] für Entwickler - Übersicht"
 description: 'Lernen Sie die Grundlagen der Plattform aus der Perspektive verschiedener Zielgruppen kennen: Händler, Webstore-Entwickler und Integratoren.'
 landing-page-description: Sehen Sie sich diese Videoreihe an, um mit Ihrem Backend-Entwicklungsprojekt für Commerce zu beginnen.
-short-description: Watch this video series to get started on your backend development project for Commerce.
+short-description: Sehen Sie sich diese Videoreihe an, um mit Ihrem Backend-Entwicklungsprojekt für Commerce zu beginnen.
 doc-type: video
 topic: Development
 audience: developer
@@ -12,7 +12,7 @@ activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

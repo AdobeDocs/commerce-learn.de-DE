@@ -2,18 +2,18 @@
 title: Out-of-Process-Erweiterbarkeit für Adobe Commerce
 description: Erfahren Sie mehr über Adobe App Builder und warum es sich um einen wichtigen Aspekt der Out-of-Process-Erweiterbarkeit handelt.
 landing-page-description: Erfahren Sie, was App Builder ist und wie es bei den Entwicklungsstrategien von Adobe Commerce helfen kann.
-short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
+short-description: Erfahren Sie, was App Builder ist und wie es bei den Entwicklungsstrategien von Adobe Commerce helfen kann.
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Einführung in App Builder
 

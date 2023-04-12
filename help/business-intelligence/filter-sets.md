@@ -2,7 +2,7 @@
 title: MBI - Filtersätze
 description: Erfahren Sie, wie Sie mit der MBI-Filtersatzfunktion die Berichterstellung für Geschäftsdaten für Adobe Commerce und Magento Open Source vereinfachen.
 landing-page-description: In diesem Video erfahren Sie, wie Sie mit der Funktion "MBI-Filtersätze"die Berichterstellung für Geschäftsdaten vereinfachen.
-short-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
+short-description: In diesem Video erfahren Sie, wie Sie mit der Funktion "MBI-Filtersätze"die Berichterstellung für Geschäftsdaten vereinfachen.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,7 @@
 title: Store Fulfillment - Übersicht
 description: Erfahren Sie mehr über die Store Fulfillment für Adobe Commerce von Walmart Commerce Technologies, einer fortschrittlichen Omnichannel-Fulfillment-Lösung, die das Ende des Kaufs online, der Abholung von In-Store (BOPIS)-Erlebnisses ermöglicht.
 landing-page-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden den Komfort bietet, mit der sie in der Stores- und Zwischenspeicher-Abholung und -Speicherung Mitarbeiter effizienter und mobilfähiger machen, um Abruf-, Staging- und Übergabe-Store-Abholaufträge an Kunden zu tätigen.
-short-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
+short-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden den Komfort bietet, mit der sie in der Stores- und Zwischenspeicher-Abholung und -Speicherung Mitarbeiter effizienter und mobilfähiger machen, um Abruf-, Staging- und Übergabe-Store-Abholaufträge an Kunden zu tätigen.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

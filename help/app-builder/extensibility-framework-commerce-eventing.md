@@ -2,18 +2,18 @@
 title: Erweiterungs-Framework und Commerce-Eventing
 description: Informationen zum Unified Extensibility Framework und Commerce-Abend
 landing-page-description: Informationen zum Unified Extensibility Framework und Commerce-Abend
-short-description: Learn about Unified Extensibility Framework and commerce evening
+short-description: Informationen zum Unified Extensibility Framework und Commerce-Abend
 kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 9186ba11-180d-45ca-801a-a86547084cca
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Erweiterungs-Framework für App Builder
 

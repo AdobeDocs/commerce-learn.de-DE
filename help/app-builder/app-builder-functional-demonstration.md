@@ -2,18 +2,18 @@
 title: Funktionsdemonstration von App Builder
 description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Demonstration
 landing-page-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Demonstration
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
+short-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Demonstration
 kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Funktionelle Demonstration für App Builder
 
