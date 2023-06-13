@@ -2,9 +2,9 @@
 user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie mehr über Adobe Commerce und Magento Open Source in Videos und Tutorials.
 breadcrumb-title: Videos und Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Verwalten freigegebener Kataloge](../b2b/shared-catalogs.md)
    + [Verwalten von Firmenguthaben](../b2b/company-credit.md)
    + [Bestellungen und Validierungen](../b2b/purchase-orders.md)
+   + Anführungszeichen {#b2b-quote}
+      + [Vertriebsmitarbeiter initiiert Zitat](../b2b/sales-rep-initiates-quote.md)
+      + [Anführungszeichenvalidierung durch den Administrator](../b2b/quote-validation-admin-panel.md)
+      + [Vertriebsmitarbeiter initiiert eine zitierte REST-API](../b2b/sales-rep-initiates-quote-api.md)
+      + [Rabatte für Zeileneinträge](../b2b/quote-line-item-discount.md)
+      + [Anführungszeichen für Zeileneinträge](../b2b/quote-line-item-notes.md)
+      + [Rabatt auf Zeileneinträge in GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [Rabatt auf Zeileneinträge REST API zitieren](../b2b/quote-rest-api-line-item-notes.md)
 + Tools und externe Dienste {#tools}
    + [Dashboard des Site-weiten Analyse-Tools](../tools/site-wide-analysis-tool.md)
    + [Beobachtung für Adobe Commerce](../tools/observation-tool.md)
