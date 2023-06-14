@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B für Adobe Commerce" type="Positiv"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: a22ab91b9e9c89831855377ef29847a8766fafe9
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,4 @@ Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot aus dem Admin-Bedienfeld 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
 
-## Zusätzliche Ressourcen
-
-- [Anführungszeichen - Überblick](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Anführungszeichen konfigurieren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Angebotsanforderung](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Anführungszeichen verhandeln](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Meine Angebote](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
