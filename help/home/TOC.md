@@ -2,9 +2,9 @@
 user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie mehr über Adobe Commerce und Magento Open Source in Videos und Tutorials.
 breadcrumb-title: Videos und Tutorials
-source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
+source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,6 @@ ht-degree: 0%
       + [4 - Implementierung](../cloud/4-deployment.md)
       + [5 - Entwicklung](../cloud/5-dev-config.md)
       + [6 - Dienste und DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] für Geschäftsbenutzer {#merchants}
-      + [1.1 - [!DNL Admin] Menüs](../site-management/introduction/1-1-menus.md)
-      + [1.2 - Datenraster](../site-management/introduction/1-2-data-grids.md)
-      + [1.3 - Bereiche, Sites und Stores](../site-management/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 - Ansichten und Caches speichern](../site-management/introduction/1-4-store-views-cache.md)
-      + [1.5 - Benutzerkonten und Rollen für Administratoren](../site-management/introduction/1-5-users-roles.md)
-      + [1.6 - Rollenbereiche](../site-management/introduction/1-6-role-scopes.md)
-      + [1.7 - Unternehmenseinstellungen](../site-management/introduction/1-7-business-settings.md)
-      + [2.1 - Kategorien](../site-management/introduction/2-1-categories.md)
-      + [2.2 - Landingpages der Kategorie](../site-management/introduction/2-2-category-landing-page.md)
-      + [3.1 - Produkttypen und -optionen](../site-management/introduction/3-1-product-types-options.md)
-      + [3.2 - Produkteinstellungen](../site-management/introduction/3-2-product-settings.md)
-      + [3.3 - Produktattribute](../site-management/introduction/3-3-product-attributes.md)
-      + [3.4 - Produktattributsätze](../site-management/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - Erstellen eines einfachen Produkts](../site-management/introduction/3-5-create-simple-product.md)
-      + [3.6 - Konfigurierbare Attribute](../site-management/introduction/3-6-configurable-attributes.md)
-      + [3.7 - Import/Export-Produkte](../site-management/introduction/3-7-import-export-products.md)
-      + [3.8 - Gift Cards](../site-management/introduction/3-8-gift-cards.md)
-      + [4.1 - Navigation mit Ebenen](../site-management/introduction/4-1-layered-navigation.md)
-      + [4.2 - Sortieren von Produktkategorien](../site-management/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Storefront-Erlebnis](../site-management/introduction/5-1-storefront-experience.md)
-      + [5.2 - Kundenverwaltung](../site-management/introduction/5-2-customer-management.md)
-      + [5.3 - E-Mail-Kommunikation](../site-management/introduction/5-3-store-communications.md)
-      + [5.4 - Globale Referenzarchitektur](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL und REST {#graphql-rest}
    + [Erste Schritte mit GraphQL](../graphql-rest/getting-started-graphql.md)
    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
