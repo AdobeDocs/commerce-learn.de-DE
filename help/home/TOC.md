@@ -2,9 +2,9 @@
 user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie mehr über Adobe Commerce und Magento Open Source in Videos und Tutorials.
 breadcrumb-title: Videos und Tutorials
-source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -117,31 +117,11 @@ ht-degree: 0%
    + [Quality Patch Tool](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Lokalisieren von böswilligen IPs](../new-relic/malicious-ip.md)
-+ MBI {#mbi}
++ Commerce Intelligence {#mbi}
    + [Filtersätze](../business-intelligence/filter-sets.md)
    + [Report Builder der Kohorte](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
-   + Aufgezeichnete Webinare {#webinars}
-      + [Erste Schritte mit MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-      + [Verwalten von Datensätzen in MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-      + [Optimieren Ihrer MBI-Data Warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-      + [MBI-Dashboards - Tiefgang](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-      + [Urlaubsbereitschaft mit MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-      + [MBI - Experten fragen](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-   + Einführung in die MBI-Videoserie {#introduction}
-      + [Übersicht](../business-intelligence/1-overview.md)
-      + [Data Warehouse](../business-intelligence/2-data-warehousing.md)
-      + [Berichte erstellen](../business-intelligence/3-build-reports.md)
-      + [Metriken](../business-intelligence/4-metrics.md)
-      + [Standardberichte](../business-intelligence/5-standard-reports.md)
-      + [Zusammenfassung](../business-intelligence/6-executive-summary-dashboard.md)
-      + [Dashboard &quot;Bestellungen&quot;](../business-intelligence/7-orders-dashboard.md)
-      + [Kundenorientierte Dashboards](../business-intelligence/8-customer-focused-dashboards.md)
-      + [Kategorieanalyse](../business-intelligence/9-category-analysis.md)
-      + [Kapitalrendite (RoI)](../business-intelligence/10-roi-tracking.md)
-      + [Ergebnisse freigeben und Daten exportieren](../business-intelligence/11-share-results-export-data.md)
-      + [Erfolgsgeschichten von Kunden](../business-intelligence/12-customer-success.md)
 + Commerce-Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade-Workshop](../upgrade/2.4-upgrade-workshop.md)
    + [Überblick über das Upgrade-Kompatibilitätstool](../upgrade/upgrade-compatibility-tool-overview.md)

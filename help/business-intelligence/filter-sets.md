@@ -1,24 +1,24 @@
 ---
-title: MBI - Filtersätze
-description: Erfahren Sie, wie Sie mit der MBI-Filtersatzfunktion die Berichterstellung für Geschäftsdaten für Adobe Commerce und Magento Open Source vereinfachen.
-landing-page-description: In diesem Video erfahren Sie, wie Sie mit der Funktion "MBI-Filtersätze"die Berichterstellung für Geschäftsdaten vereinfachen.
-short-description: In diesem Video erfahren Sie, wie Sie mit der Funktion "MBI-Filtersätze"die Berichterstellung für Geschäftsdaten vereinfachen.
+title: Commerce Intelligence - Filtersätze
+description: Erfahren Sie, wie Sie mit der Funktion Commerce Intelligence-Filtersätze die Berichterstellung für Geschäftsdaten für Adobe Commerce und Magento Open Source vereinfachen.
+landing-page-description: In diesem Video erfahren Sie, wie Sie mit der Funktion Commerce Intelligence-Filtersätze die Berichterstellung für Geschäftsdaten vereinfachen.
+short-description: In diesem Video erfahren Sie, wie Sie mit der Funktion MBComerce IntelligenceI-Filtersätze die Berichterstellung für Geschäftsdaten vereinfachen.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# MBI - Filtersätze
+# Commerce Intelligence - Filtersätze
 
-Möchten Sie nur bestimmte Teile Ihrer Geschäftsdaten analysieren? Müde von manuellen Bereinigungen? In MBI können Sie die Filtersatzfunktion verwenden, um diesen Prozess zu vereinfachen.
+Möchten Sie nur bestimmte Teile Ihrer Geschäftsdaten analysieren? Müde von manuellen Bereinigungen? In Commerce Intelligence können Sie die Filtersatzfunktion verwenden, um diesen Prozess zu vereinfachen.
 
 In diesem Video:
 
@@ -29,7 +29,7 @@ In diesem Video:
 
 >[!TIP]
 >
->Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird die [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 
@@ -42,6 +42,6 @@ In diesem Video:
 
 ## Nützliche Ressourcen
 
-[Erstellen von Filtersätzen - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Erstellen von Filtersätzen - Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Empfohlene Dimensionen für die Segmentierung und Filterung - MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Empfohlene Daten-Dimensionen für Segmentierung und Filterung - Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

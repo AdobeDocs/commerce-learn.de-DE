@@ -1,5 +1,5 @@
 ---
-title: MBI - Vorbereitung auf die Zukunft
+title: Commerce Intelligence - Vorbereitung für die Zukunft
 description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
 landing-page-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
 short-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
@@ -9,24 +9,24 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# MBI - Vorbereitung auf die Zukunft
+# Commerce Intelligence - Vorbereitung für die Zukunft
 
 Während Covid-19 die Welt umgibt, verlassen sich Millionen auf den digitalen Handel, um ihre wichtigsten Bedürfnisse zu erfüllen. Da Unternehmen Überstunden leisten, um der historischen Verbrauchernachfrage Rechnung zu tragen, war es nie wichtiger, die Zukunft in den Mittelpunkt zu stellen.
 
-In dieser dreiteiligen Videoserie hebt das MBI-Analyseteam grundlegende, datengesteuerte eCommerce-Verfahren hervor, die Ihrem Unternehmen helfen, in diesen schwierigen Zeiten erfolgreich zu sein. Unterstützt wird dies durch aggregierte Statistiken, die sich auf mehrere kommerzielle Branchen erstrecken.
+In dieser dreiteiligen Videoreihe hebt das Analyseteam von Commerce Intelligence grundlegende datengesteuerte eCommerce-Verfahren hervor, die Ihrem Unternehmen helfen, in diesen schwierigen Zeiten erfolgreich zu sein. Unterstützt wird dies durch aggregierte Statistiken, die sich auf mehrere kommerzielle Branchen erstrecken.
 
 Sehen Sie sich diese Videoreihe an, um Ihr Verständnis für die beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen - und wie Sie sich auf die künftigen Entwicklungen vorbereiten können.
 
 >[!TIP]
 >
->Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](1-overview.md) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird die [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 
