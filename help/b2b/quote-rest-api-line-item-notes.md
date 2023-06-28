@@ -3,11 +3,15 @@ title: Verwenden der Adobe Commerce REST API für Zeileneinträge
 description: Informationen zu Zeileneinträgen in einem B2B-Angebot in Adobe Commerce mithilfe der REST-API
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B für Adobe Commerce" type="Positiv"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
+source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
