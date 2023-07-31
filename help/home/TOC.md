@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie mehr über Adobe Commerce und Magento Open Source in Videos und Tutorials.
 breadcrumb-title: Videos und Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
       + [.env-Datei generieren und konfigurieren](../app-builder/first-app/env-file.md)
       + [Beschreibung und Verwendung der Datei &quot;app.config.yaml&quot;](../app-builder/first-app/app-config-yaml-file.md)
       + [Erfahren Sie mehr über den Ordner &quot;actions&quot;](../app-builder/first-app/actions-folder.md)
-      + [Erfahren Sie mehr über den Ordner &quot;test&quot;.](../app-builder/first-app/test-folder.md)
+      + [Erfahren Sie mehr über den Testordner](../app-builder/first-app/test-folder.md)
       + [Den Zweck des Ordners web-src ermitteln](../app-builder/first-app/web-src-folder.md)
       + [Lokales Testen](../app-builder/first-app/testing-locally.md)
       + [Testen mit der App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
@@ -56,10 +56,10 @@ ht-degree: 0%
       + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
       + [Installieren von Adobe IO- und Mesh-Plug-in](../api-mesh/installing-aio-mesh-plugin.md)
       + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
-      + [GraphQL API-Gitter für eine Quelle erstellen](../api-mesh/graphql-single-source.md)
+      + [GraphQL-API-Gitter für eine Quelle erstellen](../api-mesh/graphql-single-source.md)
       + [Mehrere Quell-GraphQL-API-Maschen erstellen](../api-mesh/graphql-multiple-source.md)
 + Store Administration {#admin}
-   + [Benutzerrollen und Berechtigungen verwalten](../site-management/users-roles-permissions.md)
+   + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
    + [Zweifaktorauthentifizierung](../site-management/two-factor-authentication.md)
    + [Währungs- und Steuerregeln verwalten](../site-management/currency-tax-rules.md)
    + [Hinzufügen von Websites, Stores und Store-Ansichten](../site-management/add-websites-stores-views.md)
@@ -76,7 +76,7 @@ ht-degree: 0%
    + [Erstellen einer Kategorie](../site-management/category-create.md)
    + [Verwalten von Produkten in einer Kategorie](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
-   + [Erstellen von Produktattributen](../site-management/product-attributes-create.md)
+   + [Produktattribute erstellen](../site-management/product-attributes-create.md)
    + [Verwenden von Produktattributen mit PWA Studio](../site-management/product-attributes-pwa.md)
    + [Verwalten von SEO-Metadaten](../site-management/seo-metadata.md)
    + [Verwalten von URL-Neuschreibungen für SEO](../site-management/seo-url-rewrites.md)
@@ -107,10 +107,10 @@ ht-degree: 0%
       + [Vertriebsmitarbeiter initiiert Zitat](../b2b/sales-rep-initiates-quote.md)
       + [Anführungszeichenvalidierung durch den Administrator](../b2b/quote-validation-admin-panel.md)
       + [Vertriebsmitarbeiter initiiert eine zitierte REST-API](../b2b/sales-rep-initiates-quote-api.md)
-      + [Rabatte für Zeileneinträge](../b2b/quote-line-item-discount.md)
+      + [Rabatte für Zeileneinträge in Anführungszeichen](../b2b/quote-line-item-discount.md)
       + [Anführungszeichen für Zeileneinträge](../b2b/quote-line-item-notes.md)
       + [Rabatt auf Zeileneinträge in GraphQL](../b2b/quote-graphql-line-item-discount.md)
-      + [Rabatt auf Zeileneinträge REST API zitieren](../b2b/quote-rest-api-line-item-notes.md)
+      + [Rabatt auf Zeileneinträge - REST-API anführen](../b2b/quote-rest-api-line-item-notes.md)
 + Tools und externe Dienste {#tools}
    + [Dashboard des Site-weiten Analyse-Tools](../tools/site-wide-analysis-tool.md)
    + [Beobachtung für Adobe Commerce](../tools/observation-tool.md)
@@ -133,6 +133,7 @@ ht-degree: 0%
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
    + [Langsame Replikation des Galera-Clusters](../backend-development/galera-db-slow-replication.md)
+   + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
 + Native Frontend-Luma-Entwicklung {#frontend-development}
    + Seitenaufbau für Entwickler {#page-builder}
       + [1 - Einleitung](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -143,7 +144,6 @@ ht-degree: 0%
       + [6 - Benutzerdefinierte Content-Typen](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
    + [Erstellen einer Seite](../frontend-development/create-page.md)
-
 + Headless-Architektur {#headless-architecture}
    + Einführung in Headless {#introduction-to-headless}
       + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
