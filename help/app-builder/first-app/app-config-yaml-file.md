@@ -2,7 +2,7 @@
 title: Die Datei "app.config.yaml"
 description: Erfahren Sie mehr über die Dateitypen in der Datei "app.config.yaml"für diese Beispielanwendung.
 landing-page-description: Erfahren Sie mehr über den mit Adobe Commerce verwendeten Adobe Developer App Builder und welche Dateitypen in der Datei app.config.yaml verwendet werden.
-kt: 12429
+kt: 12929
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
+source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
