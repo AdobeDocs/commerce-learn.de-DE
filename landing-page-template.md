@@ -13,24 +13,21 @@ ht-degree: 0%
 
 # Übersicht {#overview}
 
-Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den vielen Funktionen und Leistungsmerkmalen von *xyz*.
+Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von *xyz*.
 
 ## Neue Funktionen
 
 * **[Video einer neuen Funktion (Video)](README.md)**
-
-   <br>
-   *Erfahren Sie mehr über diese coolen neuen Funktionen.*
+  <br>
+  *Erfahren Sie mehr über diese coolen neuen Funktionen.*
 
 * **[Video einer neuen Funktion (Video)](README.md)**
-
-   <br>
-   *Erfahren Sie mehr über diese coolen neuen Funktionen.*
+  <br>
+  *Erfahren Sie mehr über diese coolen neuen Funktionen.*
 
 * **[Ein neuer Artikel (Artikel)](README.md)**
-
-   <br>
-   *Klicken Sie hier um mehr über die Funktion xyz zu erfahren.*
+  <br>
+  *Klicken Sie hier , um mehr über die Funktion xyz zu erfahren.*
 
 ## Mitarbeiterauswahl
 

@@ -23,11 +23,11 @@ Endlich, lebte in der Kostüm des Alters, die Realität betrat den Raum in der F
 
 &quot;Für dich würde ich jeden überwerfen, Duchess&quot;, sagte Lord Henry mit einem Bogen.
 
-&quot;Ah! das ist sehr nett und sehr falsch von dir&quot;, weinte sie; &quot;Bitte kommen Sie&quot;; und sie fegte aus dem Zimmer, gefolgt von Lady Agatha und den anderen Damen.
+&quot;Ah! das ist sehr nett und sehr falsch von dir&quot;, rief sie; &quot;so macht es euch so, dass ihr kommt&quot;; und sie fegte aus dem Raum, gefolgt von Lady Agatha und den anderen Damen.
 
 Als sich Lord Henry wieder gesetzt hatte, bewegte sich Herr Erskine umher und nahm einen Stuhl in seiner Nähe, legte seine Hand auf seinen Arm.
 
-&quot;Du redest Bücher weg&quot;, sagte er. &quot;Warum schreibst du keinen?&quot;
+&quot;Du redest Bücher weg&quot;, sagte er, &quot;warum schreibst du keine?&quot;
 
 ## Integrationsoptionen
 

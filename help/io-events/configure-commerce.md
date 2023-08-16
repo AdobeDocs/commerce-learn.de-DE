@@ -29,10 +29,10 @@ Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass die Ereignisse verfÃ
 
 ## Videoinhalt {#video-content}
 
-* Konfiguration der Adobe I/O-Ereignisse in der Commerce-Admin-Instanz
+* Konfiguration der Adobe I/O-Ereignisse im Commerce-Admin
 * Speichern eines privaten SchlÃ¼ssels in der Commerce-Administration
 * Speichern der eindeutigen Kennung im Commerce-Administrator
-* Erstellen eines Ereignisanbieters
+* Ereignisanbieter erstellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 

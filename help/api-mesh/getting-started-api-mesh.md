@@ -1,8 +1,8 @@
 ---
 title: Erste Schritte mit API-Mesh
-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie mehr über die Installation von Adobe App Builder, die Arbeit mit Projekten, die Erstellung eines grafischen Reverse-Proxy und vieles mehr.
-landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines grafischen Reverse-Proxy und vieles mehr.
-short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines grafischen Reverse-Proxy und vieles mehr.
+description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe App Builder, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -31,7 +31,7 @@ API-Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, d
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu im API-Mesh sind oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+* Entwickler, die neu bei API Measurement oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
 
 ## Videoinhalt
 

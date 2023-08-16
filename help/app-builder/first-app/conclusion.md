@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Schlussfolgerung {#conclusion}
 
-Nachdem Sie Ihre erste Adobe Developer App Builder-App erstellt haben, erfahren Sie mehr über andere Ressourcen, die die Adobe bereitstellt.
+Nachdem Sie Ihre erste Adobe Developer App Builder-App erstellt haben, erfahren Sie mehr über andere Ressourcen, die Adobe bereitstellt.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce noch nicht so vertraut sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die ihre erste Adobe Developer App Builder-App abgeschlossen haben und bereit sind, mehr zu erfahren.
+* Entwickler, die mit Adobe Commerce neu sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die ihre erste Adobe Developer App Builder-App abgeschlossen haben und bereit sind, mehr zu erfahren.
 
 ## Videoinhalt
 

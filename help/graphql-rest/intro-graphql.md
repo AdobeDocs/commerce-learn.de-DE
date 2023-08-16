@@ -29,7 +29,7 @@ Wenn Sie mit GraphQL noch nicht vertraut sind, werden Sie in diesem Abschnitt au
 
 GraphQL ist eine Spezifikation für eine eindeutige API-Abfragesprache und die Laufzeitumgebung, die Daten als Reaktion auf diese Abfragesprache bereitstellt.
 
-Herkömmliche Web-APIs wie REST haben bei unterschiedlichen Systemen, die Daten hin und her weiterleiten, zwar gute Dienste geleistet, aber für moderne App-Link-Erlebnisse wie Progressive Web Application weniger als Spitzenleistungen erbracht. In solchen Anwendungen sind die Front-End- und Back-End-Ebenen der _same_ Anwendungs-Kommunikation über Web-API. Der reglementierte Ansatz von Systemen wie REST bietet in diesem Zusammenhang, wo viele Arten von Daten schnell abgerufen werden müssen, oft nicht die passende Flexibilität.
+Herkömmliche Web-APIs wie REST haben bei unterschiedlichen Systemen, die Daten hin und her weiterleiten, zwar gute Dienste geleistet, aber für moderne App-Link-Erlebnisse wie Progressive Webs Application weniger als Spitzenleistungen erbracht. In solchen Anwendungen sind die Front-End- und Back-End-Ebenen der _same_ Anwendungs-Kommunikation über Web-API. Der reglementierte Ansatz von Schemas wie REST bietet in diesem Zusammenhang, wo viele Arten von Daten schnell abgerufen werden müssen, oft nicht die passende Flexibilität.
 
 GraphQL ermöglicht es einem Client, _just_ die benötigten Daten. Anstatt mehrere Netzwerkanforderungen zum Abrufen mehrerer Datentypen zu erfordern, kann eine einzelne Anfrage für viele Typen abgefragt werden. Außerdem werden Antworten schlank gehalten, indem nur die Typen und Felder aufgenommen werden, die angefordert werden (in einem Format, das die Abfrage intuitiv spiegelt).
 
@@ -42,7 +42,7 @@ Die Laufzeitumgebung, die die GraphQL-Spezifikation implementiert, kann in jeder
 
 Sie benötigen einen GUI GraphQL-Client, um Codebeispiele und -Tutorials zu testen. Es gibt mehrere Optionen:
 
-* [Altair](https://altairgraphql.dev/){target="_blank"} ist ein hervorragender Client mit vollem Funktionsumfang, der speziell für GraphQL entwickelt wurde. Adobe verwendet Altair in Videos.
+* [Altair](https://altairgraphql.dev/){target="_blank"} ist ein hervorragender Client mit vollem Funktionsumfang, der speziell für GraphQL entwickelt wurde. Adobe verwendet Altair in Video-Clips.
 * Wenn Sie das Desktop-Programm nicht installieren möchten, gibt es auch Altair-Erweiterungen, die direkt in Ihrer
   [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} Browser.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} ist eine Implementierung der GraphQL IDE von der GraphQL Foundation. Dies ist kein installierbares Tool, sondern ein Paket, mit dem Sie die Oberfläche selbst erstellen können.

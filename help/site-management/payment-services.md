@@ -23,7 +23,7 @@ Bei kleinen Unternehmen, mittelständischen Wettbewerbern oder großen Unternehm
 
 - Einfache Einrichtung und Wartung
 - Entwickelt, um Ihren Gewinn zu maximieren
-- Sicher und sicher
+- Sicher
 - Für alle Ihre Zahlungsbedürfnisse konzipiert
 - Innerhalb des Administrators eigenständig
 

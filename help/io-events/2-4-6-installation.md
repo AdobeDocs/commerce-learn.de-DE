@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Installation von Adobe Commerce 2.4.6
 
-Erfahren Sie, wie Sie mehrere neue Module in Adobe Commerce mithilfe von Composer für Version 2.4.6 installieren. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie mit Composer für Version 2.4.6 mehrere neue Module in Adobe Commerce installieren. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Für wen ist dieses Video?
 
@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie mehrere neue Module in Adobe Commerce mithilfe von Compose
 ## Videoinhalt {#video-content}
 
 * Befehle für On-Premise-Hosting
-* Für Adobe Commerce Cloud auszuführende Befehle
+* Befehle für Adobe Commerce Cloud
 * Adobe Commerce Cloud-YAML-Bearbeitung erforderlich
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)

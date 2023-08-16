@@ -2,7 +2,7 @@
 title: Verwenden des Upgrade-Kompatibilitätstools für PHP Storm
 description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Upgrade-Kompatibilitätstool mit dem PHP Storm-Plug-in verwenden.
 landing-page-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitätstools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
-short-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitätstools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
+short-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitäts-Tools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
 kt: 9651
 doc-type: technical video
 audience: all
@@ -16,7 +16,7 @@ exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
@@ -27,7 +27,7 @@ Das Upgrade Compatibility Tool (UCT) ist ein kostenloses Tool, das die Inkompati
 In diesem Video:
 
 - Was ist das Upgrade-Kompatibilitätstool?
-- Verwendung mit dem Magento PHP Storm Plugin
+- Verwendung mit dem Magento PHP Storm-Plugin
 - Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
 
 ## Für wen ist dieses Video?

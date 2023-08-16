@@ -26,7 +26,7 @@ Installationsanweisungen und -voraussetzungen finden Sie im API-Handbuch [Erste 
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu im API-Mesh sind oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+* Entwickler, die neu bei API Measurement oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
 
 ## Videoinhalt
 

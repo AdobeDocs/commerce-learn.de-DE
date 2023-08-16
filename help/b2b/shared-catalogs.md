@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie mit freigegebenen B2B-Katalogen geordnete Kat
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B für Adobe Commerce" type="Positiv"
+badge: label="B2B für Adobe Commerce" type="Positive"
 last-substantial-update: 2023-5-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,4 @@ Wenn die Funktion &quot;Freigegebener Katalog&quot;in der Konfiguration aktivier
 ## Zusätzliche Ressourcen
 
 - [Arbeiten mit freigegebenen Katalogen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Freigegebenen Katalog erstellen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [Erstellen eines freigegebenen Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}

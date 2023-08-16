@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] für Geschäftsbenutzer - Produktarten"
-description: Erfahren Sie mehr über die [!DNL Commerce] Produkttypen und die Optionen für die einzelnen Produkte.
+description: Informationen zum [!DNL Commerce] Produkttypen und die Optionen für die einzelnen Produkte.
 kt: 5767
 doc-type: video
 activity: use

@@ -1,7 +1,7 @@
 ---
 title: App an Adobe Commerce Marketplace übermitteln
-description: Erfahren Sie mehr über den Prozess zum Senden einer Anwendung an das Commerce Marketplace.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder und wie Sie eine App an das Commerce Marketplace senden.
+description: Erfahren Sie mehr über den Prozess zum Senden einer Anwendung an die Commerce Marketplace.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder und wie Sie eine App an die Commerce Marketplace senden.
 kt: 13436
 doc-type: tutorial
 audience: all
@@ -28,8 +28,8 @@ Der Adobe Commerce Marketplace akzeptiert jetzt Übermittlungen für die Auflist
 
 ## Videoinhalt
 
-* Einführung in die App-Übermittlung an das Commerce Marketplace
-* Der Zyklus der App-Übermittlung
+* Einführung in die App-Übermittlung an die Commerce Marketplace
+* Der Übermittlungszyklus der App
 * Technische und Marketing-Abschnitte der App-Übermittlung
 * Beispiel-E-Mail, die Sie erhalten, nachdem die App die Überprüfung bestanden hat.
 

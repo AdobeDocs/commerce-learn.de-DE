@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie direkt vom Administrator eine große Auswahl 
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Nur in Adobe Commerce" type="Positiv"
+badge: label="Nur in Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Staging
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

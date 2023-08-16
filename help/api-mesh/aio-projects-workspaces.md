@@ -40,12 +40,12 @@ In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs m
 
 ## Informationen zur Adobe Developer Console
 
-In der Adobe Developer-Konsole stellt die folgende Hierarchie dar, wie Ihre APIs in Ihre Organisation passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zu Adobe App Builder, zum Anmelden bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In der Adobe Developer-Konsole stellt die folgende Hierarchie dar, wie Ihre APIs in Ihre Organisation passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zum Adobe App Builder, zum Anmelden bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Einführung in Projekte in der Adobe Developer-Konsole
 
 Die gesamte Entwicklungsarbeit in der Adobe Developer Console erfolgt im Rahmen eines Projekts. Ein Projekt kann ein oder mehrere Produkte sowie eine Kombination aus APIs, Ereignissen, Laufzeiten und Plug-ins enthalten. Weitere Informationen zu Projekten in der Adobe Developer Console finden Sie unter [Projekte](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Weitere Informationen zur Verwendung von Projekten und Arbeitsbereichen im Kontext von API-Mesh finden Sie unter [Projekte und Arbeitsbereiche ändern](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
+Weitere Informationen zur Verwendung von Projekten und Arbeitsbereichen im Kontext von API-Mesh finden Sie unter [Ändern von Projekten und Arbeitsbereichen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

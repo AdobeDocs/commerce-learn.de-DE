@@ -22,7 +22,7 @@ ht-degree: 0%
 In diesem Video:
 
 - [!DNL Admin] Benutzerkonten
-- Benutzerrollen und -berechtigungen
+- Benutzerrollen und Berechtigungen
 
 ## Für wen ist dieses Video?
 

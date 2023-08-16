@@ -1,8 +1,8 @@
 ---
 title: Erste Schritte mit GraphQL
-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce verwenden und [!DNL Magento Open Source]. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemas.
-landing-page-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce verwenden und [!DNL Magento Open Source]. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemas.
-short-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce verwenden und [!DNL Magento Open Source]. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemas.
+description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento Open Source] verwenden können. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemata.
+landing-page-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento Open Source] verwenden können. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemata.
+short-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento Open Source] verwenden können. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemata.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 
@@ -32,7 +32,7 @@ Wenn Sie neu bei GraphQL sind, empfiehlt Adobe, mit diesem Einführungsvideo zu 
 * Einführung in GraphQL
 * Verwenden des Altair-Plug-ins
 * GraphQL-Abfragen
-* GraphQL Mutationen
+* GraphQL-Mutationen
 * GraphQL-Schema
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302?quality=12&learn=on)

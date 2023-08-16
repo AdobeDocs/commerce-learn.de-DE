@@ -1,5 +1,5 @@
 ---
-title: Neue Seite erstellen
+title: Erstellen einer neuen Seite
 description: Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
 kt: 5602
 doc-type: video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Neue Seite erstellen
+# Erstellen einer neuen Seite
 
 Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
 

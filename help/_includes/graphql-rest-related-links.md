@@ -3,7 +3,7 @@ title: GraphQL- und REST-bezogene Seiten
 description: Links zu verwandten Seiten im GraphQL REST-Abschnitt
 source-git-commit: 52bd3fff8ad3aa09a9aaa09aa458c8cbb54be06e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---

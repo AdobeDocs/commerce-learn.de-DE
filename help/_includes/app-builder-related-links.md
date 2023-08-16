@@ -1,5 +1,5 @@
 ---
-title: API-messebezogene Seiten
+title: API-Mesh-bezogene Seiten
 description: Links zu verwandten Seiten in App Builder
 source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
 workflow-type: tm+mt

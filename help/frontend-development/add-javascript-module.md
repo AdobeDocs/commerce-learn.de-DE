@@ -30,7 +30,7 @@ Dieses Video bietet eine schrittweise Anleitung zur Entwicklung eines einfachen 
 - Erstellen Sie eine `requirejs-config.js` und einer JavaScript-Moduldatei
 - Erstellen Sie ein Layout-Update zum Hinzufügen einer Vorlage, die das JS-Modul aktiviert
 - Vorlagendatei erstellen
-- Fügen Sie das Modul hinzu und testen Sie es.
+- Fügen Sie das Modul hinzu und testen Sie es
 
 ## Videoinhalt
 

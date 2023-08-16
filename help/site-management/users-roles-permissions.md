@@ -1,5 +1,5 @@
 ---
-title: Benutzerrollen und Berechtigungen verwalten
+title: Verwalten von Benutzerrollen und Berechtigungen
 description: Erfahren Sie mehr über Benutzerkonten und Berechtigungen, mit denen der Zugriff auf [!DNL Commerce] Website erstellen und Daten in der Admin-Konsole speichern.
 kt: 5610
 doc-type: feature video

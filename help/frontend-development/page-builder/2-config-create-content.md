@@ -20,7 +20,7 @@ ht-degree: 0%
 
 In diesem Video:
 
-- Konfigurieren und Einrichten von Page Builder-&#x200B;
+- Seitenaufbau konfigurieren und einrichten &#x200B;
 - Grundlegendes zum Seitenaufbau-Arbeitsbereich &#x200B;
 - Typen von Inhalten - Layout, Elemente, Medien und andere &#x200B;
 - Hinzufügen von Kataloginhalten mit Page Builder
@@ -28,14 +28,14 @@ In diesem Video:
 
 ## Für wen ist dieses Video?
 
-- Ersteller von Inhalten
+- Inhaltsersteller
 - Frontend-Entwickler
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in der [Versionshinweise zu Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise zu Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
 

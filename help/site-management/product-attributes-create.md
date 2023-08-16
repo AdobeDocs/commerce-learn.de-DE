@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Produktattributen
+title: Produktattribute erstellen
 description: Erfahren Sie, wie Sie die Produktattribute erstellen, die verwendet werden, um die Informationen zu Produkten, Kunden und Produktbewertungen zu verwalten.
 kt: 10552
 doc-type: feature video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Produktattributen
+# Produktattribute erstellen
 
 Adobe Commerce verwendet Attribute, um die Informationen zu Produkten, Kunden und Produktbewertungen zu verwalten. Attribute sind Informationen, die als Felder in Formularen, Berichten, Produktüberprüfungen, mehrschichtiger Navigation und E-Mail-Nachrichten angezeigt werden können. Sie sind die Bausteine Ihres Produktkatalogs und beschreiben spezifische Eigenschaften eines Produkts.
 

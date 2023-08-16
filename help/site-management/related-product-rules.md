@@ -1,6 +1,6 @@
 ---
 title: Verwalten verwandter Produktregeln
-description: Erfahren Sie, wie Sie eine zielgerichtete Auswahl an Produkten präsentieren können, um Kunden als verwandte Produkte, Upsells und Querverkäufe zu speichern.
+description: Erfahren Sie, wie Sie eine zielgerichtete Auswahl an Produkten präsentieren können, um Kunden als verwandte Produkte, Upsells und Cross-Sells zu speichern.
 doc-type: feature video
 audience: all
 activity: use

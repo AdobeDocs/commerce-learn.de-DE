@@ -36,7 +36,7 @@ Es gibt einige einzigartige Szenarien, in denen jedes Zeilenelement seinen Rabat
 
 >[!BEGINSHADEBOX]
 
-Warenkorbpreisregel = 10 % Rabatt, der auf 2 Produkte in der Warenkorbbedingung angewendet wird, damit die Preisregel wirksam wird: Gesamteinträge im Warenkorb sind 2 Aktionen, die den prozentualen Rabatt auf den Produktpreis anwenden und diesen Rabatt auf 10 anwenden
+Warenkorbpreisregel = 10 % Rabatt, der auf 2 Produkte in der Warenkorbbedingung angewendet wird, damit die Preisregel wirksam wird: Die Gesamteinträge im Warenkorb liegen bei 2 Aktionen, die den Prozentsatz des Produktpreisrabatts anwenden, und der Rabattbetrag beträgt 10
 
 2 Artikel werden dem Warenkorb hinzugefügt, jeder Artikel kostet $19,95
 
@@ -60,7 +60,7 @@ Jedes Produkt sollte 1,995 USD in Rabatten erhalten Produkt 1 - 19,95 x 0,1 = 1,
 
 Als Rabatt wird dem Kunden eine Gesamtsumme von 3,99 gewährt
 
-Beim Anzeigen der Zeileneinträge für den Store-Eigentümer im Admin müssen wir das erste Element anpassen und bis zu 2.000 aufrunden. Das zweite Element, das wir die dritte Dezimalzahl Produkt 1 = 2.00 Produkt 2 = 1.99 ablegen
+Beim Anzeigen der Zeileneinträge für den Store-Eigentümer in der Admin-Konsole müssen wir das erste Element anpassen und bis zu 2.000 runden. Die zweiten Elemente legen wir die dritte Dezimalzahl Produkt 1 = 2,00 Produkt 2 = 1,99
 
 Der Gesamtrabatt der beiden Produkte entspricht nun, wenn sie zusammengerechnet werden, dem tatsächlichen Rabatt, der einem Kunden gewährt wird.
 >[!ENDSHADEBOX]

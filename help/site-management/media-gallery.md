@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Verwalten der Media Gallery
 
-Mit Adobe Commerce oder Magento Open Source 2.4 können Händler die neue erweiterte Media Gallery verwenden, um ihre Mediendateien auf dem Server zu organisieren und zu verwalten.
+Mit Adobe Commerce oder Magento Open Source 2.4 können Händler ihre Mediendateien auf dem Server mithilfe der neuen erweiterten Media Gallery organisieren und verwalten.
 
 ## Für wen ist dieses Video?
 

@@ -33,5 +33,5 @@ Händler mit einem einzigen Geschäft zu mehreren Lagern, Geschäften, Abholstan
 
 ## Zusätzliche Ressourcen
 
-- [Inventory management-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
 - [Inventory management - REST-Dokumentation für Entwickler](https://developer.adobe.com/commerce/webapi/rest/inventory/)

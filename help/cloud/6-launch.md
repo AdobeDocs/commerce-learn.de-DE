@@ -28,4 +28,4 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Site-Start - [!DNL Commerce] zu Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[Site-Launch - [!DNL Commerce] zu Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

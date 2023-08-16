@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über den Ordner &quot;test&quot;. {#test-folder}
+# Erfahren Sie mehr über den Testordner {#test-folder}
 
 Die `test` -Ordner für diese Beispielanwendung enthält eine einzelne JavaScript-Datei, die beim Ausführen von Komponententests für die Anwendung verwendet wird.
 
@@ -26,7 +26,7 @@ Dies ist ein einfaches Beispiel und kann erweitert werden, um umfassende Tests f
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über die `test` Ordner.
+* Entwickler, die mit Adobe Commerce neu sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über die `test` Ordner.
 
 ## Videoinhalt
 

@@ -1,6 +1,6 @@
 ---
 title: Die .env-Datei
-description: Erfahren Sie mehr über die Dateitypen in der .env-Datei für diese Beispielanwendung.
+description: Erfahren Sie mehr über die Dateitypen in der .env-Datei für diese Beispielanwendung
 landing-page-description: Erfahren Sie mehr über den mit Adobe Commerce verwendeten Adobe Developer App Builder und darüber, welche Inhaltstypen in der .env-Datei verwendet werden
 kt: 12423
 doc-type: tutorial
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # .env-Datei generieren und konfigurieren {#env-file}
 
-Die `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie es, diese Datei an ein Code-Repository zu übergeben.
+Die `.env` ist eine spezielle Datei, die nicht zum Beispielmodul gehört, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie die Zuweisung dieser Datei zu einem Code-Repository.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über die `.env` -Datei.
+* Entwickler, die mit Adobe Commerce neu sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über die `.env` -Datei.
 
 ## Videoinhalt
 

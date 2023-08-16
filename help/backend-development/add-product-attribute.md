@@ -23,7 +23,7 @@ Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [
 
 In diesem Video:
 
-- Fügen Sie das Attribut clothing_material mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fur und Wolle
+- Fügen Sie das Attribut Bekleidung_Material mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fur und Wolle
 - Dieses Attribut auf der Produktansichtsseite in Fettdruck anzeigen
 - Weisen Sie ihn dem standardmäßigen Attributsatz zu und fügen Sie eine Einschränkung hinzu
 - Neues Attribut hinzufügen

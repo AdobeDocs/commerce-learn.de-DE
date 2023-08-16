@@ -27,7 +27,7 @@ Das Modul ist ein strukturelles Element von [!DNL Commerce] - das ganze System b
 
 ## Schritte zum Hinzufügen eines Moduls
 
-- Erstellen Sie den Modulordner.
+- Erstellen Sie den Ordner &quot;module&quot;.
 - Erstellen Sie die Datei etc/module.xml .
 - Erstellen Sie die Datei registration.php .
 - Führen Sie das Setup von bin/magento aus.
@@ -76,7 +76,7 @@ Der nächste Schritt besteht darin, unserem grundlegenden Modul einige Funktione
 - disabled und sortOrder sind optional
 - Der Umfang des Plug-ins wird durch den Ordner festgelegt, in dem es sich befindet
 - Plug-ins können vor, nach oder beide (um) ausgeführt werden, wobei die Methode aufgerufen wird
-- Vermeiden Sie die Verwendung von `around` Plug-ins. Sie sind versucht zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
+- Vermeiden von `around` Plug-ins. Sie sind versucht zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
 
 ### Beispiele für Plug-in-Code
 

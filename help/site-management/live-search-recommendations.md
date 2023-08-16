@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Für wen ist dieses Video?
 
 - Website-Manager
-- Web-Merchandiser
+- Web-Händler
 
 ## Videoinhalt
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 - [Einführung in [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
 - [[!DNL Live Search] Übersicht](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [Einführung in die Produkt-Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [Einführung in Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

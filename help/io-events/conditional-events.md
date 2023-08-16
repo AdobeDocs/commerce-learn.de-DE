@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie, wie Sie bedingte Ereignisse in Adobe Commerce verwenden
+title: Erfahren Sie, wie Sie bedingte Ereignisse in Adobe Commerce verwenden.
 description: Erfahren Sie, wie Sie bedingte Ereignisse zur Verwendung in Adobe Developer App Builder verwenden.
 landing-page-description: Erfahren Sie, wie Sie bedingte Adobe Commerce-Ereignisse verwenden.
 short-description: Erfahren Sie, wie Sie bedingte Adobe Commerce-Ereignisse verwenden.

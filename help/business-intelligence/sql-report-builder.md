@@ -37,7 +37,7 @@ In diesem Video:
 
 >[!TIP]
 >
->Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird die [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird die Variable [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video?
 

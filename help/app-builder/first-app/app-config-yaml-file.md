@@ -24,7 +24,7 @@ Diese Datei bestimmt die Konfiguration für die Anwendung.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und über die `app.config.yaml` in der Probenanwendung.
+* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und über die `app.config.yaml` in der Probenanwendung.
 
 ## Videoinhalt
 

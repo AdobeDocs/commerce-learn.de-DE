@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In diesem Video:
 
-- Ausgelöste Transaktions-E-Mails
+- Ausgelöste Transaktions-E-Mail
 - Transaktions-E-Mail-Vorlagen
 
 ## Für wen ist dieses Video?

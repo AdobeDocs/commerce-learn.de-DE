@@ -1,6 +1,6 @@
 ---
 title: Erfahren Sie, wie Sie langsame Abfragen in mysql-langsamen Abfragelogs finden und warum die Galera DB-Replikationsdesignmethode der Grund sein kann.
-description: Galera DB verfügt über eine Designmethode, die die Replikation von Daten in sekundäre Datenbanken länger dauert als die primäre Datenbank. Erfahren Sie, wie Sie diese Ereignisse im langsamen mysql-Abfrageprotokoll finden, und den Grund, warum Sie Einträge in langsamen Abfragelogs sehen und wie Sie sie in Zukunft vielleicht verhindern können.
+description: Galera DB verfügt über eine Designmethode, die die Replikation von Daten in sekundäre Datenbanken länger dauert als die primäre Datenbank. Erfahren Sie, wie Sie diese Ereignisse im langsamen mysql-Abfrageprotokoll finden, und den Grund, warum Sie Einträge in langsamen Abfragelogs sehen, und wie Sie sie in Zukunft vielleicht verhindern können.
 kt: 13635
 doc-type: video
 activity: use

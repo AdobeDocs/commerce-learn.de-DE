@@ -22,7 +22,7 @@ ht-degree: 0%
 In diesem Video:
 
 - Einführung in PWA Studio
-- PWA-Tools
+- PWA
 
 ## Für wen ist dieses Video?
 

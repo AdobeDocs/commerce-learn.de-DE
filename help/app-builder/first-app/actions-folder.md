@@ -26,7 +26,7 @@ Die tatsächlichen Namen von Ordnern in diesem Beispiel sind willkürlich, aber 
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und sich mit dem Aktionsordner in der Beispielanwendung vertraut machen.
+* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und die über den Ordner &quot;actions&quot;in der Beispielanwendung verfügen.
 
 ## Videoinhalt
 

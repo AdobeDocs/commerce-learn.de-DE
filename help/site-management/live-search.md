@@ -3,7 +3,7 @@ title: "Einführung in [!DNL Live Search]"
 description: "Erfahren Sie, wie Sie [!DNL Live Search] zu Ihrem Geschäft hinzu und führen zu sehr ansprechenden, relevanten und personalisierten Einkaufserlebnissen."
 doc-type: feature video
 audience: all
-badge: label="Nur in Adobe Commerce" type="Positiv"
+badge: label="Nur in Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Dies ist eine kurze Einführung in [!DNL Live Search] aus Adobe Commerce. [!DNL 
 ## Für wen ist dieses Video?
 
 - Website-Manager
-- Web-Merchandiser
+- Web-Händler
 
 ## Videoinhalt
 

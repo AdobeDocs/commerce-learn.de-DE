@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Verwenden der Beobachtung für Adobe Commerce
 
-In diesem Video erfahren Sie mehr über das Beobachtungstool für Adobe Commerce, das ein New Relic-Nerdlet ist, um den Zustand Ihrer Adobe Commerce-Site sowie aktuelle oder frühere Ansichten anzuzeigen. Ein Nerdlet ist eine benutzerdefinierte Anwendung, die mit New Relic One-Programmierbarkeit entwickelt wurde.
+In diesem Video erfahren Sie mehr über das Beobachtungstool für Adobe Commerce, das ein New Relic-Nerdlet ist, um den Zustand Ihrer Adobe Commerce-Site sowie aktuelle oder vergangene Ansichten anzuzeigen. Ein Nerdlet ist eine benutzerdefinierte Anwendung, die mit New Relic One-Programmierbarkeit entwickelt wurde.
 
 ## Für wen ist dieses Video?
 

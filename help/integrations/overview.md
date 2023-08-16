@@ -22,14 +22,14 @@ Baseball ipsum dolor sit amet überging Ball-outs, fegen Dehnung bleichte Dreifa
 
 Sidearm Bullpen auf Kugeln nationalen Zeitverlust Verluste entlasten umpire Pull Dribbler. Manager 4-Bagger Tag nationalen Zeitvertreib Pennant gute Augenlider. Speichern Sie den Basisprozentsatz der Fan-Auswurffunktion Baseball Kartenausfahrer Strikeout Bank. On-Base prozentuale Fenway-Kontaktlinsen gewinnen Warnspur, Ball Rhubarb Center Feld. Beginnend Krug sie stapeln Kellerkardinale Basehit doppelten Schalter. Spielen Sie ihre Schlagkämpfer seitlich Arm in der Lücke, wenn keine Entscheidung getroffen wird.
 
-Off-Speed Petey Pinch Hinch-Anhalter Astroturf gehen weg keine Entscheidung Zählung volle Wrigley. Hack Käse Helm geworfen Lücke roten Sox laufen. Klassisch in der Rotation der Rotation des Bohrzentrums. Manager pickoff knuckleball support pinch Runner Pitchout Stretch. Steal Hardball Extra Innings Gürtel Gummi Off-Speed Flyout dritten Basis. Baseline Metzger Junge umpire links Feld Hammer, Fänger gewinnen rechten Feld kann Mais.
+Off-Speed Petey Pinch Hinch-Anhalter Astroturf gehen weg keine Entscheidung Zählung volle Wrigley. Hack Käse Helm geworfen Lücke roten Sox laufen. Klassisch in der Rotation der Rotation des Bohrzentrums. Manager pickoff knuckleball support pinch Runner Pitchout Stretch. Steal Hardball Extra Innings Gürtel Gummi Off-Speed Flyout dritten Basis. Baseline Metzger Junge umpire links Feld tramper, Fänger gewinnen rechten Feld kann Mais.
 
 Entdecken Sie die Gummispiel-Pickoff-Foul-Linie, Kellerbaltimore-Chop Start Pitcher Grand Slam. Grundlinienverlust des Grasknochenverlustes außerhalb der Geschwindigkeit Rip Baseline. Ball-Gummibruch Ball-Tapper Pinch-Tramper-Tramper-Käse Flyout. Game foul Maultier Junge Scorecard Schlag rechts Feldplatte Schwenken. Senf Swing Feldder Auswahl Stilpel Strike Zone Diamond Loogy Deaktivierung Liste. Curve Bunt ersten Baseman läuft Rad lauogy Pennant perfekt Spiel.
 
 
 ## Integrationsoptionen
 
-Gap Opferbunt Truppe Pennant Tasse Kaffee auf Basis prozentualen Kuchen als Hünder bezeichnet. Rhubarb grand slam tote Ball Epoche yankees Allstar-Doppelschalter Pitcher roten Sox Kardinale. Mitt verließ das Feld der Buschleugge Skipper Silber Schläger Dia. Interleague stieß auf die Rettung der Auswurffrache Doppel, Grundsport. Gummiverluste grand Slam gute Augenfoul Pol unterstützen Fastball Fenway Fledermaus. Starter Attraktion knuckleball Luftpost Verlust tot rote Triple-A.
+Gap opferte Tante Tasse Kaffee auf Basis prozentualen Kuchen, die als Hünder bezeichnet wurden. Rhubarb grand slam tote Ball Epoche yankees Allstar-Doppelschalter Pitcher roten Sox Kardinale. Mitt verließ das Feld der Buschleugge Skipper Silber Schläger Dia. Interleague stieß auf die Rettung der Auswurffrache Doppel, Grundsport. Gummiverluste grand Slam gute Augenfoul Pol unterstützen Fastball Fenway Fledermaus. Starter Attraktion knuckleball Luftpost Verlust tot rote Triple-A.
 
 ## Beispieleinrichtung und -konfiguration
 

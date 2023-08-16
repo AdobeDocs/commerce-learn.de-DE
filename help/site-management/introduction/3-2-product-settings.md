@@ -23,7 +23,7 @@ In diesem Video:
 
 - Produkte erstellen
 - Vollständige Produkteinstellungen
-- Festlegen von Produktattributen
+- Produktattribute festlegen
 
 ## Für wen ist dieses Video?
 

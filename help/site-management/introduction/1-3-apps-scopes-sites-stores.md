@@ -22,7 +22,7 @@ ht-degree: 0%
 In diesem Video:
 
 - Grundlagen der [!DNL Commerce] Architektur, einschließlich der Unterschiede zwischen Websites, Geschäften und Store-Ansichten
-- Anwendungsgebiete
+- Konzept der Anwendungsbereiche
 - Überblick über die Indizierung und Zwischenspeicherung und wie [!DNL Commerce] Handles
 
 ## Für wen ist dieses Video?

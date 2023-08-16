@@ -24,13 +24,13 @@ Der Ordner web-src für diese Beispielanwendung enthält viele JavaScript-Dateie
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die sich mit der `web-src` Ordner und dessen Inhalt.
+* Entwickler, die mit Adobe Commerce neu sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die sich mit der `web-src` Ordner und dessen Inhalt.
 
 ## Videoinhalt
 
 * Was ist der Hauptzweck für die `web-src` Ordner?
 * In der Regel enthaltene Dateien und Ordner
-* Die `web-src` -Ordner und der darin enthaltene Inhalt werden in der Beispielanwendung verwendet
+* Wie die `web-src` -Ordner und der darin enthaltene Inhalt werden in der Beispielanwendung verwendet
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 

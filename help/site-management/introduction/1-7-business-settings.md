@@ -29,7 +29,7 @@ In diesem Video:
 - E-Mail-Adressen speichern
 - Logos für Rechnungen, Sendungen und Kreditkarten
 - Währungsoptionen
-- Wechselkurse
+- Währungskurse
 
 ## Für wen ist dieses Video?
 

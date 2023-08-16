@@ -117,7 +117,7 @@ Das obige Beispiel beruht auf dem vordefinierten GraphQL-Schema für Adobe Comme
 >GraphQL-Clients verschleiern die Form der eigentlichen HTTP-Anforderung, die gesendet wird. Dies lässt sich jedoch leicht erkennen. Wenn Sie einen Browser-basierten Client verwenden, beachten Sie die [!UICONTROL Network] -Tab, wenn eine Abfrage gesendet wird. Sie sehen, dass die Anfrage einen rohen Hauptteil enthält, der aus &quot;query:&quot;besteht. `{string}`&quot;, wobei `{string}` ist einfach die unformatierte Zeichenfolge Ihrer gesamten Abfrage. Wenn die Anforderung als GET gesendet wird, kann die Abfrage stattdessen im Abfragezeichenfolgenparameter &quot;query&quot;kodiert werden. Im Gegensatz zu REST spielt der HTTP-Anfragetyp keine Rolle, sondern nur der Inhalt der Abfrage.
 
 
-## Abfrage zu dem, was Sie möchten
+## Abfrage nach dem gewünschten
 
 `country` und `categories` im Beispiel stellen zwei verschiedene &quot;Abfragen&quot;für zwei verschiedene Arten von Daten dar. Im Gegensatz zu einem herkömmlichen API-Paradigma wie REST, das separate und explizite Endpunkte für jeden Datentyp definiert. GraphQL bietet Ihnen die Flexibilität, einen einzelnen Endpunkt mit einem Ausdruck abzufragen, der viele Datentypen gleichzeitig abrufen kann.
 
@@ -136,17 +136,17 @@ Sie übergeben eine `id` -Argument `country`, wobei das Land angegeben wird, das
 
 ## Felder ganz nach unten
 
-Während Sie neigen könnten, `country` und `categories` als separate Abfragen oder Entitäten, besteht die gesamte in Ihrer Abfrage ausgedrückte Baumstruktur tatsächlich nur aus Feldern. Der Ausdruck von `products` syntaktisch nicht anders ist als `categories`. Beide sind Felder, und es gibt keinen Unterschied zwischen ihrer Konstruktion.
+Während Sie neigen könnten, `country` und `categories` als separate Abfragen oder Entitäten, besteht die gesamte in Ihrer Abfrage ausgedrückte Baumstruktur tatsächlich nur aus Feldern. Der Ausdruck `products` syntaktisch nicht anders ist als `categories`. Beide sind Felder, und es gibt keinen Unterschied zwischen ihrer Konstruktion.
 
 Jedes GraphQL-Datendiagramm hat einen einzigen &quot;Stammtyp&quot;(typischerweise verwiesen) `Query`), um den Baum zu starten, und die häufig als Entitäten betrachteten Typen werden Feldern auf diesem Stammverzeichnis zugewiesen. Die Beispielabfrage führt tatsächlich eine generische Abfrage für den Stammtyp durch und wählt die Felder aus `country` und `categories`. Anschließend werden Unterfelder dieser Felder ausgewählt usw., möglicherweise mehrere Ebenen tief. Wenn der Rückgabetyp eines Felds ein komplexer Typ ist (z. B. ein Feld mit eigenen Feldern und kein Skalartyp), wählen Sie weiterhin die gewünschten Felder aus.
 
-Aus diesem Konzept verschachtelter Felder können Sie auch Argumente für `products` (`pageSize` und `currentPage`) auf die gleiche Weise wie für die oberste Ebene `categories` -Feld.
+Aus diesem Konzept verschachtelter Felder können Sie auch Argumente für `products` (`pageSize` und `currentPage`) genau so wie für die oberste Ebene `categories` -Feld.
 
 ![GraphQL-Feldstruktur](../assets/graphql-field-tree.png)
 
 ## Variablen
 
-Versuchen wir es mit einer anderen Abfrage:
+Probieren wir eine andere Abfrage aus:
 
 ```graphql
 query getProducts(
@@ -170,11 +170,11 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-Zunächst ist zu beachten, dass das Keyword hinzugefügt wird. `query` vor der öffnenden Klammer der Abfrage, zusammen mit einem Vorgangsnamen (`getProducts`). Dieser Vorgangsname ist willkürlich. Es entspricht nichts im Serverschema. Diese Syntax wurde hinzugefügt, um die Einführung von Variablen zu unterstützen.
+Zunächst ist zu beachten, dass das Keyword hinzugefügt wird. `query` vor der öffnenden Klammer der Abfrage, zusammen mit einem Vorgangsnamen (`getProducts`). Der Name dieses Vorgangs ist willkürlich. Er entspricht keinem der Elemente im Serverschema. Diese Syntax wurde hinzugefügt, um die Einführung von Variablen zu unterstützen.
 
 In der vorherigen Abfrage haben Sie Werte für die Argumente Ihrer Felder direkt als Zeichenfolgen oder Ganzzahlen hartcodiert. Die GraphQL-Spezifikation unterstützt jedoch die Trennung der Benutzereingabe von der Hauptabfrage mithilfe von Variablen.
 
-In der neuen Abfrage verwenden Sie Klammern vor der ersten Klammer der gesamten Abfrage, um eine `$search` (Variablen verwenden immer die Dollarzeichen-Präfixsyntax). Diese Variable wird der Variablen `search` Argument für `products`.
+In der neuen Abfrage verwenden Sie Klammern vor der ersten Klammer der gesamten Abfrage, um eine `$search` (Variablen verwenden immer die Syntax des Dollarzeichen-Präfixes). Diese Variable wird der Variablen `search` Argument für `products`.
 
 Wenn eine Abfrage Variablen enthält, wird erwartet, dass die GraphQL-Anforderung ein separates JSON-kodiertes Wertewörterbuch neben der Abfrage selbst enthält. Für die obige Abfrage können Sie zusätzlich zum Abfragetext die folgende JSON-Datei mit Variablenwerten senden:
 
@@ -190,7 +190,7 @@ Wenn eine Abfrage Variablen enthält, wird erwartet, dass die GraphQL-Anforderun
 
 In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und GraphiQL), unterstützt die Benutzeroberfläche die Eingabe der Variablen JSON separat von der Abfrage.
 
-Genau wie Sie gesehen haben, dass die eigentliche HTTP-Anforderung für eine GraphQL-Abfrage &quot;Abfrage&quot;enthält: `{string}`&quot;, enthält jede Anfrage, die ein Variablenwörterbuch enthält, einfach eine zusätzliche &quot;Variablen: `{json}`&quot;in derselben Stelle, wobei `{json}` ist die JSON-Zeichenfolge mit den Variablenwerten.
+Genau wie Sie gesehen haben, dass die eigentliche HTTP-Anforderung für eine GraphQL-Abfrage &quot;Abfrage&quot;enthält: `{string}`&quot;, enthält jede Anfrage, die ein Variablenwörterbuch enthält, einfach eine zusätzliche &quot;Variablen: `{json}`&quot;in derselben Stelle, in der `{json}` ist die JSON-Zeichenfolge mit den Variablenwerten.
 
 Die neue Abfrage verwendet auch eine _fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen zu Fragmenten](https://graphql.org/learn/queries/#fragments){target="_blank"} in der GraphQL-Dokumentation.
 

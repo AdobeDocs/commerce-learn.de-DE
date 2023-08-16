@@ -1,8 +1,8 @@
 ---
 title: Erstellen einer GraphQL mit mehreren Quellen zur Verwendung im API-Mesh
 description: Erfahren Sie, wie Sie mehrere Quellen für das API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie mehr über einige häufige Fehler und wie Sie diese beheben können.
-landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
-short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce verwenden und [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
+landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
+short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -38,7 +38,7 @@ In diesem Video erfahren Entwickler, wie ein Gitter mit mehreren Quellen im API-
 
 ## JSON-Konfigurationsdatei erstellen
 
-API-Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält eine `sources` -Array, das die Quellen für Ihr Gitter enthält. Im Folgenden finden Sie ein Beispiel für ein Gitter mit mehreren Quellen.
+API-Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält eine `sources` -Array mit den Quellen für Ihr Gitter. Im Folgenden finden Sie ein Beispiel für ein Gitter mit mehreren Quellen.
 
 ```json
 {

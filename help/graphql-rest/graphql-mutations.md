@@ -26,7 +26,7 @@ Jede vollständige API-Spezifikation muss die Möglichkeit bieten, Daten nicht n
 REST unterscheidet zwischen Anforderungen, die Daten ändern, und Anforderungen, die nicht mit dem Anfragetyp oder &quot;Verb&quot;(GET vs. POST oder PUT) übereinstimmen.
 Bei Verwendung von GraphQL werden datenmodifizierte Abfragen durch die `mutation` -Keyword, das einem anderen Stammtyp im Schema entspricht, das auf dem Server definiert ist.
 
-Sehen Sie sich diese Beispiel-Mutation an, um einem Benutzer ein Produkt zum Warenkorb hinzuzufügen. (Hierfür ist eine Warenkorb-ID erforderlich, die für die Sitzung des angemeldeten Kunden oder unter Verwendung der Variablen `createEmptyCart` Mutation.)
+Sehen Sie sich diese Beispiel-Mutation an, um einem Benutzer ein Produkt zum Warenkorb hinzuzufügen. (Dies erfordert eine Warenkorb-ID, die für die Sitzung des angemeldeten Kunden oder unter Verwendung der Variablen `createEmptyCart` Mutation.)
 
 ```graphql
 mutation doAddToCart(
@@ -86,7 +86,7 @@ Beachten Sie vor allem, dass im oben genannten Beispiel neben der Verwendung des
 
 * Ein beliebiger Vorgangsname (`doAddToCart`)
 * Eine Liste von Variablen (z. B. `$cartId`)
-* Ein anfängliches Feld (`addProductsToCart`) mit Argumenten (z. B. `cartId`, auf den Wert von `$cartId`) in Klammern
+* Ein anfängliches Feld (`addProductsToCart`) mit Argumenten (zum Beispiel `cartId`, auf den Wert von `$cartId`) in Klammern
 * Eine Unterauswahl von Feldern in geschweiften Klammern
 
 Die Teilauswahl der Felder ermöglicht es, die Felder, die Sie zurückgeben möchten, flexibel zu definieren (aus dem Typ, der als Rückgabewert von `addProductsToCart` - `AddProductsToCartOutput`), nachdem die Mutation abgeschlossen ist.

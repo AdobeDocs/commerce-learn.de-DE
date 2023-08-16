@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie für Ihre B2B-Unternehmenskonten Bestellauftr
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B für Adobe Commerce" type="Positiv"
+badge: label="B2B für Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,8 +13,8 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmi
 ## Für wen ist dieses Video?
 
 - Unternehmenskontoverwalter
-- Einkaufsmanager
+- Einkaufsleiter/innen
 
 ## Videoinhalt
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Entwicklung von Adobe Commerce-Modulen
 
-Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und wie Sie eine neue XML-Datei verwenden. `io_events.xml` in der Entwicklung benutzerdefinierter Module. Das Video zeigt Entwicklern außerdem, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle möglicherweise bereits definierten Ereignisse abmelden können. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und wie Sie eine neue XML-Datei verwenden `io_events.xml` in der Entwicklung benutzerdefinierter Module. Das Video zeigt Entwicklern außerdem, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle möglicherweise bereits definierten Ereignisse abmelden können. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Für wen ist dieses Video?
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 ## Nur Funktion {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/adobe-logo.svg" width="20" height="20" /> Ausschließliche Funktion nur in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">Weitere Infos</a>)</td></tr>
+<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/adobe-logo.svg" width="20" height="20" /> Nur in Adobe Commerce verfügbare Funktion (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">Weitere Infos</a>)</td></tr>
 </table>
 
 ## Nur B2B-Funktion {#b2b-feature}

@@ -29,7 +29,7 @@ Dieses Tutorial umfasst die folgenden Voraussetzungen:
 * [Die Arbeitsbereiche von Adobe Developer App Builder wurden erstellt - Schritt 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Die AIO-CLI-Befehle zum Initialisieren des Projekts und Ausführen wurden ausgeführt](https://developer.adobe.com/runtime){target="_blank"}
 
-Weitere Informationen zum Erstellen Ihrer ersten App Builder-Anwendung finden Sie in folgendem Blogpost, der Sie bei der Ersteinrichtung und Konfiguration unterstützt [Wie App Builder die geschäftliche Agilität Ihrer Commerce-Plattform fördert](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Weitere Informationen zum Erstellen Ihrer ersten App Builder-Anwendung finden Sie in folgendem Blogpost, der Sie bei der Ersteinrichtung und Konfiguration unterstützt [Wie App Builder die geschäftliche Agilität für Ihre Commerce-Plattform fördert](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 ## Was erwartet Sie mit dem Lesen dieses Tutorials?
 
@@ -37,7 +37,7 @@ Wenn Sie dieses Tutorial abgeschlossen haben, sollten Sie über eine einfache Ei
 
 ## Wie sollte ich diesem Tutorial folgen?
 
-Dieses Tutorial wurde für Sie entwickelt, um die Reihenfolge der Seiten im linken Navigationsbereich zu befolgen. Dies ist jedoch nicht erforderlich. Jede Seite kann einzeln angezeigt werden, da sie das allgemeine Konzept des Aufbaus einer ersten Adobe Developer App Builder-App beschreibt.
+Dieses Tutorial wurde für Sie entwickelt, um die Reihenfolge der Seiten im linken Navigationsbereich zu befolgen. Dies ist jedoch nicht erforderlich. Jede Seite kann einzeln angezeigt werden, da sie das allgemeine Konzept des Erstellens einer ersten Adobe Developer App Builder-App beschreibt.
 
 ## Für wen ist dieses Video?
 

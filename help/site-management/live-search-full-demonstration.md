@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie Adobe Live-Suchkonfigurationen und -einstellungen verwende
 * Was ist eine API
 * Live-Suchberichte
 * Erfahren Sie mehr über die Backoffice-Konfiguration für Facetten und deren Verwendung
-* Erfahren Sie mehr über Synonyme
+* Informationen zu Synonymen
 * Intelligente Merchandising
 * Erläuterung regelbasierter Rangtypen
 * GraphQL API-Einführung

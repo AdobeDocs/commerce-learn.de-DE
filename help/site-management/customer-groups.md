@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Kundengruppen erstellen
 
-Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verbunden ist. Die standardmäßigen Kundengruppen sind _Allgemein_, _Nicht angemeldet_ und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
+Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verbunden ist. Die standardmäßigen Kundengruppen sind _Allgemein_, _Nicht angemeldet_, und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
 
 ## Für wen ist dieses Video?
 
