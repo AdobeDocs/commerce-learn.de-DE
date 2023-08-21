@@ -6,26 +6,22 @@ short-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Ado
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: d777e440ae1f85a8e67fb257680aeeba71626536
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Technische Übersicht für App Builder
 
-Das folgende Video bietet einen technischen Überblick über die Verbindung von Adobe Commerce und Amazon Sales Channel. In diesem Tutorial wird auch untersucht, wie Sie Adobe App Builder für benutzerdefinierte Funktionen und Integrationen verwenden können.
-
->[!IMPORTANT]
->
->Die Amazon-Sales Channel-Erweiterung befindet sich noch in der Entwicklung und wurde nicht offiziell veröffentlicht.  Diese Videos und Tutorials zeigen Ihnen, wie Sie Adobe Developer App Builder für einen praktischen Anwendungsfall verwenden können.
+Das folgende Video bietet einen technischen Überblick über ein Beispiel für eine Integration zwischen Adobe Commerce und Amazon Seller Central. In diesem Tutorial werden auch Unterschiede zwischen der Entwicklung herkömmlicher PHP-Erweiterungen und App Builder-Apps untersucht.
 
 
 ## App Builder für Adobe Commerce {#app-builder-technical-overview}
