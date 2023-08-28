@@ -6,22 +6,22 @@ short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL A
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-8-28
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2ad0ae2aa7c9c852d300453f27f1be906976d95e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '332'
 ht-degree: 23%
 
 ---
 
 # Erste Schritte mit API-Mesh
 
-Wenn Sie mit API Measurement für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem Einführungskurs zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
+Wenn Sie mit dem API-Mesh für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem einleitenden Tutorial zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
 
 ## Was ist API-Mesh?
 
