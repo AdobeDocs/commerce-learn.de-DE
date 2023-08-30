@@ -6,13 +6,13 @@ short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL A
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-8-28
+last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 2ad0ae2aa7c9c852d300453f27f1be906976d95e
+source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 23%
@@ -21,7 +21,7 @@ ht-degree: 23%
 
 # Erste Schritte mit API-Mesh
 
-Wenn Sie mit dem API-Mesh für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem einleitenden Tutorial zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
+Wenn Sie mit API Measurement für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem Einführungskurs zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
 
 ## Was ist API-Mesh?
 
@@ -31,7 +31,7 @@ API-Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, d
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu bei API Measurement oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+* Jeglicher Entwickler, der neu bei API Measurement ist oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
 
 ## Videoinhalt
 
