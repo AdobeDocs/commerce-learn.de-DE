@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: c1ccfb2e32c7b638f6b8d4f16f15b8887b89f376
+source-git-commit: 68942d6c26da75adf93671b2d6a8bada38c1989a
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '530'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
    + [Langsame Replikation des Galera-Clusters](../backend-development/galera-db-slow-replication.md)
    + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
+   + [PT Query Digest](../backend-development/pt-query-digest.md)
 + Native Frontend-Luma-Entwicklung {#frontend-development}
    + Seitenaufbau für Entwickler {#page-builder}
       + [1 - Einleitung](../frontend-development/page-builder/1-intro-case-studies.md)
