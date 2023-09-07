@@ -1,6 +1,6 @@
 ---
 title: AR-Viewer für Adobe Commerce
-description: Adobe hat ein auf der Commerce Marketplace verfügbares Modul veröffentlicht, um die Anzeige der erweiterten Realität zu unterstützen.
+description: Erfahren Sie mehr über das auf der Commerce Marketplace verfügbare Modul "Erweiterte Reality Viewing".
 kt: 13738
 doc-type: video
 activity: use
@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR-Viewer verfügbar auf der Commerce Marketplace
-source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
+source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
