@@ -1,18 +1,17 @@
 ---
 title: GraphQL- und REST-bezogene Seiten
 description: Links zu verwandten Seiten im GraphQL REST-Abschnitt
-source-git-commit: 52bd3fff8ad3aa09a9aaa09aa458c8cbb54be06e
+source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '25'
 ht-degree: 0%
 
 ---
 
 # GraphQL REST-bezogene Links
 
-## Nützliche GraphQL REST-Ressourcen
+## Nützliche GraphQL-Ressourcen
 
-* [Erste Schritte mit GraphQL](../graphql-rest/getting-started-graphql.md)
 * [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
 * [Abfragen](../graphql-rest/graphql-queries.md)
 * [Mutationen](../graphql-rest/graphql-mutations.md)
