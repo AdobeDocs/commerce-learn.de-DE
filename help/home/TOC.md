@@ -3,7 +3,7 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
+source-git-commit: 5f86788f8bd8c0281571ed2cd45c89963be9e98e
 workflow-type: tm+mt
 source-wordcount: '555'
 ht-degree: 3%
@@ -131,7 +131,7 @@ ht-degree: 3%
    + [Adobe Commerce 2.4 Upgrade-Workshop](../upgrade/2.4-upgrade-workshop.md)
    + [Überblick über das Upgrade-Kompatibilitätstool](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitätstools in PHP Storm](../upgrade/uct-phpstorm.md)
-+ Backend-Entwicklung {#backend-development}
++ Back-End-Entwicklung {#backend-development}
    + [Best Practices für die Änderung von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Hinzufügen einer Tabelle zu einer Datenbank](../backend-development/new-db-table.md)
    + [Modul erstellen](../backend-development/create-module.md)
@@ -140,7 +140,7 @@ ht-degree: 3%
    + [Langsame Replikation des Galera-Clusters](../backend-development/galera-db-slow-replication.md)
    + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
    + [PT Query Digest](../backend-development/pt-query-digest.md)
-+ Native Frontend-Luma-Entwicklung {#frontend-development}
++ Native Front-End-Luma-Entwicklung {#frontend-development}
    + Seitenaufbau für Entwickler {#page-builder}
       + [1 - Einleitung](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Konfiguration und Inhalt](../frontend-development/page-builder/2-config-create-content.md)
