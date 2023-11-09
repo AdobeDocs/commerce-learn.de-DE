@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Erfahren Sie, wie Sie die Adobe Commerce-Datenverbindung zusammen mit einigen gr
 
 ## Videoinhalt
 
-* Erfahren Sie mehr über Kundendaten, die von Commerce an Adobe Experience Edge übertragen werden können.
-* Was ist eine API
-* Verwendung von Adobe Journey Optimizer für die Nachverfolgung mit einem Kunden
-* Typen von Storefront-Ereignissen, die erfasst werden können
-* In Echtzeit ausgewertete Kundendaten und personalisierte Inhalte, die angezeigt werden, während der Kunde weiter surft
-* Kundensegmente und wie sie automatisch an den Kundenverlauf angepasst werden können
-* Einheitliche Einzelprofile
-* Warenkorb-E-Mails, SMS-Nachrichten und deren Verwendung mit Adobe Journey Optimizer
-* Grundlegende Konfigurationen und Konfigurationen für Commerce Data Connector
-* Dynamische Bausteine und Preisregeln für den Warenkorb, die für Rabatte verwendet werden
-* Kundenprofile, Zielgruppen und Kundendetails in Adobe Experience Platform
-* Wie Adobe Target dynamische personalisierte Inhalte bereitstellen kann
-* Einführung von Customer Journey Analytics-Dashboards
+* Senden von Verhaltensdaten von Adobe Commerce an andere DX-Produkte (z. B. AJO, Analytics, Target, Real-Time CDP) zur Segmententscheidung, Profilanreicherung und personalisierten Erlebnissen auf der gesamten Journey.
+* Real-Time CDP-Zielgruppen, die die Segmentierung in Echtzeit aktualisieren und ändern, basierend auf Browserdaten, Server-seitigen Daten (einschließlich Auftragsverlauf) und Daten aus anderen Quellen (d. h. Treuedaten).
+* Verwendung von Real-Time CDP-Zielgruppen zur Personalisierung von Warenkorbpreisregeln und dynamischen Bausteinen in Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
