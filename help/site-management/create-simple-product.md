@@ -1,37 +1,37 @@
 ---
 title: Einfaches Produkt erstellen
-description: Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Commerce-Administrator erstellen.
+description: Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Commerce Admin erstellen.
 kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 9f5d0e83995d12b5884c53fc8bcb0e9d1913768e
+source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # Einfaches Produkt erstellen
 
-Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Commerce-Administrator erstellen.
+Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Adobe Commerce-Administrator erstellen.
 
 ## Für wen ist dieses Video?
 
 - Website-Manager
 - eCommerce-Merchandiser
-- Neue Entwickler für Adobe Commerce, die lernen müssen, wie REST zum Erstellen eines Produkts in Adobe Commerce verwendet wird
+- Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Curl-Codebeispiel zum Erstellen eines Produkts
+## Produkt mit curl erstellen
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -49,7 +49,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Beispiel für einen Curl-Code zum Abrufen eines Produkts
+## Produkt mit curl abrufen
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
