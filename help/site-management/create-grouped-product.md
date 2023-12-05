@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Erstellen eines gruppierten Produkts
 
-Ein gruppiertes Produkt besteht aus einfachen eigenständigen Produkten, die als Gruppe präsentiert werden. Sie können Varianten eines einzelnen Produkts anbieten oder sie nach Saison oder Thema gruppieren. Bevor Sie ein gruppiertes Produkt erstellen, stellen Sie sicher, dass alle einfachen Produkte, die in die Gruppe aufgenommen werden sollen, in Adobe Commerce verfügbar sind, und erstellen Sie diejenigen, die nicht vorhanden sind. In diesem Tutorial erfahren Sie, wie Sie ein gruppiertes Produkt mithilfe der REST-API und des Adobe Commerce-Administrators erstellen.
+Ein gruppiertes Produkt besteht aus einfachen eigenständigen Produkten, die als Gruppe präsentiert werden. Sie können Varianten eines einzelnen Produkts anbieten oder sie nach Saison oder Thema gruppieren. Bevor Sie ein gruppiertes Produkt erstellen, stellen Sie sicher, dass alle einfachen Produkte, die in die Gruppe aufgenommen werden sollen, in Adobe Commerce verfügbar sind, und erstellen Sie diejenigen, die nicht vorhanden sind.
+
+In diesem Tutorial erfahren Sie, wie Sie ein gruppiertes Produkt mithilfe der REST-API und des Adobe Commerce-Administrators erstellen.
 
 Verwenden Sie die REST-API, um ein Gruppenprodukt in der Admin-Konsole zu erstellen:
 
@@ -29,9 +31,9 @@ Verwenden Sie die REST-API, um ein Gruppenprodukt in der Admin-Konsole zu erstel
 1. Füllen Sie das leere gruppierte Produkt mit einfachen Produkten.
 1. Erstellen Sie ein leeres gruppiertes Produkt und verknüpfen Sie die einfachen Produkte.
 
-Beim Erstellen von gruppierten Produkten in Adobe Commerce Admin wird empfohlen, zunächst einfache Produkte zu erstellen. Wenn Sie bereit sind, das gruppierte Produkt zu erstellen, verknüpfen Sie die einfachen Produkte, indem Sie sie dem gruppierten Produkt in einem Batch zuweisen.
+   Wenn Sie einfache Produkte mit dem gruppierten Produkt verknüpfen, wird das Sortierreihenfolgen-Attribut (`position`) in der Payload wird vom Frontend verwendet, um die verknüpften Produkte in der gewünschten Reihenfolge anzuzeigen. Wenn die Variable `position` nicht angegeben ist, werden die Produkte in der Reihenfolge angezeigt, in der sie zum gruppierten Produkt hinzugefügt wurden.
 
-Das Sortierreihenfolgen-Attribut in der Payload ist erforderlich und wird vom Frontend für die Anzeige der zugehörigen Produkte in der gewünschten Reihenfolge verwendet.
+Erstellen Sie beim Erstellen von gruppierten Produkten mit Adobe Commerce Admin zuerst die einfachen Produkte. Wenn Sie bereit sind, das gruppierte Produkt zu erstellen, verknüpfen Sie die einfachen Produkte, indem Sie sie dem gruppierten Produkt in einem Batch zuweisen.
 
 ## Für wen ist dieses Video?
 
