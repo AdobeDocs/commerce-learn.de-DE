@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre U
 - Änderung `"attribute_set_id": 10,` und ersetzen `10` mit der Attributsatz-ID aus in Ihrer Umgebung.
 - Änderung `"value": "14"` und ersetzen `14` mit dem Wert aus Ihrer Umgebung.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Drittes einfaches Produkt mithilfe von cURL erstellen
 
-Erstellen Sie das dritte einfache Produkt mithilfe der API, um die folgende POST-Anfrage mit cURL zu senden.
+Erstellen Sie das dritte einfache Produkt, indem Sie die folgende POST-Anfrage mit cURL senden.
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Erstellen eines leeren konfigurierbaren Produkts mit cURL
 
-Erstellen Sie ein leeres konfigurierbares Produkt, indem Sie die API verwenden, um die folgende POST-Anfrage mit cURL zu senden.
+Erstellen Sie ein leeres konfigurierbares Produkt, indem Sie die folgende POST-Anfrage mit cURL senden.
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Festlegen der für das konfigurierbare Produkt verfügbaren Optionen
 
-Legen Sie die für das konfigurierbare Produkt verfügbaren Optionen fest, indem Sie die API verwenden, um die folgende POST-Anfrage mit cURL zu senden.
+Legen Sie die für das konfigurierbare Produkt verfügbaren Optionen fest, indem Sie die folgende POST-Anfrage mit cURL senden.
 
 Bevor Sie die Anfrage senden, ändern Sie `"attribute_id": 93,` zu ersetzen `93` mit der Attribut-ID aus Ihrer Umgebung.
 
@@ -289,7 +288,7 @@ Jetzt haben Sie drei einfache Produkte erstellt:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Fügen Sie diese einfachen POST als untergeordnete Elemente des konfigurierbaren Produkts hinzu, indem Sie die API verwenden, um die folgende Produktanfrage für jedes Produkt zu senden. Senden Sie eine separate Anfrage für jedes Produkt.
+Fügen Sie diese einfachen Produkte als untergeordnete Elemente des konfigurierbaren Produkts hinzu, indem Sie die folgende POST anfordern. Senden Sie eine separate Anfrage für jedes Produkt.
 
 Aktualisieren Sie für jede Anforderung die `childSKU` -Wert mit dem Wert für das untergeordnete Produkt, das Sie hinzufügen. Im folgenden Beispiel wird das einfache Produkt zugewiesen `kids-Hawaiian-Ukulele-red` zum konfigurierbaren Produkt mit SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Konfigurierbares Produkt mit cURL abrufen
 
-Nachdem Sie jetzt ein konfigurierbares Produkt mit drei zugewiesenen untergeordneten SKUs erstellt haben. Sie können die verknüpften IDs für die zugewiesenen Produkte durch die API sehen, um die folgende GET-Anfrage mit cURL zu senden. Diese Anfrage gibt detaillierte Informationen zum konfigurierbaren Produkt zurück.
+Nachdem Sie jetzt ein konfigurierbares Produkt mit drei zugewiesenen untergeordneten SKUs erstellt haben. Sie können die verknüpften IDs für die zugewiesenen Produkte anzeigen, indem Sie die folgende GET-Anfrage mit cURL senden. Diese Anfrage gibt detaillierte Informationen zum konfigurierbaren Produkt zurück.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Ermitteln des untergeordneten Produkts, das mit einem konfigurierbaren Produkt verknüpft ist
 
-Diese Anfrage gibt nur die dem konfigurierbaren Produkt zugeordneten untergeordneten Elemente zurück. Diese Antwort enthält alle Attribute für das untergeordnete Produkt, einschließlich SKU und Preis.
+Geben Sie nur die dem konfigurierbaren Produkt zugeordneten untergeordneten Elemente zurück, indem Sie die folgende GET-Anfrage senden. Die Antwort enthält alle Attribute für das untergeordnete Produkt, einschließlich SKU und Preis.
 
 Im Folgenden wird die GET-Methode verwendet
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Löschen oder Entfernen eines untergeordneten Produkts aus dem übergeordneten konfigurierbaren
 
-Sie können ein untergeordnetes DELETE aus einem konfigurierbaren Produkt entfernen, ohne das Produkt aus dem Katalog zu löschen, indem Sie die API verwenden, um die folgende Produktanforderung mit cURL zu senden.
-
-Im Folgenden wird die DELETE-Methode verwendet
+Sie können ein untergeordnetes DELETE aus einem konfigurierbaren Produkt entfernen, ohne das Produkt aus dem Katalog zu löschen, indem Sie die folgende Produktanforderung mit cURL senden.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
