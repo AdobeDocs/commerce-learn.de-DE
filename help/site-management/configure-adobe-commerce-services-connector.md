@@ -9,9 +9,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: bd6e6d50f94f688b762ab1fae5b0112f046236d3
+source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Um Zahlungsdienste für Adobe Commerce und Magento Open Source zu verwenden, mü
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425957?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425958?learn=on)
 
 ## FAQs zur Konfiguration
 
