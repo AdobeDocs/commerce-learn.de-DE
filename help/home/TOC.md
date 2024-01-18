@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 762d80791687787c6204160cbd81c9654bc187f6
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '585'
 ht-degree: 3%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 3%
    + [Ändern der Store-URL](../site-management/change-store-url.md)
    + [Versand- und Bereitstellungsmethoden](../site-management/shipping-delivery.md)
    + Adobe Commerce Services {#adobe-commerce-services}
-      + [Konfigurieren von Service Connector](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Konfigurieren von Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
       + [Zahlungsdienste konfigurieren](../site-management/configure-adobe-payment-services.md)
       + [Verwenden von Zahlungsdiensten](../site-management/payment-services.md)
 + Kundenverwaltung {#customers}
