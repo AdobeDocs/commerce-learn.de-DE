@@ -1,0 +1,67 @@
+---
+title: Erfahren Sie, wie Sie Admin-Konfigurationen mithilfe der Befehlszeile anzeigen und festlegen.
+description: Eine Demo zum Anzeigen und Festlegen von Konfigurationswerten mithilfe der Befehlszeile
+feature: Configuration,Console,System
+topic: Administration,Commerce
+role: Developer
+level: Beginner
+doc-type: Technical Video
+duration: 462
+last-substantial-update: 2024-01-31T00:00:00Z
+jira: KT-14877
+thumbnail: KT-14877.jpeg
+source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 0%
+
+---
+
+
+# Erfahren Sie, wie Sie Admin-Konfigurationen mithilfe der Befehlszeile anzeigen und festlegen.
+
+Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten mit der Commerce-CLI. Erfahren Sie, wo die Werte gespeichert werden und wo die Standardwerte herkommen.
+
+## Für wen ist dieses Video?
+
+- Adobe Commerce-Entwickler
+
+## Videoinhalt
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+
+## Einige im Tutorial verwendete Befehle
+
+Ändern Sie die Kennwortsicherheitseinstellung in &quot;Empfohlen&quot;:
+
+`$ php bin/magento config:set admin/security/password_is_forced 0`
+
+Anzeigen der E-Mail-Adresse für die Funktion zum automatischen Kopieren von Verkaufsbestellungen
+
+`$ php bin/magento config:show sales_email/order/copy_to`
+
+Leeres Ergebnis für eine Konfiguration anzeigen, die einen Wert in admin hat
+
+`php bin/magento config:show trans_email/ident_sales/email`
+
+## Im Tutorial verwendete MySQL-Abfragen
+
+```
+SELECT * FROM core_config_data WHERE path = 'sales_email/order/copy_to';
+
+SELECT * FROM core_config_data WHERE path = 'sales_email/order_comment/copy_to';
+
+SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
+```
+
+## Auffinden der standardmäßigen Verkaufs-E-Mail
+
+Wie finde ich den Konfigurationswert, der irgendwo in der Codebase definiert ist?
+`grep -rnw vendor/magento/ -e 'sales@example.com'`
+
+So zeigen Sie eine Seite im Terminal an und zeigen Zeilennummern an `cat -n vendor/magento/module-email/etc/config.xml`
+
+## Zusätzliche Ressourcen
+
+- [Befehlszeilenwerkzeug](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Admin Security konfigurieren](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
