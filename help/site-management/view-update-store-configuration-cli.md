@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie, wie Sie Admin-Konfigurationen mithilfe der Befehlszeile anzeigen und festlegen.
-description: Eine Demo zum Anzeigen und Festlegen von Konfigurationswerten mithilfe der Befehlszeile
+title: Anzeigen und Festlegen von Admin-Konfigurationen mithilfe der Befehlszeile
+description: Erfahren Sie, wie Sie Admin-Konfigurationen über die Befehlszeile anzeigen und festlegen.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Erfahren Sie, wie Sie Admin-Konfigurationen mithilfe der Befehlszeile anzeigen und festlegen.
+# Anzeigen und Festlegen von Admin-Konfigurationen mithilfe der Befehlszeile
 
 Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten mit der Commerce-CLI. Erfahren Sie, wo die Werte gespeichert werden und wo die Standardwerte herkommen.
 
