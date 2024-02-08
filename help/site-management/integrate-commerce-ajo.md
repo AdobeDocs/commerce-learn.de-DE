@@ -1,5 +1,5 @@
 ---
-title: Informationen zur Integration von Adobe Commerce und Adobe Journey Optimizer
+title: Integrieren von Adobe Commerce und Adobe Journey Optimizer
 description: Erfahren Sie, warum und wie eine Integration zwischen Adobe Commerce und Adobe Journey Optimizer implementiert werden kann.
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
@@ -10,17 +10,17 @@ duration: 512
 last-substantial-update: 2024-01-17T00:00:00Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
-source-git-commit: b790ca7921fb5999c211619a2bf56e39a0dcf960
+exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
+source-git-commit: 8ffbcb364ce2a1bc3c6be0cb39fbece8f5fbd320
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
+# Integrieren von Adobe Commerce und Adobe Journey Optimizer
 
-# Informationen zur Integration von Adobe Commerce und Adobe Journey Optimizer
-
-Erfahren Sie, wie Sie [Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} in Adobe Commerce , um mithilfe von Adobe Journey Optimizer Commerce-Daten zu entsperren und End-to-End-personalisierte Kundenerlebnisse in Echtzeit bereitzustellen.
+Erfahren Sie, wie Sie [Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} in Adobe Commerce , um mithilfe von Adobe Journey Optimizer Commerce-Daten zu entsperren und End-to-End-personalisierte Kundenerlebnisse in Echtzeit bereitzustellen.
 
 ## Für wen ist dieses Video?
 
