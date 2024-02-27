@@ -1,7 +1,7 @@
 ---
 title: Einführung in GraphQL
-description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento Open Source] verwenden können. Verwenden von GraphQL GET- und POST-Aufrufen für Adobe Commerce und [!DNL Magento Open Source].
-short-description: Erfahren Sie, wie Sie GraphQL GET- und POST-Aufrufe für Adobe Commerce und  [!DNL Magento Open Source] verwenden können.
+description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce verwenden und [!DNL Magento Open Source]. Verwenden von GraphQL-GET- und POST-Aufrufen für Adobe Commerce und [!DNL Magento Open Source].
+short-description: Erfahren Sie, wie Sie GraphQL-GET- und POST-Aufrufe für Adobe Commerce verwenden und [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 audience: all
@@ -11,10 +11,10 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
+source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 6%
+source-wordcount: '478'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,7 @@ Sie benötigen einen GUI GraphQL-Client, um Codebeispiele und -Tutorials zu test
 
 * [Altair](https://altairgraphql.dev/){target="_blank"} ist ein hervorragender Client mit vollem Funktionsumfang, der speziell für GraphQL entwickelt wurde. Adobe verwendet Altair in Video-Clips.
 * Wenn Sie das Desktop-Programm nicht installieren möchten, gibt es auch Altair-Erweiterungen, die direkt in Ihrer
-  [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} Browser.
+  [Chrome](https://chromewebstore.google.com/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} Browser.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} ist eine Implementierung der GraphQL IDE von der GraphQL Foundation. Dies ist kein installierbares Tool, sondern ein Paket, mit dem Sie die Oberfläche selbst erstellen können.
 * Wenn Sie bereits mit [Postman](https://www.postman.com/){target="_blank"}, bietet sie eine angemessene Unterstützung für GraphQL-Abfragen, obwohl sie nicht so umfassend wie ein dedizierter GraphQL-Client unterstützt wird.
 
