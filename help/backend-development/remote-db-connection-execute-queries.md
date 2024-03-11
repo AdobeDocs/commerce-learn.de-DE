@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie, wie Sie Abfragen mit der Adobe Commerce-Datenbank verbinden und ausführen.
+title: Abfragen mit der Datenbank verbinden und ausführen
 description: Erfahren Sie mehr über verschiedene Methoden zum Herstellen einer Verbindung zu einem Adobe Commerce-Cloud-Projekt. Erfahren Sie, wie Sie ein Datenbankmodul abrufen, um es außerhalb der Site zu verwenden. Erfahren Sie mehr über einige Methoden zum Maskieren und Entfernen von personenbezogenen Daten.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
+# Abfragen mit der Adobe Commerce-Datenbank verbinden und ausführen
 
-# Erfahren Sie, wie Sie Abfragen mit der Adobe Commerce-Datenbank verbinden und ausführen.
-
-In diesem Tutorial erfahren Sie, wie Sie eine Verbindung zu einem Adobe Commerce-Cloud-Projekt herstellen, eine Datenbank für die Verwendung außerhalb der Site ablegen, personenbezogene Daten maskieren und entfernen können.
-
+In diesem Tutorial erfahren Sie, wie Sie eine Verbindung zu einem Adobe Commerce-Cloud-Projekt herstellen, eine Datenbank für die Verwendung außerhalb der Site ablegen, PII maskieren und entfernen können.
 
 Sie können mit einer der folgenden Methoden auf Adobe Commerce-Daten aus Ihrem Cloud-Projekt zugreifen:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [MySQL-Dienst einrichten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Eine Remote-Verbindung zur MySQL-Datenbank einrichten](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Erstellen eines Datenbank-Dump auf Adobe Commerce in der Cloud-Infrastruktur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
