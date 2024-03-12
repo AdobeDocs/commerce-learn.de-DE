@@ -1,9 +1,9 @@
 ---
 title: Technische Einstiegsseiten zu Adobe Commerce Cloud
 description: Links zu verwandten Seiten in der technischen Adobe Commerce Cloud-Onboarding
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -16,3 +16,4 @@ ht-degree: 0%
 - [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
 - [Fastly](../cloud/fastly.md)
 - [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
+- [Bereitstellungen, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
