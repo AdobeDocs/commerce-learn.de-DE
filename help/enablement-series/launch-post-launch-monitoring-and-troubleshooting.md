@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce-Launch, -Post-Launch und fortlaufende Überwachung und Fehlerbehebung
-description: Dieses Tutorial enthält Best Practices und Tipps zum Vorbereiten und Starten einer Website. Auswahl der richtigen Staging-Umgebung, Bereitstellung relevanter Details in Support-Tickets und Verwendung desselben Monitoring-Tools wie dem Support-Team für eine bessere Kommunikation. Hervorheben Sie die Notwendigkeit gründlicher Tests von Peripheriesystemen wie Zahlungsverarbeitern und der Planung auf potenzielle Produktionsprobleme wie Leistungsengpässe und Cache-Erwärmung. Eine effektive Kommunikation, vorausschauende Planung und ein Verständnis des Modells der gemeinsamen Verantwortung werden ebenfalls hervorgehoben. Durch Befolgen dieser Best Practices können Website-Starts reibungsloser und erfolgreicher sein.
+description: Erfahren Sie mehr über die Best Practices und Tipps zum Vorbereiten und Starten einer Website. Erfahren Sie mehr über die Auswahl der richtigen Staging-Umgebung, die Bereitstellung relevanter Details in Support-Tickets und die Verwendung desselben Monitoring-Tools wie das Supportteam für eine bessere Kommunikation.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
