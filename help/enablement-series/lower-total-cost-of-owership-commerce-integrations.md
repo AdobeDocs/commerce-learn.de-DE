@@ -1,6 +1,6 @@
 ---
 title: Senkung des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
-description: In diesem Webinar werden Best Practices zur Senkung der Gesamtbetriebskosten für Integrationen mit Adobe Commerce erläutert. Er hebt die Herausforderungen herkömmlicher Integrationen hervor und hebt die Verwendung von Erweiterungspunkten und nativen Integrationen mit anderen Experience Cloud-Produkten hervor, um Kosten zu senken und den ROI zu steigern. Das Ziel besteht darin, das Produkt flexibel zu erweitern, ohne den Kern anzupassen, was die Wartung und Aktualisierung erleichtert.
+description: Erfahren Sie mehr über die Best Practices zur Senkung der Gesamtbetriebskosten für Integrationen mit Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Senkung des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
 
-In diesem Webinar werden Methoden zur Senkung der Eigentumskosten für Integrationen mit Adobe Commerce vorgestellt. &#x200B; Die Redner des Webinars besprechen die Herausforderungen und Kosten im Zusammenhang mit Integrationen, die Bedeutung der Verringerung der technischen Schulden und die Vorteile der Verwendung von Erweiterungspunkten, die von Adobe Commerce bereitgestellt werden. Außerdem werden spezifische Anwendungsfälle erwähnt, bei denen ein schlankes Bestellmanagement-System mithilfe von WhatApp und ein smartes Tier-Wurffeld zum Senden von Daten für personalisierte Produktempfehlungen verwendet werden.  Darüber hinaus wird die Verwendung der Adobe-Datenverbindung für Commerce besprochen, die es ermöglicht, Daten zwischen Adobe Commerce und anderen Adobe-Produkten zu senden und zu empfangen.
+In diesem Webinar werden Methoden zur Senkung der Eigentumskosten für Integrationen mit Adobe Commerce vorgestellt.
+
+Die Redner des Webinars besprechen die Herausforderungen und Kosten im Zusammenhang mit Integrationen, die Bedeutung der Verringerung der technischen Schulden und die Vorteile der Verwendung von Erweiterungspunkten, die von Adobe Commerce bereitgestellt werden. Außerdem werden spezifische Anwendungsfälle erwähnt, bei denen ein schlankes Bestellmanagement-System mithilfe von WhatApp und ein smartes Tier-Wurffeld zum Senden von Daten für personalisierte Produktempfehlungen verwendet werden.  Darüber hinaus wird die Verwendung der Adobe-Datenverbindung für Commerce besprochen, die es ermöglicht, Daten zwischen Adobe Commerce und anderen Adobe-Produkten zu senden und zu empfangen.
 
 ## Zielgruppe
 
