@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ Sobald dies abgeschlossen ist, wird die `env.php` wird innerhalb der _downloadab
 
 Nachdem die Domäne zum `env.php`können Sie ein herunterladbares Produkt in der Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Siehe [Konfigurationsreferenz](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) , um mehr zu erfahren. Siehe [CLI-Referenz für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd für weitere Details.
+Siehe [Konfigurationsreferenz](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) , um mehr zu erfahren.
 
 >[!IMPORTANT]
 >Bei einigen Versionen von Adobe Commerce tritt möglicherweise der folgende Fehler auf, wenn ein Produkt in der Adobe Commerce-Admin-Konsole bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, der verknüpfte Download verfügt jedoch über eine `null` Preis.
@@ -118,7 +119,7 @@ In diesem Beispiel wird gezeigt, wie mithilfe von cURL ein herunterladbares Prod
 In diesem Anwendungsfall wählt der Administrator, der den Katalog verwaltet `upload file`, wird die Datei in die `pub/media/downloadable/files/links/` Verzeichnis.  Durch die Automatisierung werden die Dateien anhand des folgenden Musters erstellt und an ihre jeweiligen Speicherorte verschoben:
 
 - Jede hochgeladene Datei wird in einem Ordner gespeichert, der auf den ersten beiden Zeichen des Dateinamens basiert.
-- Wenn der Upload initiiert wird, erstellt oder verwendet die Commerce-Anwendung vorhandene Ordner, um die Datei zu übertragen.
+- Wenn der Upload initiiert wird, erstellt oder verwendet das Commerce-Programm vorhandene Ordner, um die Datei zu übertragen.
 - Wenn Sie die Datei herunterladen, wird die `link_file` -Abschnitt des Pfads verwendet den Teil des Pfades, der an den `pub/media/downloadable/files/links/` Verzeichnis.
 
 Wenn die hochgeladene Datei beispielsweise `download-example.zip`:
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Konfigurationshandbuch für herunterladbare Domänen](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Hinzufügen zu herunterladbaren Domänen in .env.php](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
