@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Technisches Onboarding - Implementierungen, Tests, Überwachung und Sicherheit
+# Technisches Onboarding - SaaS-Angebote
 
 Erfahren Sie mehr über die Adobe Commerce Cloud SaaS-Angebote, den Support und andere Kommunikationen sowie über die nächsten Schritte.
 
@@ -81,9 +81,9 @@ Erfahren Sie mehr über die Adobe Commerce Cloud SaaS-Angebote, den Support und 
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Freigegebene Verantwortung](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Zugriff auf Kundendaten und Datenschutz](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [Commerce-Zertifikate](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Commerce-Zertifizierung](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 - [Commerce-Lernprogramme](https://learning.adobe.com/catalog.html?products=Commerce)
-- [Community-Forum für Commerce](https://community.magento.com/)
+- [Commerce-Community-Forum](https://community.magento.com/)
 -= [Schnell konfigurieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [Leistungstests](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
 - [Tool für Site-weite Analysen - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
