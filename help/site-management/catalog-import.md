@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
 
 ## Manuelles Erstellen der Produkte {#manual-import}
 
-Wenn Sie nur über einen begrenzten Katalog verfügen und nur selten Updates verfügbar sind, ist die manuelle Erstellung der Updates möglicherweise die beste Option. Es erfordert Zeit, jedes Produkt aufzurufen, und einige eingeschränkte Schulungen zur Verwendung des Commerce-Administrators. Die manuelle Katalogverwaltung ist nicht die richtige Option für die meisten Geschäfte, aber in bestimmten Situationen kann es sinnvoll sein. Weitere Informationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Wenn Sie nur über einen begrenzten Katalog verfügen und nur selten Updates verfügbar sind, ist die manuelle Erstellung der Updates möglicherweise die beste Option. Es erfordert Zeit, um an jedem Produkt teilzunehmen, und einige eingeschränkte Schulungen zur Verwendung des Commerce-Administrators. Die manuelle Katalogverwaltung ist nicht die richtige Option für die meisten Geschäfte, aber in bestimmten Situationen kann es sinnvoll sein. Weitere Informationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergessen Sie nicht, dass Sie mehrere Methoden zur Verwaltung Ihres Katalogs verwenden können. Sobald jedoch die Automatisierung verwendet wird, müssen manuelle Bearbeitungen eingeschränkt sein. Automatisierte Aktualisierungen haben die Möglichkeit, manuell durchgeführte Änderungen zu überschreiben, was zu Verwirrung führt. Sobald die Integration mit Adobe Commerce zur Verwaltung des Katalogs Automatisierung und APIs verwendet, wird empfohlen, die Verwaltung des Katalogs vom Administrator bis [Benutzerrollen und Berechtigungen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -92,7 +93,7 @@ Nachteile:
 
 - Katalog ist beliebig groß
 - Aktualisierungen sind häufig, es ist mehr als 1x am Tag zulässig
-- Zeit für den Import ist wichtig, aber nicht
+- Die Zeit für den Import ist wichtig, aber nicht wichtig, und eine kurze Verzögerung bei der Verarbeitung der Einfuhrdaten ist akzeptabel.
 - Die Daten sind nicht im CSV-Format strukturiert und können nicht mithilfe der Automatisierung transformiert werden
 
 
@@ -112,8 +113,6 @@ Vorteile:
 Nachteile:
 
 - GET-Anfrage wird nicht unterstützt
-- Sie müssen die Optionsattribut-IDs anstelle der Beschriftungen verwenden.
-
 
 ### Wann sollten Sie diesen Ansatz berücksichtigen?
 
@@ -138,7 +137,6 @@ Vorteile:
 Nachteile:
 
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
-- Sie müssen die Optionsattribut-IDs und nicht die Beschriftungen verwenden
 - Die Daten müssen im CSV-Format vorliegen
 
 ### Wann sollten Sie diesen Ansatz berücksichtigen?
