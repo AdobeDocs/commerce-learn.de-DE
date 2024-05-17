@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
 
 Wenn Sie nur über einen begrenzten Katalog verfügen und nur selten Updates verfügbar sind, ist die manuelle Erstellung der Updates möglicherweise die beste Option. Es erfordert Zeit, um an jedem Produkt teilzunehmen, und einige eingeschränkte Schulungen zur Verwendung des Commerce-Administrators. Die manuelle Katalogverwaltung ist nicht die richtige Option für die meisten Geschäfte, aber in bestimmten Situationen kann es sinnvoll sein. Weitere Informationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergessen Sie nicht, dass Sie mehrere Methoden zur Verwaltung Ihres Katalogs verwenden können. Sobald jedoch die Automatisierung verwendet wird, müssen manuelle Bearbeitungen eingeschränkt sein. Automatisierte Aktualisierungen haben die Möglichkeit, manuell durchgeführte Änderungen zu überschreiben, was zu Verwirrung führt. Sobald die Integration mit Adobe Commerce zur Verwaltung des Katalogs Automatisierung und APIs verwendet, wird empfohlen, die Verwaltung des Katalogs vom Administrator bis [Benutzerrollen und Berechtigungen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### Wann sollten Sie diesen Ansatz berücksichtigen?
 
 - Sehr kleiner Katalog, zum Beispiel weniger als 50 Produkte
@@ -41,8 +39,6 @@ Wenn Sie nur über einen begrenzten Katalog verfügen und nur selten Updates ver
 - Sie verfügen über alle Produktdetails, Bilder, Videos und möchten nicht die Zeit in Anspruch nehmen zu erfahren, wie Sie die Daten in CSV konvertieren
 - Sie möchten beim Erstellen der Produkte Bilder und Videos hinzufügen
 - Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut
-
-
 
 >[!TAB Admin CSV]
 
@@ -61,16 +57,12 @@ Nachteile:
 - Zeitplanimporte sind auf das 1-fache der Tagesmax beschränkt.
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
 
-
-
 ### Wann sollten Sie diesen Ansatz berücksichtigen?
 
 - Kataloggröße ist mäßig
 - Updates sind nicht mehr als einmal pro Tag
 - Sie haben Zugriff auf Serverkonfigurationen, falls Sie die maximale Dateiupload-Größe erhöhen müssen.
 - Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut
-
-
 
 >[!TAB Massen-REST-API]
 
@@ -85,9 +77,6 @@ Nachteile:
 
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
 - Kann durch Bandbreiteneinschränkungen für den Hosting-Provider begrenzt werden
-- Sie müssen Optionsattribut-IDs verwenden, nicht die Beschriftungen
-
-
 
 ### Wann sollten Sie diesen Ansatz berücksichtigen?
 
@@ -95,8 +84,6 @@ Nachteile:
 - Aktualisierungen sind häufig, es ist mehr als 1x am Tag zulässig
 - Die Zeit für den Import ist wichtig, aber nicht wichtig, und eine kurze Verzögerung bei der Verarbeitung der Einfuhrdaten ist akzeptabel.
 - Die Daten sind nicht im CSV-Format strukturiert und können nicht mithilfe der Automatisierung transformiert werden
-
-
 
 >[!TAB ASYNC REST API]
 
@@ -118,7 +105,6 @@ Nachteile:
 
 - Häufig werden Einfuhren getätigt
 - Kein Problem mit geringer Verzögerung ab dem Zeitpunkt, zu dem sie per API gesendet und dann aus der Nachrichtenwarteschlange verarbeitet werden.
-
 
 
 >[!TAB CSV REST API]
@@ -145,8 +131,6 @@ Nachteile:
 - Aktualisierungen sind häufig, es ist mehr als 1x am Tag zulässig
 - Allgemeine Zeit für die Einfuhr ist wichtig
 - Die Daten liegen bereits im CSV-Format vor oder können einfach mithilfe der Automatisierung transformiert werden
-
-
 
 >[!ENDTABS]
 
