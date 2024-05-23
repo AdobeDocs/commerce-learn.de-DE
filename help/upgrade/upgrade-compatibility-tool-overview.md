@@ -1,8 +1,8 @@
 ---
 title: Überblick über das Upgrade-Kompatibilitätstool
-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
-landing-page-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
-short-description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller machen kann.
+description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
+landing-page-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
+short-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
 kt: 9983
 doc-type: technical video
 audience: all
@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 25%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
@@ -44,6 +44,6 @@ Weitere Informationen zum Tool finden Sie unter [Dokumentation zum Upgrade-Kompa
 ## Zusätzliche Ressourcen
 
 - [Dokumentation zum Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
