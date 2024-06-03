@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 3%
    + [Live-Suche nach Empfehlungen](../site-management/live-search-recommendations.md)
    + [Integrieren von Commerce mit AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellungen und Erfüllung {#orders}
-   + [Store Fulfillment - Übersicht](../site-management/store-fulfillment.md)
-   + [Bestellstatus verwalten](../site-management/order-status.md)
+   + [Store Fulfillment - Übersicht](../orders-and-fulfillment/store-fulfillment.md)
+   + [Bestellstatus verwalten](../orders-and-fulfillment/order-status.md)
+   + [Überprüfen des Lagerbestandsstatus](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B für Adobe Commerce {#b2b}
    + [Verwalten von Unternehmenskonten](../b2b/company-accounts.md)
    + [Verwalten freigegebener Kataloge](../b2b/shared-catalogs.md)
