@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie mehr über den Wechsel von einer selbst gehosteten Umgebung zu Adobe Commerce Cloud
+title: Migrieren von einer selbst gehosteten Lösung
 description: Erfahren Sie mehr über einige Vorteile beim Übergang von einer On-Premise-Self-Hosting-Lösung zu Adobe Commerce Cloud. Die Adobe Commerce Cloud-Option ist eine zuverlässige und kostengünstige Plattform, die Tools für die Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bietet und so zu einer höheren Produktivität führt.
 feature: Services, Paas
 topic: Commerce
@@ -9,19 +9,19 @@ doc-type: Feature Video
 duration: 3499
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15536
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+exl-id: 772cadfc-f8b3-4912-80be-41539682c8c5
+source-git-commit: 6228fc7e89adfbb9c075c454b27a12a4035e4d3e
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
-# Webinar - Erfahren Sie mehr über den Übergang von selbst gehosteten zu Adobe Commerce Cloud
+# Migration von der selbstgehosteten Lösung zu Adobe Commerce Cloud
 
 In diesem Webinar erfahren Sie mehr über die Vorteile der Migration von Self-Hosting-Lösungen zu Adobe Commerce Cloud. Erfahren Sie, wie Sie die Herausforderungen lösen können, denen Unternehmen gegenüberstehen, z. B. hohe Infrastrukturkosten.  Erfahren Sie außerdem, wie Adobe Commerce Cloud bei Agilität und Skalierbarkeit sowie bei Leistungs- und Zuverlässigkeitsproblemen hilft. &#x200B;Erfahren Sie, wie Adobe Commerce Cloud eine zuverlässige und kostengünstige Plattform mit Tools zur Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bietet. &#x200B;Es priorisiert Sicherheit und Compliance, bietet Funktionen wie eine Web-Anwendungs-Firewall und ein Netzwerk zur Inhaltsbereitstellung. Das Webinar zeigte auch Erfolgsgeschichten von Kunden, in denen der greifbare Nutzen und die Rentabilität (Return on Investment, ROI) veranschaulicht werden, die Unternehmen mit Adobe Commerce Cloud erzielen können.
 
-## Für wen ist dieses Video?
+## Zielgruppe
 
 * Commerce Store-Eigentümer
 * Lösungsarchitekten
