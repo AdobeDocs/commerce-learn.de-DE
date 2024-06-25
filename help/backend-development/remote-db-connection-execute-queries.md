@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Abfragen mit der Adobe Commerce-Datenbank verbinden und ausführen
 
-In diesem Tutorial erfahren Sie, wie Sie eine Verbindung zu einem Adobe Commerce-Cloud-Projekt herstellen, eine Datenbank für die Verwendung außerhalb der Site ablegen, PII maskieren und entfernen können.
+Erfahren Sie, wie Sie eine Verbindung zu einer Adobe Commerce in einem Cloud-Projekt herstellen, eine Datenbank-Ablage für die Offsite-Verwendung erstellen und personenbezogene Daten (PII) verarbeiten, indem Sie sie maskieren oder entfernen. Erfahren Sie mehr über den Zugriff auf Adobe Commerce-Daten mit verschiedenen Methoden, darunter lokale DB-Dumps, Remote-DB-Verbindungen mit Anwendungen wie MySQL Workbench oder TablesPlus und Direktverbindungen über das Magento Cloud CLI-Tool.
+
+## Videoinhalt
+
+* Erfahren Sie, wie Sie mit einem Tool wie MysqlWorkbench oder TablesPlus schnell eine Verbindung zu einem Remote-Adobe Commerce Cloud-Projekt herstellen können.
+* Erfahren Sie, wie Sie über die Befehlszeile schnell eine Verbindung zum Adobe Commerce-Projekt herstellen und SQL ausführen können.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Erfahren Sie, wie Sie eine Verbindung zu einer Adobe Commerce in einem Cloud-Projekt herstellen, eine Datenbank für die Verwendung außerhalb der Site ablegen, PII maskieren und entfernen können.
 
 Sie können mit einer der folgenden Methoden auf Adobe Commerce-Daten aus Ihrem Cloud-Projekt zugreifen:
 
