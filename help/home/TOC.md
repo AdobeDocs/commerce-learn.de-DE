@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 2%
    + Commerce-Funktionen {#capabilities}
       + [Datenverbindung](../capabilities/data-connection.md)
       + [Vollständige Live Search-Demonstration](../capabilities/live-search-full-demonstration.md)
+      + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
    + Produkte erstellen {#create-products}
       + [Einfaches Produkt](../site-management/create-simple-product.md)
       + [Virtuelles Produkt](../site-management/create-virtual-product.md)
@@ -57,8 +58,8 @@ ht-degree: 2%
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
    + [Erweiterungs-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Funktionale Demonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
+   + [Funktionelle Demonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
+   + [Technische Übersicht über App Builder](../app-builder/app-builder-technical-overview.md)
    + [App an Marketplace übermitteln](../app-builder/submit-app-process.md)
    + Erstellen der ersten App-Builder-App {#first-app}
       + [Übersicht](../app-builder/first-app/overview.md)
@@ -68,14 +69,14 @@ ht-degree: 2%
       + [Erfahren Sie mehr über den Testordner](../app-builder/first-app/test-folder.md)
       + [Den Zweck des Ordners web-src ermitteln](../app-builder/first-app/web-src-folder.md)
       + [Lokales Testen](../app-builder/first-app/testing-locally.md)
-      + [Testen mit der App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
+      + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
       + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
    + I/O-Ereignisse für Adobe Commerce {#io-events}
       + [Erste Schritte bei I/O-Ereignissen](../io-events/getting-started-io-events.md)
       + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [App Builder-Projekt erstellen](../io-events/create-app-builder-project.md)
+      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
       + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
       + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
       + [Bedingte Ereignisse für Adobe Commerce](../io-events/conditional-events.md)
