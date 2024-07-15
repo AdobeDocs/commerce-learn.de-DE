@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Verwalten von Firmenguthaben
 
-Für Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert ist und Firmenkredite zur Verfügung stehen, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kunden den Status ihrer Unternehmensgutschrift über ihr Konto-Dashboard überprüfen.
+Unternehmen, für die _[!UICONTROL Payment on Account]_aktiviert ist und Firmenkredite zur Verfügung stehen, können bis zu dem gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kunden den Status ihrer Unternehmensgutschrift über ihr Konto-Dashboard überprüfen.
 
 Sie können für jedes Unternehmensprofil die folgenden kreditbezogenen Parameter festlegen:
 
@@ -43,5 +43,5 @@ Sie können für jedes Unternehmensprofil die folgenden kreditbezogenen Paramete
 
 ## Zusätzliche Ressourcen
 
-- [Konfigurieren der Zahlung auf dem Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Verwalten von Firmenguthaben](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [Konfigurieren der Zahlung für das Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [Verwalten des Firmenguthabens](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

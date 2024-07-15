@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -41,5 +41,5 @@ Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmi
 
 ## Zusätzliche Ressourcen
 
-- [Bestellungen für Unternehmen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [Validierungsregeln für Bestellungen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [Bestellungen von Unternehmen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Genehmigungsregeln für Bestellungen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

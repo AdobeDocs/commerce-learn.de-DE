@@ -15,11 +15,11 @@ ht-degree: 0%
 * [Erste Schritte bei I/O-Ereignissen](../io-events/getting-started-io-events.md)
 * [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
 * [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-* [App Builder-Projekt erstellen](../io-events/create-app-builder-project.md)
+* [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
 * [Adobe Commerce-Konfiguration](../io-events/configure-commerce.md)
 * [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
 * [Bedingte Ereignisse für Adobe Commerce](../io-events/conditional-events.md)
 
 ## Dokumentation zu Adobe Developer
 
-* [Übersicht über Adobe I/O-Ereignisse für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Adobe I/O-Ereignisse für Adobe Commerce - Überblick](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}

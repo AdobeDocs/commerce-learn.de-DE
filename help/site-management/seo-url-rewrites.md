@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ Mit dem URL-Umschreibungstool können Sie jede URL ändern, die mit einem Produk
 
 ## Zusätzliche Ressourcen
 
-- [URL-Neuschreibungen - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [URL-Neuschreibungen - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [Allgemein > Web - [!DNL Commerce] Konfigurationshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

@@ -14,19 +14,19 @@ level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Installieren des Adobe I/O Runtime-CLI- und Mesh-Plug-ins
 
-Bevor Sie mit der Verwendung von API Measurement für Adobe Developer App Builder beginnen, müssen Sie die `aio` CLI und das API-Mesh-Plug-in.
-Installationsanweisungen und -voraussetzungen finden Sie im API-Handbuch [Erste Schritte](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} Seite.
+Bevor Sie mit der Verwendung von API Measurement für Adobe Developer App Builder beginnen, müssen Sie die `aio`-CLI und das API-Mesh-Plug-in installieren.
+Installationsanweisungen und -voraussetzungen finden Sie auf der Seite API-Mesh [Erste Schritte](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} .
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu bei API Measurement oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+* Entwickler, die neu im API-Mesh sind oder [!DNL Adobe Commerce] mit eingeschränktem Erlebnis mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh arbeiten.
 
 ## Videoinhalt
 
@@ -36,9 +36,9 @@ Installationsanweisungen und -voraussetzungen finden Sie im API-Handbuch [Erste 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Installieren der `aio` CLI und API-Mesh-Plug-in
+## Installieren des Plug-ins `aio` CLI und API-Mesh
 
-Nach der Installation `node` und `npm`Führen Sie den folgenden Befehl aus, um den `aio` CLI:
+Führen Sie nach der Installation von `node` und `npm` den folgenden Befehl aus, um die `aio`-CLI zu installieren:
 
 ```bash
 npm install -g @adobe/aio-cli

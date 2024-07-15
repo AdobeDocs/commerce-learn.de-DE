@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -31,10 +31,10 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Attributsätze - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

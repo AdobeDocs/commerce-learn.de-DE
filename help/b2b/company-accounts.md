@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 9eb66d4d0da8aa0e26183dea2459fa6e923c430b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Verwalten von Unternehmenskonten
 
-Bei B2B-Händlern muss die Variable _[!UICONTROL Companies]_auf der Seite werden alle aktuellen Unternehmenskonten und ihr Status aufgelistet. Sie können Ihre Unternehmenskonten hier verwalten und alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Die standardmäßigen Steuerelemente am Arbeitsplatz können verwendet werden, um die Liste zu filtern, das Spaltenlayout zu ändern, Ansichten zu speichern und Daten zu exportieren.
+Bei B2B-Händlern werden auf der Seite &quot;_[!UICONTROL Companies]_&quot;alle aktuellen Unternehmenskonten und deren Status aufgelistet. Sie können Ihre Unternehmenskonten hier verwalten und alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Die standardmäßigen Steuerelemente am Arbeitsplatz können verwendet werden, um die Liste zu filtern, das Spaltenlayout zu ändern, Ansichten zu speichern und Daten zu exportieren.
 
 {{b2b-feature}}
 
@@ -37,4 +37,4 @@ Bei B2B-Händlern muss die Variable _[!UICONTROL Companies]_auf der Seite werden
 ## Zusätzliche Ressourcen
 
 - [Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Unternehmenskonten verwalten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

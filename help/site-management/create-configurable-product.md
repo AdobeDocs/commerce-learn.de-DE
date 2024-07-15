@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurierbares Produkt erstellen
 
@@ -30,7 +30,7 @@ In diesem Tutorial erfahren Sie, wie Sie ein konfigurierbares Produkt mithilfe d
 
 Verwenden Sie die REST-API, um ein konfigurierbares Produkt zu erstellen:
 
-1. Abrufen der Attribute für eine [Attributset](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) , um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
+1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
 1. Erstellen Sie einfache Produkte zur Verwendung im konfigurierbaren Produkt.
 1. Erstellen Sie ein leeres konfigurierbares Produkt und verknüpfen Sie die einfachen Produkte.
 1. Festlegen der Produktattribute für das konfigurierbare Produkt.
@@ -85,7 +85,7 @@ In diesem Beispiel wird der gesamte Attributsatz mit allen einzelnen Attributen 
 ```
 
 
-Um die Attribut-IDs zum Einrichten Ihres konfigurierbaren Produkts abzurufen, aktualisieren Sie die `attribute-sets/10/attributes` Teil der folgenden cURL-Anfrage zum Ersetzen `10` mit der Attributsatz-ID in Ihrer Umgebung. Diese Anfrage verwendet die GET-Methode.
+Um die Attribut-IDs zum Einrichten Ihres konfigurierbaren Produkts abzurufen, aktualisieren Sie den Abschnitt `attribute-sets/10/attributes` der folgenden cURL-Anfrage, um `10` durch die Attributset-ID in Ihrer Umgebung zu ersetzen. Diese Anfrage verwendet die GET-Methode.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ Erstellen Sie das erste einfache Produkt mithilfe der API, um die folgende POST-
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
-- Änderung `"attribute-set": 10` zu ersetzen `10` mit der Attributsatz-ID aus Ihrer Umgebung.
-- Änderung `"value": "13"` zu ersetzen `13` mit dem Wert aus Ihrer Umgebung.
+- Ändern Sie &quot;`"attribute-set": 10`&quot;, um &quot;`10`&quot;durch die Attributset-ID aus Ihrer Umgebung zu ersetzen.
+- Ändern Sie `"value": "13"`, um `13` durch den Wert aus Ihrer Umgebung zu ersetzen.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ Erstellen Sie das zweite einfache Produkt mithilfe der API, um die folgende POST
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
-- Änderung `"attribute_set_id": 10,` und ersetzen `10` mit der Attributsatz-ID aus in Ihrer Umgebung.
-- Änderung `"value": "14"` und ersetzen `14` mit dem Wert aus Ihrer Umgebung.
+- Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus in Ihrer Umgebung.
+- Ändern Sie `"value": "14"` und ersetzen Sie `14` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ Erstellen Sie das dritte einfache Produkt, indem Sie die folgende POST-Anfrage m
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
-- Änderung `"attribute_set_id": 10,` zu ersetzen `10` mit der Attributsatz-ID aus Ihrer Umgebung.
-- Änderung `"value": "15"` und ersetzen `15` mit dem Wert aus Ihrer Umgebung.
+- Ändern Sie &quot;`"attribute_set_id": 10,`&quot;, um &quot;`10`&quot;durch die Attributset-ID aus Ihrer Umgebung zu ersetzen.
+- Ändern Sie `"value": "15"` und ersetzen Sie `15` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ Erstellen Sie ein leeres konfigurierbares Produkt, indem Sie die folgende POST-A
 
 Aktualisieren Sie das Beispiel vor dem Senden der Anfrage mit Werten für Ihre Umgebung.
 
-- Änderung `"attribute_set_id": 10,` und ersetzen `10` mit der Attributsatz-ID aus Ihrer Umgebung.
-- Änderung `"value": "93"` und ersetzen `93` mit dem Wert aus Ihrer Umgebung.
+- Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus Ihrer Umgebung.
+- Ändern Sie `"value": "93"` und ersetzen Sie `93` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Legen Sie die für das konfigurierbare Produkt verfügbaren Optionen fest, indem Sie die folgende POST-Anfrage mit cURL senden.
 
-Bevor Sie die Anfrage senden, ändern Sie `"attribute_id": 93,` zu ersetzen `93` mit der Attribut-ID aus Ihrer Umgebung.
+Ändern Sie vor dem Senden der Anfrage `"attribute_id": 93,` , um `93` durch die Attribut-ID aus Ihrer Umgebung zu ersetzen.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ Jetzt haben Sie drei einfache Produkte erstellt:
 
 Fügen Sie diese einfachen Produkte als untergeordnete Elemente des konfigurierbaren Produkts hinzu, indem Sie die folgende POST anfordern. Senden Sie eine separate Anfrage für jedes Produkt.
 
-Aktualisieren Sie für jede Anforderung die `childSKU` -Wert mit dem Wert für das untergeordnete Produkt, das Sie hinzufügen. Im folgenden Beispiel wird das einfache Produkt zugewiesen `kids-Hawaiian-Ukulele-red` zum konfigurierbaren Produkt mit SKU `Kids-Hawaiian-Ukulele-red`.
+Aktualisieren Sie für jede Anfrage den Wert `childSKU` mit dem Wert für das untergeordnete Produkt, das Sie hinzufügen. Im folgenden Beispiel wird das einfache Produkt `kids-Hawaiian-Ukulele-red` dem konfigurierbaren Produkt mit der SKU `Kids-Hawaiian-Ukulele-red` zugewiesen.
 
 
 ```bash
@@ -347,7 +347,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Zusätzliche Ressourcen
 
-- [Konfigurierbares Produkt-Tutorial erstellen](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+- [Erstellen Sie ein konfigurierbares Produkt-Tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
 - [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 - [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

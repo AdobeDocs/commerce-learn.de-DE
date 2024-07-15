@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Intelligence-Integrationen und einige grundlegende Konfigurationen
-description: Erfahren Sie mehr über Adobe Commerce Intelligence-Integrationen und einige Konfigurationen, die Sie beim Erstellen von Berichten und Dashboards unterstützen
+description: Erfahren Sie mehr über Adobe Commerce Intelligence-Integrationen und einige Konfigurationen, die beim Erstellen von Berichten und Dashboards helfen
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
@@ -19,17 +19,18 @@ ht-degree: 0%
 
 ---
 
-# Integrationen und Konfigurationen mit Adobe Commerce Intelligence
+# Adobe Commerce Intelligence-Integrationen und -Konfigurationen
 
-Das Tutorial bietet einen Überblick über die Registerkarte Daten verwalten in Adobe Commerce Intelligence und erläutert, wie Integrationen, Data Warehouse und Reporting eingerichtet und konfiguriert werden. &#x200B;
-Es werden die Optionen für Integrationen, einschließlich vordefinierter Integrationen, Standardintegrationen und Premium-Integrationen, und die Möglichkeit zum Hinzufügen benutzerdefinierter Integrationen erläutert.
-Das Dokument behandelt auch den Prozess der Synchronisierung von Tabellen mit dem Data Warehouse, das Hinzufügen neuer Tabellen und Spalten und das Erstellen von Metriken und Filtern für Berichtszwecke.
+Das Tutorial bietet einen Überblick über die Registerkarte &quot;Daten verwalten&quot;in Adobe Commerce Intelligence und beschreibt, wie Integrations-, Data Warehouse- und Reporting-Funktionen eingerichtet und konfiguriert werden.
+&#x200B;
+Hier werden die Optionen für Integrationen, einschließlich vordefinierter Integrationen, Standardintegrationen und Premium-Integrationen sowie die Möglichkeit zum Hinzufügen benutzerdefinierter Integrationen erläutert.
+Das Dokument behandelt auch die Synchronisation von Tabellen mit der Data Warehouse, das Hinzufügen neuer Tabellen und Spalten sowie die Erstellung von Metriken und Filtern zu Berichtszwecken.
 
-## Für wen ist dieses Video bestimmt?
+## Für wen ist dieses Video?
 
-- Business-Anwender
+- Geschäftskunden
 - Datenanalysten
 
-## Integrationen und Konfiguration
+## Integrationen und Konfigurationen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)

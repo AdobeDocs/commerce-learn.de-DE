@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Zahlungsdienste für Adobe Commerce konfigurieren
 
-Um mit der Verwendung von Zahlungsdiensten für Adobe Commerce und Magento Open Source beginnen zu können, müssen Sie einige Onboarding-Schritte ausführen. Beobachten Sie die _Zahlungsdienste für Adobe Commerce konfigurieren_ Video mit Beispielen für die ersten Schritte.
+Um mit der Verwendung von Zahlungsdiensten für Adobe Commerce und Magento Open Source beginnen zu können, müssen Sie einige Onboarding-Schritte ausführen. Beispiele für die ersten Schritte finden Sie im Video _Zahlungsdienste für Adobe Commerce konfigurieren_ .
 
 ## Für wen ist dieses Video?
 

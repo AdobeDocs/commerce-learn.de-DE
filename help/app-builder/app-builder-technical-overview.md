@@ -1,8 +1,8 @@
 ---
-title: Technische Übersicht über App Builder
-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Übersicht
-landing-page-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Übersicht
-short-description: Erfahren Sie mehr über den in Adobe Commerce verwendeten Adobe Developer App Builder mit einer technischen Übersicht
+title: Technische Übersicht zu App Builder
+description: Informationen zu Adobe Developer App Builder, das in Adobe Commerce verwendet wird, mit einem technischen Überblick
+landing-page-description: Informationen zu Adobe Developer App Builder, das in Adobe Commerce verwendet wird, mit einem technischen Überblick
+short-description: Informationen zu Adobe Developer App Builder, das in Adobe Commerce verwendet wird, mit einem technischen Überblick
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Technische Übersicht für App Builder
+# Technische Übersicht über App Builder
 
 Das folgende Video bietet einen technischen Überblick über ein Beispiel für eine Integration zwischen Adobe Commerce und Amazon Seller Central. In diesem Tutorial werden auch Unterschiede zwischen der Entwicklung herkömmlicher PHP-Erweiterungen und App Builder-Apps untersucht.
 

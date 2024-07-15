@@ -1,7 +1,7 @@
 ---
 title: Der Ordner web-src
 description: Erfahren Sie mehr über die Dateitypen im Ordner web-src sowie die verschachtelten Dateien und Ordner für diese Beispielanwendung.
-landing-page-description: Erfahren Sie mehr über den mit Adobe Commerce verwendeten Adobe Developer App Builder und darüber, welche Dateitypen sich im Ordner "web-src"befinden.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen sich im Ordner web-src befinden.
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Der Ordner web-src für diese Beispielanwendung enthält viele JavaScript-Dateie
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die sich mit der `web-src` Ordner und dessen Inhalt.
+* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und die sich mit dem Ordner &quot;`web-src`&quot;und dessen Inhalten vertraut machen.
 
 ## Videoinhalt
 
-* Was ist der Hauptzweck für die `web-src` Ordner?
+* Was ist der Hauptzweck für den Ordner &quot;`web-src`&quot;?
 * In der Regel enthaltene Dateien und Ordner
-* Wie die `web-src` -Ordner und der darin enthaltene Inhalt werden in der Beispielanwendung verwendet
+* Verwendung des Ordners `web-src` und des Inhalts in der Beispielanwendung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Im folgenden Beispiel lautet das Code-Beispiel: `not` die Anforderung einschränken. Um einen 400-Fehler zu vermeiden, reduzieren Sie die Größe der Antwort mit `searchCriteria`.
+Im folgenden Beispiel ist das Codebeispiel `not`, das die Anfrage begrenzt. Um einen 400-Fehler zu vermeiden, reduzieren Sie die Größe der Antwort mit `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Die Organisation Ihrer Produkte in Kategorien ist für die Verwaltung Ihrer Kata
 
 ## Zusätzliche Ressourcen
 
-- [Kategorieproduktzuweisungen - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Kategorieregeln für Merchandising - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Kategorieproduktzuweisungen - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Kategorieregeln für Merchandising - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

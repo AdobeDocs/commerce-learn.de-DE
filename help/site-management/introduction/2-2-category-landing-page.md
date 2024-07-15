@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,14 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Kategorieninhalt - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[Kategorieinhalt - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Anzeigeeinstellungen - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[Anzeigeeinstellungen - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Designeinstellungen - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[Design-Einstellungen - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

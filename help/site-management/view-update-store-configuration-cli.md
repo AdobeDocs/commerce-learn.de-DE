@@ -10,13 +10,13 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Anzeigen und Festlegen von Admin-Konfigurationen mithilfe der Befehlszeile
 
@@ -59,9 +59,9 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 Wie finde ich den Konfigurationswert, der irgendwo in der Codebase definiert ist?
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-So zeigen Sie eine Seite im Terminal an und zeigen Zeilennummern an `cat -n vendor/magento/module-email/etc/config.xml`
+So zeigen Sie eine Seite im Terminal an und zeigen die Zeilennummern an `cat -n vendor/magento/module-email/etc/config.xml`
 
 ## Zusätzliche Ressourcen
 
 - [Befehlszeilenwerkzeug](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Admin Security konfigurieren](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Konfigurieren der Administrator-Sicherheit](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

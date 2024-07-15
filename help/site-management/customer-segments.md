@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Kundensegmente ermöglichen es Ihnen, Inhalte und Promotions für bestimmte Kund
 ## Zusätzliche Ressourcen
 
 - [Kundensegmente - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Kundensegmente in Preisregeln - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [Kundensegmente in Preisregeln - [!DNL Commerce] Handbuch für die Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

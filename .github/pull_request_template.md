@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
 - [ ] Fehlerbehebung (nicht brechende Änderung, die ein Problem behebt)
-- [ ] Neue Funktion (innovative Änderung, durch die Funktionen hinzugefügt werden)
+- [ ] Neue Funktion (nicht umständliche Änderung, durch die Funktionen hinzugefügt werden)
 - [ ] Grundlegende Änderung (Korrektur oder Funktion, die dazu führen würde, dass sich die vorhandene Funktionalität ändert)
 
 ## Checkliste:
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Haben Sie der [Namensstandards](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Haben Sie die [Namensstandards](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards) befolgt?
 - [ ] Das Inhaltsverzeichnis und die H1-Übereinstimmung für jede Seite, die erstellt oder aktualisiert wird.
 - [ ] Dem Inhaltsverzeichnis und dem H1 ist eine Aktion zugeordnet, z. B.: Erfahren Sie, wie Sie eine Pull-Anforderung von GutHub erstellen
-- [ ] In H1 darf kein Abstand vorhanden sein
+- [ ] Nichts sollte in H1 mit Abstand sein
 - [ ] Jeder Seitentitel sollte mit einem ***C***apitolbuchstaben beginnen
 - [ ] Ich habe überprüft, ob Videos Kapitel enthalten sollten.
-- [ ] Für alle Videos wurde ein Poster zugewiesen, mit dem das Video ordnungsgemäß dargestellt wird
-- [ ] Haben Sie [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] Für alle Videos ist ein Poster zugewiesen, mit dem das Video ordnungsgemäß dargestellt wird
+- [ ] Haben Sie [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html) verwendet?

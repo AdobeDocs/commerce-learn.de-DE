@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie Ihre neue Adobe Developer App Builder-Anwendung lokal test
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und bereit sind, ihre erste Adobe Developer App Builder-App zu testen.
+* Entwickler, die neu bei Adobe Commerce sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen und bereit sind, ihre erste Adobe Developer App Builder-App zu testen.
 
 ## Videoinhalt
 

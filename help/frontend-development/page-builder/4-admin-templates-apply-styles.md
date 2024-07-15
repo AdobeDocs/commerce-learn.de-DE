@@ -1,6 +1,6 @@
 ---
 title: Page Builder für Entwickler - Vorlagen und Stile
-description: "[!DNL Admin] und Staging-Designaufgaben. Erstellen [!DNL Admin] Vorlagen ​. Wenden Sie Stile auf Inhaltstypen auf der Bühne (Live-Vorschau) an."
+description: "[!DNL Admin] und Staging-Designaufgaben. Erstellen Sie die ​ [!DNL Admin] Vorlagen . Wenden Sie Stile auf Inhaltstypen auf der Bühne (Live-Vorschau) an."
 kt: 5653
 doc-type: video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 In diesem Video:
 
 - [!DNL Admin] und Staging-Designaufgaben
-- Erstellen [!DNL Admin] Vorlagen &#x200B;
+- [!DNL Admin] Vorlagen erstellen &#x200B;
 - Anwenden von Stilen auf Inhaltstypen auf der Bühne (Live-Vorschau)
 
 ## Für wen ist dieses Video?
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise zu Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

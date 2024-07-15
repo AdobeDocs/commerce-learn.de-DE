@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Kundengruppen erstellen
 
-Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verbunden ist. Die standardmäßigen Kundengruppen sind _Allgemein_, _Nicht angemeldet_, und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
+Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verbunden ist. Die standardmäßigen Kundengruppen sind _Allgemein_, _Nicht angemeldet_ und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
 
 ## Für wen ist dieses Video?
 
@@ -34,4 +34,4 @@ Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse 
 ## Zusätzliche Ressourcen
 
 - [Kundengruppen - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Einschränkungen von Kundengruppen nach Websites - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Einschränkungen der Kundengruppen nach Websites - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

@@ -34,11 +34,11 @@ Erfahren Sie mehr über die Cloud-Infrastruktur und einige Best Practices für d
 
 ## Im Video erwähnte Experience League-Dokumentation
 
-- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+- [rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
 - [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-- [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-  [Adobe Commerce-Aktualisierung und Anwenden von Patches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
-- [Checkliste für Adobe Commerce vor dem Start](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
-- [Support-Tickets](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+- [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+  [Adobe Commerce-Upgrade und Anwenden von Patches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+- [Adobe Commerce-Checkliste vor dem Start](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [Erstellen von Support-Tickets](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

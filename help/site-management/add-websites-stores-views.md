@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Jede Installation von Adobe Commerce und Magento Open Source unterstützt eine H
 
 >[!NOTE]
 >
->Der Inhalt im Video spiegelt die Version 2.1.0 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video spiegelt die Version 2.1.0 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Websites, Stores und Ansichten - [!DNL Commerce] Handbuch &quot;Erste Schritte&quot;](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-- [Stammkategorie und Hierarchie - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+- [Websites, Stores und Ansichten - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Stammkategorie und -hierarchie - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

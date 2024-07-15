@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - SQL Report Builder
-description: Erfahren Sie, wie Sie mit Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
-landing-page-description: In diesem Video erfahren Sie, wie Sie mit Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
-short-description: In diesem Video erfahren Sie, wie Sie mit Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
+title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
+description: Erfahren Sie, wie Sie mit dem Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
+landing-page-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
+short-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ In diesem Video:
 
 >[!TIP]
 >
->Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird die Variable [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen umfassenden Überblick, um durch die Datenerfassung, -analyse und -visualisierung bessere Einblicke und Ergebnisse für Unternehmen zu erzielen.
 
 ## Für wen ist dieses Video?
 
@@ -50,6 +50,6 @@ In diesem Video:
 
 ## Nützliche Ressourcen
 
-[Verwenden von SQL Report Builder - Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Verwenden von SQL Report Builder - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Erstellen von Visualisierungen aus SQL-Abfragen - Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Erstellen von Visualisierungen aus SQL-Abfragen - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Mit Adobe Commerce oder Magento Open Source 2.4 können Händler ihre Mediendate
 ## Zusätzliche Ressourcen
 
 - [Die Mediengalerie - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Alternativer Medienspeicher - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [Alternativer Medienspeicher - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ Abhängigkeitseinfügung ist ein Designmuster, das es einem Objekt A ermöglicht
 
 ## Nützliche Ressourcen
 
-- [Injektion der Abhängigkeit](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [Abhängigkeitsinjektion](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 - [PHP-Entwicklerhandbuch](https://developer.adobe.com/commerce/php/development/)

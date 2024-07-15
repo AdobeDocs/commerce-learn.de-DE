@@ -43,7 +43,7 @@ In diesem Video erhalten Sie einen schnellen Überblick über das End-to-End-BOP
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version der Store Fulfillment-Lösung 1.0 wider, die auf einer Storefront mit Adobe Commerce 2.4 installiert ist. Siehe [Benutzerhandbuch zur Store-Erfüllung](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) für die aktuellsten Informationen.
+>Der Inhalt des Videos spiegelt die Version der Store Fulfillment-Lösung 1.0 wider, die auf einer Storefront mit Adobe Commerce 2.4 installiert ist. Aktuelle Informationen finden Sie im [Benutzerhandbuch zur Store-Erfüllung](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) .
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 

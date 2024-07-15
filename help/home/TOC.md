@@ -15,8 +15,8 @@ ht-degree: 2%
 
 + [[!DNL Commerce]-Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + [Migrieren von einer selbst gehosteten Lösung](../cloud/overview.md)
-   + Technische Onboarding- und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
+   + [Migration von einer selbst gehosteten Lösung](../cloud/overview.md)
+   + Technisches Onboarding und Übergabe der Hardware {#technical-onboarding-hardware-handoff}
       + [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
       + [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
@@ -38,11 +38,11 @@ ht-degree: 2%
       + [Einfaches Produkt](../site-management/create-simple-product.md)
       + [Virtuelles Produkt](../site-management/create-virtual-product.md)
       + [herunterladbares Produkt](../site-management/create-downloadable-product.md)
-      + [Gruppierungsprodukt](../site-management/create-grouped-product.md)
+      + [Gruppiertes Produkt](../site-management/create-grouped-product.md)
       + [Konfigurierbares Produkt](../site-management/create-configurable-product.md)
       + [Paket-Produkt](../site-management/create-bundle-product.md)
       + [Geschenkkartenprodukt](../site-management/create-gift-card-product.md)
-   + Back Office Integration Start Kit {#back-office-integration-starter-kit}
+   + Starterkit für Back Office-Integration {#back-office-integration-starter-kit}
       + [Starter-Kit-Demonstration](../back-office-integrations/starter-kit-demo.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
    + Aktivierungsreihe {#enablement-series}
@@ -59,11 +59,11 @@ ht-degree: 2%
    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
    + [Erweiterungs-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionelle Demonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [Technische Übersicht über App Builder](../app-builder/app-builder-technical-overview.md)
+   + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
    + [App an Marketplace übermitteln](../app-builder/submit-app-process.md)
-   + Erstellen der ersten App-Builder-App {#first-app}
+   + Erstellen der ersten App Builder-App {#first-app}
       + [Übersicht](../app-builder/first-app/overview.md)
-      + [.env-Datei generieren und konfigurieren](../app-builder/first-app/env-file.md)
+      + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
       + [Beschreibung und Verwendung der Datei &quot;app.config.yaml&quot;](../app-builder/first-app/app-config-yaml-file.md)
       + [Erfahren Sie mehr über den Ordner &quot;actions&quot;](../app-builder/first-app/actions-folder.md)
       + [Erfahren Sie mehr über den Testordner](../app-builder/first-app/test-folder.md)
@@ -72,13 +72,13 @@ ht-degree: 2%
       + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
       + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
-   + I/O-Ereignisse für Adobe Commerce {#io-events}
+   + IO-Ereignisse für Adobe Commerce {#io-events}
       + [Erste Schritte bei I/O-Ereignissen](../io-events/getting-started-io-events.md)
       + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
       + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
-      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
+      + [Adobe Commerce-Modulentwicklung](../io-events/commerce-module-development.md)
       + [Bedingte Ereignisse für Adobe Commerce](../io-events/conditional-events.md)
    + API-Mesh {#api-mesh}
       + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
@@ -126,7 +126,7 @@ ht-degree: 2%
    + [Verwalten verwandter Produktregeln](../site-management/related-product-rules.md)
    + [Einrichten der Produkt-Recommendations](../site-management/product-recommendations.md)
    + [Einführung in die Live-Suche](../site-management/live-search.md)
-   + [Live-Suche nach Empfehlungen](../site-management/live-search-recommendations.md)
+   + [Live Search for recommendations](../site-management/live-search-recommendations.md)
    + [Integrieren von Commerce mit AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellungen und Erfüllung {#orders}
    + [Store Fulfillment - Übersicht](../orders-and-fulfillment/store-fulfillment.md)
@@ -137,7 +137,7 @@ ht-degree: 2%
    + [Verwalten freigegebener Kataloge](../b2b/shared-catalogs.md)
    + [Verwalten von Firmenguthaben](../b2b/company-credit.md)
    + [Bestellungen und Validierungen](../b2b/purchase-orders.md)
-   + Anführungszeichen {#b2b-quote}
+   + Zitat {#b2b-quote}
       + [Vertriebsmitarbeiter initiiert Zitat](../b2b/sales-rep-initiates-quote.md)
       + [Anführungszeichenvalidierung durch den Administrator](../b2b/quote-validation-admin-panel.md)
       + [Vertriebsmitarbeiter initiiert eine zitierte REST-API](../b2b/sales-rep-initiates-quote-api.md)
@@ -158,7 +158,7 @@ ht-degree: 2%
    + [Filtersätze](../business-intelligence/filter-sets.md)
    + [Report Builder der Kohorte](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
-   + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
+   + [Vorbereitung für die Zukunft](../business-intelligence/prepare-for-future.md)
 + Commerce-Upgrades {#upgrade}
    + [Adobe Commerce 2.4 Upgrade-Workshop](../upgrade/2-4-upgrade-workshop.md)
    + [Überblick über das Upgrade-Kompatibilitätstool](../upgrade/upgrade-compatibility-tool-overview.md)

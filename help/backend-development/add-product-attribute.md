@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul das deklarative Schema verwendet und die meisten seit 2.3.0 besitzen, sollten Sie setup_version weglassen. Wenn Sie jedoch über einige veraltete Projekte verfügen, wird diese Methode möglicherweise verwendet.  Siehe [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} für weitere Informationen.
+>Wenn Ihr Modul das deklarative Schema verwendet und die meisten seit 2.3.0 besitzen, sollten Sie setup_version weglassen. Wenn Sie jedoch über einige veraltete Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden Sie unter [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} .
 
 
 ```xml
@@ -231,4 +231,4 @@ class InstallData implements InstallDataInterface
 
 [Erstellen eines Produktattributs](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Fügen Sie ein benutzerdefiniertes Textfeldattribut hinzu](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

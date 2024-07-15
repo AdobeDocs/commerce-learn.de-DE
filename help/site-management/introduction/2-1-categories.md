@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Kategorien - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[Kategorien - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

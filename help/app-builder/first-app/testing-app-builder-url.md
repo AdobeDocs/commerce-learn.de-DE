@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Testen mit der App Builder-URL {#testing-app-builder-url}
+# Testen mit App Builder URL {#testing-app-builder-url}
 
 Erfahren Sie, wie Sie Ihre neue Adobe Developer App Builder-Anwendung mithilfe der URL aus Ihrem Projekt testen können.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce neu sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und bereit sind, ihre erste Adobe Developer App Builder-App zu testen.
+* Entwickler, die neu bei Adobe Commerce sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen und bereit sind, ihre erste Adobe Developer App Builder-App zu testen.
 
 ## Videoinhalt
 

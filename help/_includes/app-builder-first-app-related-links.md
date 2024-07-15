@@ -1,16 +1,16 @@
 ---
 title: App Builder - Erste App-bezogene Seiten
-description: Links zu verwandten Seiten im Abschnitt "Erste App"von App Builder
+description: Links zu verwandten Seiten im Abschnitt "Erste App App Builder"
 source-git-commit: 021098545e4666f43f02452358464701f30002fd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# App Builder - Links zur ersten App
+# Links zur ersten App App Builder
 
-## App Builder - Erstellen von Seiten mit der ersten App
+## App Builder - Erstellen von Seiten, die mit der ersten App verknüpft sind
 
 * [Übersicht](../app-builder/first-app/overview.md)
 * [Die ](../app-builder/first-app/env-file.md)
@@ -19,6 +19,6 @@ ht-degree: 1%
 * [`test`](../app-builder/first-app/test-folder.md)
 * [`web-src`](../app-builder/first-app/web-src-folder.md)
 * [Lokales Testen](../app-builder/first-app/testing-locally.md)
-* [Testen mit der App Builder-URL](../app-builder/first-app/testing-app-builder-url.md)
+* [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
 * [Schlussfolgerung](../app-builder/first-app/conclusion.md)
 * [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}

@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
 source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Deve
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die mit Adobe Commerce und Adobe Developer App Builder über I/O-Ereignisse neu sind, müssen ein Adobe App Builder-Projekt erstellen.
+* Entwickler, die mit Adobe Commerce und Adobe Developer App Builder über I/O-Ereignisse neu sind und ein Adobe App Builder-Projekt erstellen müssen.
 
 ## Videoinhalt {#video-content}
 
@@ -33,7 +33,7 @@ Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Deve
 * Erfahren Sie mehr über die ordnungsgemäße Verwendung der neuen XML-Datei io_events.xml
 * Erfahren Sie, wie Sie bedingte Ereignisse konfigurieren
 * Definieren von Regeln für die Verwendung in bedingten Ereignissen
-* Erfahren Sie, wie Sie Ereignisse in den Commerce-Instanzen registrieren. `app/etc/config.php`
+* Erfahren Sie, wie Sie Ereignisse in den Commerce-Instanzen registrieren `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

@@ -1,8 +1,8 @@
 ---
 title: Erste Schritte mit API-Mesh
-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe App Builder, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
-landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
-short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe App Builder, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von Adobe IO, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -14,24 +14,24 @@ level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 23%
+source-wordcount: '316'
+ht-degree: 15%
 
 ---
 
 # Erste Schritte mit API-Mesh
 
-Wenn Sie mit API Measurement für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem Einführungskurs zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
+Wenn Sie mit API Mesh für Adobe Developer App Builder noch nicht vertraut sind, empfiehlt Adobe, mit diesem Einführungskurs zu beginnen, bevor Sie zu den anderen Videos und Tutorials übergehen.
 
 ## Was ist API-Mesh?
 
 API-Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, die Ihre Anwendung nutzen kann.
 
-[Vollständige API-Mesh-Dokumentation anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[ Vollständige API-Mesh-Dokumentation anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Für wen ist dieses Video?
 
-* Jeglicher Entwickler, der neu bei API Measurement ist oder [!DNL Adobe Commerce] eingeschränkte Erfahrung mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh.
+* Jeder Entwickler, der neu für API-Mesh oder [!DNL Adobe Commerce] mit eingeschränktem Erlebnis mit [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} und API-Mesh ist.
 
 ## Videoinhalt
 
@@ -48,9 +48,9 @@ Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt.
 
 ## Was ist ein Reverse-Proxy?
 
-Entwickler, die Adobe App Builder und API Measurement verwenden, müssen nicht wissen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktionalität interessiert sind, da sie sich auf Adobe App Builder bezieht, verwenden Sie die folgenden Ressourcen:
+Entwickler, die Adobe App Builder und API Mesh verwenden, müssen nicht wissen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktion interessiert sind, da sie sich auf Adobe App Builder bezieht, nutzen Sie die folgenden Ressourcen:
 
-* [Was ist ein Reverse-Proxy?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Was ist ein Reverse-Proxy und warum ist es wichtig?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Was ist ein Reverse-Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Was ist ein Reverse-Proxy und warum ist es wichtig](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

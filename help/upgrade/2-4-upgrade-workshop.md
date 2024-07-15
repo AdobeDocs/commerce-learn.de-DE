@@ -42,6 +42,6 @@ In diesem Workshop arbeitete Adobe Commerce mit Merkle zusammen, um Folgendes zu
 
 ## Zusätzliche Ressourcen
 
-- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [Veröffentlichungsplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

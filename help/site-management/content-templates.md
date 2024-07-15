@@ -12,8 +12,8 @@ level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
@@ -32,5 +32,5 @@ Durch die Verwendung von Vorlagen sparen Sie Zeit und Mühe beim Erstellen von I
 
 ## Zusätzliche Ressourcen
 
-- [[!DNL Page Builder] Templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Vorlagen - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 - [Vorlagen hinzufügen - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

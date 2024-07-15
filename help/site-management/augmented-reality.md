@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR-Viewer verfügbar auf der Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Verbesserter Reality Viewer für Adobe Commerce
 
@@ -24,7 +24,7 @@ AR Viewer ist eine Erweiterung für Adobe Commerce, die eine neue Funktion für 
 
 Der AR Viewer dient als Brücke zwischen dem physischen und digitalen Einzelhandel und ermöglicht es den Verkäufern, ein umfangreiches, interaktives Kundenerlebnis zu bieten, ohne umfangreiche technische Kenntnisse oder intensive manuelle Arbeit zu erfordern. Die benutzerfreundliche Benutzeroberfläche ist nahtlos in den Adobe Commerce-Administrator integriert und stellt somit eine praktische Ergänzung zu jedem Online-Store dar.
 
-AR-Viewer dient als [!DNL bridge] die Lücke zwischen physischem und digitalem Einzelhandel, die es den Verkäufern ermöglicht, ein umfangreiches, interaktives Kundenerlebnis zu bieten, ohne dass umfangreiche technische Kenntnisse oder intensive manuelle Arbeit erforderlich sind. Die benutzerfreundliche Benutzeroberfläche ist nahtlos in den Adobe Commerce-Administrator integriert und stellt somit eine praktische Ergänzung zu jedem Online-Store dar.
+Der AR-Viewer dient [!DNL bridge] der Lücke zwischen dem physischen und dem digitalen Einzelhandel und ermöglicht es Verkäufern, ein umfangreiches, interaktives Kundenerlebnis zu bieten, ohne umfangreiche technische Kenntnisse oder intensive manuelle Arbeit zu erfordern. Die benutzerfreundliche Benutzeroberfläche ist nahtlos in den Adobe Commerce-Administrator integriert und stellt somit eine praktische Ergänzung zu jedem Online-Store dar.
 
 ## Funktionen
 
@@ -39,7 +39,7 @@ AR-Viewer dient als [!DNL bridge] die Lücke zwischen physischem und digitalem E
 ## Hinzufügen des 3D-Modells zu einem Produkt
 
 Das Hinzufügen eines neuen 3D-Modells zum Produkt ist ein einfacher Prozess, nachdem das Modul in der Adobe Commerce-Installation installiert wurde.
-Im folgenden Video gibt es einen neuen Abschnitt, der das Hochladen der `.USDZ` Datei-Upload.
+Im folgenden Video gibt es einen neuen Abschnitt, der das Hochladen des `.USDZ`-Datei-Uploads unterstützt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -62,5 +62,4 @@ Sobald der Besucher den QR-Code mit seinem Gerät scannt, wird das Element auf d
 
 ## Adobe Commerce Marketplace-Erweiterung
 
-[AR-Viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-
+[AR viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}

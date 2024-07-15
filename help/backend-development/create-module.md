@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Modul erstellen
 
-Das Modul ist ein strukturelles Element von [!DNL Commerce] - das ganze System basiert auf Modulen. In der Regel besteht der erste Schritt beim Erstellen einer Anpassung darin, ein Modul zu erstellen.
+Das Modul ist ein Strukturelement von [!DNL Commerce] - das gesamte System basiert auf Modulen. In der Regel besteht der erste Schritt beim Erstellen einer Anpassung darin, ein Modul zu erstellen.
 
 ## Für wen ist dieses Video?
 
@@ -71,12 +71,12 @@ Der nächste Schritt besteht darin, unserem grundlegenden Modul einige Funktione
 
 ### Was Sie für Plug-ins beachten sollten
 
-- Alle Plug-ins werden in deklariert `di.xml`.
+- Alle Plug-ins werden in `di.xml` deklariert.
 - Das Plug-in benötigt einen eindeutigen Namen
 - disabled und sortOrder sind optional
 - Der Umfang des Plug-ins wird durch den Ordner festgelegt, in dem es sich befindet
 - Plug-ins können vor, nach oder beide (um) ausgeführt werden, wobei die Methode aufgerufen wird
-- Vermeiden von `around` Plug-ins. Sie sind versucht zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
+- Vermeiden Sie die Verwendung von `around` -Plug-ins. Sie sind versucht zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
 
 ### Beispiele für Plug-in-Code
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Nützliche Ressourcen
 
-- [Handbuch zur Modulreferenz](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+- [Modul-Referenzhandbuch](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 - [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

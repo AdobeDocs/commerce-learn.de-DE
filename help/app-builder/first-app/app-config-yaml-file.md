@@ -1,7 +1,7 @@
 ---
 title: Die Datei "app.config.yaml"
 description: Erfahren Sie mehr über die Dateitypen in der Datei "app.config.yaml"für diese Beispielanwendung.
-landing-page-description: Erfahren Sie mehr über den mit Adobe Commerce verwendeten Adobe Developer App Builder und welche Dateitypen in der Datei app.config.yaml verwendet werden.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen in der Datei "app.config.yaml"verwendet werden.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -24,12 +24,12 @@ Diese Datei bestimmt die Konfiguration für die Anwendung.
 
 ## Für wen ist dieses Video?
 
-* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und über die `app.config.yaml` in der Probenanwendung.
+* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und über die `app.config.yaml` in der Beispielanwendung verfügen.
 
 ## Videoinhalt
 
-* Die `app.config.yaml` diskutierte Datei
-* Wie werden Definitionen mit anderen verknüpft? `.js` files
+* Die beschriebene `app.config.yaml`-Datei
+* Wie werden Definitionen mit anderen `.js`-Dateien verknüpft?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Sie können sehen, dass diese statischen Werte im Beispielmodul in der Datei verwendet werden `actions/commerce.index.js`
+Sie können sehen, dass diese statischen Werte im Beispielmodul in Datei `actions/commerce.index.js` verwendet werden.
 
 ```javascript
         const oauth = getCommerceOauthClient(

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,12 +34,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Kundenkontobereich - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Umfang des Kundenkontos - [!DNL Commerce] Handbuch für die Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Erlebnis in Listen-Storefront - [!DNL Commerce] Handbuch für Stores und Einkaufserlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Wunschliste für das Storefront-Erlebnis - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

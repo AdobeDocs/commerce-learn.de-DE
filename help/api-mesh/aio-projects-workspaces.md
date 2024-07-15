@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Arbeiten mit Projekten und Arbeitsbereichen
 
-In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs mit Ihrem Gitter erläutert. Diese Arbeit findet vorwiegend im [Adobe Developer-Konsole](https://developer.adobe.com/console){target="_blank"} Benutzeroberfläche.
+In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs mit Ihrem Gitter erläutert. Diese Arbeit erfolgt hauptsächlich in der Benutzeroberfläche der [Adobe Developer-Konsole](https://developer.adobe.com/console){target="_blank"}.
 
 ## Für wen ist dieses Video?
 
@@ -29,8 +29,8 @@ In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs m
 
 ## Videoinhalt
 
-* Arbeiten mit Projekten und Arbeitsbereichen in der Adobe Developer-Konsole
-* Hinzufügen von API-Gittern zum Arbeitsbereich in der Adobe Developer-Konsole
+* Arbeiten mit Projekten und Arbeitsbereichen in Adobe Developer Console
+* Hinzufügen von API-Gittern zum Arbeitsbereich in der Adobe Developer Console
 * Anmeldung bei der Adobe Developer-Konsole in der CLI
 * Ausgewähltes Projekt und Arbeitsbereich in der CLI anzeigen
 * Ändern der ausgewählten Organisation, des Projekts oder Arbeitsbereichs in der CLI
@@ -40,12 +40,12 @@ In diesem Tutorial wird das Erstellen eines Projekts und eines Arbeitsbereichs m
 
 ## Informationen zur Adobe Developer Console
 
-In der Adobe Developer-Konsole stellt die folgende Hierarchie dar, wie Ihre APIs in Ihre Organisation passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zum Adobe App Builder, zum Anmelden bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In der Adobe Developer Console stellt die folgende Hierarchie dar, wie Ihre APIs in Ihr Unternehmen passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zum Adobe App Builder, zum Anmelden bei der Konsole und zur grundlegenden Fehlerbehebung finden Sie unter [Erstellen Ihrer ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
-## Einführung in Projekte in der Adobe Developer-Konsole
+## Einführung in Projekte in der Adobe Developer Console
 
-Die gesamte Entwicklungsarbeit in der Adobe Developer Console erfolgt im Rahmen eines Projekts. Ein Projekt kann ein oder mehrere Produkte sowie eine Kombination aus APIs, Ereignissen, Laufzeiten und Plug-ins enthalten. Weitere Informationen zu Projekten in der Adobe Developer Console finden Sie unter [Projekte](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
+Die gesamte Entwicklungsarbeit in Adobe Developer Console erfolgt im Rahmen eines Projekts. Ein Projekt kann ein oder mehrere Produkte sowie eine Kombination aus APIs, Ereignissen, Laufzeiten und Plug-ins enthalten. Weitere Informationen zu Projekten in der Adobe Developer-Konsole finden Sie unter [Projekte](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Weitere Informationen zur Verwendung von Projekten und Arbeitsbereichen im Kontext von API-Mesh finden Sie unter [Ändern von Projekten und Arbeitsbereichen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
+Weitere Informationen zur Verwendung von Projekten und Arbeitsbereichen im Kontext von API-Mesh finden Sie unter [Projekte und Arbeitsbereiche ändern](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

@@ -30,7 +30,7 @@ In diesem Video:
 - So können Sie schnell die Fehler und Fehlerbehebungen ermitteln, die für die Aktualisierung auf eine neuere Adobe Commerce-Version erforderlich sind
 - Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
 
-Weitere Informationen zum Tool finden Sie unter [Dokumentation zum Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Wenn Sie mehr über die Leistung und Vereinfachung Ihrer Upgrades erfahren möchten, finden Sie im Abschnitt [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Weitere Informationen zum Tool finden Sie in der Dokumentation zum [Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en) . Weitere Informationen zum Durchführen und Vereinfachen von Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Für wen ist dieses Video?
 
@@ -44,6 +44,6 @@ Weitere Informationen zum Tool finden Sie unter [Dokumentation zum Upgrade-Kompa
 ## Zusätzliche Ressourcen
 
 - [Dokumentation zum Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [Veröffentlichungsplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

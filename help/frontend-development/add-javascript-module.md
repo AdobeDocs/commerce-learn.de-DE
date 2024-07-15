@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Dieses Video bietet eine schrittweise Anleitung zur Entwicklung eines einfachen 
 ## Schritte
 
 - Modul erstellen
-- Erstellen Sie eine `requirejs-config.js` und einer JavaScript-Moduldatei
+- Erstellen von `requirejs-config.js` und einer JavaScript-Moduldatei
 - Erstellen Sie ein Layout-Update zum Hinzufügen einer Vorlage, die das JS-Modul aktiviert
 - Vorlagendatei erstellen
 - Fügen Sie das Modul hinzu und testen Sie es
@@ -39,4 +39,4 @@ Dieses Video bietet eine schrittweise Anleitung zur Entwicklung eines einfachen 
 ## Nützliche Ressourcen
 
 - [JavaScript-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [JavaScript aufrufen und initialisieren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [Aufrufen und Initialisieren von JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

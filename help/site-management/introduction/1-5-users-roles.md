@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] für Geschäftsbenutzer - Benutzer und Rollen"
-description: Informationen zu den Grundlagen [!DNL Admin] Benutzerkonten und Benutzerrollen, die Berechtigungen bestimmen.
+description: Lernen Sie die Grundlagen zu [!DNL Admin] Benutzerkonten und Benutzerrollen kennen, die Berechtigungen bestimmen.
 kt: 5762
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Weitere Informationen zu Aktualisierungen in späteren Versionen finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
@@ -40,5 +40,5 @@ In diesem Video:
 
 [Verwalten von Admin-Benutzerkonten - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Benutzerrollen - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Benutzerrollen - [!DNL Commerce] Administratorsystemhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

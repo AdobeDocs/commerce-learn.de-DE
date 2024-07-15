@@ -34,5 +34,5 @@ Das Site-weite Analyse-Tool ist ein proaktives Self-Service-Tool und zentrales R
 
 ## Zusätzliche Ressourcen
 
-- [Site-weites Analyse-Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [ Site-weites Analyse-Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Protokolle anzeigen und verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Ado
 
 ## Für wen ist dieses Video?
 
-* Neue Entwickler für Adobe Commerce und Adobe Developer App Builder mit I/O-Ereignissen
+* Neue Entwickler für Adobe Commerce und Adobe Developer App Builder mithilfe von I/O-Ereignissen
 
 ## Videoinhalt {#video-content}
 

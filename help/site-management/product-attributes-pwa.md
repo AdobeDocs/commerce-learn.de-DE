@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 source-git-commit: 3eff251283f1a6c5dc2bff8d72bd494d7446db79
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ In diesem Video erfahren Sie, wie Sie Produktattribute verwalten, wenn Sie eine 
 
 ## Zusätzliche Ressourcen
 
-- [Produktattribute - [!DNL Commerce] Catalog Management-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [Produktattribute - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 - [PWA Studio - Entwicklerdokumentation](https://developer.adobe.com/commerce/pwa-studio/)

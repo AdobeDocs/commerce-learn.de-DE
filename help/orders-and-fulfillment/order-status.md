@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Bestellstatus verwalten
 
-Wenn ein Kunde eine Bestellung aufgibt, wird eine Bestellung als temporärer Datensatz der Transaktion erstellt. Der Verkaufsauftrag hat den Status _Ausstehend_ bis die Zahlung eingegangen ist. Im Status Ausstehend können Bestellungen bearbeitet oder storniert werden, bis die Zahlung eingegangen ist und eine Rechnung erstellt wurde. In diesem Video erfahren Sie, wie Sie den Bestellstatus und seine Details überprüfen und gegebenenfalls den Status einer Bestellung ändern können.
+Wenn ein Kunde eine Bestellung aufgibt, wird eine Bestellung als temporärer Datensatz der Transaktion erstellt. Der Verkaufsauftrag hat den Status &quot;_Ausstehend_&quot;, bis die Zahlung eingegangen ist. Im Status Ausstehend können Bestellungen bearbeitet oder storniert werden, bis die Zahlung eingegangen ist und eine Rechnung erstellt wurde. In diesem Video erfahren Sie, wie Sie den Bestellstatus und seine Details überprüfen und gegebenenfalls den Status einer Bestellung ändern können.
 
 ## Für wen ist dieses Video?
 
@@ -32,5 +32,5 @@ Wenn ein Kunde eine Bestellung aufgibt, wird eine Bestellung als temporärer Dat
 
 ## Zusätzliche Ressourcen
 
-- [Reihenfolge verarbeiten - [!DNL Commerce] Handbuch für Stores und Einkaufserlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Bestellstatus - [!DNL Commerce] Handbuch für Stores und Einkaufserlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Verarbeiten einer Bestellung - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Auftragsstatus - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

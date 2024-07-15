@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
 ## Schritte zum Hinzufügen einer Seite
 
 - Modul erstellen
-- Hinzufügen einer **routes.xml** file
+- Hinzufügen einer Datei **routes.xml**
 - Hinzufügen einer Controller-Datei (Aktionsdatei)
 
 ## Schritte zum Erstellen eines Moduls
 
 - Erstellen des Modulordners
-- Erstellen Sie die `etc/module.xml` file
-- Erstellen Sie die `registration.php` file
-- Führen Sie die `bin/magento setup:upgrade` Skript zur Installation des neuen Moduls
+- Erstellen der Datei &quot;`etc/module.xml`&quot;
+- Erstellen der Datei &quot;`registration.php`&quot;
+- Führen Sie das Skript `bin/magento setup:upgrade` aus, um das neue Modul zu installieren
 - Überprüfen Sie, ob das Modul funktioniert.
 
 ## Videoinhalt
@@ -44,4 +44,4 @@ Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
 
 ## Nützliche Ressourcen
 
-[Entwicklerhandbuch für Frontend](https://developer.adobe.com/commerce/frontend-core/guide/)
+[Frontend-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/guide/)

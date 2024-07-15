@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit IO-Ereignissen mit Adobe App Builder und Adobe Commerce
+title: Erste Schritte mit IO-Ereignissen unter Verwendung von Adobe App Builder und Adobe Commerce
 description: Erste Schritte mit Adobe I/O-Ereignissen. Erstellen Sie eine App Builder-Laufzeitaktion für Adobe Commerce-Ereignisse.
 landing-page-description: Erfahren Sie, wie Sie die App Builder-Laufzeitaktion für Adobe Commerce-Ereignisse verwenden.
 short-description: Erstellen einer App Builder-Laufzeitaktion für Adobe Commerce-Ereignisse.
@@ -11,7 +11,8 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
+source-git-commit: b858cca427399963571847c71832841b64c88c95
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Erste Schritte mit I/O-Ereignissen für Adobe Commerce
 
-Erfahren Sie mehr über Adobe I/O-Ereignisse. In dieser Demonstration wird ein Ereignis aus Adobe Commerce über den Adobe Developer App Builder an einen Slack-Kanal und das Ereignis von Adobe Commerce gesendet.
+Erfahren Sie mehr über Adobe I/O-Ereignisse. In dieser Demonstration wird ein Ereignis aus Adobe Commerce mithilfe von Adobe Developer App Builder an einen Slack-Kanal und das Ereignis aus Adobe Commerce gesendet.
 
 ## Für wen ist dieses Video?
 

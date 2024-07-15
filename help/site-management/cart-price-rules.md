@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,9 @@ Es gibt einige einzigartige Szenarien, in denen jedes Zeilenelement seinen Rabat
 
 >[!BEGINSHADEBOX]
 
-Warenkorbpreisregel = 10 % Rabatt, der auf 2 Produkte in der Warenkorbbedingung angewendet wird, damit die Preisregel wirksam wird: Die Gesamteinträge im Warenkorb liegen bei 2 Aktionen, die den Prozentsatz des Produktpreisrabatts anwenden, und der Rabattbetrag beträgt 10
+Warenkorbpreisregel = 10 % Rabatt auf 2 Produkte im Warenkorb
+Bedingung, dass die Preisregel wirksam wird: Die Summe der Artikel im Warenkorb beträgt 2
+Aktionen wenden den Prozentsatz des Produktpreisrabatts an und dieser Rabatt beträgt 10
 
 2 Artikel werden dem Warenkorb hinzugefügt, jeder Artikel kostet $19,95
 
@@ -54,13 +56,19 @@ Wenn wir an den Website-Eigentümer denken, der die einzige Person ist, die von 
 
 >[!BEGINSHADEBOX]
 
-Dieselbe 10-%-Rabatt wie die oben genannte Warenkorbregel. Fügen Sie 2 Produkte zum Warenkorb hinzu, die 19,95 sind
+Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
+Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
 
-Jedes Produkt sollte 1,995 USD in Rabatten erhalten Produkt 1 - 19,95 x 0,1 = 1,995 2 - 19,95 x 0,1 = 1,995
+Für jedes Produkt sollten Rabatte im Wert von 1.995 USD gewährt werden.
+Produkt 1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
 
 Als Rabatt wird dem Kunden eine Gesamtsumme von 3,99 gewährt
 
-Beim Anzeigen der Zeileneinträge für den Store-Eigentümer in der Admin-Konsole müssen wir das erste Element anpassen und bis zu 2.000 runden. Die zweiten Elemente legen wir die dritte Dezimalzahl Produkt 1 = 2,00 Produkt 2 = 1,99
+Beim Anzeigen der Zeileneinträge für den Store-Eigentümer in der Admin-Konsole
+Wir müssen das erste Element anpassen und es auf 2.000 aufrunden. Das zweite Element legen wir die dritte Dezimalstelle ab.
+Produkt 1 = 2,00
+Produkt 2 = 1,99
 
 Der Gesamtrabatt der beiden Produkte entspricht nun, wenn sie zusammengerechnet werden, dem tatsächlichen Rabatt, der einem Kunden gewährt wird.
 >[!ENDSHADEBOX]
@@ -73,17 +81,23 @@ Im Folgenden finden Sie einen Screenshot, der im Administrator für eine Bestell
 
 >[!BEGINSHADEBOX]
 
-Dieselbe 10-%-Rabatt wie die oben genannte Warenkorbregel. Fügen Sie 2 Produkte zum Warenkorb hinzu, die 19,95 sind
+Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
+Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
 
-Jedes Produkt sollte 1.995 USD in Rabatten erhalten, aber wenn wir sie einfach aufrunden, wird zu viel Rabatt angezeigt.
+Für jedes Produkt sollten Rabatte in Höhe von 1.995 USD gewährt werden.
+aber wenn wir sie einfach aufrunden, wird zu viel Rabatt angezeigt.
 
-Produkt 1 - 19.95 x 0.1 = 1.995 Produkt 2 - 19.95 x 0.1 = 1.995
+Produkt 1 - 19.95 x 0.1 = 1.995
+Produkt 2 - 19.95 x 0.1 = 1.995
 
-Konvertieren in Aufrundung aller Elemente Produkt 1 Neuer Wert ist 2,00 Produkt 2 Neuer Wert ist 2,00
+Konvertieren in Aufrundung aller Elemente
+Produkt 1 Neuer Wert ist 2,00
+Produkt 2 Neuer Wert ist 2,00
 
-Tatsächlich wurde dem Kunden eine Gesamtsumme von 3,99 als Rabatt gewährt. Wenn wir jedoch aufschließen würden, würde dies zeigen, dass 4,00 USD gewährt wurden, und das ist falsch.
+Tatsächlich wurden dem Kunden insgesamt 3,99 als Rabatt gewährt.
+Wenn wir jedoch aufrunden, würde dies zeigen, dass 4,00 Dollar gegeben wurden, und das ist falsch.
 
-2.00 + 2.00 = $4.00
+2,00 + 2,00 = 4,00 USD
 
 >[!ENDSHADEBOX]
 
@@ -91,20 +105,26 @@ Tatsächlich wurde dem Kunden eine Gesamtsumme von 3,99 als Rabatt gewährt. Wen
 
 >[!BEGINSHADEBOX]
 
-Dieselbe 10-%-Rabatt wie die oben genannte Warenkorbregel. Fügen Sie 2 Produkte zum Warenkorb hinzu, die 19,95 sind
+Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
+Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
 
-Für jedes Produkt sollten Rabatte in Höhe von 1.995 USD gewährt werden. Wenn wir jedoch nur die dritte Dezimalstelle ablegen, geschieht Folgendes: Produkt 1 - 19.95 x 0.1 = 1.995 Produkt 2 - 19.95 x 0.1 = 1.995
+Für jedes Produkt sollten Rabatte in Höhe von 1.995 USD gewährt werden. Wenn wir jedoch nur die dritte Dezimalstelle ablegen, geschieht Folgendes:
+Produkt 1 - 19.95 x 0.1 = 1.995
+Produkt 2 - 19.95 x 0.1 = 1.995
 
-Konvertieren in Ablegen der dritten Dezimalzahl für alle Artikel Produkt 1 Neuer Wert ist 1,99 Produkt 2 Neuer Wert ist 1,99
+Konvertieren in Ablegen der dritten Dezimalzahl für alle Elemente
+Produkt 1 Neuer Wert ist 1.99
+Produkt 2 Neuer Wert ist 1,99
 
-Tatsächlich wurde dem Kunden eine Gesamtsumme von 3,99 als Rabatt gewährt. Wenn wir jedoch die dritte Dezimalstelle streichen, würde dies zeigen, dass 3,98 USD gegeben wurden, und das ist falsch.
+Tatsächlich wurden dem Kunden insgesamt 3,99 als Rabatt gewährt.
+Wenn wir jedoch die dritte Dezimalstelle streichen, würde dies zeigen, dass 3,98 USD gegeben wurden, und das ist falsch.
 
-1.99 + 1.99 = $3.98
+1,99 + 1,99 = 3,98 $
 
 >[!ENDSHADEBOX]
 
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Warenkorbpreisregel - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [Couponcodes - [!DNL Commerce] Handbuch zu Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [Erstellen einer Warenkorbpreisregel - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Couponcodes - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
