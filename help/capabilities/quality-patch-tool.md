@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# Was erwartet Sie mit diesem Video?
+# Adobe Commerce Quality Patch Tool
+
+Erfahren Sie, wie Sie das Qualitäts-Patch-Tool verwenden können, wenn Sie ein Problem diagnostizieren, eine Lösung finden und einen Patch anwenden, der in der vorhandenen Liste der verfügbaren Patches zu finden ist.
+
+## Was erwartet Sie mit diesem Video?
 
 Erfahren Sie, wie Sie ein Problem lösen und dann mithilfe einiger grundlegender Verfahren einen Qualitäts-Patch finden, um eine Korrektur vorzunehmen.
 
