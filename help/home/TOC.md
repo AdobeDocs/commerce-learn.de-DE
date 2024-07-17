@@ -3,10 +3,10 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
+source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 2%
+source-wordcount: '673'
+ht-degree: 3%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 2%
       + [Datenverbindung](../capabilities/data-connection.md)
       + [Vollständige Live Search-Demonstration](../capabilities/live-search-full-demonstration.md)
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+      + [Quality Patch-Tool](../capabilities/quality-patch-tool.md)
    + Produkte erstellen {#create-products}
       + [Einfaches Produkt](../site-management/create-simple-product.md)
       + [Virtuelles Produkt](../site-management/create-virtual-product.md)
