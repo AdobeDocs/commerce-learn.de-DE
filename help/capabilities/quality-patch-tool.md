@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über das Qualitäts-Patch-Tool
-description: Steigern Sie die Stabilität und Sicherheit Ihrer E-Commerce-Plattform durch die Anwendung von Qualitätspatches. Mit diesem wichtigen Tool bleiben Sie auf dem neuesten Stand, beheben Probleme und optimieren die Leistung.
+title: Quality Patch Tool
+description: Erfahren Sie, wie Sie das Qualitäts-Patch-Tool verwenden können, wenn Sie ein Problem diagnostizieren, eine Lösung finden und einen Patch anwenden, der in der vorhandenen Liste der verfügbaren Patches zu finden ist.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce Quality Patch Tool
+# Qualitäts-Patch-Tool
 
 Erfahren Sie, wie Sie das Qualitäts-Patch-Tool verwenden können, wenn Sie ein Problem diagnostizieren, eine Lösung finden und einen Patch anwenden, der in der vorhandenen Liste der verfügbaren Patches zu finden ist.
 
@@ -24,7 +25,7 @@ Erfahren Sie, wie Sie das Qualitäts-Patch-Tool verwenden können, wenn Sie ein 
 
 Erfahren Sie, wie Sie ein Problem lösen und dann mithilfe einiger grundlegender Verfahren einen Qualitäts-Patch finden, um eine Korrektur vorzunehmen.
 
-## Für wen ist dieses Video?
+## Zielgruppe
 
 * Entwickler lernen, wie Probleme gefunden werden, und nutzen dieses Tool, um GIT-Patches für bekannte Probleme anzuwenden
 
