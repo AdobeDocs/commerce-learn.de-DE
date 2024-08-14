@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Einrichten von New Relic-Warnhinweisen
 
-Erfahren Sie, wie Sie Warnhinweise finden, welche Richtlinien und Ziele in New Relic gelten. Beachten Sie, wie einfach es ist, einer vorhandenen Richtlinie eine E-Mail hinzuzufügen.
+Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Relic finden. Beachten Sie, wie einfach es ist, einer vorhandenen Richtlinie eine E-Mail hinzuzufügen.
 
 ## Für wen ist dieses Video?
 
