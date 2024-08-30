@@ -1,7 +1,7 @@
 ---
 title: Links zu Aktivierungsreihen
 description: Links zu verwandten Seiten in der Aktivierungsreihe zur Verwendung auf allen einzelnen Seiten
-source-git-commit: e5b9d8cc85412acf086bcb9ac5ee86ed53c7ae9c
+source-git-commit: 00a7d5c781d811088acc754f3c7a33a4d58b678c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -16,3 +16,4 @@ ht-degree: 0%
 * [Planen der modernen Adobe Commerce-Implementierung](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
 * [Launch, Post-Launch, Überwachung und Fehlerbehebung in Adobe Commerce Cloud](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
 * [Edge Delivery Services mit Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+
