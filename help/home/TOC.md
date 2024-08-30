@@ -3,10 +3,10 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [Bereitstellungen, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-Angebote, -Support und -Kommunikation und nächste Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
    + Best Practices {#commerce-cloud-best-practices}
+      + [Support-Anfrage](../cloud/best-practices/support-request.md)
       + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
    + Globale Referenzarchitektur{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [Letzte Meilenintegration](../back-office-integrations/last-mile-integration.md)
       + [Webhook-Erfassung](../back-office-integrations/webhook-ingestion.md)
       + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
+   + Hilfe und Support {#help-and-support}
+      + [Support-Ticket erstellen](../help-and-support/create-a-support-ticket.md)
+      + [Support-Ticket suchen, verfolgen, kommentieren und eskalieren](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Hinzufügen und Entfernen von Beobachtern, Schließen und erneutes Öffnen eines Tickets](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
    + Aktivierungsreihe {#enablement-series}
       + [Reduzieren des Inhaltsverzeichnisses für Commerce-Integrationen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
