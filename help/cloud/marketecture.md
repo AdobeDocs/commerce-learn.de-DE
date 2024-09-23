@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16061
-source-git-commit: 261419d013d511185c650cb45f50e412184825c8
+source-git-commit: b805d2df5d74f80084336d03add25af72430e785
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -20,6 +20,7 @@ ht-degree: 0%
 # Adobe Commerce-Marketing
 
 Adobe Commerce ist eine erfahrungsgesteuerte Plattform, die technische Flexibilität und Benutzerfreundlichkeit kombiniert, um außergewöhnliche Geschäftsergebnisse zu erzielen. Es ist in AWS und Azure erhältlich und verfügt über mehr als 200 Module, starke SLAs und eine skalierbare Architektur. Die Plattform unterstützt REST- und GraphQL-APIs, die für eine schnellere Performance verbessert werden, und bietet intelligente, zusammenstellbare Dienste wie Live-Suche, AI-Produktempfehlungen und Zahlungslösungen.
+
 Erweiterbarkeits-Tools wie API-Mesh und einheitliches Ereignismanagement optimieren die Entwicklung und Integration, während Edge Delivery Services ein schnelles, entkoppeltes Frontend bereitstellen. Adobe Commerce ist in Adobe Experience Platform integriert und ermöglicht es Unternehmen, Echtzeit-Kundendaten für personalisierte Erlebnisse und zielgerichtete Marketing-Kampagnen zu nutzen und so ein deutliches Wachstum zu fördern.
 
 ## Für wen ist dieses Video vorgesehen?
