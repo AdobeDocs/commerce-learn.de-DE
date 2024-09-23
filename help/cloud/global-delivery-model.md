@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 2d1118ce273c7d641486f6878b6737bc5c3b2d4f
+source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Commerce ist eine hybride Cloud-eCommerce-Plattform, die auf AWS und Azure
 ## Videoinhalt
 
 - Skalierbare und sichere Infrastruktur.  Erfahren Sie mehr über die vollständig redundante Multi-Cloud-Infrastruktur in AWS und Azure, die eine optimierte Leistung, Ausfallsicherheit und elastische Skalierbarkeit mit hohen Sicherheits- und Compliance-Standards gewährleistet.
-- Erweiterte KI-gestützte Dienste. Sie erhalten ein Verständnis für die intelligenten API-First-Dienste wie Live-Suche, KI-gestützte Produktempfehlungen und Katalogdienste, um das Kundenerlebnis und die betriebliche Effizienz zu verbessern. &#x200B;
-- Umfassende Entwicklertools. Erfahren Sie mehr über die Suite der Cloud-nativen, Server-losen Entwicklertools wie API-Mesh und App Builder, die eine nahtlose Integration und Anpassung zur Erweiterung der Commerce-Funktionen ermöglichen. &#x200B;
+- Erweiterte KI-gestützte Dienste. Sie erhalten ein Verständnis für die intelligenten API-First-Dienste wie Live-Suche, KI-gestützte Produktempfehlungen und Katalogdienste, um das Kundenerlebnis und die betriebliche Effizienz zu verbessern.
+- Umfassende Entwicklertools. Erfahren Sie mehr über die Suite der Cloud-nativen, Server-losen Entwicklertools wie API-Mesh und App Builder, die eine nahtlose Integration und Anpassung zur Erweiterung der Commerce-Funktionen ermöglichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
