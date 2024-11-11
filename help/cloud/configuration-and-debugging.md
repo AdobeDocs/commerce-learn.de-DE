@@ -1,32 +1,32 @@
 ---
 title: Adobe Commerce Cloud-Konfiguration und -Debugging
-description: Erfahren Sie mehr über die Adobe Commerce Cloud-Konfigurationen und das Debugging.
+description: Erfahren Sie mehr über die Konfigurationsdateien, Debugging-Tools und die Protokollverwaltung von Adobe Commerce Cloud, die für DevOps, Systemadministratoren und Backend-Entwickler von wesentlicher Bedeutung sind.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Technisches Onboarding - Konfiguration und Debugging
 
-Erfahren Sie, wie Sie Adobe Commerce Cloud konfigurieren und debuggen.
+Erfahren Sie mehr über die wichtigsten Yaml-Dateien, die in Adobe Commerce Cloud für die Konfiguration in verschiedenen Umgebungen verwendet werden, die verfügbaren Tools für die Validierung und Optimierung dieser Konfigurationen sowie den Debugging- und Protokollierungsprozess. Machen Sie sich mit der Bedeutung umgebungsspezifischer Einstellungen, der Verwendung von EC-Tools und Qualitätsmustern sowie der Rolle von New Relic bei der Protokollierung vertraut. Erhalten Sie Einblicke in das Remote-Debugging mit Xdebug und die Notwendigkeit, Protokolle über mehrere App-Server hinweg zu verwalten.
 
 ## Für wen ist dieses Video?
 
-- Website-Manager
+- Entwickler
 - Commerce-Architekten
-- Eigentümer der E-Commerce-Website
+- Backend-Entwickler
 
 ## Videoinhalt
 
