@@ -3,7 +3,7 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 708ac8a909f0ef9736527d3b221f909a978c4478
+source-git-commit: 2a9c0602a94613173e975bf53d80f3465e9c7c25
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 3%
