@@ -42,3 +42,4 @@ Erfahren Sie mehr über die Cloud-Infrastruktur und einige Best Practices für d
 - [Erstellen von Support-Tickets](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
