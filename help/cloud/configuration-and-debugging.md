@@ -47,3 +47,4 @@ Erfahren Sie mehr über die wichtigsten Yaml-Dateien, die in Adobe Commerce Clou
 - [Verwendung des Qualitäts-Patch-Tools](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
