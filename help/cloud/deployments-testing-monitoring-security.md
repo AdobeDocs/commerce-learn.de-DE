@@ -42,3 +42,4 @@ Erfahren Sie mehr über die Adobe Commerce Cloud-Implementierungsstrategien, Bes
 - [Übersicht über den New Relic-Dienst](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
