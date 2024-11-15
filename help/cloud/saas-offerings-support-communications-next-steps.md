@@ -37,7 +37,7 @@ Erfahren Sie mehr über die Adobe Commerce Cloud SaaS-Angebote, den Support und 
 +++Akronym-Wörterbuch
 
 - SAM-Lösungskontomanager
-- Technischer Kundenberater des CTA
+- Technischer CTA-Kundenberater
 - Platform as a Service
 - Infrastruktur von AIAs als Dienst
 - CPU-Zentralverarbeitungseinheit
