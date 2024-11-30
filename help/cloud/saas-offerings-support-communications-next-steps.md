@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Erfahren Sie mehr über die Adobe Commerce Cloud SaaS-Angebote, den Support und 
 - [Commerce-Lernkurse](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce-Community-Forum](https://community.magento.com/)
 -= [Fastly konfigurieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [ Leistungstests](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [ Leistungstests](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [Tool für Site-weite Analyse - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [neue &quot;Relic Observation&quot;für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [Sicherheits-Patches](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)

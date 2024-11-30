@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Im Folgenden finden Sie eine Zusammenfassung der Adobe Commerce [Dokumentation zum Website-Start](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
 
-Diese Checkliste soll bei der Planung und Ausführung eines erfolgreichen Starts der Adobe Commerce Cloud-Website helfen. Arbeiten Sie mit Ihrem Systemintegrator für Adobe Commerce Cloud zusammen, um sicherzustellen, dass alle Konfigurationsaufgaben und Checklisten-Elemente abgeschlossen und überprüft werden. Sollten Sie Schwierigkeiten mit der Checkliste haben oder Fragen haben, wenden Sie sich an den zuständigen technischen Kundenberater oder Customer Success Engineer. Wenn Ihrem Konto keine CTA/CSE zugewiesen ist, können Sie ein Support-Ticket für Unterstützung erstellen.
+Diese Checkliste soll bei der Planung und Ausführung eines erfolgreichen Starts der Adobe Commerce Cloud-Website helfen. Arbeiten Sie mit Ihrem Systemintegrator für Adobe Commerce Cloud zusammen, um sicherzustellen, dass alle Konfigurationsaufgaben und Checklisten-Elemente abgeschlossen und überprüft werden. Sollten Sie Schwierigkeiten mit der Checkliste haben oder Fragen haben, wenden Sie sich an den zuständigen technischen Kundenberater oder Customer Success Engineer. Wenn Ihrem Konto kein CTA/CSE zugewiesen wurde, können Sie ein Support-Ticket erstellen.
 
 Wenn Sie dem Konto eine CTA/CSE zugewiesen haben, wenden Sie sich mindestens 4 Wochen vor dem Start der neuen Adobe Commerce Cloud-Site an diese und an den Kundenbetreuer, um sie über Ihre **Absicht** zum Start zu informieren.
 
@@ -61,7 +61,7 @@ Wenn Sie dem Konto eine CTA/CSE zugewiesen haben, wenden Sie sich mindestens 4 W
 
 3. Stellen Sie sicher, dass die Fastly-Bildoptimierung aktiviert ist ([Siehe Fastly Image Optimization](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"}).
 4. Stellen Sie sicher, dass der richtige Schildspeicherort konfiguriert ist ([Cache-, Backends- und Ursprungsabschirmung konfigurieren](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten Anfragen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden und Einschränkungen).
+5. Die Webanwendungs-Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten Anfragen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden und Einschränkungen).
 6. Aktualisieren Sie die Liste Fastly [&quot;Ignorierte URL-Parameter&quot;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} im Admin-Bereich, um die Cache-Leistung zu verbessern.
 
    >[!NOTE]
@@ -177,16 +177,16 @@ Wenn Sie bei Problemen auf Probleme stoßen, die Sie am Start während der Umste
 - Gebührenfrei in den USA: (+1) 800 685 3620 (drücken Sie im ersten Menü die Taste 7 für Adobe Commerce P1-Hotline)
 - US Local: (+1) 408 537 8777
 
-## 11. Post Go-Live
+## 11. Nach der Live-Schaltung
 
-Sobald die Site live ist, senden Sie eine E-Mail an den zugewiesenen CTA (Customer Technical Advisory), CSE (Customer Success Engineer) und AEM (Account Manager). Wenn Sie dem Projekt jedoch keinen Kundenbetreuer zugewiesen haben, können Sie ein Support-Ticket erstellen, in dem Sie die Aktivierung der High SLA-Überwachung beantragen, sobald die Site live geschaltet wurde. Der CTA/CSE führt die folgenden Aufgaben aus, sobald geprüft wird, dass die Site mit Fastly-Aktivierung und Caching gestartet wird:
+Sobald die Site live ist, senden Sie eine E-Mail an den zugewiesenen CTA (Customer Technical Advisory), CSE (Customer Success Engineer) und AEM (Account Manager). Wenn Sie dem Projekt jedoch keinen Kundenbetreuer zugewiesen haben, können Sie ein Support-Ticket erstellen, in dem Sie darum bitten, die Überwachung mit hoher SLA zu aktivieren, sobald die Site live geschaltet wurde. Der CTA/CSE führt die folgenden Aufgaben aus, sobald geprüft wird, dass die Site mit Fastly-Aktivierung und Caching gestartet wurde:
 
-- Taggen Sie den Cluster als live und erstellen Sie ein Support-Ticket, um die Überwachung von High SLA (Service Level Agreements) zu aktivieren.
+- Taggen Sie den Cluster als live und erstellen Sie ein Support-Ticket, um die Überwachung für High SLA (Service Level Agreements) zu aktivieren.
 - Aktivieren Sie New Relic Synthetics für die Überwachung der Betriebszeit.
 
 >[!MORELIKETHIS]
 > 
-> - [Launch-Bereitschaftsübersicht - Implementierungs-Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Launch-Bereitschaftsübersicht - Implementierungs-Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Checkliste starten - Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Checkliste für den Vorabstart - Site-Manager/Commerce-Administratorhandbuch](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Sicherheitsmodell für gemeinsame Verantwortung](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
