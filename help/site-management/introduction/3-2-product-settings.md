@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Produkteinstellungen"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Produkteinstellungen'
 description: Erfahren Sie, wie Sie Produkte erstellen, Einstellungen konfigurieren und Attribute verwenden.
 kt: 5768
 doc-type: video

@@ -1,6 +1,6 @@
 ---
 title: Page Builder für Entwickler - Vorlagen und Stile
-description: "[!DNL Admin] und Staging-Designaufgaben. Erstellen Sie die ​ [!DNL Admin] Vorlagen . Wenden Sie Stile auf Inhaltstypen auf der Bühne (Live-Vorschau) an."
+description: '[!DNL Admin] und Staging-Designaufgaben. Erstellen Sie die ​ [!DNL Admin] Vorlagen . Wenden Sie Stile auf Inhaltstypen auf der Bühne (Live-Vorschau) an.'
 kt: 5653
 doc-type: video
 activity: use

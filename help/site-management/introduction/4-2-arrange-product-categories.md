@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Kategoriepositionierung"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Kategoriepositionierung'
 description: Positionieren Sie Produkte innerhalb von Kategorien, sodass Kunden die Produkte oben sehen, die sie sehen sollen.
 kt: 5776
 doc-type: video

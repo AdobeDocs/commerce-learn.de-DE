@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Rollenbereiche und Berechtigungen"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Rollenbereiche und Berechtigungen'
 description: Erfahren Sie, wie Sie Rollenbereiche (ausschließlich Adobe Commerce) und die zugehörigen Berechtigungen nach Site oder Store definieren.
 kt: 5763
 doc-type: video

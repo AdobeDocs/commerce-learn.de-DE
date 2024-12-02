@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Einfache Produkte"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Einfache Produkte'
 description: Erfahren Sie, wie Sie ein einfaches Produkt mit Produktattributsätzen erstellen.
 kt: 5771
 doc-type: video

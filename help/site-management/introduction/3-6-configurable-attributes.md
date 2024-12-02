@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Konfigurierbare Attribute"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Konfigurierbare Attribute'
 description: Erfahren Sie, wie Sie konfigurierbare Produktattribute einrichten.
 kt: 5772
 doc-type: video

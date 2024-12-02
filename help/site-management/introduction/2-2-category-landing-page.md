@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Landingpages"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Landingpages'
 description: Erfahren Sie, wie Sie die Landingpage für Kategorien einrichten und das Erscheinungsbild steuern.
 kt: 5766
 doc-type: video

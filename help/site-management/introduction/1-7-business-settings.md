@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen'
 description: Erfahren Sie mehr über Gebietsschemaeinstellungen, Informationen speichern, sichere und unsichere URLs, Website-Titel, Logo, Copyright-Informationen, E-Mail-Logos für Kommunikation, E-Mail-Adressen speichern, Währungsoptionen und Währungsraten.
 kt: 5764
 doc-type: video

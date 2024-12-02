@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Live Search] for recommendations'
+title: '[!DNL Live Search] für Empfehlungen'
 description: Erfahren Sie, wie Sie Ihrem Geschäft [!DNL Live Search] für Produktempfehlungen hinzufügen und hochinteressante, relevante und personalisierte Einkaufserlebnisse generieren können.
 doc-type: feature video
 audience: all

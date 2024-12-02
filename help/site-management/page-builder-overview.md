@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Page Builder] overview'
-description: Erfahren Sie, wie Sie mit  [!DNL Page Builder] Seiten erstellen, die im Admin gespeichert werden. [!DNL Commerce]
+title: '[!DNL Page Builder] Übersicht'
+description: 'Erfahren Sie, wie Sie mit  [!DNL Page Builder] Seiten erstellen, die im Admin gespeichert werden. [!DNL Commerce] '
 kt: 5563
 doc-type: feature video
 audience: all

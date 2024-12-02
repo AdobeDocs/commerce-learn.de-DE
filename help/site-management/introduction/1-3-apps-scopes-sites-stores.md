@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Sites, Stores und Ansichten"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Sites, Stores und Ansichten'
 description: Lernen Sie die Grundlagen der [!DNL Commerce] Architektur kennen, einschließlich der Unterschiede zwischen Websites, Geschäften, Store-Ansichten und Anwendungsbereichen. Verstehen Sie Indizierung und Zwischenspeicherung.
 kt: 5760
 doc-type: video

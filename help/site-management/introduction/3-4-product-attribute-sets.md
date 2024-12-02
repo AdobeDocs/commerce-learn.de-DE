@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Attributsätze"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Attributsätze'
 description: Erfahren Sie mehr über Produktattributsätze und deren Verwendung in Ihrem Katalog.
 kt: 5770
 doc-type: video

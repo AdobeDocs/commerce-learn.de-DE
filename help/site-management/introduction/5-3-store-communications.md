@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - E-Mail-Kommunikation"
+title: '[!DNL Commerce] für Geschäftsbenutzer - E-Mail-Kommunikation'
 description: Kommunizieren Sie mit Ihren Kunden mithilfe von Transaktions-E-Mails, die durch ihre Aktionen auf der Storefront ausgelöst werden. Passen Sie die E-Mail-Vorlagen für Ihren Store an und konfigurieren Sie sie.
 kt: 5780
 doc-type: video

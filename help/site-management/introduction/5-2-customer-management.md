@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Kundenverwaltung"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Kundenverwaltung'
 description: Erfahren Sie mehr über die empfohlenen Berechtigungen für den Kundendienst, das Erstellen eines Kunden in der [!DNL Admin], das Verwalten von Kundeninformationen und das Erstellen von Kundengruppen.
 kt: 5779
 doc-type: video

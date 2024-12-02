@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Storefront"
+title: '[!DNL Commerce] für Geschäftsbenutzer - Storefront'
 description: Erfahren Sie mehr über das Kundenerlebnis in der Storefront, einschließlich Kontoerstellung, Wunschlisten und Hinzufügen von Wunschlistenelementen zum Warenkorb.
 kt: 5778
 doc-type: video
