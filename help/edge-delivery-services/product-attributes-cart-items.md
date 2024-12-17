@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Verwenden von Produktattributen für Artikel im Warenkorb
 
-Im Transkript zeigt ein Entwickler namens Ali von Acme Brand, wie Sie den Adobe Commerce-Warenkorb anpassen und erweitern können. Ali erfüllt drei Projektanforderungen: Anzeige von Lieferfristen für zurückbestellte Produkte, Anzeige von Rücknahme- und Endverkaufsmitteilungen und Anwendung eines Rabatts von 25 % für Warenkörbe mit einer Zwischensumme von 75 USD oder mehr. Durch die Nutzung von Produktattributen und Slots integriert Ali diese Funktionen erfolgreich in den Warenkorb, verbessert das gesamte Benutzererlebnis und erfüllt alle Projektanforderungen.
+Erfahren Sie, wie Sie den Adobe Commerce-Warenkorb anpassen und erweitern können. In dieser Demonstration gibt es drei Updates.  Die Demo beginnt mit der Anzeige von Lieferfristen für zurückbestellte Produkte, der Anzeige von Rücknahme- und Endverkaufsmitteilungen und der Anwendung eines Rabatts von 25 % für Warenkörbe mit einer Zwischensumme von 75 USD oder mehr. Durch die Verwendung von Produktattributen und Slots verbessert das Hinzufügen dieser Funktionen zum Warenkorb das gesamte Benutzererlebnis.
 
 ## Was Sie von diesem Video erwarten können
 
