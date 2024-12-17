@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 8720b575d72443faa1889d27d692283ca47cc012
+source-git-commit: e72628726b3935b0c1b063f5bb2f358702ae7cdc
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '787'
 ht-degree: 3%
 
 ---
@@ -79,6 +79,7 @@ ht-degree: 3%
 + Edge Delivery Services {#edge-delivery-services}
    + Erste Schritte {#getting-started}
       + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
+      + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
    + {#enablement-series} der Aktivierungsreihe
       + [Verringern des Inhaltsverzeichnisses für Commerce-Integrationen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
