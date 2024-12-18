@@ -1,5 +1,5 @@
 ---
-title: Verwenden des Upgrade-Kompatibilitätstools für PHP Storm
+title: Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm
 description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Upgrade-Kompatibilitätstool mit dem PHP Storm-Plug-in verwenden.
 landing-page-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitätstools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
 short-description: Erfahren Sie mehr über die Verwendung des Upgrade-Kompatibilitäts-Tools mit dem PHP Storm-Plug-in, das die Identifizierung und Behebung von Inkompatibilitäten erleichtert.
@@ -20,17 +20,17 @@ ht-degree: 35%
 
 ---
 
-# Verwenden des Upgrade-Kompatibilitätstools für PHP Storm
+# Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm
 
-Das Upgrade Compatibility Tool (UCT) ist ein kostenloses Tool, das die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Ziel-Upgrade-Version in nur wenigen Minuten analysiert. Das PHP Storm Plugin macht dieses Tool noch einfacher zu benutzen.
+Das Upgrade-Kompatibilitäts-Tool (UCT) ist ein kostenloses Tool, das in nur wenigen Minuten die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Zielversion des Upgrades analysiert. Das PHP Storm Plugin macht dieses Tool noch einfacher zu bedienen.
 
 In diesem Video:
 
-- Was ist das Upgrade-Kompatibilitätstool?
-- Verwendung mit dem Magento PHP Storm-Plugin
+- Was ist das Upgrade-Kompatibilitäts-Tool?
+- Wie man es mit dem Magento PHP Storm Plugin benutzt
 - Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 
@@ -40,6 +40,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-- [Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PHP Storm plugin](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [Magento PHP Storm-Plug-in](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

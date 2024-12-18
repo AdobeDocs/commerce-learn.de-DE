@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Zahlungsdiensten
-description: Erfahren Sie, wie Sie Zahlungsdienste zu Ihrem Geschäft hinzufügen, den Betriebsaufwand reduzieren, den Umsatz steigern und das gesamte Kundenerlebnis verbessern können.
+description: Erfahren Sie, wie Sie Ihrem Geschäft Zahlungsdienste hinzufügen und so den Betriebsaufwand senken, den Umsatz steigern und das gesamte Kundenerlebnis verbessern können.
 doc-type: feature video
 audience: all
 activity: use
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Verwenden von Zahlungsdiensten
 
-Bei kleinen Unternehmen, mittelständischen Wettbewerbern oder großen Unternehmen trägt Zahlungsdienste für Adobe Commerce und Magento Open Source dazu bei, den Betriebsaufwand zu reduzieren und den Umsatz zu steigern. Es bietet Tools, die das gesamte Kundenerlebnis verbessern. Zahlungsdienste:
+Für kleine Unternehmen, Mitbewerber oder große Unternehmen tragen Payment Services für Adobe Commerce und Magento Open Source dazu bei, den Betriebsaufwand zu reduzieren und den Umsatz zu steigern. Es bietet Tools, die das gesamte Kundenerlebnis verbessern. Payment Services ist:
 
 - Einfache Einrichtung und Wartung
 - Entwickelt, um Ihren Gewinn zu maximieren
 - Sicher
-- Für alle Ihre Zahlungsbedürfnisse konzipiert
-- Innerhalb des Administrators eigenständig
+- Für alle Ihre Zahlungsanforderungen entwickelt
+- Selbstständig innerhalb des Admins
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Betriebsingenieure
 - Website-Manager
@@ -38,5 +38,5 @@ Bei kleinen Unternehmen, mittelständischen Wettbewerbern oder großen Unternehm
 
 ## Zusätzliche Ressourcen
 
-- [Handbuch für Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

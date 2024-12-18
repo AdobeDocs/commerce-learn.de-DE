@@ -1,5 +1,5 @@
 ---
-title: Testordner
+title: Der Testordner
 description: Erfahren Sie mehr über die Dateitypen im Testordner für diese Beispielanwendung.
 landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen sich im Testordner befinden.
 kt: 12424
@@ -18,25 +18,25 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über den Testordner {#test-folder}
+# Informationen zum Testordner {#test-folder}
 
-Der Ordner &quot;`test`&quot;für diese Beispielanwendung enthält eine einzelne JavaScript-Datei, die beim Ausführen von Komponententests für die Anwendung verwendet wird.
+Der `test` Ordner für diese Beispielanwendung enthält eine einzige JavaScript-Datei, die beim Ausführen von Komponententests für die Anwendung verwendet wird.
 
 Dies ist ein einfaches Beispiel und kann erweitert werden, um umfassende Tests für Ihre spezifischen Anwendungen zu erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über den Ordner &quot;`test`&quot;erfahren möchten.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und mehr über den `test` erfahren möchten.
 
 ## Videoinhalt
 
-* Warum verwenden Sie den Ordner &quot;`test`&quot;?
-* Kurze Erläuterung der Testdatei der Einheit und ihrer Komponenten
+* Wozu dient der `test` Ordner?
+* Eine kurze Erläuterung der Modultestdatei und ihrer Komponenten
 * Einführung in End-to-End-Tests
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
-## Codebeispiele
+## Code-Beispiele
 
 test/utils.test.js
 

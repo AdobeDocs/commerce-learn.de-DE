@@ -1,5 +1,5 @@
 ---
-title: Überblick über das Upgrade-Kompatibilitätstool
+title: Upgrade-Kompatibilitäts-Tool - Übersicht
 description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
 landing-page-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
 short-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Ihr nächstes Upgrade einfacher, billiger und schneller macht.
@@ -20,19 +20,19 @@ ht-degree: 29%
 
 ---
 
-# Überblick über das Upgrade-Kompatibilitätstool
+# Upgrade-Kompatibilitäts-Tool - Übersicht
 
-Das Upgrade Compatibility Tool (UCT) ist ein kostenloses Tool, das die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Ziel-Upgrade-Version in nur wenigen Minuten analysiert. Die Verwendung dieses Tools erleichtert die Ausführung des Aktualisierungsprozesses.
+Das Upgrade-Kompatibilitäts-Tool (UCT) ist ein kostenloses Tool, das in nur wenigen Minuten die Inkompatibilitäten zwischen Ihrer aktuellen Version und der Zielversion des Upgrades analysiert. Die Verwendung dieses Tools macht den Upgrade-Prozess schneller und einfacher.
 
 In diesem Video:
 
-- Das Upgrade-Kompatibilitätstool
-- So können Sie schnell die Fehler und Fehlerbehebungen ermitteln, die für die Aktualisierung auf eine neuere Adobe Commerce-Version erforderlich sind
+- Was das Upgrade-Kompatibilitäts-Tool ist
+- So können Sie schnell die Fehler und Fehlerbehebungen ermitteln, die für ein Upgrade auf eine neuere Adobe Commerce-Version erforderlich sind
 - Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
 
-Weitere Informationen zum Tool finden Sie in der Dokumentation zum [Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en) . Weitere Informationen zum Durchführen und Vereinfachen von Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Weitere Informationen zur Durchführung und Vereinfachung Ihrer Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Site-Manager
 - Entwickler
@@ -43,7 +43,7 @@ Weitere Informationen zum Tool finden Sie in der Dokumentation zum [Upgrade-Komp
 
 ## Zusätzliche Ressourcen
 
-- [Dokumentation zum Upgrade-Kompatibilitätstool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [Veröffentlichungsplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

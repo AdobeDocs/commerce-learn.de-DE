@@ -1,6 +1,6 @@
 ---
-title: Eine Übersicht für die Migration zu Adobe Commerce
-description: Eine Übersicht über Vorbereitung, benutzerdefinierten Code, Qualitätssicherung, Leistung und Sicherheit bei der Migration zu Adobe Commerce.
+title: Eine Übersicht über die Migration zu Adobe Commerce
+description: Eine Übersicht über Vorbereitung, benutzerdefinierten Code, QA, Leistung und Sicherheit bei der Migration zu Adobe Commerce.
 feature: Best Practices
 topic: Commerce, Migration
 role: Architect, Developer
@@ -9,28 +9,28 @@ doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 4e788b83e64e3ba8c45a7a60e14e551d67b21a88
+exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
+source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Migration zu Adobe Commerce - Übersicht
 
-Willkommen zu dieser umfassenden Adobe Commerce-Tutorial-Reihe zur Migration. Diese Tutorials wurden für Entwickler und Unternehmen entwickelt und decken wichtige Themen wie Vorbereitung, benutzerdefinierte Codebewertung, Qualitätssicherung, Leistung und Sicherheit ab. Lernen Sie Best Practices kennen und gewinnen Sie wertvolle Einblicke von erfahrenen Adobe-Experten, um eine reibungslose und erfolgreiche Migration auf Adobe Commerce sicherzustellen.
+Willkommen zu dieser umfassenden Tutorial-Reihe zur Migration zu Adobe Commerce. Diese Tutorials richten sich an Entwickler und Unternehmen und behandeln wichtige Themen wie Vorbereitung, Bewertung von benutzerdefiniertem Code, Qualitätssicherung, Leistung und Sicherheit. Lernen Sie Best Practices kennen und erhalten Sie wertvolle Einblicke von erfahrenen Adobe-Experten, um eine reibungslose und erfolgreiche Migration zu Adobe Commerce zu gewährleisten.
 
-## Für wen ist diese Videoserie?
+## Für wen ist diese Videoreihe gedacht?
 
-* Entwickler, die ihre Kenntnisse und Fähigkeiten in der Adobe Commerce-Migration verbessern möchten.
+* Entwickler, die ihre Fähigkeiten und Kenntnisse im Bereich Adobe Commerce-Migration erweitern möchten.
 * Geschäftsplanung für die Migration zu Adobe Commerce und Suche nach Best Practices.
-* IT-Teams, die für die Verwaltung und Unterstützung von E-Commerce-Plattformen zuständig sind.
-* Systemintegratoren zur Optimierung ihrer Migrationsprozesse.
+* IT-Teams, die für die Verwaltung und Unterstützung von E-Commerce-Plattformen verantwortlich sind.
+* Systemintegratoren, die ihre Migrationsprozesse optimieren möchten.
 
 ## Videoinhalt {#video-content}
 
-* Lernen Sie die wichtigsten Schritte und Best Practices für eine erfolgreiche Migration nach Adobe Commerce kennen.
-* Evaluieren und optimieren Sie benutzerdefinierten Code, Module von Drittanbietern und verstehen Sie die wichtigsten QA-Konzepte.
+* Erfahren Sie mehr über die wichtigsten Schritte und Best Practices für eine erfolgreiche Migration auf Adobe Commerce.
+* Bewerten und optimieren Sie benutzerdefinierten Code und Drittanbietermodule und verstehen Sie wichtige QA-Konzepte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

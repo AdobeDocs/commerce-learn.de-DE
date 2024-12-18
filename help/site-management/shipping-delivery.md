@@ -1,6 +1,6 @@
 ---
-title: Versand- und Bereitstellungsmethoden verwalten
-description: Erfahren Sie, wie Sie die Versandursprungs-, Versand-, Bereitstellungs- und Betreibereinstellungen für Ihren Commerce-Store konfigurieren.
+title: Versand- und Liefermethoden verwalten
+description: Erfahren Sie, wie Sie Versandherkunft, Mehrversandkosten, Versandkosten und Provider-Einstellungen für Ihren Commerce Store konfigurieren.
 kt: 10543
 doc-type: feature video
 audience: all
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Versand- und Bereitstellungsmethoden verwalten
+# Versand- und Liefermethoden verwalten
 
-Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzustellen, dass Sie Ihr Produkt in die Hände Ihrer Kunden bekommen. In diesem Video erfahren Sie, wie Sie Ihre Versandursprungseinstellungen, Ihre Versandkosten, Ihre Versandgebühren und die Einstellungen des Betreibers verwalten.
+Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzustellen, dass Sie Ihr Produkt in die Hände Ihrer Kunden bekommen. In diesem Video erfahren Sie, wie Sie Versandherkunft, Mehrversand, Versandkosten und Provider-Einstellungen verwalten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 - E-Commerce-Manager
@@ -33,6 +33,6 @@ Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzus
 
 ## Zusätzliche Ressourcen
 
-- [Versandeinstellungen - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Grundlegende Bereitstellungsmethoden - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Einrichten des Versandnetzbetreibers - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [Versandeinstellungen - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Grundlegende Versandmethoden - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Einrichtung des Spediteurs - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

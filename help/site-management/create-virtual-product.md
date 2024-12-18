@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines virtuellen Produkts
-description: Erfahren Sie, wie Sie ein virtuelles Produkt mit der REST-API und dem Commerce Admin erstellen.
+description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein virtuelles Produkt erstellen.
 kt: 14464
 doc-type: video
 audience: all
@@ -20,19 +20,19 @@ ht-degree: 0%
 
 # Erstellen eines virtuellen Produkts
 
-Erfahren Sie, wie Sie ein virtuelles Produkt mit der REST-API und dem Adobe Commerce Admin erstellen.
+Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein virtuelles Produkt erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
-- Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
+- E-Commerce-Merchandiser
+- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
 
-## Erstellen eines virtuellen Produkts mit curl
+## Erstellen eines virtuellen Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -51,7 +51,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Produkt mit curl abrufen
+## Abrufen eines Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Admin-created-virtual-product' \
@@ -61,5 +61,5 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Admin-created-virtua
 
 ## Zusätzliche Ressourcen
 
-- [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

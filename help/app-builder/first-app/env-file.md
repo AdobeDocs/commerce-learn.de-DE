@@ -1,7 +1,7 @@
 ---
 title: Die .env-Datei
 description: Erfahren Sie mehr über die Dateitypen in der .env-Datei für diese Beispielanwendung
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Inhaltstypen in der .env-Datei verwendet werden
+landing-page-description: Erfahren Sie mehr über die mit Adobe Commerce verwendete Adobe Developer App Builder und welche Inhaltstypen in der .env-Datei verwendet werden
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -18,24 +18,24 @@ ht-degree: 0%
 
 ---
 
-# .env-Datei generieren und konfigurieren {#env-file}
+# Generieren und Konfigurieren der .env-Datei {#env-file}
 
-Der `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie die Zuweisung dieser Datei zu einem Code-Repository.
+Der `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie es, diese Datei in ein Code-Repository zu übertragen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die mehr über die `.env` -Datei erfahren möchten.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und mehr über die `.env`-Datei erfahren möchten.
 
 ## Videoinhalt
 
 * Einführung in die .env-Datei und ihren Zweck
 * Generieren der .env-Datei
-* Anfügen der Datei zum Hinzufügen neuer Geheimnisse
-* Vermeiden Sie die Verwendung dieser Datei, da sie sensible Informationen enthält
+* Anhängen der Datei zum Hinzufügen neuer geheimer Daten
+* Übertragung dieser Datei vermeiden, da sie vertrauliche Informationen enthält
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
-## Codebeispiel
+## Code-Beispiel
 
 ```bash
 # Specify your secrets here
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Sie können sehen, wie diese statischen Werte im Beispielmodul in Datei `actions/commerce.index.js` verwendet werden.
+Sie können sehen, wie diese statischen Werte im Beispielmodul in der Datei `actions/commerce.index.js` verwendet werden.
 
 ```javascript
         const oauth = getCommerceOauthClient(

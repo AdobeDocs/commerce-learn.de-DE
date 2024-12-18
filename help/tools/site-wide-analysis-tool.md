@@ -1,6 +1,6 @@
 ---
-title: Das Dashboard des Site-weiten Analyse-Tools
-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie Sie mit dem Dashboard des Site-weiten Analyse-Tools auf detaillierte Systemeinblicke und -empfehlungen zugreifen können, um die Sicherheit und Bedienbarkeit Ihrer Adobe Commerce-Installation sicherzustellen.
+title: Dashboard des Site-Wide Analysis Tool
+description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie Sie mit dem Dashboard des Site-Wide Analysis Tool auf detaillierte Systemeinblicke und Empfehlungen zugreifen können, um die Sicherheit und Bedienbarkeit Ihrer Adobe Commerce-Installation sicherzustellen.
 doc-type: technical video
 audience: all
 activity: use
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ---
 
-# Das Dashboard des Site-weiten Analyse-Tools
+# Dashboard des Site-Wide Analysis Tool
 
-Das Site-weite Analyse-Tool ist ein proaktives Self-Service-Tool und zentrales Repository mit detaillierten Systemeinblicken und Empfehlungen, um die Sicherheit und Bedienbarkeit Ihrer Adobe Commerce-Installation sicherzustellen. Es bietet rund um die Uhr eine Leistungsüberwachung, Berichte und Ratschläge zur Ermittlung potenzieller Probleme. Verwenden Sie dieses Tool, um bessere Einblicke in die Konfigurationen von Site-Gesundheit, Sicherheit und Anwendung zu erhalten, die Auflösungszeit zu verkürzen und die Stabilität und Leistung der Site zu verbessern.
+Das Site-Wide Analysis Tool ist ein proaktives Self-Service-Tool und ein zentrales Repository, das detaillierte Systemeinblicke und Empfehlungen bietet, um die Sicherheit und Bedienbarkeit Ihrer Adobe Commerce-Installation zu gewährleisten. Sie bietet rund um die Uhr Leistungsüberwachung, Berichte und Beratung in Echtzeit, um potenzielle Probleme zu identifizieren. Verwenden Sie dieses Tool, um einen besseren Einblick in den Zustand, die Sicherheit und die Anwendungskonfigurationen der Site zu erhalten, die Lösungszeit zu verkürzen und die Stabilität und Leistung der Site zu verbessern.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Entwickler
@@ -34,5 +34,5 @@ Das Site-weite Analyse-Tool ist ein proaktives Self-Service-Tool und zentrales R
 
 ## Zusätzliche Ressourcen
 
-- [ Site-weites Analyse-Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Protokolle anzeigen und verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [Anzeigen und Verwalten von Protokollen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

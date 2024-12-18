@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Landingpages'
-description: Erfahren Sie, wie Sie die Landingpage für Kategorien einrichten und das Erscheinungsbild steuern.
+title: '[!DNL Commerce] für Business-Anwender - Landingpages'
+description: Erfahren Sie, wie Sie eine Landingpage für Kategorien einrichten und das Erscheinungsbild steuern.
 kt: 5766
 doc-type: video
 activity: use
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Landingpages
+# [!DNL Commerce] für Business-Anwender - Landingpages
 
 In diesem Video:
 
@@ -25,22 +25,22 @@ In diesem Video:
 - Seitenansichtsoptionen
 - Storefront-Einstellungen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Kategorieinhalt - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[Kategorieinhalt - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Anzeigeeinstellungen - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[Anzeigeeinstellungen - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Design-Einstellungen - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[Designeinstellungen - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

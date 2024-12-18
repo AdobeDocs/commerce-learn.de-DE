@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Firmenguthaben
-description: Erfahren Sie, wie Benutzer von B2B-Unternehmenskonten bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen können.
+title: Firmenkredite verwalten
+description: Erfahren Sie, wie B2B-Firmenkonto-Benutzer bis zum gewährten Kreditlimit Einkäufe auf ihrem Konto tätigen können.
 doc-type: feature video
 audience: all
 activity: use
@@ -18,20 +18,20 @@ ht-degree: 0%
 
 ---
 
-# Verwalten von Firmenguthaben
+# Firmenkredite verwalten
 
-Unternehmen, für die _[!UICONTROL Payment on Account]_aktiviert ist und Firmenkredite zur Verfügung stehen, können bis zu dem gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kunden den Status ihrer Unternehmensgutschrift über ihr Konto-Dashboard überprüfen.
+Für Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert haben und Firmenkredite verfügbar haben, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
 
-Sie können für jedes Unternehmensprofil die folgenden kreditbezogenen Parameter festlegen:
+Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter festgelegt werden:
 
 - Kreditwährung
-- Kreditbeschränkung
-- Erlauben, die Kreditbeschränkung zu überschreiten
-- Grund für die Veränderung
+- Kreditlimit
+- Überschreiten des Kreditlimits zulassen
+- Änderungsgrund
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Vertriebsmitarbeiter
@@ -43,5 +43,5 @@ Sie können für jedes Unternehmensprofil die folgenden kreditbezogenen Paramete
 
 ## Zusätzliche Ressourcen
 
-- [Konfigurieren der Zahlung für das Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Verwalten des Firmenguthabens](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [Firmenkredite verwalten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

@@ -1,6 +1,6 @@
 ---
 title: Verwenden des Quality Patch-Tools
-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie Sie das Quality Patch Tool für Adobe Commerce und Magento Open Source verwenden.
+description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Quality Patch-Tool für Adobe Commerce und Magento Open Source verwenden.
 doc-type: technical video
 audience: all
 activity: use
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Verwenden des Quality Patch-Tools
 
-Das Quality Patch Tool ist ein Befehlszeilenwerkzeug, das Qualitäts-Patches für Adobe Commerce und Magento Open Source bereitstellt. Damit können Sie:
+Das Quality Patch-Tool ist ein Befehlszeilen-Tool, das geprüfte Patches für Adobe Commerce und Magento Open Source bereitstellt. Damit können Sie:
 
 - Allgemeine Informationen zu den neuesten Qualitäts-Patches anzeigen
-- Anwenden von Qualitätspatches
-- Zurücksetzen angewendeter Patches
+- Anwenden von Qualitäts-Patches
+- Angewendete Patches zurücksetzen
 
-Das Adobe Commerce-Supportteam und die Magento Open Source-Community entwickeln die Qualitätspatches.
+Das Adobe Commerce-Supportteam und die Magento Open Source-Community entwickeln die Qualitäts-Patches.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Backend-Entwickler
 - Site-Manager
@@ -38,5 +38,5 @@ Das Adobe Commerce-Supportteam und die Magento Open Source-Community entwickeln 
 
 ## Zusätzliche Ressourcen
 
-- [Qualitäts-Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Qualitäts-Patch-Tool auf GitHub](https://github.com/magento/quality-patches)
+- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Quality-Patch-Tool auf GitHub](https://github.com/magento/quality-patches)

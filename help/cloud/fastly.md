@@ -18,25 +18,25 @@ ht-degree: 0%
 
 ---
 
-# Technisches Onboarding - Schnell
+# Technische Einführung - Fastly
 
 Erfahren Sie mehr über die Cloud-Nutzung von Fastly für Adobe Commerce.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Commerce-Architekten
-- Eigentümer der E-Commerce-Website
+- Inhaber der E-Commerce-Website
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
 
-## Im Video erwähnte Experience League-Dokumentation und Fastly Adobe Commerce-Checker
+## Experience League-Dokumentation und Fastly Adobe Commerce Checker erwähnt im Video
 
-- [Schnellprüfer](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [Schnelldienste in Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
-- [Häufig gestellte Fragen zu WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+- [Fastly Checker](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- [Fastly Dienstleistungen in Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+- [FAQ zu Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
 - [Bildoptimierung](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

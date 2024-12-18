@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Benutzerrollen und Berechtigungen
-description: Erfahren Sie mehr über Benutzerkonten und Berechtigungen, die zum Steuern des Zugriffs auf die [!DNL Commerce] Website und zum Speichern von Daten in der Admin-Konsole verwendet werden.
+description: Erfahren Sie mehr über Benutzerkonten und Berechtigungen, mit denen der Zugriff auf  [!DNL Commerce]  Website und die Speicherung von Daten in der Admin Console gesteuert werden.
 kt: 5610
 doc-type: feature video
 audience: all
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Benutzer, Rollen und Berechtigungen
 
-Wenn andere Mitarbeiter in Ihrem Team oder bei Dienstleistern Zugriff benötigen, können Sie für jede Gruppe ein eigenes Benutzerkonto erstellen und je nach Geschäftsanforderungen eingeschränkten Zugriff zuweisen. Um die Websites oder Stores zu beschränken, auf die Administratoren zugreifen können, müssen Sie zunächst eine Rolle mit begrenztem Umfang und nur die ausgewählten erforderlichen Ressourcen erstellen. Anschließend können Sie die Rolle einem bestimmten Benutzerkonto zuweisen. Admin-Benutzer, die einer eingeschränkten Rolle zugewiesen sind, können Daten nur für Websites oder Stores anzeigen und ändern, die mit der Rolle verknüpft sind. Sie können jedoch keine globalen Einstellungen oder Daten ändern.
+Wenn andere Personen in Ihrem Team oder Dienstleister Zugriff benötigen, können Sie für jeden Benutzer ein eigenes Benutzerkonto erstellen und diesem eingeschränkten Zugriff entsprechend den geschäftlichen Anforderungen zuweisen. Um die Websites oder Geschäfte einzuschränken, auf die Admin-Benutzer zugreifen können, müssen Sie zunächst eine Rolle mit begrenztem Umfang erstellen und nur die erforderlichen Ressourcen auswählen. Anschließend können Sie die Rolle einem bestimmten Benutzerkonto zuweisen. Admin-Benutzende, denen eine eingeschränkte Rolle zugewiesen ist, können Daten nur für Websites oder Stores sehen und ändern, die mit der Rolle verknüpft sind. Sie können jedoch keine globalen Einstellungen oder Daten ändern.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 
@@ -32,6 +32,6 @@ Wenn andere Mitarbeiter in Ihrem Team oder bei Dienstleistern Zugriff benötigen
 
 ## Zusätzliche Ressourcen
 
-[Verwalten von Admin-Benutzerkonten - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Verwalten von Admin-Benutzerkonten -  [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Benutzerrollen - [!DNL Commerce] Administratorsystemhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Benutzerrollen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

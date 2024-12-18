@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud-Konfiguration und -Debugging
-description: Erfahren Sie mehr über die Konfigurationsdateien, Debugging-Tools und die Protokollverwaltung von Adobe Commerce Cloud, die für DevOps, Systemadministratoren und Backend-Entwickler von wesentlicher Bedeutung sind.
+title: Konfiguration und Debugging von Adobe Commerce Cloud
+description: Erfahren Sie mehr über die Konfigurationsdateien, Debugging-Tools und die Protokollverwaltung von Adobe Commerce Cloud, die für DevOps, Systemadministratoren und Backend-Entwickler unerlässlich sind.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Technisches Onboarding - Konfiguration und Debugging
 
-Erfahren Sie mehr über die wichtigsten Yaml-Dateien, die in Adobe Commerce Cloud für die Konfiguration in verschiedenen Umgebungen verwendet werden, die verfügbaren Tools für die Validierung und Optimierung dieser Konfigurationen sowie den Debugging- und Protokollierungsprozess. Machen Sie sich mit der Bedeutung umgebungsspezifischer Einstellungen, der Verwendung von EC-Tools und Qualitätsmustern sowie der Rolle von New Relic bei der Protokollierung vertraut. Erhalten Sie Einblicke in das Remote-Debugging mit Xdebug und die Notwendigkeit, Protokolle über mehrere App-Server hinweg zu verwalten.
+Erfahren Sie mehr über die wichtigsten YAML-Dateien, die in Adobe Commerce Cloud für die Konfiguration in verschiedenen Umgebungen verwendet werden, die verfügbaren Tools zur Validierung und Optimierung dieser Konfigurationen und den Prozess für Debugging und Protokollierung. Machen Sie sich mit der Bedeutung umgebungsspezifischer Einstellungen, der Verwendung von EC-Tools und Qualitäts-Patches und der Rolle von New Relic bei der Protokollaggregation vertraut. Gewinnen Sie Einblicke in das Remote-Debugging mit Xdebug und die Notwendigkeit, Protokolle über mehrere App-Server hinweg zu verwalten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 - Commerce-Architekten
@@ -32,19 +32,18 @@ Erfahren Sie mehr über die wichtigsten Yaml-Dateien, die in Adobe Commerce Clou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## Im Video erwähnte Experience League-Dokumentation
+## Experience League-Dokumentation, die im Video erwähnt wird
 
-- [Xdebug konfigurieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
-- [Cloud Docker konfigurieren Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [Debugging von Best Practices](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [Übersicht über Konfigurationsdateien](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [Konfigurieren von xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [Cloud Docker-Konfiguration: xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
+- [Best Practices für das Debugging](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
+- [Konfigurationsdateien - Übersicht](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
 - [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [ECE-Tools-Paket aktualisieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [New Relic - Übersicht](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Aktualisieren des Pakets ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
+- [Übersicht über New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 - [Protokolldateien anzeigen und verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
 - [New Relic-Protokollverwaltung](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [Qualitäts-Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Verwendung des Qualitäts-Patch-Tools](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
-

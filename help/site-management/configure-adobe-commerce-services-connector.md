@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren von Adobe Commerce Services Connector
-description: Erfahren Sie, wie Sie den Adobe Commerce Services Connector für die Verwendung mit Commerce SaaS-Produkten konfigurieren und wie Sie allgemeine Probleme beheben können.
+title: Konfigurieren des Adobe Commerce Services-Connectors
+description: Erfahren Sie, wie Sie den Adobe Commerce Services Connector für die Verwendung mit Commerce SaaS-Produkten konfigurieren und wie Sie häufige Probleme beheben können.
 kt: 14777
 doc-type: video
 audience: all
@@ -18,35 +18,35 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren von Adobe Commerce Services Connector
+# Konfigurieren des Adobe Commerce Services-Connectors
 
-Der Commerce Services Connector ist eine von Adobe entwickelte Konfiguration, die verschiedene SaaS-Funktionen freischaltet. Um Zahlungsdienste für Adobe Commerce und Magento Open Source zu verwenden, müssen Sie Ihre Commerce-Instanz mithilfe von Produktions- und Sandbox-API-Schlüsseln verbinden und den Datenraum in der Konfiguration für die Einrichtung angeben.
+Der Commerce Services Connector ist eine von Adobe entwickelte Konfiguration, die verschiedene SaaS-Funktionen freischaltet. Um Zahlungs-Services für Adobe Commerce und Magento Open Source zu verwenden, müssen Sie Ihre Commerce-Instanz mithilfe von Produktions- und Sandbox-API-Schlüsseln verbinden und den Datenspeicher in der Konfiguration für die Einrichtung angeben.
 
-Sehen Sie sich das Video _Konfigurieren von Adobe Commerce Services Connector_ an, um Sie bei der Einrichtung von Zahlungsdiensten zu unterstützen.
+Sehen Sie sich das _Konfigurieren des Adobe Commerce Services-Connectors_ an, um Sie beim Einrichten von Zahlungsdiensten zu unterstützen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Betriebsingenieure
-- E-Commerce-Manager und -Kontaktstellen
+- E-Commerce-Manager und Ansprechpartner
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425958?learn=on)
 
-## FAQs zur Konfiguration
+## Häufig gestellte Fragen zur Konfiguration
 
 Der Commerce Services Connector ist eine von Adobe entwickelte Konfiguration, die verschiedene SaaS-Funktionen freischaltet. Dies sind einige der am häufigsten gestellten Fragen zur Konfiguration:
 
-- Beheben Sie ungültige oder öffentliche Schlüssel.
-- Drehen Sie den API-Schlüssel Ihres Stores.
-- Navigieren Sie zum Schritt SaaS-ID , um den Commerce Service Connector einzurichten.
-- Fehlerbehebung für die Sandbox-Schaltfläche beim Onboarding von Zahlungsdiensten.
+- Korrigieren Sie ungültige oder öffentliche Schlüssel.
+- Drehen des API-Schlüssels Ihres Stores.
+- Navigieren Sie zum Schritt SaaS-Kennung beim Einrichten des Commerce-Service-Connectors.
+- Fehlerbehebung bei der Sandbox-Schaltfläche beim Onboarding von Zahlungsdiensten.
 - Commerce Service Connector wird nicht in der Benutzeroberfläche geladen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-- [Handbuch für Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

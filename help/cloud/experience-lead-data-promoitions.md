@@ -1,6 +1,6 @@
 ---
-title: Die ultimative Experience-Led-Plattform für außergewöhnliche Geschäftsergebnisse
-description: Entdecken Sie die erweiterte Suche und das Katalogmanagement von Adobe Commerce auf Basis von KI, um E-Commerce-Erlebnisse für B2B- und B2C-Kunden zu optimieren.
+title: Die Experience-geführte Ultimate-Plattform für hervorragende Geschäftsergebnisse
+description: Entdecken Sie die erweiterte Such- und Katalogverwaltung von Adobe Commerce, die auf KI basiert, um die E-Commerce-Erlebnisse sowohl für B2B- als auch für B2C-Kunden zu optimieren.
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce
 role: Admin, User
@@ -9,30 +9,30 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
+exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
+source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 0%
 
 ---
 
+# Erlebnis-Lead-Daten und Promotions  
 
-# Lead-Daten und -Promotions für Erlebnisse  
-
-Erfahren Sie mehr über die erweiterten Suchfunktionen von Adobe Commerce, die auf Adobe Sensei basieren, und die umfassenden Katalogverwaltungsfunktionen. Lernen Sie einige der Highlights für KI-gestützte Suchoptimierungs-, Facettierungs- und Merchandising-Tools kennen, mit denen Sie das Benutzererlebnis verbessern können. &#x200B; Darüber hinaus erfahren Sie mehr über Produktgebündelung, Promotions-Management und nahtlose Integration mit Drittanbietersystemen und bieten eine umfassende Lösung für B2B- und B2C-E-Commerce-Anforderungen.
+Erfahren Sie mehr über die erweiterten Suchfunktionen von Adobe Commerce auf der Basis von Adobe Sensei und die leistungsstarken Funktionen zur Katalogverwaltung. Lernen Sie einige der Highlights für KI-gesteuerte Suchoptimierungs-, Facetten- und Merchandising-Tools zur Verbesserung des Benutzererlebnisses kennen. &#x200B; Darüber hinaus erfahren Sie mehr über die Produktbündelung, die Verwaltung von Werbeaktionen und die nahtlose Integration in Drittanbietersysteme, die eine umfassende Lösung für B2B- und B2C-E-Commerce-Anforderungen bieten.
 
 ## Für wen sind diese Videos?
 
 - E-Commerce-Manager
-- Commerce-Merchandiser
-- Website-Marketer
-- Softwareentwickler
+- Commerce Merchandisers
+- Website-Marketingexperten
+- Software-Entwickler
 
 ## Katalogverwaltung
 
-Entdecken Sie die leistungsstarken Katalogverwaltungswerkzeuge von Adobe Commerce, die für E-Commerce-Administratoren und -Entwickler entwickelt wurden. &#x200B; Mit intuitiven Planungs- und Automatisierungsfunktionen können Sie mühelos Produktlisten, Inventar, Preise und Promotions verwalten. Nahtlose Integration in Drittanbietersysteme und Nutzung erweiterter Dienste wie Live-Suche und Produktempfehlungen. &#x200B; Profitieren Sie von der robusten Datenerfassung durch APIs und Echtzeit-Synchronisation. Gleichzeitig können Sie Ihre Storefront mit KI-generierten Inhalten aus Adobe Experience Manager erweitern. &#x200B; Steigern Sie Ihr E-Commerce-Erlebnis und bleiben Sie auf einem dynamischen Markt mit Adobe Commerce.  
+Entdecken Sie die leistungsstarken Katalogverwaltungstools von Adobe Commerce, die für E-Commerce-Administratoren und -Entwickler entwickelt wurden. &#x200B; Problemloses Verwalten von Produktlisten, Beständen, Preisen und Werbeaktionen mit intuitiven Zeitplanungs- und Automatisierungsfunktionen. Nahtlose Integration mit Systemen von Drittanbietern und Nutzung erweiterter Services wie Live-Suche und Produktempfehlungen. &#x200B; Profitieren Sie von der robusten Datenaufnahme durch APIs und Echtzeit-Synchronisation und erweitern Sie Ihre Storefront mit KI-generierten Inhalten von Adobe Experience Manager. &#x200B; Steigern Sie Ihre E-Commerce-Erfahrung und bleiben Sie in einem dynamischen Markt mit Adobe Commerce agil.  
 
-## Videoinhalt für die Katalogverwaltung
+## Katalogverwaltung - Videoinhalte
 
 - Effizientes Katalogmanagement.
 - Erweiterte Integration und Anpassung.
@@ -42,25 +42,25 @@ Entdecken Sie die leistungsstarken Katalogverwaltungswerkzeuge von Adobe Commerc
 
 ## Live Search
 
-Erfahren Sie mehr über die erweiterten Suchfunktionen von Adobe Commerce, die auf der KI-gesteuerten Live-Suche von Adobe Sensei basieren. &#x200B; Diese zuverlässige SaaS-Lösung verbessert das E-Commerce-Erlebnis, indem sie schnell und effizient hochrelevante Suchergebnisse liefert. &#x200B; Merchandiser und Marketingexperten können Site-Suchergebnisse mithilfe von Tools wie erweiterten Suchregeln, Synonymen und Facetten optimieren. Die Live-Suche bietet Echtzeitvorschläge, ein intelligentes Ranking und anpassbare Sucherlebnisse und stellt sicher, dass Kunden das finden, was sie benötigen. &#x200B; Es unterstützt auch B2B-Modelle mit gemeinsamen Katalogen und speziellen Preisen, wodurch es zu einer vielseitigen Lösung für alle geschäftlichen Anforderungen wird.
+Entdecken Sie die erweiterten Suchfunktionen von Adobe Commerce, unterstützt durch die KI-gesteuerte Live-Suche von Adobe Sensei. &#x200B; Diese robuste SaaS-Lösung verbessert das E-Commerce-Erlebnis, indem sie schnell und effizient hochrelevante Suchergebnisse bereitstellt. &#x200B; Merchandiser und Marketing-Experten können Site-Suchergebnisse mithilfe von Tools wie erweiterten Suchregeln, Synonymen und Facetten optimieren. Die Live-Suche bietet Echtzeit-Vorschläge, ein intelligentes Ranking und anpassbare Sucherlebnisse, sodass Kunden finden, was sie benötigen. &#x200B; Darüber hinaus unterstützt es B2B-Modelle mit freigegebenen Katalogen und spezifischen Preisen, was es zu einer vielseitigen Lösung für alle Geschäftsanforderungen macht.
 
 ## Live Search-Videoinhalt
 
-- KI-gesteuerte Suchoptimierung: Die Live-Suche von Adobe Commerce nutzt KI und maschinelles Lernen, um hochgradig relevante und effiziente Suchergebnisse bereitzustellen.
+- KI-gesteuerte Suchoptimierung: Die Live-Suche von Adobe Commerce nutzt KI und maschinelles Lernen, um hochrelevante und effiziente Suchergebnisse zu liefern.
 - Anpassbares Sucherlebnis: Funktionen wie erweiterte Suchregeln, Synonyme und Facetten ermöglichen ein maßgeschneidertes und optimiertes Sucherlebnis für Kunden.
-- B2B-Integration: Live Search unterstützt B2B-Modelle mit gemeinsamen Katalogen und speziellen Preisen, wodurch sich die Vielseitigkeit dieser Modelle für unterschiedliche Geschäftsanforderungen verbessert.
+- B2B-Integration: Die Live Search unterstützt B2B-Modelle mit freigegebenen Katalogen und spezifischen Preisen und verbessert so ihre Vielseitigkeit für verschiedene Geschäftsanforderungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promotions  
 
-Mit Adobe Commerce können Store-Manager mühelos Produktpakete und Promotions erstellen und verwalten, ohne dass Programmierkenntnisse erforderlich sind. Die Plattform bietet eine benutzerfreundliche Oberfläche zum Einrichten von Katalog- und Warenkorbaktionen, volumenbasierten Stufenpreisen und unternehmensspezifischen Promotions für B2B-Anwendungsfälle. Store-Manager können anpassbare Produktpakete mit Sonderpreisen konfigurieren, genaue Promotionsbedingungen definieren und verschiedene Rabatttypen anwenden. Darüber hinaus unterstützt Adobe Commerce erweiterte Promotionsstrategien wie das Promotion-Stapeln und lässt sich über das Back Office Integration Starter Kit nahtlos mit Drittanbietersystemen integrieren. Alle diese Funktionen können auch programmgesteuert mit Adobe Commerce REST APIs verwaltet werden.
+Adobe Commerce ermöglicht es Store-Managern, Produktpakete und Werbeaktionen mühelos und ohne Programmierkenntnisse zu erstellen und zu verwalten. Die Plattform bietet eine benutzerfreundliche Oberfläche zum Einrichten von Katalog- und Warenkorbaktionen, volumenbasierten gestaffelten Preisen und unternehmensspezifischen Aktionen für B2B-Anwendungsfälle. Store-Manager können anpassbare Produktpakete mit Sonderpreisen konfigurieren, präzise Promotion-Bedingungen definieren und verschiedene Rabatttypen anwenden. Darüber hinaus unterstützt Adobe Commerce erweiterte Promotion-Strategien wie das Stacking von Promotions und lässt sich durch das Back Office Integration Starter Kit nahtlos in Drittanbietersysteme integrieren. Alle diese Funktionen können auch programmgesteuert mithilfe von Adobe Commerce REST-APIs verwaltet werden.
 
-## Videoinhalte für Promotions
+## Inhalte von Promotions-Videos
 
-- Verwaltung von Code-Promotions.
-- Erweiterte Promotionsstrategien.
-- Nahtlose Integration mit Drittanbietersystemen, Steigerung der Flexibilität und Automatisierung.
+- Verwaltung von Werbeaktionen ohne Code.
+- Erweiterte Werbestrategien.
+- Nahtlose Integration mit Systemen von Drittanbietern für mehr Flexibilität und Automatisierung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

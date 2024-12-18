@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Kundenverwaltung'
-description: Erfahren Sie mehr über die empfohlenen Berechtigungen für den Kundendienst, das Erstellen eines Kunden in der [!DNL Admin], das Verwalten von Kundeninformationen und das Erstellen von Kundengruppen.
+title: '[!DNL Commerce] für Business-Anwender - Kundenmanagement'
+description: Erfahren Sie mehr über die empfohlenen Berechtigungen für den Kundendienst, das Erstellen eines Kunden in der  [!DNL Admin], das Verwalten von Kundeninformationen und das Erstellen von Kundengruppen.
 kt: 5779
 doc-type: video
 activity: use
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Kundenverwaltung
+# [!DNL Commerce] für Business-Anwender - Kundenmanagement
 
 In diesem Video:
 
 - Empfohlene Berechtigungen für eine CSR (Kundendienstmitarbeiter)
-- Erstellen eines Kunden im [!DNL Admin]
+- Kunden in der [!DNL Admin] erstellen
 - Verwalten von Kundeninformationen
 - Erstellen von Kundengruppen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
@@ -36,6 +36,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Erstellen eines einzelnen Kundenkontos - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Erstellen eines individuellen Kundenkontos -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Kundengruppen - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Kundengruppen - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

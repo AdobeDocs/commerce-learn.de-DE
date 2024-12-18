@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Unternehmenskonten
-description: Erfahren Sie, wie Sie Ihre B2B-Unternehmenskonten verwalten, einschließlich aller ausstehenden Genehmigungsanfragen.
+description: Erfahren Sie, wie Sie Ihre B2B-Unternehmenskonten verwalten, einschließlich ausstehender Genehmigungsanfragen.
 doc-type: feature video
 audience: all
 activity: use
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Verwalten von Unternehmenskonten
 
-Bei B2B-Händlern werden auf der Seite &quot;_[!UICONTROL Companies]_&quot;alle aktuellen Unternehmenskonten und deren Status aufgelistet. Sie können Ihre Unternehmenskonten hier verwalten und alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Die standardmäßigen Steuerelemente am Arbeitsplatz können verwendet werden, um die Liste zu filtern, das Spaltenlayout zu ändern, Ansichten zu speichern und Daten zu exportieren.
+Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Vertriebsmitarbeiter
@@ -37,4 +37,4 @@ Bei B2B-Händlern werden auf der Seite &quot;_[!UICONTROL Companies]_&quot;alle 
 ## Zusätzliche Ressourcen
 
 - [Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Unternehmenskonten verwalten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

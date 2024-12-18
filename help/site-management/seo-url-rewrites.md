@@ -1,6 +1,6 @@
 ---
 title: Verwalten von URL-Neuschreibungen für SEO
-description: Erfahren Sie, wie Sie mit dem Tool zum Umschreiben von URLs alle URLs ändern können, die mit einem Produkt, einer Kategorie oder einer CMS-Seite verknüpft sind.
+description: Erfahren Sie, wie Sie mit dem URL Rewrite-Tool alle URLs ändern, die mit einem Produkt, einer Kategorie oder einer CMS-Seite verknüpft sind.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Verwalten von URL-Neuschreibungen für SEO
 
-Mit dem URL-Umschreibungstool können Sie jede URL ändern, die mit einem Produkt, einer Kategorie oder einer CMS-Seite verknüpft ist. Wenn das Neuschreiben in Kraft tritt, werden alle Links, die auf die vorherige URL verweisen, an die neue Adresse weitergeleitet.
+Mit dem URL Rewrite-Tool können Sie jede URL ändern, die mit einem Produkt, einer Kategorie oder einer CMS-Seite verknüpft ist. Wenn die Umschreibung wirksam wird, werden alle Links, die auf die vorherige URL verweisen, an die neue Adresse umgeleitet.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 - E-Commerce-Marketer
 
 ## Videoinhalt
@@ -34,5 +34,5 @@ Mit dem URL-Umschreibungstool können Sie jede URL ändern, die mit einem Produk
 
 ## Zusätzliche Ressourcen
 
-- [URL-Neuschreibungen - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [URL-Neuschreibungen - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [Allgemein > Web - [!DNL Commerce] Konfigurationshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

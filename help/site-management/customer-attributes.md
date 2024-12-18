@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Kundenattribute erstellen
 
-Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-, Erfüllungs- und Kundenverwaltungsprozesse erforderlich sind. Da Ihr Unternehmen einzigartig ist, benötigen Sie möglicherweise neben den vom System bereitgestellten Standardfeldern auch Felder. Sie können den Abschnitten Kontoinformationen, Adressbuch und Rechnungsinformationen des Kundenkontos benutzerdefinierte Attribute hinzufügen.
+Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-, Erfüllungs- und Kundenverwaltungsprozesse erforderlich sind. Da Ihr Unternehmen eindeutig ist, benötigen Sie möglicherweise Felder zusätzlich zu den vom System bereitgestellten Standardfeldern. Sie können den Abschnitten Kontoinformationen, Adressbuch und Rechnungsinformationen des Kontos des Kunden benutzerdefinierte Attribute hinzufügen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 - E-Commerce-Marketer
@@ -33,5 +33,5 @@ Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-,
 
 ## Zusätzliche Ressourcen
 
-- [Kundenattributeigenschaften - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Erstellen eines individuellen Kundenkontos - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [Kundenattributeigenschaften -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Erstellen eines individuellen Kundenkontos -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

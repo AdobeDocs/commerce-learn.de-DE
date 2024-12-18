@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Beispiel für eine Injektion von Abhängigkeiten
 
-Abhängigkeitseinfügung ist ein Designmuster, das es einem Objekt A ermöglicht, seine Abhängigkeiten zu einem externen Objekt B zu deklarieren, das diese Abhängigkeiten bereitstellt. Die von A deklarierten Abhängigkeiten sind normalerweise Klassenschnittstellen und die Abhängigkeiten B bieten konkrete Implementierungen für diese Schnittstellen.
+Das Einfügen von Abhängigkeiten ist ein Designmuster, das es einem Objekt A ermöglicht, seine Abhängigkeiten zu einem externen Objekt B zu deklarieren, das diese Abhängigkeiten bereitstellt. Die von A deklarierten Abhängigkeiten sind normalerweise Klassenschnittstellen und die von B bereitgestellten Abhängigkeiten sind konkrete Implementierungen für diese Schnittstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 
@@ -31,5 +31,5 @@ Abhängigkeitseinfügung ist ein Designmuster, das es einem Objekt A ermöglicht
 
 ## Nützliche Ressourcen
 
-- [Abhängigkeitsinjektion](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [Injektion von Abhängigkeiten](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 - [PHP-Entwicklerhandbuch](https://developer.adobe.com/commerce/php/development/)

@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Inhaltsvorlagen
-description: Erfahren Sie, wie Vorlagen Zeit und Mühe sparen können, wenn Inhalte erstellt oder ältere Inhalte ersetzt werden.
+description: Erfahren Sie, wie Sie mit Vorlagen Zeit und Aufwand sparen können, wenn Sie Inhalte erstellen oder ältere Inhalte ersetzen.
 doc-type: feature video
 audience: all
 activity: use
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 # Erstellen von Inhaltsvorlagen
 
-Durch die Verwendung von Vorlagen sparen Sie Zeit und Mühe beim Erstellen von Inhalten (oder Ersetzen älterer Inhalte). Sie können beispielsweise Ihren vorhandenen Seitenaufbau-Inhalt als Vorlage speichern und diese Vorlage (mit dem gesamten Inhalt und den Layouts) dann auf einen anderen Bereich anwenden, um schnell Seitenaufbau-Inhalte zu erstellen.
+Die Verwendung von Vorlagen spart Ihnen Zeit und Mühe bei der Erstellung von Inhalten (oder beim Ersetzen älterer Inhalte). Sie können beispielsweise Ihren vorhandenen Page Builder-Inhalt als Vorlage speichern und diese Vorlage (mit allen Inhalten und Layouts) dann auf einen anderen Bereich anwenden, um schnell Page Builder-Inhalte zu erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- Inhaltsentwickler
+- Inhalts-Designer
 
 ## Videoinhalt
 
@@ -32,5 +32,5 @@ Durch die Verwendung von Vorlagen sparen Sie Zeit und Mühe beim Erstellen von I
 
 ## Zusätzliche Ressourcen
 
-- [[!DNL Page Builder] Vorlagen - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
-- [Vorlagen hinzufügen - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+- [[!DNL Page Builder] templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [Add templates - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

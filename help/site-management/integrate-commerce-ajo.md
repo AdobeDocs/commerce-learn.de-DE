@@ -20,26 +20,26 @@ ht-degree: 0%
 
 # Integrieren von Adobe Commerce und Adobe Journey Optimizer
 
-Erfahren Sie, wie Sie mit der [Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} in Adobe Commerce Commerce-Daten entsperren und mithilfe von Adobe Journey Optimizer End-to-End-Kundenerlebnisse in Echtzeit bereitstellen können.
+Erfahren Sie, wie Sie [Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} in Adobe Commerce verwenden können, um Commerce-Daten zu entsperren und mithilfe von Adobe Journey Optimizer personalisierte End-to-End-Kundenerlebnisse in Echtzeit bereitzustellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- E-Commerce-Manager und -Vorgänge, die an der Freigabe von E-Commerce-Daten und -Zielgruppen für Marketingteams interessiert sind
-- Marketing-Manager, die Kundendaten aus Commerce verwenden möchten, um die Personalisierung skaliert weiter voranzutreiben
-- Marketingoperationen, die an der Steigerung der Effizienz durch den automatisierten Datenstrom zwischen Commerce und Journey Optimizer interessiert sind
+- E-Commerce-Manager und -Vorgänge, die E-Commerce-Daten und -Zielgruppen an Marketing-Teams weitergeben möchten
+- Marketing-Manager, die Kundendaten aus Commerce verwenden möchten, um die Personalisierung in jedem Maßstab weiter voranzutreiben
+- Marketing-Abläufe, die die Effizienz mit dem automatisierten Datenstrom zwischen Commerce und Journey Optimizer steigern möchten
 
 ## Videoinhalt
 
-- Beheben von Problemen mit gesiegelten Daten durch nahtloses Streaming von Daten zwischen Adobe Commerce und der Adobe Experience Platform, einschließlich Journey Optimizer, mit der Datenverbindung
-- Daten aus Commerce in Echtzeit nutzen, um Journey in Journey Optimizer zu aktivieren und zu personalisieren
-- Kombinieren von Commerce-Daten mit Daten aus zusätzlichen Quellen. Erstellen Sie Zielgruppen und richten Sie sie mit eindeutigen Nachrichten, Erlebnissen oder Angeboten aus.
-- Implementieren Sie diese Integration in nur eine Stunde mit der Datenverbindung, verglichen mit den typischen 20 Tagen, die eine benutzerdefinierte Implementierung dauert
-- Erstellen und aktivieren Sie in Adobe Journey Optimizer einfach 1:1-Kundenereignisse mithilfe von nativen Journey, die mit der Datenverbindung verfügbar sind
-- Echtzeit-Interaktion mit Käufern über alle Kanäle hinweg mithilfe der nativen Messaging-Funktionen von Adobe Journey Optimizer
+- Bewältigung isolierter Datenherausforderungen durch nahtloses Streaming von Daten zwischen Adobe Commerce und Adobe Experience Platform, einschließlich Journey Optimizer, mit der Datenverbindung
+- Daten aus Commerce in Echtzeit nutzen, um Kunden-Journey in Journey Optimizer zu aktivieren und zu personalisieren
+- Kombinieren Sie Commerce-Daten mit Daten aus zusätzlichen Quellen. Zielgruppen erstellen und mit eindeutigen Nachrichten, Erlebnissen oder Angeboten ansprechen
+- Implementieren Sie diese Integration in nur einer Stunde mit der Datenverbindung, im Vergleich zu den typischen 20 Tagen für eine benutzerdefinierte Implementierung
+- Erstellen und aktivieren Sie in Adobe Journey Optimizer einfach 1:1-Kundenereignisse mithilfe von vorkonfigurierten Journey-Ereignissen, die mit der Datenverbindung verfügbar sind
+- Interagieren Sie mit Kunden auf allen Kanälen in Echtzeit und verwenden Sie dazu die nativen Messaging-Funktionen von Adobe Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über die Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[Übersicht über Datenverbindungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
 [Installieren der Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

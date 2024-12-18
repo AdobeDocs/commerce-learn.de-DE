@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Erstellen einer Kategorie
 
-Bevor Sie Produkte zu Ihrem Katalog hinzufügen, müssen Sie die grundlegende Kategoriestruktur Ihres Katalogs festlegen. Produkte können keiner oder mehreren Kategorien zugeordnet werden. Kategorien werden in der Regel im Voraus erstellt, bevor Produkte zum Katalog hinzugefügt werden. Sie können jedoch beim Erstellen eines Produkts auch Kategorien &quot;spontan&quot;hinzufügen.
+Bevor Sie Produkte zu Ihrem Katalog hinzufügen, müssen Sie die grundlegende Kategoriestruktur Ihres Katalogs festlegen. Produkte können null oder mehr Kategorien zugeordnet werden. Kategorien werden normalerweise im Voraus erstellt, bevor Produkte zum Katalog hinzugefügt werden. Sie können jedoch auch Kategorien „on the fly“ hinzufügen, während Sie ein Produkt erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 
@@ -33,6 +33,6 @@ Bevor Sie Produkte zu Ihrem Katalog hinzufügen, müssen Sie die grundlegende Ka
 
 ## Zusätzliche Ressourcen
 
-- [Kategorien erstellen - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [Kategorieberechtigungen - [!DNL Commerce] Anleitung zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [Top Navigation - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [Kategorien erstellen - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+- [Kategorieberechtigungen - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+- [Top Navigation - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

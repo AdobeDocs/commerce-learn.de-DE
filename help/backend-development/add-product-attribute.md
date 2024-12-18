@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Produktattributs
-description: Erstellen Sie eine Seite, die json mit einem Parameter zurückgibt.
+title: Produktattribut erstellen
+description: Erstellen Sie eine Seite, die JSON mit einem Parameter zurückgibt.
 kt: 14131
 doc-type: video
 activity: use
@@ -17,28 +17,28 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Produktattributs
+# Produktattribut erstellen
 
-Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [!DNL Commerce]. Attribute sind eine leistungsstarke Methode, um viele praktische Aufgaben im Zusammenhang mit einem Produkt zu lösen. Es gibt einen einfachen Prozess, einem Produkt ein Attribut vom Typ Dropdown hinzuzufügen.
+Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [!DNL Commerce]. Attribute sind eine leistungsstarke Methode, um viele praktische Aufgaben im Zusammenhang mit einem Produkt zu lösen. Es gibt einen einfachen Prozess zum Hinzufügen eines Attributs vom Typ Dropdown zu einem Produkt.
 
 In diesem Video:
 
-- Fügen Sie das Attribut Bekleidung_Material mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fur und Wolle
+- Fügen Sie ein Attribut namens „Clothing_material“ mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fell und Wolle.
 - Dieses Attribut auf der Produktansichtsseite in Fettdruck anzeigen
-- Weisen Sie ihn dem standardmäßigen Attributsatz zu und fügen Sie eine Einschränkung hinzu
-- Neues Attribut hinzufügen
+- Dem Standardwert zuweisen und eine Einschränkung hinzufügen
+- Hinzufügen des neuen Attributs
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Entwickler, die neu im Handel sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
+- Entwickler, die noch nicht mit Commerce vertraut sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
 
-## Codebeispiel
+## Code-Beispiel
 
-Erstellen Sie zunächst die erforderlichen Ordner-, XML- und PHP-Dateien:
+Erstellen Sie zunächst die erforderlichen Ordner, XML- und PHP-Dateien:
 
 - app/code/Learning/ClothingMaterial/registration.php
 - app/code/Learning/ClothingMaterial/etc/module.xml
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul das deklarative Schema verwendet und die meisten seit 2.3.0 besitzen, sollten Sie setup_version weglassen. Wenn Sie jedoch über einige veraltete Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden Sie unter [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} .
+>Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [ unter ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.
 
 
 ```xml
@@ -231,4 +231,4 @@ class InstallData implements InstallDataInterface
 
 [Erstellen eines Produktattributs](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Fügen Sie ein benutzerdefiniertes Textfeldattribut hinzu](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

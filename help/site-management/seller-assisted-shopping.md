@@ -1,6 +1,6 @@
 ---
-title: Händlerunterstütztes Shopping
-description: Erfahren Sie, wie Sie hinzufügen können Sie sofortige Unterstützung für Gäste und Kunden, die sich für ein Konto bei Ihrem Geschäft angemeldet haben.
+title: verkäuferunterstütztes Einkaufen
+description: Erfahren Sie, wie Sie hinzufügen können, um sofortige Hilfe sowohl für Gäste als auch für Kunden, die sich für ein Konto bei Ihrem Geschäft registriert haben, anzubieten.
 kt: 10548
 doc-type: feature video
 audience: all
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Händlerunterstütztes Shopping
+# verkäuferunterstütztes Einkaufen
 
-Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden kaufen gerne online ein, bestellen aber möglicherweise lieber telefonisch. Sie können sowohl den Gästen als auch den Kunden, die sich für ein Konto bei Ihrem Geschäft angemeldet haben, sofortige Hilfe anbieten.
+Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden kaufen gerne online ein, bestellen aber lieber telefonisch. Sie können sowohl Gästen als auch Kunden, die sich für ein Konto bei Ihrem Geschäft registriert haben, sofortige Hilfe anbieten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Vertriebsleiter
 - Kundendienstmitarbeiter
@@ -33,5 +33,5 @@ Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden ka
 
 ## Zusätzliche Ressourcen
 
-- [Kundenunterstützung bereitstellen - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Shopping-Hilfe - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Kundenunterstützung bereitstellen - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Shopping-Hilfe - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

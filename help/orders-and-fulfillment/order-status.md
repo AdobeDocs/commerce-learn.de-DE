@@ -1,5 +1,5 @@
 ---
-title: Bestellstatus verwalten
+title: Verwalten des Bestellstatus
 description: Erfahren Sie, wie Sie den Bestellstatus und seine Details überprüfen und den Status einer Bestellung ändern können.
 doc-type: feature video
 audience: all
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# Bestellstatus verwalten
+# Verwalten des Bestellstatus
 
-Wenn ein Kunde eine Bestellung aufgibt, wird eine Bestellung als temporärer Datensatz der Transaktion erstellt. Der Verkaufsauftrag hat den Status &quot;_Ausstehend_&quot;, bis die Zahlung eingegangen ist. Im Status Ausstehend können Bestellungen bearbeitet oder storniert werden, bis die Zahlung eingegangen ist und eine Rechnung erstellt wurde. In diesem Video erfahren Sie, wie Sie den Bestellstatus und seine Details überprüfen und gegebenenfalls den Status einer Bestellung ändern können.
+Wenn ein Kunde eine Bestellung aufgibt, wird ein Kundenauftrag als temporärer Datensatz der Transaktion erstellt. Der Kundenauftrag hat den Status _Ausstehend_ bis die Zahlung eingeht. Im Status Ausstehend können Bestellungen bearbeitet oder storniert werden, bis die Zahlung eingegangen ist und eine Rechnung generiert wurde. In diesem Video erfahren Sie, wie Sie den Bestellstatus und seine Details überprüfen und den Status einer Bestellung bei Bedarf ändern können.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Vertrieb
+- Verkauf
 - Kundendienstmitarbeiter
 
 ## Videoinhalt
@@ -32,5 +32,5 @@ Wenn ein Kunde eine Bestellung aufgibt, wird eine Bestellung als temporärer Dat
 
 ## Zusätzliche Ressourcen
 
-- [Verarbeiten einer Bestellung - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Auftragsstatus - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Bestellung verarbeiten - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Bestellstatus - [!DNL Commerce] Stores und Handbuch zum Kauferlebnis](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

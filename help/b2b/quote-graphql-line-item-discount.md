@@ -1,6 +1,6 @@
 ---
-title: Verwenden von GraphQL zum Anzeigen eines Zeilenartikelrabatts
-description: Erfahren Sie mehr über das Angebot für eine B2B-Bestellung, die mithilfe von GraphQL einen Rabatt für Zeileneinträge bietet.
+title: Bei Verwendung von GraphQL „Positionsrabatt anzeigen“
+description: Erfahren Sie mehr über das Angebot für einen Preisnachlass auf Einzelposten bei B2B-Bestellungen mit GraphQL
 doc-type: feature video
 audience: all
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# B2B Sales Offerting-Zeilenrabatt mit GraphQL
+# B2B-Verkaufsangebot Positionsrabatt mit GraphQL
 
-Erfahren Sie, wie Sie den Rabatt für Zeilenelemente verwenden und die Werte mithilfe von GraphQL anzeigen.
+Erfahren Sie, wie Sie den Positionsrabatt verwenden und die Werte mit GraphQL anzeigen können.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 

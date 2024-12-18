@@ -1,8 +1,8 @@
 ---
 title: Konfigurieren von Adobe Commerce
 description: Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass Ereignisse in Adobe Developer App Builder verwendet werden können.
-landing-page-description: Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass der Ereignismechanismus für Adobe Developer App Builder verwendet wird.
-short-description: Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass der Ereignismechanismus für Adobe Developer App Builder verwendet wird.
+landing-page-description: Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass der Ereignismechanismus für die Nutzung durch Adobe Developer App Builder verwendet wird.
+short-description: Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass der Ereignismechanismus für die Nutzung durch Adobe Developer App Builder verwendet wird.
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -21,18 +21,18 @@ ht-degree: 0%
 
 # Konfigurieren von Adobe Commerce
 
-Erfahren Sie, wie Sie Adobe Commerce so konfigurieren, dass die Ereignisse verfügbar gemacht werden. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie Adobe Commerce konfigurieren, um die Ereignisse anzuzeigen. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die mit Adobe Commerce und Adobe Developer App Builder über I/O-Ereignisse neu sind und ein Adobe App Builder-Projekt erstellen müssen.
+* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe-App Builder-Projekt erstellen.
 
 ## Videoinhalt {#video-content}
 
-* Konfiguration der Adobe I/O-Ereignisse in der Commerce Admin
-* Speichern eines privaten Schlüssels in der Commerce-Administration
-* Speichern der eindeutigen Kennung im Commerce-Administrator
-* Ereignisanbieter erstellen
+* Konfiguration der Adobe I/O-Ereignisse in Commerce Admin
+* Speichern eines privaten Schlüssels in der Commerce Admin Console
+* Eindeutige Kennung im Commerce Admin speichern
+* Erstellen eines Ereignisanbieters
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 

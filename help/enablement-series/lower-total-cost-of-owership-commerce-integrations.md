@@ -1,6 +1,6 @@
 ---
-title: Senkung des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
-description: Erfahren Sie mehr über die Best Practices zur Senkung der Gesamtbetriebskosten für Integrationen mit Adobe Commerce.
+title: Herabsetzen des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
+description: Lernen Sie die Best Practices zur Senkung der Gesamtbetriebskosten für Integrationen mit Adobe Commerce kennen.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 ---
 
-# Senkung des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
+# Herabsetzen des Inhaltsverzeichnisses für Adobe Commerce-Integrationen
 
-In diesem Webinar werden Methoden zur Senkung der Eigentumskosten für Integrationen mit Adobe Commerce vorgestellt.
+In diesem Webinar werden Methoden zur Senkung der Betriebskosten für Integrationen mit Adobe Commerce erläutert.
 
-Die Redner des Webinars besprechen die Herausforderungen und Kosten im Zusammenhang mit Integrationen, die Bedeutung der Verringerung der technischen Schulden und die Vorteile der Verwendung von Erweiterungspunkten, die von Adobe Commerce bereitgestellt werden. Außerdem werden spezifische Anwendungsfälle erwähnt, bei denen ein schlankes Bestellmanagement-System mithilfe von WhatApp und ein smartes Tier-Wurffeld zum Senden von Daten für personalisierte Produktempfehlungen verwendet werden.  Darüber hinaus wird die Verwendung der Adobe-Datenverbindung für Commerce besprochen, die es ermöglicht, Daten zwischen Adobe Commerce und anderen Adobe-Produkten zu senden und zu empfangen.
+Die Referenten im Webinar besprechen die Herausforderungen und Kosten im Zusammenhang mit Integrationen, die Bedeutung des Abbaus technischer Schwierigkeiten und die Vorteile der Verwendung von Erweiterungspunkten, die von Adobe Commerce bereitgestellt werden. Darüber hinaus werden spezifische Anwendungsfälle erwähnt, die ein schlankes Auftragsverwaltungssystem mit WhatsApp und eine intelligente Haustiermüllbox beinhalten, die Daten für personalisierte Produktempfehlungen sendet.  Das Team diskutiert außerdem, wie die Adobe-Datenverbindung für Commerce verwendet wird, die die Möglichkeit bietet, Daten zwischen Adobe Commerce und anderen Adobe-Produkten zu senden und zu empfangen.
 
 ## Zielgruppe
 
-* Entwicklungsteams, Manager, Lead-Entwickler, technische Architekten
-* Teams, die Adobe Commerce als Upgrade, Migration oder neues Commerce-Angebot implementieren
+* Entwicklungsteams, Manager, leitende Entwickler, technische Architekten
+* Teams, die Adobe Commerce als Upgrade-, Migrations- oder neues Commerce-Angebot implementieren
 
 ## Videoinhalt
 
-* Verwenden von Adobe Commerce-Erweiterungspunkten und App Builder zum Anpassen und Erweitern von Adobe Commerce ohne grundlegende Produktanpassung.
-* Präsentieren Sie Anwendungsfälle in der realen Welt, um die Vorteile nahtloser Integrationen zu demonstrieren.
-Hervorhebung der Bedeutung des Abbaus der technischen Verschuldung und der Vermeidung von Punkt zu Punkt Integrationen.
-Heben Sie die Verfügbarkeit von Datenverbindungen für einen nahtlosen Datenfluss zwischen Adobe Commerce und anderen Adobe-Produkten hervor.
-* Erfahren Sie mehr über die Vorteile von API-Gittern bei der Orchestrierung der Kommunikation zwischen Diensten und der Transformation von Daten nach Bedarf.
-* Bieten Sie Einblicke in die Verwendung von Ereignissen und ereignisgesteuerten Integrationen für Echtzeitaktualisierungen und personalisierte Erlebnisse.
-* Einführung in die Partner-Webinar-Reihe zu Best Practices für die Implementierung und Integration von Adobe Commerce.
-* Diskussion über die Notwendigkeit, die Gesamtbetriebskosten für Integrationen mit Adobe Commerce zu senken.
-* Erläuterung der Herausforderungen und Kosten im Zusammenhang mit der Integration verschiedener Systeme und Touchpoints in eine digitale Commerce-Umgebung.
+* Verwenden von Adobe Commerce-Erweiterungspunkten und App Builder zum Anpassen und Erweitern von Adobe Commerce ohne Anpassung des Kernprodukts.
+* Präsentieren Sie Anwendungsfälle aus der Praxis, um die Vorteile nahtloser Integrationen zu demonstrieren.
+Heben Sie hervor, wie wichtig es ist, die technische Verschuldung zu reduzieren und Punkt-zu-Punkt-Integrationen zu vermeiden.
+Hervorheben der Verfügbarkeit von Datenverbindungen für einen nahtlosen Datenfluss zwischen Adobe Commerce und anderen Adobe-Produkten.
+* Diskutieren Sie über die Vorteile von API Mesh für die Orchestrierung der Kommunikation zwischen Services und die Umwandlung von Daten nach Bedarf.
+* Bieten Sie Einblicke in die Verwendung von Ereignissen und ereignisgesteuerten Integrationen für Echtzeit-Updates und personalisierte Erlebnisse.
+* Einführung in die Webinar-Serie zu Best Practices für die Implementierung und Integration von Adobe Commerce.
+* Erörterung der Notwendigkeit, die Gesamtbetriebskosten für Integrationen mit Adobe Commerce zu senken.
+* Erläuterung der Herausforderungen und Kosten im Zusammenhang mit der Integration verschiedener Systeme und Kontaktpunkte in einer Umgebung für den digitalen Handel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428768?learn=on)
 

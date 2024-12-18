@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - Kohorten-Report Builder
 description: Erfahren Sie, wie Sie mit dem Commerce Intelligence-Kohorten-Report Builder optimierte Berichte und Analysen erstellen können, die für Ihr Unternehmen relevant sind.
-landing-page-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence-Kohorte-Report Builder optimierte Berichte und Analysen erstellen, die für Ihr Unternehmen relevant sind.
-short-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence-Kohorte-Report Builder optimierte Berichte und Analysen erstellen, die für Ihr Unternehmen relevant sind.
+landing-page-description: Sehen Sie sich dieses Video an, um zu erfahren, wie Sie mit dem Commerce Intelligence-Kohorten-Report Builder optimierte, geschäftsrelevante Berichte und Analysen erstellen können.
+short-description: Sehen Sie sich dieses Video an, um zu erfahren, wie Sie mit dem Commerce Intelligence-Kohorten-Report Builder optimierte, geschäftsrelevante Berichte und Analysen erstellen können.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -23,21 +23,21 @@ ht-degree: 0%
 
 # Commerce Intelligence - Kohorten-Report Builder
 
-Wollten Sie schon einmal untersuchen, wie sich unterschiedliche Untergruppen Ihrer Benutzer im Laufe der Zeit verhalten? Haben Sie sich beispielsweise schon einmal gefragt, ob Benutzer, die sich während eines Promo-Zeitraums registrieren, einen höheren durchschnittlichen Lebensdauerumsatz haben als Benutzer, die dies nicht tun? Wenn die Antwort _Ja_ lautet, ist der Kohorten-Report Builder das perfekte Tool für Sie. Commerce Intelligence ist optimiert, um diese Analyse durchzuführen und sie für Ihr Unternehmen relevant zu machen.
+Wollten Sie schon immer einmal untersuchen, wie sich verschiedene Untergruppen Ihrer Benutzer im Laufe der Zeit verhalten? Haben Sie sich beispielsweise jemals gefragt, ob Benutzer, die sich während eines Promo-Zeitraums registrieren, einen höheren durchschnittlichen lebenslangen Umsatz haben als Benutzer, die sich nicht registrieren? Wenn die Antwort _Ja_ ist, dann ist der Kohorten-Report Builder das perfekte Tool für Sie. Commerce Intelligence wurde optimiert, um diese Analyse durchzuführen und für Ihr Unternehmen relevant zu machen.
 
 In diesem Video:
 
-- Was für eine Kohortenanalyse
+- Was ist die Kohortenanalyse?
 - Warum es wichtig ist
-- Erstellen einer eigenen Kohortenanalyse
+- So erstellen Sie Ihre eigene Kohortenanalyse
 
 >[!TIP]
 >
->Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen umfassenden Überblick, um durch die Datenerfassung, -analyse und -visualisierung bessere Einblicke und Ergebnisse für Unternehmen zu erzielen.
+>Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 - Datenanalysten
 
 ## Videoinhalt

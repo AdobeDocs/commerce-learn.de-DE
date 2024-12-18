@@ -1,6 +1,6 @@
 ---
 title: Page Builder für Entwickler - Designs
-description: Erfahren Sie mehr über die Designpraktiken und ​, einschließlich des Speicherorts für jeden Teil des Seitenaufbaus-Designs.
+description: Erfahren Sie mehr über Vorgehensweisen und Konventionen ​ Design, einschließlich der Position für jeden Teil des Page Builder-Designs.
 kt: 5652
 doc-type: video
 activity: use
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 In diesem Video:
 
-- Übersicht über die Designpraktiken
-- Beschreibung der &#x200B;
-- Wo sich jeder Teil des Seitenaufbaus-Designs befindet&#x200B;
+- Übersicht über die Themen-Practices
+- Beschreibung der Themenkonventionen&#x200B;
+- Wo sich jeder Teil des Page Builder-Designs &#x200B; befindet
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Inhaltsersteller
 - Frontend-Entwickler
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

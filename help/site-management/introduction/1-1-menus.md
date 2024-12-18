@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - [!DNL Admin] Menüs"
-description: Übersicht über die funktionalen Menüs in der [!DNL Commerce] v2.3 [!DNL Admin].
+title: '[!DNL Commerce] für Business-Anwender - [!DNL Admin] Menüs'
+description: Übersicht über die Funktionsmenüs in  [!DNL Commerce] .v2. [!DNL Admin].
 landing-page-description: In dieser Videoreihe lernen Sie die Grundlagen von Adobe Commerce und die Arbeit im Admin-Bereich kennen.
 short-description: In dieser Videoreihe lernen Sie die Grundlagen von Adobe Commerce und die Arbeit im Admin-Bereich kennen.
 kt: 5758
@@ -19,26 +19,26 @@ ht-degree: 29%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - [!DNL Admin] Menüs
+# [!DNL Commerce] für Business-Anwender - [!DNL Admin] Menüs
 
-Die &quot;[!DNL Commerce Admin]&quot; ist das passwortgeschützte Backoffice, in dem Sie Produkte und Promotions einrichten, Kundenbestellungen erfüllen und Ihren [!DNL Commerce]-Store entsprechend Ihren geschäftlichen Anforderungen konfigurieren können.
+Das [!DNL Commerce Admin] ist das passwortgeschützte Back Office, in dem Sie Produkte und Angebote einrichten, Kundenbestellungen ausführen und Ihren [!DNL Commerce] an Ihre Geschäftsanforderungen anpassen können.
 
 In diesem Video:
 
-- Übersicht über die Admin-Menüs
+- Überprüfung der Admin-Menüs
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[[!DNL Commerce] Handelsdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)

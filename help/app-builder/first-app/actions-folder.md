@@ -1,7 +1,7 @@
 ---
-title: Ordner "actions"
-description: Erfahren Sie mehr über die Dateitypen im Ordner "actions"für diese Beispielanwendung.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen im Ordner "Aktionen"enthalten sind.
+title: Der Ordner „Aktionen“
+description: Erfahren Sie mehr über die Dateitypen im Aktionsordner für diese Beispielanwendung.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen im Aktionsordner gespeichert werden.
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -18,26 +18,26 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über den Ordner &quot;actions&quot; {#actions-folder}
+# Informationen zum Aktionsordner {#actions-folder}
 
-Der Ordner &quot;`actions`&quot;für diese Beispielanwendung enthält einige JavaScript-Dateien und einen Ordner namens &quot;`commerce`&quot;. Die angezeigte JavaScript ist eine hervorragende Beispieldatei, die wiederverwendet werden kann, wenn sie für Ihre Arbeit relevant ist. Mit diesem Ordner sparen Sie Zeit bei Entwicklungsbemühungen, wenn Sie mit OAuth und REST eine Verbindung zur Adobe Commerce-Anwendung herstellen.
+Der `actions` Ordner für diese Beispielanwendung enthält einige JavaScript-Dateien und einen Ordner mit dem Namen `commerce`. Die abgebildete JavaScript ist eine hervorragende Beispieldatei, die wiederverwendet werden kann, wenn sie für Ihre Arbeit relevant ist. Dieser Ordner kann beim Herstellen einer Verbindung zur Adobe Commerce-Anwendung über OAuth und REST Zeit für die Entwicklung sparen.
 
-Die tatsächlichen Namen von Ordnern in diesem Beispiel sind willkürlich, aber wenn Sie deren Namen kennen, können Sie den Beispielcode besser interpretieren. Durch die Verwendung einer aussagekräftigen Namenskonvention können Sie Verwirrungen vermeiden, wenn die Anwendung komplexer wird.
+Die tatsächlichen Namen von Ordnern in diesem Beispiel sind beliebig, aber die Kenntnis ihrer Namen kann Ihnen bei der Interpretation des Beispiel-Codes helfen. Durch die Verwendung einer aussagekräftigen Namenskonvention können Sie Verwirrung vermeiden, wenn die Anwendung komplexer wird.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und die sich mit dem Aktionsordner in der Beispielanwendung vertraut machen.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und mehr über den Aktionsordner in der Beispielanwendung erfahren.
 
 ## Videoinhalt
 
-* Einführung in App Builder und das Beispielmodul, das sich auf den Ordner `actions` konzentriert
-* Verwenden des Ordners &quot;Aktionen&quot;
-* Der Zweck der JavaScript-Datei in den Ordnern `actions` und `commerce`
-* Schneller Überblick über die OAuth-Authentifizierungsdateien
+* Einführung in App Builder und das Beispielmodul mit Schwerpunkt auf dem `actions`
+* Verwendung des Ordners „Aktionen“
+* Der Zweck der JavaScript-Datei, die sich in den Ordnern `actions` und `commerce` befindet
+* Ein kurzer Überblick über die OAuth-Authentifizierungsdateien
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
-## Codebeispiele
+## Code-Beispiele
 
 actions/oauth1a.js
 

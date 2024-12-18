@@ -1,8 +1,8 @@
 ---
-title: Erstellen eines GraphQL-Single-Source-Netzwerks in API Mesh
-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über das Erstellen eines Gitters mit einer Quelle.
-landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über das Erstellen eines Gitters mit einer Quelle.
-short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über das Erstellen eines Gitters mit einer Quelle.
+title: Erstellen eines GraphQL-Mesh aus einer Quelle in API-Mesh
+description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit einer Quelle erstellen.
+landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit einer Quelle erstellen.
+short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit einer Quelle erstellen.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -19,27 +19,27 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Netzwerks mit einer einzigen Quelle
+# Erstellen eines Netzes mit einer einzigen Quelle
 
-In diesem Video erfahren Entwickler, wie ein Gitter mit einer einzigen Quelle im API-Mesh für Adobe Developer App Builder erstellt wird. Damit dieses grundlegende Beispiel erwartungsgemäß funktioniert, benötigen Sie eine öffentlich zugängliche API oder einen GraphQL-Endpunkt. In diesem Video wird auch erläutert, wie Sie eine einfache `mesh.json` -Datei erstellen, die mit Ihrer Commerce-Instanz verwendet werden kann. Weitere Informationen und Codebeispiele finden Sie unter [Ein Gitter erstellen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+In diesem Video erfahren Entwicklerinnen und Entwickler, wie sie ein Netz mit einer einzigen Quelle in API Mesh für Adobe Developer App Builder erstellen. Damit dieses einfache Beispiel erwartungsgemäß funktioniert, benötigen Sie eine öffentlich zugängliche API oder einen GraphQL-Endpunkt. In diesem Video wird auch erläutert, wie Sie eine einfache `mesh.json` erstellen, die mit Ihrer Commerce-Instanz verwendet werden kann. Weitere Informationen und Codebeispiele finden Sie unter [Erstellen eines Netzes](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Jeder, der neu in API-Mesh ist
+* Jeder, der mit API Mesh noch nicht vertraut ist
 * Entwickler, die mehrere GraphQL- und API-Quellen kombinieren möchten
-* Jeder, der wissen muss, wie die Registerkarte &quot;Netzwerk&quot;gefiltert und nach GraphQL gefiltert werden soll
+* Alle, die wissen müssen, wie man die Registerkarte Netzwerk filtert und nach GraphQL filtert
 
 ## Videoinhalt
 
-* Verwenden des API-Gitters als Reverse-Proxy
-* Erstellen eines Gitters aus einer JSON-Konfigurationsdatei
-* Zugriff auf den neu erstellten GraphQL-Endpunkt
+* Verwenden von API Mesh als Reverse-Proxy
+* Erstellen eines Netzes aus einer JSON-Konfigurationsdatei
+* Zugreifen auf den neu erstellten GraphQL-Endpunkt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
-## JSON-Konfigurationsdatei erstellen
+## Erstellen der JSON-Konfigurationsdatei
 
-API-Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält ein `sources` -Array, das die Quellen für Ihr Gitter enthält. Im Folgenden finden Sie ein Beispiel für ein Gitter mit einer einzigen Quelle.
+API Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält ein `sources`-Array, das die Quellen für Ihr Netz enthält. Hier ist ein Beispiel für ein Netz mit einer einzigen Quelle.
 
 ```json
 {

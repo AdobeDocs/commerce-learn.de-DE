@@ -1,6 +1,6 @@
 ---
-title: Einige häufige Commerce Cloud-Fehler diagnostizieren und beheben
-description: Beheben Sie zwei häufige Adobe Cloud-Projektfehler, die das Laden der Site verhindern.
+title: Diagnose und Behebung einiger häufiger Commerce Cloud-Fehler
+description: Beheben Sie zwei häufige Adobe-Cloud-Projektfehler, die verhindern, dass die Site geladen wird.
 feature: Cloud, Site Management
 topic: Commerce, Development
 role: Architect, Developer
@@ -9,59 +9,59 @@ doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Diagnose- und Fehlerbehebungsdienst nicht verfügbar und Fehler aufgetreten
 
-# Diagnose und Fehlerbehebung für nicht verfügbaren Dienst und aufgetretenen Fehler
+Erfahren Sie, wie Sie zwei häufige Fehler in Adobe Commerce Cloud-Projekten triagieren und beheben.  Erfahren Sie, wie und warum diese Fehler auftreten und welche Schritte zur Behebung empfohlen werden.
 
-Erfahren Sie, wie Sie zwei häufige Fehler in Adobe Commerce Cloud-Projekten testen und beheben können.  Erfahren Sie, wie und warum diese Fehler auftreten und welche Schritte zur Behebung dieser Fehler empfohlen werden.
+## Für wen ist dieses Video gedacht?
 
-## Für wen ist dieses Video vorgesehen?
-
-- Entwickler und IT-Fachkräfte
+- Entwickler und IT-Experten
 - Systemadministratoren
 
 ## Videoinhalt
 
-- Speicherprobleme diagnostizieren und beheben:
+- Diagnose und Behebung von Speicherproblemen:
 - Wartungsmodus verwalten
-- Tipps zur effizienten Fehlerbehebung
+- Effiziente Tipps zur Fehlerbehebung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Im Video verwendete Befehle
 
-Suchen Sie die letzten fünf Zeilen des Ausnahmeprotokolls, die in der Antwortmeldung erwähnt werden.
+Suchen Sie die letzten 5 Zeilen des Ausnahmeprotokolls, die in der Antwortnachricht erwähnt werden.
 
 ```SHELL
  tail -n 5 ~/var/log/exception.log
 ```
 
-Überprüfen des Festplattenspeicherplatzes. Beachten Sie die Zeile dev/mapper/xxxx .
+So überprüfen Sie den Festplattenspeicher. Achten Sie auf die Zeile dev/mapper/xxxx
 
 ```SHELL
 df -h
 ```
 
-Hier werden die 15 größten Dateien vorgestellt
+Suchen wir die 15 größten Dateien
 
 ```SHELL
 find -type f -exec du -Sh {} + | sort -rh | head -n 15
 ```
 
-Status des Wartungsmodus anzeigen
+Anzeigen des Status des Wartungsmodus
 
 ```SHELL
 php bin/magento maintenance:status
 ```
 
-Wartungsmodus deaktivieren
+Deaktivieren des Wartungsmodus
 
 ```SHELL
 php bin/magento maintenance:disable 

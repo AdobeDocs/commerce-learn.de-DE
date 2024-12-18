@@ -22,9 +22,9 @@ ht-degree: 0%
 In diesem Video:
 
 - Einführung in PWA Studio
-- PWA
+- PWA-Tools
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager

@@ -1,5 +1,5 @@
 ---
-title: Sales Rep initiiert das Angebot
+title: Vertriebsmitarbeiter startet das Angebot
 description: Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot vom Adobe Commerce-Administrator initiieren kann.
 doc-type: feature video
 audience: all
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Kundenbetreuer initiiert das Angebot
+# Vertriebsmitarbeiter startet das Angebot
 
-Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot aus dem Admin-Bereich heraus initiieren kann, nach Benutzer und Website filtern kann, Angebote entwerfen kann, Anführungszeichen sichtbar macht und vieles mehr.
+Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot über das Admin-Bedienfeld initiieren, nach Benutzer und Website filtern, Angebote entwerfen, Angebote anzeigen und vieles mehr.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 

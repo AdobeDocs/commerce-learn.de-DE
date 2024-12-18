@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die nativen Katalogimportoptionen in Adobe Commerce
-description: Erfahren Sie, wie Sie mit einigen nativen Optionen zum Importieren Ihres Katalogs in Ihren Adobe Commerce Store vorgehen können.
+title: Erfahren Sie mehr über die Katalogimportoptionen in Adobe Commerce
+description: Erfahren Sie mehr über einige der nativen Optionen zum Importieren Ihres Katalogs in Ihren Adobe Commerce-Store.
 kt: 13634
 doc-type: tutorial
 audience: all
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Optionen zum Importieren eines Katalogs
 
-Es gibt einige native Methoden zum Importieren eines Katalogs in Adobe Commerce. Jede Methode hat ihre eigene Begründung für die Verwendung sowie Vor- und Nachteile, die berücksichtigt werden müssen.
+Es gibt einige native Methoden zum Importieren eines Katalogs in Adobe Commerce. Jede Methode hat ihre eigenen Gründe für die Verwendung zusammen mit den Vor- und Nachteilen, die berücksichtigt werden müssen.
 
 Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
 
@@ -30,46 +30,46 @@ Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
 
 ## Manuelles Erstellen der Produkte {#manual-import}
 
-Wenn Sie nur über einen begrenzten Katalog verfügen und nur selten Updates verfügbar sind, ist die manuelle Erstellung der Updates möglicherweise die beste Option. Es erfordert Zeit, um an jedem Produkt teilzunehmen, und einige eingeschränkte Schulungen zur Verwendung des Commerce-Administrators. Die manuelle Katalogverwaltung ist nicht die richtige Option für die meisten Geschäfte, aber in bestimmten Situationen kann es sinnvoll sein. Weitere Informationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergessen Sie nicht, dass Sie mehrere Methoden zur Verwaltung Ihres Katalogs verwenden können. Sobald jedoch die Automatisierung verwendet wird, müssen manuelle Bearbeitungen eingeschränkt sein. Automatisierte Aktualisierungen haben die Möglichkeit, manuell durchgeführte Änderungen zu überschreiben, was zu Verwirrung führt. Sobald die Integration mit Adobe Commerce zur Verwaltung des Katalogs Automatisierung und APIs verwendet, wird empfohlen, die Verwaltung des Katalogs vom Administrator über [Benutzerrollen und -berechtigungen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"} zu beschränken.
+Wenn Sie nur über einen begrenzten Katalog verfügen und Aktualisierungen selten auftreten, ist es möglicherweise am besten, sie manuell zu erstellen. Die Eingabe der einzelnen Produkte dauert einige Zeit, und für die Verwendung von Commerce Admin sind einige begrenzte Schulungen erforderlich. Die manuelle Katalogverwaltung ist für die meisten Geschäfte nicht die richtige Option, kann aber in bestimmten Situationen sinnvoll sein. Weitere Dokumentationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergessen Sie nicht, dass Sie mehr als eine Methode zur Verwaltung Ihres Katalogs verwenden können. Sobald jedoch eine Automatisierung verwendet wird, müssen manuelle Bearbeitungen eingeschränkt werden. Automatisierte Aktualisierungen bieten die Möglichkeit, manuell durchgeführte Änderungen zu überschreiben und dadurch Verwirrung zu stiften. Sobald die Integration mit Adobe Commerce zum Verwalten des Katalogs mithilfe von Automatisierung und APIs erfolgt, wird empfohlen, die Katalogverwaltung vom Administrator durch [Benutzerrollen und -berechtigungen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"} einzuschränken.
 
-### Wann sollten Sie diesen Ansatz berücksichtigen?
+### Wann dieser Ansatz in Betracht zu ziehen ist
 
 - Sehr kleiner Katalog, zum Beispiel weniger als 50 Produkte
-- Aktualisierungen sind selten
-- Sie verfügen über alle Produktdetails, Bilder, Videos und möchten nicht die Zeit in Anspruch nehmen zu erfahren, wie Sie die Daten in CSV konvertieren
-- Sie möchten beim Erstellen der Produkte Bilder und Videos hinzufügen
-- Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut.
+- Aktualisierungen treten selten auf
+- Sie verfügen über alle Produktdetails, Bilder und Videos und möchten sich nicht die Zeit nehmen, um zu erfahren, wie die Daten in CSV konvertiert werden
+- Sie möchten beim Erstellen der Produkte das Hinzufügen von Bildern und Videos einbeziehen
+- Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut
 
->[!TAB CSV für Administratoren]
+>[!TAB Admin-CSV]
 
-## Admin-CSV-Import-Tool {#admin-csv}
+## Admin CSV Import Tool {#admin-csv}
 
-Mit diesem Tool kann ein Store-Eigentümer einen Katalog mithilfe einer CSV-Berechtigung vom Commerce-Administrator importieren.
-[Importieren von Daten aus Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+Mit diesem Tool kann ein Store-Inhaber einen Katalog mithilfe einer CSV-Datei direkt vom Commerce-Administrator importieren.
+[Daten von Commerce Admin importieren](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 Vorteile:
-Das Hochladen einer CSV-Datei vom Administrator ist ein direkter Ansatz für die Katalogverwaltung. Dies ermöglicht schnellere Katalogproduktaktualisierungen in einem mittelgroßen Katalog.
+Das Hochladen einer CSV-Datei von der Administratorin bzw. dem Administrator ist ein unkomplizierter Ansatz für die Katalogverwaltung. Dies ermöglicht schnellere Katalogproduktaktualisierungen auf einen Katalog mittlerer Größe.
 
 Nachteile:
 
 - Langsam
-- Maximale Upload-Datei, die auf dem Server definiert ist und von einem Store-Eigentümer möglicherweise nicht einfach angepasst werden kann.
-- Erfordert Administratorzugriff und jemanden zum Ausführen der Aktion. Die Automatisierung ist eingeschränkt
-- Zeitplanimporte sind auf das 1-fache der Tagesmax beschränkt.
+- Die maximale Größe der Upload-Datei ist auf dem Server definiert und kann von einem Store-Inhaber möglicherweise nicht einfach angepasst werden.
+- Erfordert Administratorzugriff und jemanden, der die Aktion ausführt, ist die Automatisierung eingeschränkt
+- Geplante Importe sind auf maximal 1 x täglich beschränkt
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
 
-### Wann sollten Sie diesen Ansatz berücksichtigen?
+### Wann dieser Ansatz in Betracht zu ziehen ist
 
-- Kataloggröße ist mäßig
-- Updates sind nicht mehr als einmal pro Tag
-- Sie haben Zugriff auf Serverkonfigurationen, falls Sie die maximale Dateiupload-Größe erhöhen müssen.
-- Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut.
+- Kataloggröße ist moderat
+- Aktualisierungen werden nicht öfter als einmal täglich durchgeführt
+- Sie haben einige Zugriffsrechte auf Server-Konfigurationen, falls Sie die maximale Größe des Datei-Uploads erhöhen müssen
+- Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut
 
 >[!TAB Massen-REST-API]
 
 ## Massen-REST-API {#bulk-rest-api}
 
-Die Massen-REST-API ermöglicht Automatisierung und häufigere Aktualisierungen. Diese API ist schneller als der Administrator-Upload von CSV.
+Die Massen-REST-API ermöglicht eine Automatisierung und häufigere Aktualisierungen. Diese API ist schneller als der Admin-Upload von CSV.
 [Dokumentation zu Massenendpunkten](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
 Vorteile:
@@ -78,67 +78,67 @@ Die Möglichkeit, große Datensätze zu importieren, die nicht im CSV-Format vor
 Nachteile:
 
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
-- Kann durch Bandbreiteneinschränkungen für den Hosting-Provider begrenzt werden
+- Kann durch Bandbreitenbeschränkungen auf den Hosting-Provider beschränkt werden
 
-### Wann sollten Sie diesen Ansatz berücksichtigen?
+### Wann dieser Ansatz in Betracht zu ziehen ist
 
-- Katalog ist beliebig groß
-- Aktualisierungen sind häufig, es ist mehr als 1x am Tag zulässig
-- Die Zeit für den Import ist wichtig, aber nicht wichtig, und eine kurze Verzögerung bei der Verarbeitung der Einfuhrdaten ist akzeptabel.
-- Die Daten sind nicht im CSV-Format strukturiert und können nicht mithilfe der Automatisierung transformiert werden
+- Katalog ist eine beliebige Größe
+- Updates werden häufig durchgeführt, mehr als 1x täglich ist akzeptabel
+- Die Importzeit ist wichtig, aber nicht kritisch, und eine kurze Verzögerung bei der Verarbeitung der Importdaten ist akzeptabel
+- Die Daten sind nicht im CSV-Format strukturiert und können nicht mithilfe der Automatisierung umgewandelt werden
 
->[!TAB ASYNC REST API]
+>[!TAB ASYNC-REST-API]
 
-## ASYNC REST API {#async-rest-api}
+## ASYNC REST-API {#async-rest-api}
 
-Ein asynchroner Web-Endpunkt fängt Nachrichten an eine Web-API ab und schreibt sie in die Nachrichtenwarteschlange. Jedes Mal, wenn das System eine solche API-Anfrage akzeptiert, generiert es eine UUID-Kennung. Adobe Commerce fügt diese UUID hinzu, wenn die Nachricht der Warteschlange hinzugefügt wird. Anschließend liest ein Verbraucher die Nachrichten aus der Warteschlange und führt sie einzeln aus.
-Dokumentation zu [asynchronen Web-Endpunkten](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+Ein asynchroner Web-Endpunkt fängt Nachrichten an eine Web-API ab und schreibt sie in die Nachrichtenwarteschlange. Jedes Mal, wenn das System eine solche API-Anfrage akzeptiert, generiert es eine UUID-Kennung. Adobe Commerce fügt diese UUID hinzu, wenn es die Nachricht zur Warteschlange hinzufügt. Anschließend liest ein Verbraucher die Nachrichten aus der Warteschlange und führt sie einzeln aus.
+[Dokumentation zu asynchronen Web-Endpunkten](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
 
 Vorteile:
 
-- Schnelles Importieren von Daten
-- Der Speicherbereich wird unterstützt oder Sie können `all` angeben, um Vorgänge für alle vorhandenen Stores durchzuführen
+- Schneller Datenimport
+- Der Store-Bereich wird unterstützt oder Sie können angeben, `all` Vorgänge für alle vorhandenen Stores ausgeführt werden sollen
 
 Nachteile:
 
-- GET-Anfrage wird nicht unterstützt
+- GET-Anfragen werden nicht unterstützt
 
-### Wann sollten Sie diesen Ansatz berücksichtigen?
+### Wann dieser Ansatz in Betracht zu ziehen ist
 
-- Häufig werden Einfuhren getätigt
-- Kein Problem mit geringer Verzögerung ab dem Zeitpunkt, zu dem sie per API gesendet und dann aus der Nachrichtenwarteschlange verarbeitet werden.
+- Importe sind häufig
+- Kein Problem mit einer kleinen Verzögerung ab dem Zeitpunkt, zu dem sie über die API gesendet und dann aus der Nachrichtenwarteschlange verarbeitet werden.
 
 
->[!TAB CSV REST API]
+>[!TAB CSV-REST-API]
 
-## CSV REST API {#csv-rest-api}
+## CSV-REST-API {#csv-rest-api}
 
 Diese API-Option ermöglicht im Vergleich zu allen anderen nativen Optionen extrem schnelle Importe.
 
-[Importieren von Daten REST CSV api](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+[Daten-REST-CSV-API importieren](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Vorteile:
 
 - Schnellste Methode zur Verarbeitung der eingehenden Daten
-- Kann mehrmals pro Tag ausgeführt werden
-- Daten können mit gzip für große Anforderungen komprimiert werden, um HTTP-Anforderungsgrößenbeschränkungen zu vermeiden.
+- Kann mehrmals täglich ausgeführt werden
+- Daten können mit gzip für große Anfragen komprimiert werden, um Größenbeschränkungen für HTTP-Anfragen zu vermeiden.
 
 Nachteile:
 
 - Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
-- Die Daten müssen im CSV-Format vorliegen
+- Die Daten müssen im CSV-Format vorliegen.
 
-### Wann sollten Sie diesen Ansatz berücksichtigen?
+### Wann dieser Ansatz in Betracht zu ziehen ist
 
-- Katalog ist beliebig groß
-- Aktualisierungen sind häufig, es ist mehr als 1x am Tag zulässig
-- Allgemeine Zeit für die Einfuhr ist wichtig
-- Die Daten liegen bereits im CSV-Format vor oder können einfach mithilfe der Automatisierung transformiert werden
+- Katalog ist eine beliebige Größe
+- Updates werden häufig durchgeführt, mehr als 1x täglich ist akzeptabel
+- Wichtig ist die Gesamtzeit für den Import
+- Die Daten liegen bereits im CSV-Format vor oder können einfach durch Automatisierung transformiert werden
 
 >[!ENDTABS]
 
 ## Zusätzliche Ressourcen
 
-- [Importieren von Daten mit dem neuen REST-CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [Hauptdokumentation zum Importieren von Daten ](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce-Versionshinweise Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Importieren von Daten mit der neuen REST-CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+- [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+- Versionshinweise zu [Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 - [Benutzer, Rollen und Berechtigungen](../site-management/users-roles-permissions.md){target="_blank"}

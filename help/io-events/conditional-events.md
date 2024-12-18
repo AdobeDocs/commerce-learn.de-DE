@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie, wie Sie bedingte Ereignisse in Adobe Commerce verwenden.
+title: Erfahren Sie, wie Sie bedingte Ereignisse in Adobe Commerce verwenden
 description: Erfahren Sie, wie Sie bedingte Ereignisse zur Verwendung in Adobe Developer App Builder verwenden.
 landing-page-description: Erfahren Sie, wie Sie bedingte Adobe Commerce-Ereignisse verwenden.
 short-description: Erfahren Sie, wie Sie bedingte Adobe Commerce-Ereignisse verwenden.
@@ -19,21 +19,21 @@ ht-degree: 0%
 
 ---
 
-# Bedingte Ereignisse für Adobe Commerce
+# Bedingte Adobe Commerce-Ereignisse
 
-Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Developer App Builder verwendet werden können. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Developer App Builder verwendet werden können. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die mit Adobe Commerce und Adobe Developer App Builder über I/O-Ereignisse neu sind und ein Adobe App Builder-Projekt erstellen müssen.
+* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe-App Builder-Projekt erstellen.
 
 ## Videoinhalt {#video-content}
 
-* Erfahren Sie mehr über bedingte Ereignisse
-* Erfahren Sie mehr über die ordnungsgemäße Verwendung der neuen XML-Datei io_events.xml
+* Informationen zu bedingten Ereignissen
+* Erfahren Sie, wie Sie die neue XML-Datei „io_events.xml“ ordnungsgemäß verwenden.
 * Erfahren Sie, wie Sie bedingte Ereignisse konfigurieren
-* Definieren von Regeln für die Verwendung in bedingten Ereignissen
-* Erfahren Sie, wie Sie Ereignisse in den Commerce-Instanzen registrieren `app/etc/config.php`
+* Definieren von Regeln zur Verwendung in bedingten Ereignissen
+* Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

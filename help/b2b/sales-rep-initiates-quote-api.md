@@ -1,5 +1,5 @@
 ---
-title: Sales Rep initiiert das B2B-Angebot mithilfe der REST-API
+title: Vertriebsmitarbeiter initiiert B2B-Angebot mit der REST-API
 description: Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot über die Adobe Commerce REST-API initiieren kann.
 doc-type: feature video
 audience: all
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Kundenbetreuer initiiert das Angebot mit der REST-API
+# Vertriebsmitarbeiter initiiert Angebot mit der REST-API
 
 Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot über die Adobe Commerce REST-API initiieren kann.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 - Entwickler
 
 ## Videoinhalt

@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Katalogpreisregel
-description: Erfahren Sie, wie Sie Katalogpreisregeln erstellen, die den Käufern Produkte zu einem ermäßigten Preis anbieten, der auf einer Reihe definierter Bedingungen basiert.
+description: Erfahren Sie, wie Sie Katalogpreisregeln erstellen, die Käufern Produkte zu einem ermäßigten Preis basierend auf einer Reihe definierter Bedingungen anbieten.
 doc-type: feature video
 audience: all
 activity: use
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Erstellen einer Katalogpreisregel
 
-Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem ermäßigten Preis anzubieten, der auf einer Reihe von definierten Bedingungen basiert. Regeln zu Katalogpreisen verwenden keine Coupon-Codes, da sie ausgelöst werden, bevor ein Produkt in den Warenkorb gelegt wird. Sie können beispielsweise die Bedingungen für eine Preisregel definieren und festlegen, dass, wenn sie erfüllt ist, automatisch Produkte mit einem Sonderpreis oder einem Sonderpreis angezeigt werden.
+Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem reduzierten Preis anzubieten, basierend auf einer Reihe definierter Bedingungen. Katalogpreisregeln verwenden keine Couponcodes, da sie ausgelöst werden, bevor ein Produkt in den Warenkorb gelegt wird. Sie können beispielsweise die Bedingungen für eine Preisregel definieren und festlegen, die, wenn sie erfüllt ist, automatisch Produkte mit einem Sonderpreis oder einem Sonderpreis anzeigt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - E-Commerce-Marketer
 - Website-Manager
@@ -32,5 +32,5 @@ Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem ermä
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Katalogpreisregel - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Erstellen einer Katalogpreisregel -  [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Validierungsstufen für den B2B-Anführungsprozess im Admin Panel
-description: Erfahren Sie, wie die Adobe Commerce-Anwendung strenge Validierungsprozesse aufweist.  In diesem Video-Tutorial wird der Validierungsprozess vom Adobe Commerce-Admin-Bedienfeld veranschaulicht, um sicherzustellen, dass das Anführungsverfahren gültig und konsistent ist.
+title: Erfahren Sie mehr über die Validierungsstufen für den B2B-Angebotsprozess im Admin-Bedienfeld
+description: Erfahren Sie, wie das Adobe Commerce-Programm über strikte Validierungsprozesse verfügt.  Dieses Video-Tutorial zeigt den Validierungsprozess im Admin-Bedienfeld von Adobe Commerce, um sicherzustellen, dass die Angebotserstellung gültig und konsistent ist
 doc-type: feature video
 audience: all
 activity: use
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ---
 
-# Validierung von B2B-Verkaufs-Angeboten mithilfe des Admin-Bedienfelds
+# Validierung des B2B-Verkaufsangebots mithilfe des Admin-Bedienfelds
 
-Erfahren Sie mehr über die Validierungsschritte und -bereiche, die die Adobe Commerce B2B-Anführungszeichenfunktion bietet, um einen konsistenten und gültigen Anführungsvorgang zu gewährleisten.
+Erfahren Sie mehr über die Validierungsschritte und -bereiche, die die B2B-Angebotsfunktion von Adobe Commerce bereitstellt, um einen konsistenten und gültigen Angebotsvorgang sicherzustellen.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 

@@ -1,7 +1,7 @@
 ---
 title: Einführung in das Konzept der globalen Referenzarchitektur
-description: Erfahren Sie mehr über die Technik, die für die Verwaltung komplexer Commerce-Projekte mit dem Namen "Global Reference Architecture"verwendet wird.
-landing-page-description: Erfahren Sie mehr über die globale Referenzarchitektur und deren Verwendung mit Adobe Commerce.
+description: Erfahren Sie mehr über die Technik zum Verwalten komplexer Commerce-Projekte mit der Bezeichnung „Globale Referenzarchitektur“
+landing-page-description: Erfahren Sie mehr über die globale Referenzarchitektur und deren Verwendung mit Adobe Commerce
 kt: 14039
 doc-type: video
 audience: all
@@ -20,19 +20,19 @@ ht-degree: 1%
 
 # Globale Referenzarchitektur
 
-Erfahren Sie mehr über die globale Referenzarchitektur, einige Kernkonzepte und Vorteile dieses Ansatzes.
+Erfahren Sie mehr über die globale Referenzarchitektur, einige Kernkonzepte und die Vorteile dieses Ansatzes.
 
 ## Zielgruppe
 
-* Jeder, der dieses Konzept verstehen muss.
+* Jeder muss dieses Konzept verstehen.
 * Große Projekte mit mehreren Marken
 
 ## Videoinhalt
 
 * Überblick über die globale Referenzarchitektur
-* Wesentliche Vorteile
-* Zu berücksichtigende allgemeine Aspekte
-* Ermitteln, ob GRA eine praktikable Option ist
+* Die wichtigsten Vorteile
+* Zu berücksichtigende allgemeine Überlegungen
+* Wie Sie erkennen, ob GRA eine praktikable Option ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
 

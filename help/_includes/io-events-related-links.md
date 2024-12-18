@@ -1,6 +1,6 @@
 ---
-title: Seiten mit IO-Ereignissen
-description: Links zu verwandten Seiten in I/O-Ereignissen
+title: I/O-Ereignisse bezogene Seiten
+description: Links zu verwandten Seiten in IO Events
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
 source-wordcount: '60'
@@ -8,17 +8,17 @@ ht-degree: 0%
 
 ---
 
-# Links zu IO-Ereignissen
+# Links zu E/A-Ereignissen
 
-## Zusätzliche zugehörige Tutorials
+## Weitere verwandte Tutorials
 
-* [Erste Schritte bei I/O-Ereignissen](../io-events/getting-started-io-events.md)
+* [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
 * [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
 * [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
 * [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
 * [Adobe Commerce-Konfiguration](../io-events/configure-commerce.md)
-* [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
-* [Bedingte Ereignisse für Adobe Commerce](../io-events/conditional-events.md)
+* [Adobe Commerce-Modulentwicklung](../io-events/commerce-module-development.md)
+* [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
 
 ## Dokumentation zu Adobe Developer
 

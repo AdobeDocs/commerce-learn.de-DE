@@ -1,5 +1,5 @@
 ---
-title: Einrichten der Venia für die PWA-Entwicklung
+title: Einrichten von Venia für die PWA-Entwicklung
 description: Erfahren Sie, wie Sie die Venia-Storefront für Ihr PWA-Entwicklungsprojekt einrichten.
 kt: 5565
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Einrichten der Venia für die PWA-Entwicklung
+# Einrichten von Venia für die PWA-Entwicklung
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ## Nützliche Ressourcen
 
-[PWA Studio-Anleitung - Venia-Einrichtung](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[PWA Studio-Handbuch - Venia-Einrichtung](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

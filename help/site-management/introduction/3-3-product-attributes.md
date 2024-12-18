@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Attribute"
-description: Erfahren Sie mehr über benutzerdefinierte Attribute und Systemattribute für Produkte.
+title: '[!DNL Commerce] für Business-Anwender - Attribute'
+description: Erfahren Sie mehr über benutzerdefinierte und Systemattribute für Produkte.
 kt: 5769
 doc-type: video
 activity: use
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Attribute
+# [!DNL Commerce] für Business-Anwender - Attribute
 
 In diesem Video:
 
 - Systemattribute
 - Benutzerdefinierte Attribute
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über Produktattribute - [!DNL Commerce] Leitfaden zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Übersicht über Produktattribute - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

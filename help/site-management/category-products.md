@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Produkten in einer Kategorie
-description: Erfahren Sie mehr über das Erstellen eines Produkts in einer Kategorie, das visuelle Merchandising und die Verwendung der automatisierten Sortierungsfunktion für Kategorien.
+title: Produkte in einer Kategorie verwalten
+description: Erfahren Sie mehr über das Erstellen eines Produkts in einer Kategorie, visuelles Merchandising und die Verwendung der Funktion zum automatischen Sortieren von Kategorien.
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Verwalten von Produkten in einer Kategorie
+# Produkte in einer Kategorie verwalten
 
-Die Organisation Ihrer Produkte in Kategorien ist für die Verwaltung Ihrer Kataloge von entscheidender Bedeutung. In diesem Video erfahren Sie, wie Sie ein Produkt in einer Kategorie erstellen, visuelles Merchandising vornehmen und die automatisierte Funktion zum Sortieren von Kategorien verwenden.
+Die Organisation Ihrer Produkte in Kategorien ist der Schlüssel zur Verwaltung Ihrer Kataloge. In diesem Video erfahren Sie mehr über das Erstellen eines Produkts in einer Kategorie, visuelles Merchandising und die Verwendung der Funktion zum automatischen Sortieren von Kategorien.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 
@@ -33,5 +33,5 @@ Die Organisation Ihrer Produkte in Kategorien ist für die Verwaltung Ihrer Kata
 
 ## Zusätzliche Ressourcen
 
-- [Kategorieproduktzuweisungen - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Kategorieregeln für Merchandising - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Kategorieproduktzuweisungen - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Kategorieregeln für Merchandising - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

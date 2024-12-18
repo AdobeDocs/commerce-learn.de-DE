@@ -1,6 +1,6 @@
 ---
-title: Widgets erstellen
-description: Erfahren Sie, wie Sie Widgets erstellen und vorhandene ändern, um Inhalte in Ihrem gesamten Store automatisch zu aktualisieren.
+title: Erstellen von Widgets
+description: Erfahren Sie, wie Sie Widgets erstellen und vorhandene ändern können, um Inhalte in Ihrem Store automatisch zu aktualisieren.
 kt: null
 doc-type: feature video
 audience: all
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Widgets erstellen
+# Erstellen von Widgets
 
-Widgets sind wiederverwendbare Komponenten, die Sie einfach erstellen und ändern können, um Inhalte in Ihrem gesamten Store automatisch zu aktualisieren. In diesem Video erfahren Sie, wie Sie Widgets erstellen und verwalten.
+Widgets sind wiederverwendbare Komponenten, die Sie einfach erstellen und ändern können, um Inhalte in Ihrem Geschäft automatisch zu aktualisieren. In diesem Video erfahren Sie, wie Sie Widgets erstellen und verwalten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- Inhaltsentwickler
+- Inhalts-Designer
 
 ## Videoinhalt
 
@@ -33,5 +33,5 @@ Widgets sind wiederverwendbare Komponenten, die Sie einfach erstellen und änder
 
 ## Zusätzliche Ressourcen
 
-- [Widgets - [!DNL Commerce] Inhalts- und Designanleitung](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Erstellen und Verwalten von Widgets - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Erstellen und Verwalten von Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

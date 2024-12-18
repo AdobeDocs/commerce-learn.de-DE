@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Produktattributen mit PWA Studio
-description: Erfahren Sie, wie Sie mit PWA Studio Produktattribute verwalten.
+description: Erfahren Sie, wie Sie Produktattribute mit PWA Studio verwalten.
 doc-type: feature video
 audience: all
 activity: use
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Verwenden von Produktattributen mit PWA Studio
 
-In diesem Video erfahren Sie, wie Sie Produktattribute verwalten, wenn Sie eine Storefront mit PWA Studio erstellt haben.
+In diesem Video erfahren Sie, wie Sie Produktattribute verwalten, wenn Sie eine Storefront mit PWA Studio erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager
@@ -33,5 +33,5 @@ In diesem Video erfahren Sie, wie Sie Produktattribute verwalten, wenn Sie eine 
 
 ## Zusätzliche Ressourcen
 
-- [Produktattribute - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [Produktattribute - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 - [PWA Studio - Entwicklerdokumentation](https://developer.adobe.com/commerce/pwa-studio/)

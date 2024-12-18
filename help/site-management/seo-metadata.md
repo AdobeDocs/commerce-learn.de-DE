@@ -1,6 +1,6 @@
 ---
 title: Verwalten von SEO-Metadaten
-description: Erfahren Sie, wie Sie schlüsselwortreiche Metadaten einbinden können, um die Indexierung Ihrer Site durch Suchmaschinen zu verbessern.
+description: Erfahren Sie, wie Sie schlüsselwortreiche Metadaten integrieren können, um die Art und Weise zu verbessern, wie Suchmaschinen Ihre Site indizieren.
 kt: 10553
 doc-type: feature video
 audience: all
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Verwalten von SEO-Metadaten
 
-Ihr Store ist mit Orten gefüllt, an denen Sie schlüsselwortreiche Metadaten eingeben können, um die Indexierung Ihrer Site durch Suchmaschinen zu verbessern. Im Laufe der Zeit können Sie die Metadaten so anpassen, dass sie auf die Kaufmuster und Präferenzen Ihrer Kunden ausgerichtet sind.
+Ihr Store enthält Orte, an denen Sie schlüsselwortreiche Metadaten eingeben können, um die Art und Weise zu verbessern, wie Suchmaschinen Ihre Site indizieren. Im Laufe der Zeit können Sie die Metadaten entsprechend den Kaufmustern und -präferenzen Ihrer Kunden anpassen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 - E-Commerce-Marketer
 
 ## Videoinhalt
@@ -34,4 +34,4 @@ Ihr Store ist mit Orten gefüllt, an denen Sie schlüsselwortreiche Metadaten ei
 
 ## Zusätzliche Ressourcen
 
-[Metadaten - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metadaten - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

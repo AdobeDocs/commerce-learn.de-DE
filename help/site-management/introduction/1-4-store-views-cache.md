@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Ansichten speichern und Cache löschen"
+title: '[!DNL Commerce] für Business-Anwender - Store-Ansichten und Cache-Leerung'
 description: Erfahren Sie, wie Sie Store-Ansichten erstellen und den Cache löschen.
 kt: 5761
 doc-type: video
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Ansichten speichern und Cache löschen
+# [!DNL Commerce] für Business-Anwender - Store-Ansichten und Cache-Leerung
 
 In diesem Video:
 
 - Erstellen von Store-Ansichten
-- Löschen des Caches
+- Löschen des Cache
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
@@ -34,6 +34,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Websites, Stores und Ansichten - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Websites, Stores und Ansichten - [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Cache-Verwaltung - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[Handbuch zur Cache-Verwaltung  [!DNL Commerce] Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

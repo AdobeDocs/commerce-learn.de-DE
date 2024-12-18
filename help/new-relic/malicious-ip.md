@@ -1,8 +1,8 @@
 ---
-title: Erfahren Sie, wie Sie mit New Relic eine IP identifizieren können, die blockiert werden muss.
-description: Identifizieren Sie mithilfe von New Relic eine IP-Adresse, die schädlich sein kann.  Sobald die IP ermittelt wurde, wird sie in Fastly verwendet, um den Zugriff auf die Anwendung zu verhindern.
-landing-page-description: In diesem Video wird ein Benutzer von New Relic angewiesen, potenzielle IP-Adressen zu finden, die vom Zugriff auf die Site blockiert werden müssen.
-short-description: In diesem Video wird ein Benutzer von New Relic angewiesen, potenzielle IP-Adressen zu finden, die vom Zugriff auf die Site blockiert werden müssen.
+title: Erfahren Sie, wie Sie mit New Relic eine IP identifizieren, die blockiert werden muss
+description: Identifizieren Sie mithilfe von New Relic eine IP-Adresse, die möglicherweise böswillig ist.  Sobald die IP bestimmt ist, wird sie in Fastly verwendet, um den Zugriff auf die Anwendung zu blockieren
+landing-page-description: In diesem Video wird ein Benutzer von New Relic angewiesen, potenzielle IP-Adressen zu finden, für die der Zugriff auf die Website möglicherweise gesperrt werden muss.
+short-description: In diesem Video wird ein Benutzer von New Relic angewiesen, potenzielle IP-Adressen zu finden, für die der Zugriff auf die Website möglicherweise gesperrt werden muss.
 kt: 11566
 doc-type: video
 audience: all
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Blocking einer schädlichen IP-Adresse
+# Sperren einer böswilligen IP-Adresse
 
 In diesem Video:
 
-- Identifizieren Sie eine potenzielle IP, die verdächtig oder schädlich &#x200B; und in Fastly verwendet werden soll, um sie zu blockieren.
+- Identifizieren Sie eine potenzielle verdächtige oder böswillige IP&#x200B; die in Fastly verwendet werden soll, um sie zu blockieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Multisite-Management 
-description: Verwalten Sie mühelos mehrere Stores, Marken oder Websites mit den robusten Multi-Site-Funktionen von Adobe Commerce und der zentralen Backend-Oberfläche.
+title: Verwaltung mehrerer Websites 
+description: Dank der leistungsstarken Multi-Site-Funktionen und der zentralen Backend-Oberfläche von Adobe Commerce können mehrere Stores, Marken oder Websites mühelos verwaltet werden.
 feature: Admin Workspace, Configuration, Site Management
 topic: Administration, Commerce
 role: Admin, User
@@ -9,21 +9,22 @@ doc-type: Technical Video
 duration: 353
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
+exl-id: c041bd9a-9955-4053-a147-570ae1d88692
+source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce-Verwaltung mehrerer Websites
+# Verwaltung mehrerer Adobe Commerce-Websites
 
-Mit Adobe Commerce können Unternehmen mehrere Stores, Marken oder Websites über eine einzige Backend-Oberfläche verwalten, ohne technische Kenntnisse zu benötigen. Es ermöglicht die Erstellung mehrerer Websites mit jeweils eigener Domäne, Produkten, Preisen und Kundenbasis. Innerhalb einer Website können mehrere Stores erstellt werden, von denen jeder über einen eigenen Katalog und einen eigenen Preis verfügt, und innerhalb eines Stores können mehrere Store-Ansichten für verschiedene Sprachen oder Versionen eingerichtet werden. Diese Flexibilität ermöglicht eine effiziente Verwaltung von Produktangeboten und Preisstrategien und ist somit ideal für Unternehmen, die ihre E-Commerce-Aktivitäten erweitern und skalieren möchten.
+Adobe Commerce ermöglicht Unternehmen die Verwaltung mehrerer Stores, Marken oder Websites über eine einzige Backend-Oberfläche, ohne dass technische Kenntnisse erforderlich sind. Es ermöglicht die Erstellung mehrerer Websites mit jeweils einer eigenen Domain, Produkten, Preisen und Kundenbasis. Innerhalb einer Website können mehrere Stores mit jeweils einem eigenen Katalog und eigenen Preisen erstellt werden, und innerhalb eines Stores können mehrere Store-Ansichten für verschiedene Sprachen oder Versionen eingerichtet werden. Diese Flexibilität ermöglicht eine effiziente Verwaltung von Produktangeboten und Preisstrategien und ist somit ideal für Unternehmen, die ihre E-Commerce-Aktivitäten erweitern und skalieren möchten.
 
-## Für wen ist dieses Video vorgesehen?
+## Für wen ist dieses Video gedacht?
 
-- Unternehmen, die ihre E-Commerce-Vorgänge über mehrere Regionen, Marken oder Produktlinien hinweg erweitern möchten.
-- Store-Manager, E-Commerce-Direktoren und Marketing-Teams.
+- Unternehmen, die ihre E-Commerce-Aktivitäten auf mehrere Regionen, Marken oder Produktlinien ausdehnen möchten.
+- Store-Manager, E-Commerce-Leiter und Marketing-Teams.
 - Unternehmen, die Skalierbarkeit und Flexibilität in ihrer Online-Präsenz anstreben.
 
 ## Videoinhalt

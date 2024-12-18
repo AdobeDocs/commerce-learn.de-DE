@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Navigation mit Ebenen"
-description: Aktivieren Sie die Navigation mit Ebenen in Ihrem [!DNL Commerce] Speicher, damit Kunden Produkte einfach und schnell finden können.
+title: '[!DNL Commerce] für Business-Anwender - mehrschichtige Navigation'
+description: Aktivieren Sie mehrschichtige Navigation in Ihrem  [!DNL Commerce] , damit Kunden Produkte einfach und schnell finden können.
 kt: 5775
 doc-type: video
 activity: use
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Navigation mit Ebenen
+# [!DNL Commerce] für Business-Anwender - mehrschichtige Navigation
 
 In diesem Video:
 
-- Aktivieren der Navigation mit Ebenen
+- Mehrschichtige Navigation aktivieren
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Navigation mit Ebenen - [!DNL Commerce] Leitfaden zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
+[Layered Navigation - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)

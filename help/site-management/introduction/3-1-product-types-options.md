@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Produktarten"
-description: Erfahren Sie mehr über die  [!DNL Commerce] Produktarten und die Optionen für die einzelnen.
+title: '[!DNL Commerce] für Business-Anwender - Produkttypen'
+description: Erfahren Sie mehr über  [!DNL Commerce]  Produkttypen und die jeweiligen Optionen.
 kt: 5767
 doc-type: video
 activity: use
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Produktarten
+# [!DNL Commerce] für Business-Anwender - Produkttypen
 
 In diesem Video:
 
-- Produkttypen
+- Produktarten
 - Optionen für jeden Produkttyp
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Produktarten - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-types)
+[Produkttypen -  [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-types)

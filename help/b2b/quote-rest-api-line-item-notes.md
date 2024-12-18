@@ -1,6 +1,6 @@
 ---
-title: Verwenden der Adobe Commerce REST API für Zeileneinträge
-description: Informationen zu Zeileneinträgen in einem B2B-Angebot in Adobe Commerce mithilfe der REST-API
+title: Verwenden der Adobe Commerce REST-API für Zeileneintragsnotizen
+description: Erfahren Sie mehr über Zeileneintragshinweise zu einem B2B-Angebot in Adobe Commerce mithilfe der REST-API
 doc-type: feature video
 audience: all
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# B2B Sales Offerting-Zeileneinträge unter Verwendung der REST API
+# B2B-Verkaufsangebot - Positionsnotizen mithilfe der REST-API
 
-Erfahren Sie, wie Sie die Zeileneinträge für ein Adobe Commerce-B2B-Zitat über die REST-API verwenden.
+Erfahren Sie, wie Sie die Zeileneintragshinweise für ein Adobe Commerce B2B-Angebot über die REST-API verwenden.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 <!--- Why is this change required? What problem does it solve? -->
 
-## Wie wurde das getestet?
+## Wie wurde dies getestet?
 
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Fehlerbehebung (nicht brechende Änderung, die ein Problem behebt)
-- [ ] Neue Funktion (nicht umständliche Änderung, durch die Funktionen hinzugefügt werden)
-- [ ] Grundlegende Änderung (Korrektur oder Funktion, die dazu führen würde, dass sich die vorhandene Funktionalität ändert)
+- [ ] Fehlerbehebung (unveränderliche Änderung, die ein Problem behebt)
+- [ ] Neue Funktion (unterbrechungsfreie Änderung, die zusätzliche Funktionen bietet)
+- [ Umfassende ] (Korrektur oder Funktion, die eine Änderung vorhandener Funktionen zur Folge hätte)
 
 ## Checkliste:
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Haben Sie die [Namensstandards](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards) befolgt?
-- [ ] Das Inhaltsverzeichnis und die H1-Übereinstimmung für jede Seite, die erstellt oder aktualisiert wird.
-- [ ] Dem Inhaltsverzeichnis und dem H1 ist eine Aktion zugeordnet, z. B.: Erfahren Sie, wie Sie eine Pull-Anforderung von GutHub erstellen
-- [ ] Nichts sollte in H1 mit Abstand sein
-- [ ] Jeder Seitentitel sollte mit einem ***C***apitolbuchstaben beginnen
-- [ ] Ich habe überprüft, ob Videos Kapitel enthalten sollten.
-- [ ] Für alle Videos ist ein Poster zugewiesen, mit dem das Video ordnungsgemäß dargestellt wird
-- [ ] Haben Sie [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html) verwendet?
+- [ ] Haben Sie die [Benennungsstandards“ ](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Das Inhaltsverzeichnis und die H1 stimmen für jede Seite überein, die erstellt oder aktualisiert wird.
+- [ ] Dem Inhaltsverzeichnis und dem H1 ist eine Aktion zugeordnet, z. B.: Erfahren Sie, wie Sie eine GutHub-Pull-Anfrage erstellen
+- [ ] Nothing sollte in H1 mit gleichmäßigem Abstand vorliegen.
+- [ ] Jeder Seitentitel sollte mit einem ***C***apitol-Buchstaben beginnen
+- [ ] habe ich überprüft, ob Videos Kapitel enthalten sollten
+- [ ] Alle Videos haben ein Poster, das das Video korrekt darstellt
+- [ ] haben Sie [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html) verwendet

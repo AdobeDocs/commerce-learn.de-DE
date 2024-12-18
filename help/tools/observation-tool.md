@@ -1,6 +1,6 @@
 ---
 title: Verwenden der Beobachtung für Adobe Commerce
-description: Sehen Sie sich dieses technische Video an und erfahren Sie, wie Sie das Beobachtungstool für Adobe Commerce verwenden.
+description: Sehen Sie sich dieses technische Video an, um zu erfahren, wie Sie das Beobachtungs-Tool für Adobe Commerce verwenden.
 doc-type: technical video
 audience: all
 activity: use
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Verwenden der Beobachtung für Adobe Commerce
 
-In diesem Video erfahren Sie mehr über das Beobachtungstool für Adobe Commerce, das ein New Relic-Nerdlet ist, um den Zustand Ihrer Adobe Commerce-Site sowie aktuelle oder vergangene Ansichten anzuzeigen. Ein Nerdlet ist eine benutzerdefinierte Anwendung, die mit New Relic One-Programmierbarkeit entwickelt wurde.
+In diesem Video erfahren Sie mehr über das Beobachtungs-Tool für Adobe Commerce. Dabei handelt es sich um ein New Relic-Nerdlet, mit dem Sie den Status Ihrer Adobe Commerce-Site, aktuelle oder vergangene Zeitansichten sehen können. Ein Nerdlet ist eine benutzerdefinierte Anwendung, die mit New Relic One-Programmierbarkeit erstellt wurde.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Entwickler

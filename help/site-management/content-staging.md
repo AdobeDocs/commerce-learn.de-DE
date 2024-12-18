@@ -1,6 +1,6 @@
 ---
-title: Inhaltstaging
-description: Erfahren Sie, wie Sie direkt vom Administrator eine große Auswahl an Inhaltsaktualisierungen für Ihren Store erstellen, in der Vorschau anzeigen und planen.
+title: Inhalts-Staging
+description: Erfahren Sie, wie Sie eine Vielzahl von Inhaltsaktualisierungen für Ihren Store direkt vom Administrator erstellen, in der Vorschau anzeigen und planen können.
 doc-type: feature video
 audience: all
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Inhaltstaging
+# Inhalts-Staging
 
-Das Content Staging bietet Ihrem Business-Team die Möglichkeit, direkt vom Administrator aus eine Vielzahl von Inhaltsaktualisierungen für Ihren Store zu erstellen, in der Vorschau anzuzeigen und zu planen. Anstatt beispielsweise an eine statische Seite zu denken, sollten Sie eine Seite als Sammlung verschiedener Elemente betrachten, die entsprechend dem Zeitplan hinzugefügt oder entfernt werden können. Sie können die Inhaltstaging-Umgebung verwenden, um eine Seite zu erstellen, die sich im Laufe des Jahres automatisch und planmäßig ändert.
+Mit der Inhalts-Staging-Funktion kann Ihr Business-Team eine breite Palette von Inhaltsaktualisierungen für Ihren Store einfach erstellen, in der Vorschau anzeigen und direkt vom Administrator planen. Anstatt beispielsweise an eine statische Seite zu denken, sollten Sie eine Seite als Sammlung verschiedener Elemente betrachten, die nach Zeitplan hinzugefügt oder entfernt werden können. Sie können die Inhalts-Staging-Umgebung verwenden, um eine Seite zu erstellen, die sich automatisch im Laufe des Jahres planmäßig ändert.
 
 {{ee-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - E-Commerce-Marketer
@@ -35,5 +35,5 @@ Das Content Staging bietet Ihrem Business-Team die Möglichkeit, direkt vom Admi
 
 ## Zusätzliche Ressourcen
 
-- [Content Staging - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [Vorschau einer Kampagne anzeigen - [!DNL Commerce] Inhalts- und Designhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [Content-Staging - [!DNL Commerce] Content- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [Vorschau einer Kampagne - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

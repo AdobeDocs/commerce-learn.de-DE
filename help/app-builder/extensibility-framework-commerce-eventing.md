@@ -1,8 +1,8 @@
 ---
-title: Erweiterungs-Framework und Commerce-Eventing
-description: Informationen zum Unified Extensibility Framework und Commerce-Abend
-landing-page-description: Informationen zum Unified Extensibility Framework und Commerce-Abend
-short-description: Informationen zum Unified Extensibility Framework und Commerce-Abend
+title: Erweiterbarkeits-Framework und Commerce-Eventing
+description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
+landing-page-description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
+short-description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
 kt: 11740
 doc-type: tutorial
 audience: all
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Erweiterungs-Framework für App Builder
+# Erweiterbarkeits-Framework für App Builder
 
-In dieser Funktionsdemonstration werden App Builder und die potenziellen Anwendungsfälle für Adobe Commerce beschrieben. Dieses Video bietet eine Einführung in das Erweiterbarkeits-Framework, wichtige Kundenvorteile und Funktionen.
+In dieser Funktionsdemonstration werden App Builder und seine potenziellen Anwendungsfälle für Adobe Commerce beschrieben. In diesem Video werden das Erweiterbarkeits-Framework, die wichtigsten Kundenvorteile und -funktionen vorgestellt.
 
 ## App Builder für Adobe Commerce {#app-builder-extensibility}
 

@@ -1,6 +1,6 @@
 ---
-title: Migrieren von einer selbst gehosteten Lösung
-description: Erfahren Sie mehr über einige Vorteile beim Übergang von einer On-Premise-Self-Hosting-Lösung zu Adobe Commerce Cloud. Die Adobe Commerce Cloud-Option ist eine zuverlässige und kostengünstige Plattform, die Tools für die Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bietet und so zu einer höheren Produktivität führt.
+title: Migration von einer selbst gehosteten Lösung
+description: Erfahren Sie mehr über einige Vorteile beim Umstieg von einer On-Premise-Self-Hosting-Lösung auf Adobe Commerce Cloud. Die Adobe Commerce Cloud-Option ist eine zuverlässige und kostengünstige Plattform, die Tools für Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bereitstellt, was zu einer Produktivitätssteigerung führt.
 feature: Services, Paas
 topic: Commerce
 role: Admin, User
@@ -17,23 +17,23 @@ ht-degree: 0%
 
 ---
 
-# Migration von der selbstgehosteten Lösung zu Adobe Commerce Cloud
+# Migration von einer selbst gehosteten Lösung zu Adobe Commerce Cloud
 
-In diesem Webinar erfahren Sie mehr über die Vorteile der Migration von Self-Hosting-Lösungen zu Adobe Commerce Cloud. Erfahren Sie, wie Sie die Herausforderungen lösen können, denen Unternehmen gegenüberstehen, z. B. hohe Infrastrukturkosten.  Erfahren Sie außerdem, wie Adobe Commerce Cloud bei Agilität und Skalierbarkeit sowie bei Leistungs- und Zuverlässigkeitsproblemen hilft. &#x200B;Erfahren Sie, wie Adobe Commerce Cloud eine zuverlässige und kostengünstige Plattform mit Tools zur Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bietet. &#x200B;Es priorisiert Sicherheit und Compliance, bietet Funktionen wie eine Web-Anwendungs-Firewall und ein Netzwerk zur Inhaltsbereitstellung. Das Webinar zeigte auch Erfolgsgeschichten von Kunden, in denen der greifbare Nutzen und die Rentabilität (Return on Investment, ROI) veranschaulicht werden, die Unternehmen mit Adobe Commerce Cloud erzielen können.
+In diesem Webinar lernen Sie die Vorteile der Migration von selbst gehosteten Lösungen zu Adobe Commerce Cloud kennen. Erfahren Sie, wie Sie Herausforderungen bewältigen können, vor denen Unternehmen stehen, z. B. hohe Infrastrukturkosten.  Erfahren Sie außerdem, wie Adobe Commerce Cloud bei Agilitäts- und Skalierbarkeitsproblemen sowie Leistungs- und Zuverlässigkeitsproblemen hilft. &#x200B;Erfahren Sie, wie Adobe Commerce Cloud eine zuverlässige und kostengünstige Plattform mit Tools für Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung bietet. &#x200B;Sicherheit und Compliance haben dabei oberste Priorität. Sie bieten Funktionen wie eine Firewall in der Web-Anwendung und ein Content Delivery Network. In diesem Webinar wurden auch Kundenerfolge vorgestellt und der greifbare Wert sowie der Return on Investment (ROI) aufgezeigt, den Unternehmen mit Adobe Commerce Cloud erzielen können.
 
 ## Zielgruppe
 
-* Commerce Store-Eigentümer
+* Commerce-Store-Besitzer
 * Lösungsarchitekten
 * Unternehmensberater
 
 
-## Webinar-Inhalt
+## Webinar-Inhalte
 
 * Adobe Commerce Cloud ist eine zuverlässige und kostengünstige Plattform
-* Tools zur Verwaltung, Sicherheit und Leistungsüberwachung der Adobe Commerce-Infrastruktur. &#x200B;
-* Erfahren Sie mehr über die native Skalierbarkeit und Flexibilität
+* Tools für Infrastrukturverwaltung, Sicherheit und Leistungsüberwachung von Adobe Commerce. &#x200B;
+* Erfahren Sie mehr über die native Skalierbarkeit und Agilität
 * Einführung in die Sicherheits- und Compliance-Funktionen
-* Erfahren Sie mehr über das Adobe Site-weite Analysetool (SWAT)
+* Erfahren Sie mehr über das Adobe Site-Wide Analysis Tool (SWAT)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429251?learn=on)

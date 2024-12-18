@@ -1,6 +1,6 @@
 ---
-title: Page Builder für Entwickler - Benutzerdefinierte Content-Typen
-description: Erfahren Sie, wie Sie Content-Typen anpassen und erstellen können. Machen Sie sich mit den Schritten zur Erstellung eines ​ vertraut. Machen Sie sich mit den Schritten zur Erweiterung eines vorhandenen Inhaltstyps vertraut.
+title: Page Builder für Entwickler - Benutzerdefinierte Inhaltstypen
+description: Erfahren Sie, wie Sie Inhaltstypen anpassen und erstellen. Machen Sie sich mit den Schritten zur Erstellung eines Inhaltstyps ​. Machen Sie sich mit den Schritten zur Erweiterung eines vorhandenen Inhaltstyps vertraut.
 kt: 5655
 doc-type: video
 activity: use
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ---
 
-# Page Builder für Entwickler - Benutzerdefinierte Content-Typen
+# Page Builder für Entwickler - Benutzerdefinierte Inhaltstypen
 
 In diesem Video:
 
 - Anpassen und Erstellen zusätzlicher Inhaltstypen
-- Machen Sie sich mit den Schritten zur Erstellung eines Inhaltstyps &#x200B;
-- Machen Sie sich mit den Schritten zur Erweiterung eines vorhandenen Inhaltstyps vertraut.
+- Machen Sie sich mit den Schritten zur Erstellung eines Inhaltstyps vertraut&#x200B;
+- Machen Sie sich mit den Schritten zur Erweiterung eines vorhandenen Inhaltstyps vertraut
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Inhaltsersteller
 - Frontend-Entwickler
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

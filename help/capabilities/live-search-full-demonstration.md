@@ -1,6 +1,6 @@
 ---
-title: Vollständige Live Search-Demonstration
-description: Sehen Sie sich eine umfassende Demonstration zu den Funktionen und der Flexibilität der Live-Suche an.
+title: Vollständige Demonstration zur Live-Suche
+description: Sehen Sie sich eine umfassende Demonstration der Funktionen und der Flexibilität der Live-Suche an
 kt: 13168
 doc-type: tutorial
 audience: all
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ---
 
-# Vollständige Adobe Commerce Live Search-Demonstration
+# Vollständige Demonstration der Adobe Commerce Live Search
 
 Eine vollständige Demonstration der Adobe Live-Suche.
 
-## Was erwartet Sie mit diesem Video?
+## Was Sie von diesem Video erwarten können
 
-Erfahren Sie, wie Sie Adobe Live-Suchkonfigurationen und -einstellungen verwenden. Verschaffen Sie sich ein besseres Verständnis von Facetten, Berichten und Synonymen.
+Erfahren Sie, wie Sie Adobe Live Search-Konfigurationen und -Einstellungen verwenden. Besseres Verständnis von Facetten, Berichten und Synonymen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler und Store-Eigentümer, die neu bei Adobe Live Search sind und mehr erfahren möchten.
+* Entwickler und Store-Besitzer, die neu bei Adobe Live Search sind und mehr erfahren möchten.
 
 ## Videoinhalt
 
 * Erfahren Sie mehr über kundenorientierte Facetten
-* Was ist eine API
-* Live-Suchberichte
-* Erfahren Sie mehr über die Backoffice-Konfiguration für Facetten und deren Verwendung
+* Was ist eine API?
+* Live Search-Berichte
+* Erfahren Sie mehr über die Back-Office-Konfiguration für Facetten und deren Verwendung
 * Informationen zu Synonymen
-* Intelligente Merchandising
-* Erläuterung regelbasierter Rangtypen
-* GraphQL API-Einführung
+* Intelligentes Merchandising
+* Erläuterung der regelbasierten Ranking-Typen
+* GraphQL-API-Introspektion
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

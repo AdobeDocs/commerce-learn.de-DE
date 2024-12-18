@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Produktkategorien"
+title: '[!DNL Commerce] für Business-Anwender - Produktkategorien'
 description: Erfahren Sie, wie Sie Ihren Produktkatalog verwalten, indem Sie Kategorien einrichten.
 kt: 5765
 doc-type: videos
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Produktkategorien
+# [!DNL Commerce] für Business-Anwender - Produktkategorien
 
 In diesem Video:
 
 - Erstellen von Kategorien für Ihren Produktkatalog
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
@@ -33,4 +33,4 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Kategorien - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[categories - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

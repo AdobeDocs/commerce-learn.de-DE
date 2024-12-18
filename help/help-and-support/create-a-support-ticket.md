@@ -1,6 +1,6 @@
 ---
-title: Support-Ticket erstellen
-description: Erfahren Sie, wie Sie in Experience League ein Support-Ticket für Adobe Commerce erstellen
+title: Erstellen eines Support-Tickets
+description: Erfahren Sie, wie Sie ein Support-Ticket für Adobe Commerce in Experience League erstellen.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
@@ -9,31 +9,31 @@ doc-type: Technical Video
 duration: 337
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
+source-git-commit: b94fcb4170e7c00d858d08c48b1f51ee29405b0e
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# Erstellen eines Support-Tickets mit Experience League
 
-# Verwenden von Experience League zum Erstellen eines Support-Tickets
+Erfahren Sie, wie Sie ein Support-Ticket in Experience League für Adobe Commerce erstellen.
 
-Erfahren Sie, wie Sie ein Support-Ticket innerhalb von Experience League für Adobe Commerce erstellen.
+## Für wen ist dieses Video bestimmt?
 
-## Für wen ist dieses Video?
-
-* Jeder, der Support-Anfragen für Adobe Commerce in Experience League erstellen kann
+* Jeder, der die Möglichkeit hat, Support-Anfragen für Adobe Commerce in Experience League zu erstellen
 
 ## Videoinhalt {#video-content}
 
-* Informationen zur Anmeldung bei Experience League
+* Erfahren Sie, wie Sie sich beim Experience League anmelden
 * Erfahren Sie mehr über die dynamischen Formularelemente beim Erstellen eines neuen Support-Tickets
-* Erfahren Sie, wie sich die empfohlenen Artikel je nach den im Formular verwendeten Informationen ändern.
-* Grundlegendes dazu, wie der Platzhaltertext in den Formularfeldern dabei hilft, den für eine gute Supportanfrage benötigten Informationstyp zu verstehen
+* Erfahren Sie, wie sich die empfohlenen Artikel je nach den im Formular verwendeten Informationen ändern
+* Wenn Sie verstehen, wie der Platzhaltertext in den Formularfeldern verwendet wird, können Sie die Art der Informationen verstehen, die für eine sinnvolle Support-Anfrage erforderlich sind
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
-## Handbuch zur Commerce Knowledge Base-Hilfe
+## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 
-[Senden eines Support-Falles](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Senden eines Support-Falls](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

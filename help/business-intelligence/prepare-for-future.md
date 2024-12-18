@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - Vorbereitung auf die Zukunft
-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
-landing-page-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
-short-description: Sehen Sie sich diese Videoreihe an, um Ihr Verständnis der beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen.
+title: Commerce Intelligence - Die Zukunft vorbereiten
+description: Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellosen Veränderungen verstehen, die die Zukunft des digitalen Handels prägen.
+landing-page-description: Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellosen Veränderungen verstehen, die die Zukunft des digitalen Handels prägen.
+short-description: Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellosen Veränderungen verstehen, die die Zukunft des digitalen Handels prägen.
 kt: 10411
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -21,28 +21,28 @@ ht-degree: 0%
 
 ---
 
-# Commerce Intelligence - Vorbereitung auf die Zukunft
+# Commerce Intelligence - Die Zukunft vorbereiten
 
-Während Covid-19 die Welt umgibt, verlassen sich Millionen auf den digitalen Handel, um ihre wichtigsten Bedürfnisse zu erfüllen. Da Unternehmen Überstunden leisten, um der historischen Verbrauchernachfrage Rechnung zu tragen, war es nie wichtiger, die Zukunft in den Mittelpunkt zu stellen.
+Während Covid-19 die Welt umkreist, verlassen sich Millionen auf den digitalen Handel, um ihre wichtigsten Bedürfnisse zu erfüllen. Da die Unternehmen Überstunden machen, um der historischen Verbrauchernachfrage gerecht zu werden, war es nie wichtiger, die Zukunft in den Mittelpunkt zu stellen.
 
-In dieser dreiteiligen Videoserie hebt das Analyseteam von Commerce Intelligence grundlegende, datengesteuerte eCommerce-Verfahren hervor, die Ihrem Unternehmen helfen, in diesen schwierigen Zeiten erfolgreich zu sein. Unterstützt wird dies durch aggregierte Statistiken, die sich auf mehrere kommerzielle Branchen erstrecken.
+In dieser dreiteiligen Videoreihe hebt das Commerce Intelligence-Analystenteam grundlegende, datengesteuerte E-Commerce-Praktiken hervor, mit denen Ihr Unternehmen in diesen schwierigen Zeiten wachsen kann, unterstützt durch aggregierte Statistiken aus mehreren kommerziellen Branchen.
 
-Sehen Sie sich diese Videoreihe an, um Ihr Verständnis für die beispiellosen Veränderungen, die die Zukunft des digitalen Handels prägen, zu verdeutlichen - und wie Sie sich auf die künftigen Entwicklungen vorbereiten können.
+Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellosen Veränderungen verstehen, die die Zukunft des digitalen Handels prägen - und wie Sie sich auf das vorbereiten können, was vor uns liegt.
 
 >[!TIP]
 >
->Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen umfassenden Überblick, um durch die Datenerfassung, -analyse und -visualisierung bessere Einblicke und Ergebnisse für Unternehmen zu erzielen.
+>Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 - Datenanalysten
 
-## Teil 1: Anstieg des digitalen Commerce-Traffics
+## Teil 1: Anstieg des Traffics auf Digital Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
 
-## Teil 2: Segmentieren der Traffic-Zunahme nach Branche
+## Teil 2: Segmentierung des Verkehrsaufkommens nach Branchen
 
 >[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
 

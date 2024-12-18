@@ -1,6 +1,6 @@
 ---
 title: AR-Viewer für Adobe Commerce
-description: Erfahren Sie mehr über das auf der Commerce Marketplace verfügbare Modul "Erweiterte Reality Viewing".
+description: Erfahren Sie mehr über das Augmented Reality Viewing-Modul auf der Commerce Marketplace.
 kt: 13738
 doc-type: video
 activity: use
@@ -8,7 +8,7 @@ feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
-badge: AR-Viewer verfügbar auf der Commerce Marketplace
+badge: Auf der Commerce Marketplace verfügbarer AR-Viewer
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
 source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
@@ -17,41 +17,41 @@ ht-degree: 0%
 
 ---
 
-# Verbesserter Reality Viewer für Adobe Commerce
+# Augmented Reality Viewer für Adobe Commerce
 
-Im Zuge der Weiterentwicklung der digitalen Einkaufslandschaft wird die Einbeziehung der erweiterten Realität (AR) in den Kaufprozess immer wichtiger. Mit AR können Benutzer mit Produkten so interagieren, dass sie einem persönlichen Einkaufserlebnis ähnlich sind, was wiederum die Kundenzufriedenheit und Konversionsraten steigert.
-AR Viewer ist eine Erweiterung für Adobe Commerce, die eine neue Funktion für Online-Store-Eigentümer bringt - die Möglichkeit, 3D-Modelle ihrer Produkte hochzuladen. Darüber hinaus generiert die Adobe Commerce AR Viewer-Erweiterung beim Hochladen eines 3D-Modells automatisch einen QR-Code. Am Front-End zeigt die Produktseite diesen QR-Code an, den Kunden mit ihren Mobilgeräten einfach scannen können, um das Produkt in AR anzuzeigen. Dieses Modul ermöglicht es Kunden, das Produkt auf interaktivere und ansprechendere Weise zu untersuchen, ihr Verständnis für das Produkt zu verbessern und fundiertere Kaufentscheidungen zu treffen.
+Mit der Weiterentwicklung der digitalen Shopping-Landschaft wird es immer wichtiger, Augmented Reality (AR) in den Kaufprozess einzubinden. AR ermöglicht es Benutzenden, mit Produkten auf eine Weise zu interagieren, die einem persönlichen Einkaufserlebnis ähnelt, was wiederum die Kundenzufriedenheit und Konversionsraten erhöht.
+AR Viewer ist eine Erweiterung für Adobe Commerce, die eine neue Funktion für Online-Shop-Besitzer bringt - die Möglichkeit, 3D-Modelle ihrer Produkte hochzuladen. Darüber hinaus generiert die Adobe Commerce AR Viewer-Erweiterung beim Hochladen eines 3D-Modells automatisch einen QR-Code. Am Frontend zeigt die Produktseite diesen QR-Code an, den Kunden einfach mit ihren Mobilgeräten scannen können, um das Produkt in AR anzuzeigen. Dieses Modul ermöglicht es Kunden, das Produkt auf immersivere und ansprechendere Weise zu erkunden, ihr Verständnis des Produkts zu verbessern und bei fundierteren Kaufentscheidungen zu helfen.
 
-Der AR Viewer dient als Brücke zwischen dem physischen und digitalen Einzelhandel und ermöglicht es den Verkäufern, ein umfangreiches, interaktives Kundenerlebnis zu bieten, ohne umfangreiche technische Kenntnisse oder intensive manuelle Arbeit zu erfordern. Die benutzerfreundliche Benutzeroberfläche ist nahtlos in den Adobe Commerce-Administrator integriert und stellt somit eine praktische Ergänzung zu jedem Online-Store dar.
+AR Viewer dient als Brücke zwischen physischem und digitalem Einzelhandel und ermöglicht es Verkäufern, ein umfassendes, interaktives Kundenerlebnis zu bieten, ohne dass umfangreiche technische Kenntnisse oder intensive manuelle Arbeit erforderlich sind. Die benutzerfreundliche Oberfläche ist nahtlos in den Adobe Commerce-Admin integriert, sodass sie eine praktische Ergänzung zu jedem Online-Store ist.
 
-Der AR-Viewer dient [!DNL bridge] der Lücke zwischen dem physischen und dem digitalen Einzelhandel und ermöglicht es Verkäufern, ein umfangreiches, interaktives Kundenerlebnis zu bieten, ohne umfangreiche technische Kenntnisse oder intensive manuelle Arbeit zu erfordern. Die benutzerfreundliche Benutzeroberfläche ist nahtlos in den Adobe Commerce-Administrator integriert und stellt somit eine praktische Ergänzung zu jedem Online-Store dar.
+AR Viewer dient dazu, die Lücke zwischen physischem und digitalem Einzelhandel zu [!DNL bridge], sodass Verkäufer ein reichhaltiges, interaktives Kundenerlebnis bieten können, ohne dass umfangreiche technische Kenntnisse oder intensive manuelle Arbeit erforderlich sind. Die benutzerfreundliche Oberfläche ist nahtlos in den Adobe Commerce-Admin integriert, sodass sie eine praktische Ergänzung zu jedem Online-Store ist.
 
 ## Funktionen
 
-- Einfache Benutzeroberfläche zum Hochladen von 3D-Modellen Ihrer Produkte.
-- Automatische Generierung von QR-Code beim Hochladen von 3D-Modellen.
-- Nahtlose Integration von QR-Codes in Produktseiten für die AR-Anzeige.
-- Ein interaktives Produktanzeigeerlebnis auf Mobilgeräten.
-- Optimiertes Verkaufserlebnis direkt in den Adobe Commerce-Administrator eingebettet.
+- Benutzerfreundliche Oberfläche zum Hochladen von 3D-Modellen Ihrer Produkte.
+- Automatische QR-Code-Generierung beim Hochladen eines 3D-Modells.
+- Nahtlose Integration von QR-Codes in Produktseiten zur Anzeige von AR.
+- Ein interaktives Produkterlebnis auf Mobilgeräten.
+- Optimiertes Händlererlebnis direkt in die Adobe Commerce-Admin eingebettet.
 - Kompatibilität mit Adobe Commerce Cloud- und On-Premise-Kunden (2.4.x+)
-- Indem Sie den AR Viewer in Ihr Geschäft integrieren, bieten Sie mehr als nur Produkte an. Sie schaffen ein faszinierendes, immersives Einkaufserlebnis, das Kunden dazu ermutigt, selbstbewusste Kaufentscheidungen zu treffen.
+- Indem Sie den AR Viewer in Ihr Geschäft integrieren, bieten Sie mehr als nur Produkte. Sie schaffen ein fesselndes, immersives Einkaufserlebnis, das Kunden ermutigt, sichere Kaufentscheidungen zu treffen.
 
 ## Hinzufügen des 3D-Modells zu einem Produkt
 
 Das Hinzufügen eines neuen 3D-Modells zum Produkt ist ein einfacher Prozess, nachdem das Modul in der Adobe Commerce-Installation installiert wurde.
-Im folgenden Video gibt es einen neuen Abschnitt, der das Hochladen des `.USDZ`-Datei-Uploads unterstützt.
+Im folgenden Video gibt es einen neuen Abschnitt, der das Hochladen der `.USDZ`-Datei unterstützt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
-## Anzeigen des QR-Codes über die Storefront von Luma
+## QR-Code aus der Luma-Storefront anzeigen
 
-Unter Verwendung des nativen Luma-Frontend zeigt das folgende Video, wie es einem Kunden angezeigt wird.
+Das folgende Video zeigt, wie es mit dem nativen Luma-Frontend für einen Kunden angezeigt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422371?learn=on)
 
-## Anzeigen des AR-Elements auf einem Mobilgerät
+## Überwachen des AR-Elements auf einem Mobilgerät
 
-Sobald der Besucher den QR-Code mit seinem Gerät scannt, wird das Element auf der Kameraansicht überlagert, sodass er es sehen kann.
+Sobald der Besucher den QR-Code mit seinem Gerät scannt, wird das Element in der Kameraansicht eingeblendet, damit er es sehen kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422372?learn=on)
 
@@ -62,4 +62,4 @@ Sobald der Besucher den QR-Code mit seinem Gerät scannt, wird das Element auf d
 
 ## Adobe Commerce Marketplace-Erweiterung
 
-[AR viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
+[AR-Viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}

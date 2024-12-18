@@ -1,8 +1,8 @@
 ---
-title: Erfahren Sie, wie Sie ein Modul in Adobe Commerce zur Verwendung von Ereignissen erstellen.
-description: Erfahren Sie, wie Sie das Commerce-Modul zur Verwendung von Ereignissen erstellen.
-landing-page-description: Erfahren Sie, wie Sie ein Adobe Commerce-Modul zur Verwendung von Ereignissen erstellen.
-short-description: Erfahren Sie, wie Sie ein Adobe Commerce-Modul zur Verwendung von Ereignissen erstellen.
+title: Erfahren Sie, wie Sie ein Modul in Adobe Commerce erstellen, um Ereignisse zu verwenden.
+description: Erfahren Sie, wie Sie ein Commerce-Modul erstellen, um Ereignisse zu verwenden.
+landing-page-description: Erfahren Sie, wie Sie ein Adobe Commerce-Modul erstellen, um Ereignisse zu verwenden.
+short-description: Erfahren Sie, wie Sie ein Adobe Commerce-Modul erstellen, um Ereignisse zu verwenden.
 kt: 11891
 doc-type: tutorial
 audience: all
@@ -19,20 +19,20 @@ ht-degree: 0%
 
 ---
 
-# Entwicklung von Adobe Commerce-Modulen
+# Adobe Commerce-Modulentwicklung
 
-Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und wie Sie eine neue XML-Datei `io_events.xml` in der Entwicklung benutzerdefinierter Module verwenden. Das Video zeigt Entwicklern außerdem, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle möglicherweise bereits definierten Ereignisse abmelden können. Weitere Informationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und eine neue XML-`io_events.xml` in der Entwicklung benutzerdefinierter Module verwenden. In diesem Video erfahren Entwicklerinnen und Entwickler auch, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle bereits definierten Ereignisse abmelden können. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce und Adobe Developer App Builder mit I/O-Ereignissen sind.
+* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden.
 
 ## Videoinhalt {#video-content}
 
 * Registrieren von Ereignissen in Commerce zur Verwendung in Adobe Developer App Builder
-* Identifizieren von Ereignissen, die registriert werden können
+* Ereignisse identifizieren, die registriert werden können
 * Erfahren Sie, wie Sie Ereignisse in io_events.xml registrieren.
-* Erfahren Sie, wie Sie Ereignisse in den Commerce-Instanzen registrieren `app/etc/config.php`
+* Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 * Erfahren Sie, wie Sie sich von einem Ereignis abmelden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)

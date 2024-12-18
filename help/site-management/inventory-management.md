@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Erfahren Sie mehr über die Inventory management-Funktionen und wie Sie sie für die Arbeit von einem einzigen Warehouse oder komplexen Versandnetzwerk verwenden können.
+description: Erfahren Sie mehr über die Funktionen von Inventory management und wie Sie diese verwenden können, um von einem einzigen Warehouse oder einem komplexen Versandnetzwerk aus zu arbeiten.
 kt: 10551
 doc-type: feature video
 audience: all
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Inventory management
 
-Händler mit einem einzigen Geschäft zu mehreren Lagern, Geschäften, Abholstandorten, Ablagelagern und mehr können Lagerbestandsverwaltungsfunktionen verwenden, um die Verkaufsmengen zu verwalten und Sendungen für komplette Bestellungen abzuwickeln. Sie können Ihre Lagerbestandsmengen nachverfolgen, Kunden für alle Ihre Websites genaue verkaufbare Lagerbestände zur Verfügung stellen und gemäß Empfehlungen auf der Grundlage der Entfernung oder Priorität versenden. Sie können Ihre bevorzugten Produktkonfigurationen auch global (für alle Stores und Produkte), pro Quelle und pro Produkt konfigurieren. Diese Funktionen wachsen mit Ihrem Unternehmen, sodass Sie von einem einzigen Lager oder komplexen Versandnetzwerken aus arbeiten können.
+Händler mit einem einzigen Lager für mehrere Lager, Läden, Abholstandorte, Drop-Versender und mehr können Funktionen zur Lagerverwaltung verwenden, um Mengen für den Verkauf zu verwalten und Sendungen zu bearbeiten, um Aufträge abzuschließen. Sie können Ihre Lagermengen verfolgen, genaue verkaufbare Lagerbestände für Kunden für alle Ihre Websites bereitstellen und gemäß Empfehlungen versenden, die auf Entfernung oder Priorität basieren. Sie können Ihre bevorzugten Produktkonfigurationen auch global (für alle Geschäfte und Produkte), pro Quelle und pro Produkt konfigurieren. Diese Funktionen wachsen mit Ihrem Unternehmen und ermöglichen es Ihnen, von einem einzigen Lager oder komplexen Versandnetzwerk aus zu arbeiten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 
@@ -33,5 +33,5 @@ Händler mit einem einzigen Geschäft zu mehreren Lagern, Geschäften, Abholstan
 
 ## Zusätzliche Ressourcen
 
-- [Inventory management-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
-- [Inventory management - REST-Dokumentation für Entwickler](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+- [Handbuch zu Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory management - Entwickler-REST-Dokumentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)

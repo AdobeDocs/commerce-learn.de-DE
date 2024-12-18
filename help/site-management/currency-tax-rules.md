@@ -1,6 +1,6 @@
 ---
 title: Währungs- und Steuerregeln verwalten
-description: Erfahren Sie, wie Sie die Währung und die Steuerregeln konfigurieren, mit denen [!DNL Commerce] die entsprechende Steuer entsprechend den Kunden- und Produktklassen berechnet.
+description: Erfahren Sie, wie Sie die Währung und die Steuerregeln konfigurieren [!DNL Commerce]  die verwendet, um die entsprechende Steuer entsprechend den Kunden- und Produktklassen zu berechnen.
 kt: 10542
 doc-type: feature video
 audience: all
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Währungs- und Steuerregeln verwalten
 
-Die Steuerregeln beinhalten eine Kombination aus Produktklasse, Kundenklasse und Steuersatz. Jeder Kunde wird einer Kundenklasse zugewiesen und jedem Produkt wird eine Produktklasse zugewiesen. [!DNL Commerce] analysiert den Warenkorb jedes Kunden und berechnet die entsprechende Steuer entsprechend den Kunden- und Produktklassen sowie der Region (basierend auf Lieferadresse, Rechnungsadresse oder Versandherkunft).
+Steuerregeln enthalten eine Kombination aus Produktklasse, Kundenklasse und Steuersatz. Jeder Kunde wird einer Kundenklasse und jedes Produkt einer Produktklasse zugewiesen. [!DNL Commerce] analysiert den Warenkorb jedes Kunden und berechnet die entsprechende Steuer entsprechend den Kunden- und Produktklassen und der Region (basierend auf Lieferadresse, Rechnungsadresse oder Versandherkunft).
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 - E-Commerce-Manager
@@ -33,5 +33,5 @@ Die Steuerregeln beinhalten eine Kombination aus Produktklasse, Kundenklasse und
 
 ## Zusätzliche Ressourcen
 
-- [Steuerregeln - [!DNL Commerce] Erlebnisleitfaden für Stores und Einkäufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Währung - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Steuerregeln - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Währung - [!DNL Commerce] Stores und Kauferlebnishandbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

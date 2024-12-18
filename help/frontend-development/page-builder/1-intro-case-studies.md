@@ -1,8 +1,8 @@
 ---
 title: Page Builder für Entwickler - Einführung
-description: Einführung in Page Builder, Erläuterung der Funktionen von Page Builder
-landing-page-description: Sehen Sie sich diese Videoreihe an, um mehr über den Seitenaufbau zu erfahren und zu erfahren, wie Sie ihn erweitern können, um optimale [!DNL Commerce] Storefront-Erlebnisse zu erstellen.
-short-description: Sehen Sie sich diese Videoreihe an, um mehr über den Seitenaufbau zu erfahren und zu erfahren, wie Sie ihn erweitern können, um optimale [!DNL Commerce] Storefront-Erlebnisse zu erstellen.
+description: Einführung in Page Builder, Grundlegendes zu Page Builder-Funktionen
+landing-page-description: In dieser Videoreihe erfahren Sie mehr über Page Builder und darüber, wie Sie diese erweitern können, um optimale Storefront [!DNL Commerce] Erlebnisse zu schaffen.
+short-description: In dieser Videoreihe erfahren Sie mehr über Page Builder und darüber, wie Sie diese erweitern können, um optimale Storefront [!DNL Commerce] Erlebnisse zu schaffen.
 kt: 5650
 doc-type: video
 activity: use
@@ -25,7 +25,7 @@ In diesem Video:
 - Einführung in Page Builder
 - Grundlegendes zu den Funktionen von Page Builder
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Inhaltsersteller
@@ -34,12 +34,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

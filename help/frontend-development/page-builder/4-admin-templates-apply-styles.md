@@ -1,6 +1,6 @@
 ---
 title: Page Builder für Entwickler - Vorlagen und Stile
-description: '[!DNL Admin] und Staging-Designaufgaben. Erstellen Sie die ​ [!DNL Admin] Vorlagen . Wenden Sie Stile auf Inhaltstypen auf der Bühne (Live-Vorschau) an.'
+description: '[!DNL Admin] und Staging von Design-Aufgaben. create [!DNL Admin] templates​. Anwenden von Stilen auf Inhaltstypen auf der Bühne (Live-Vorschau).'
 kt: 5653
 doc-type: video
 activity: use
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 In diesem Video:
 
-- [!DNL Admin] und Staging-Designaufgaben
-- [!DNL Admin] Vorlagen erstellen &#x200B;
+- [!DNL Admin] und Staging von Design-Aufgaben
+- Erstellen Sie [!DNL Admin] Vorlagen&#x200B;
 - Anwenden von Stilen auf Inhaltstypen auf der Bühne (Live-Vorschau)
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Inhaltsersteller
 - Frontend-Entwickler
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

@@ -1,6 +1,6 @@
 ---
-title: Kundengruppen erstellen
-description: Erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen, um die verfügbaren Rabatte und die zugehörige Steuerklasse zu bestimmen.
+title: Erstellen von Kundengruppen
+description: Erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen, die die verfügbaren Rabatte und die zugehörige Steuerklasse bestimmen.
 kt: 10546
 doc-type: feature video
 audience: all
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Kundengruppen erstellen
+# Erstellen von Kundengruppen
 
-Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verbunden ist. Die standardmäßigen Kundengruppen sind _Allgemein_, _Nicht angemeldet_ und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
+Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse mit der Gruppe verknüpft ist. Die Standardkundengruppen sind _Allgemein_, _Nicht angemeldet_ und _Großhandel_. In diesem Video erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 - E-Commerce-Marketer
@@ -33,5 +33,5 @@ Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse 
 
 ## Zusätzliche Ressourcen
 
-- [Kundengruppen - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Einschränkungen der Kundengruppen nach Websites - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Kundengruppen - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Beschränkungen der Kundengruppe nach Websites - [!DNL Commerce] Handbuch für das Kundenmanagement](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

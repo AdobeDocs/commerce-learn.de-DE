@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines gruppierten Produkts
-description: Erfahren Sie, wie Sie ein gruppiertes Produkt mit der REST-API und dem Commerce Admin erstellen.
+title: Gruppiertes Produkt erstellen
+description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein gruppiertes Produkt erstellen.
 kt: 14585
 doc-type: video
 audience: all
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines gruppierten Produkts
+# Gruppiertes Produkt erstellen
 
-Ein gruppiertes Produkt besteht aus einfachen eigenständigen Produkten, die als Gruppe präsentiert werden. Sie können Varianten eines einzelnen Produkts anbieten oder sie nach Saison oder Thema gruppieren. Bevor Sie ein gruppiertes Produkt erstellen, stellen Sie sicher, dass alle einfachen Produkte, die in die Gruppe aufgenommen werden sollen, in Adobe Commerce verfügbar sind, und erstellen Sie diejenigen, die nicht vorhanden sind.
+Ein gruppiertes Produkt besteht aus einfachen eigenständigen Produkten, die als Gruppe präsentiert werden. Sie können Varianten eines einzelnen Produkts anbieten oder sie nach Saison oder Thema gruppieren. Bevor Sie ein gruppiertes Produkt erstellen, überprüfen Sie, ob alle in die Gruppe aufzunehmenden einfachen Produkte in Adobe Commerce verfügbar sind, und erstellen Sie alle nicht vorhandenen Produkte.
 
-In diesem Tutorial erfahren Sie, wie Sie ein gruppiertes Produkt mithilfe der REST-API und des Adobe Commerce-Administrators erstellen.
+In diesem Tutorial erfahren Sie, wie Sie ein gruppiertes Produkt mithilfe der REST-API und der Adobe Commerce Admin erstellen.
 
-Verwenden Sie die REST-API, um ein Gruppenprodukt in der Admin-Konsole zu erstellen:
+Verwenden Sie die REST-API, um eine Produktgruppe in der Admin-Liste zu erstellen:
 
-1. Erstellen Sie ein leeres gruppiertes Produkt.
+1. Ein leeres gruppiertes Produkt erstellen.
 1. Erstellen Sie einfache Produkte zur Verwendung im gruppierten Produkt.
 1. Füllen Sie das leere gruppierte Produkt mit einfachen Produkten.
 1. Erstellen Sie ein leeres gruppiertes Produkt und verknüpfen Sie die einfachen Produkte.
 
-   Wenn Sie einfache Produkte mit dem gruppierten Produkt verknüpfen, wird das Sortierreihenfolgen-Attribut (`position`) in der Payload vom Frontend verwendet, um die verknüpften Produkte in der gewünschten Reihenfolge anzuzeigen. Wenn das Attribut `position` nicht angegeben ist, werden die Produkte in der Reihenfolge angezeigt, in der sie zum gruppierten Produkt hinzugefügt wurden.
+   Wenn Sie dem gruppierten Produkt einfache Produkte zuordnen, wird das Sortierreihenfolgen-Attribut (`position`) in der Payload vom Frontend verwendet, um die zugehörigen Produkte in einer gewünschten Reihenfolge anzuzeigen. Wenn das Attribut `position` nicht angegeben ist, werden die Produkte in der Reihenfolge angezeigt, in der sie dem gruppierten Produkt hinzugefügt wurden.
 
-Erstellen Sie beim Erstellen von gruppierten Produkten mit Adobe Commerce Admin zuerst die einfachen Produkte. Wenn Sie bereit sind, das gruppierte Produkt zu erstellen, verknüpfen Sie die einfachen Produkte, indem Sie sie dem gruppierten Produkt in einem Batch zuweisen.
+Erstellen Sie beim Erstellen von gruppierten Produkten über die Adobe Commerce-Admin zunächst die einfachen Produkte. Wenn Sie bereit sind, das gruppierte Produkt zu erstellen, verknüpfen Sie die einfachen Produkte, indem Sie sie dem gruppierten Produkt in einem Stapel zuweisen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
-- Neue Adobe Commerce-Entwickler, die erfahren möchten, wie Sie gruppierte Produkte in Adobe Commerce mithilfe der REST-API erstellen.
+- E-Commerce-Merchandiser
+- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Sie mithilfe der REST-API gruppierte Produkte in Adobe Commerce erstellen.
 
 ## Videoinhalt
 
@@ -47,9 +47,9 @@ Erstellen Sie beim Erstellen von gruppierten Produkten mit Adobe Commerce Admin 
 
 ## Einrichtung für das gruppierte Produkt
 
-In diesem Beispiel gibt es drei einfache (zuerst erstellte) Produkte und ein gruppiertes Produkt. Zwei einfache Produkte sind mit dem gruppierten Produkt verknüpft, und dann wird das dritte einfache Produkt zum gruppierten Produkt hinzugefügt.
+In diesem Beispiel gibt es drei einfache Produkte (zuerst erstellt) und ein gruppiertes Produkt. Dem gruppierten Produkt werden zwei einfache Produkte zugeordnet, und dann wird das dritte einfache Produkt dem gruppierten Produkt hinzugefügt.
 
-## Erstellen des ersten einfachen Produkts mit cURL
+## Erstellen des ersten einfachen Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -67,7 +67,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Erstellen des zweiten einfachen Produkts mit cURL
+## Erstellen des zweiten einfachen Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -85,7 +85,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Drittes einfaches Produkt mithilfe von cURL erstellen
+## Erstellen des dritten einfachen Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -103,7 +103,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Erstellen eines leeren gruppierten Produkts mit cURL
+## Leeres gruppiertes Produkt mit cURL erstellen
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -122,7 +122,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Hinzufügen der ersten und zweiten einfachen Produkte zum gruppierten Produkt
+## Hinzufügen des ersten und zweiten einfachen Produkts zum gruppierten Produkt
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Hinzufügen des dritten einfachen Produkts zum vorhandenen gruppierten Produkt
 
-Fügen Sie die entsprechende Positionsnummer (alles außer `1` oder `2`) ein, die für die ersten beiden Produkte verwendet wird, die ursprünglich mit dem gruppierten Produkt verknüpft waren. In diesem Beispiel ist die Position `4`.
+Geben Sie die entsprechende Positionsnummer (alles außer `1` oder `2`) an, die für die ersten beiden Produkte verwendet wird, die ursprünglich mit dem gruppierten Produkt verknüpft waren. Für dieses Beispiel ist die Position `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -181,14 +181,14 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 '
 ```
 
-## Ein einfaches Produkt aus einem gruppierten Produkt löschen
+## Löschen eines einfachen Produkts aus einem gruppierten Produkt
 
-Um [ein einfaches Produkt](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) aus einem gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Um [einfaches Produkt) aus ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-Um herauszufinden, was als `{type}` verwendet werden soll, verwenden Sie xdebug, um die Anfrage zu erfassen und die $linkTypes auszuwerten: `related`, `crosssell`, `uupsell` und `associated`.
-![Gruppierte Produktverknüpfungstypen - ALT-Text](/help/assets/site-management/catalog/grouped-types.png "Gruppierte Produktverknüpfungstypen, die während der xdebug-Sitzung erfasst wurden")
+Um herauszufinden, was als `{type}` verwendet werden soll, verwenden Sie xdebug, um die Anfrage zu erfassen und die $linkTypes zu bewerten: `related`, `crosssell`, `uupsell` und `associated`.
+![Gruppierte Produktverknüpfungstypen - Alt-Text](/help/assets/site-management/catalog/grouped-types.png "Gruppierte Produktverknüpfungstypen, die während der xdebug-Sitzung erfasst werden")
 
-Beim Verknüpfen der einfachen Produkte mit dem gruppierten Produkt enthielt die Payload einige Abschnitte ähnlich den folgenden:
+Beim Verknüpfen der einfachen Produkte mit dem gruppierten Produkt enthielt die Payload einige ähnliche Abschnitte wie:
 
 ```bash
         {
@@ -203,9 +203,9 @@ Beim Verknüpfen der einfachen Produkte mit dem gruppierten Produkt enthielt die
         }
 ```
 
-In der Payload stellt der `link_type` -Wert `associated` den in der DELETE-Anfrage erforderlichen `{type}` Wert bereit. Die Anforderungs-URL ähnelt `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+In der Payload gibt der `link_type` Wert `associated` den in der DELETE-Anfrage erforderlichen `{type}` an. Die Anfrage-URL ähnelt `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Siehe cURL-Anfrage zum Löschen des einfachen Produkts mit der SKU `product-sku-three` des gruppierten Produkts mit der SKU `my-new-grouped-product`:
+Siehe die cURL-Anfrage zum Löschen des einfachen Produkts mit der `product-sku-three` SKU aus dem gruppierten Produkt mit der `my-new-grouped-product` SKU:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -213,7 +213,7 @@ curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-n
 --header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
 ```
 
-## Abrufen eines gruppierten Produkts mit cURL
+## Abrufen eines gruppierten Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen und Verwalten von gruppierten Produkten](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Grouped Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
-- [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Gruppierte Produkte erstellen und verwalten](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+- [Gruppiertes Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

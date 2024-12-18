@@ -1,6 +1,6 @@
 ---
-title: Bestellungen und Validierungen
-description: Erfahren Sie, wie Sie für Ihre B2B-Unternehmenskonten Bestellaufträge und Validierungsregeln aktivieren.
+title: Bestellungen und Genehmigungen
+description: Erfahren Sie, wie Sie Bestellungen und Genehmigungsregeln für Ihre B2B-Unternehmenskonten aktivieren.
 doc-type: feature video
 audience: all
 activity: use
@@ -17,23 +17,23 @@ ht-degree: 1%
 
 ---
 
-# Bestellungen und Validierungen
+# Bestellungen und Genehmigungen
 
-Die meisten B2B-Unternehmen verfügen über Vorschriften zur Bestellvalidierung für Bestellungen. Unternehmen können steuern, wer Bestellungen erstellen kann und wie viel sie ausgeben können. Beispiel:
+Die meisten B2B-Unternehmen verfügen über Auftragsgenehmigungsregeln für Bestellungen. Unternehmen können steuern, wer Bestellungen erstellen kann und wie viel sie ausgeben können. Beispiel:
 
-- Jeder PO-Wert unter X wird automatisch genehmigt.
-- POs über X, aber unter Q müssen von Y genehmigt werden.
-- Jeder PO über X-Wert muss von Y und Z genehmigt werden.
-- Eine Bestellung, die von einem Benutzer auf Director-Ebene oder höher erstellt wurde, wird automatisch genehmigt.
+- Alle Bestellungen mit einem Wert unter X werden automatisch genehmigt.
+- Bestellungen über dem Wert X, aber unter Q müssen von Y genehmigt werden.
+- Alle POS über X-Werte müssen von Y und Z genehmigt werden.
+- Eine Bestellung, die von einer Person auf Director-Ebene oder höher erstellt wurde, wird automatisch genehmigt.
 
 Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmigungsregeln einrichten, um Unternehmensrichtlinien durchzusetzen.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Unternehmenskontoverwalter
-- Einkaufsleiter/innen
+- Firmen-Account-Manager
+- Einkaufsmanager
 
 ## Videoinhalt
 
@@ -41,5 +41,5 @@ Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmi
 
 ## Zusätzliche Ressourcen
 
-- [Bestellungen von Unternehmen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Bestellungen für Firmen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
 - [Genehmigungsregeln für Bestellungen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

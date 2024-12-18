@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Benutzer und Rollen"
-description: Lernen Sie die Grundlagen zu [!DNL Admin] Benutzerkonten und Benutzerrollen kennen, die Berechtigungen bestimmen.
+title: '[!DNL Commerce] für Business-Anwender - Anwender und Rollen'
+description: Erfahren Sie mehr über  [!DNL Admin]  und Benutzerrollen, die Berechtigungen festlegen.
 kt: 5762
 doc-type: video
 activity: use
@@ -17,28 +17,28 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Benutzer und Rollen
+# [!DNL Commerce] für Business-Anwender - Anwender und Rollen
 
 In diesem Video:
 
 - [!DNL Admin] Benutzerkonten
-- Benutzerrollen und Berechtigungen
+- Benutzerrollen und -berechtigungen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Verwalten von Admin-Benutzerkonten - [!DNL Commerce] Administratorsystemanleitung](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Verwalten von Admin-Benutzerkonten -  [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Benutzerrollen - [!DNL Commerce] Administratorsystemhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Benutzerrollen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

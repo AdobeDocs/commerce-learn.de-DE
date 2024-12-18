@@ -1,7 +1,7 @@
 ---
-title: App an Adobe Commerce Marketplace übermitteln
+title: Mobile App an den Adobe Commerce Marketplace senden
 description: Erfahren Sie mehr über den Prozess zum Senden einer Anwendung an die Commerce Marketplace.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder und wie Sie eine App an die Commerce Marketplace senden.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder und darüber, wie Sie eine App an den Commerce Marketplace senden.
 kt: 13436
 doc-type: tutorial
 audience: all
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie, wie Sie eine App an den Adobe Commerce Marketplace senden.
+# Erfahren Sie, wie Sie eine App an den Adobe Commerce Marketplace senden
 
-Der Adobe Commerce Marketplace akzeptiert jetzt Übermittlungen für die Auflistung von App Builder-Apps. App Builder ist unsere Erweiterbarkeitsplattform der nächsten Generation, die Entwicklern alle Tools und Dienste zur Verfügung stellt, die zum Erstellen sicherer und skalierbarer Apps für Adobe Commerce erforderlich sind. Entwickler können jetzt ihre Apps im Adobe Commerce Marketplace veröffentlichen, der vertrauenswürdigen Quelle für Unternehmen, die hochwertige Apps entdecken und kaufen können, um ihre Anforderungen zu erfüllen. Sie können Ihre App zur Überprüfung senden, indem Sie zu &quot;[https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}&quot;navigieren.
+Der Adobe Commerce Marketplace akzeptiert jetzt Einreichungen für die Auflistung von App Builder-Apps. App Builder ist unsere Erweiterungsplattform der nächsten Generation, die Entwicklern alle Tools und Services bietet, die zum Erstellen sicherer und skalierbarer Apps für Adobe Commerce erforderlich sind. Entwickler können jetzt ihre Apps auf dem Adobe Commerce Marketplace veröffentlichen, der vertrauenswürdigen Quelle für Unternehmen, um hochwertige Apps zu entdecken und zu kaufen, die ihren Anforderungen entsprechen. Sie können Ihre App zur Überprüfung einreichen, indem Sie [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"} aufrufen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler mit einer App, die sie senden und im Adobe Commerce Marketplace veröffentlichen möchten
+* Entwickler, die eine App haben, die sie senden und auf dem Adobe Commerce Marketplace veröffentlichen möchten
 
 ## Videoinhalt
 
-* Einführung in die App-Übermittlung an die Commerce Marketplace
-* Der Übermittlungszyklus der App
+* Einführung in die App-Übermittlung auf dem Commerce Marketplace
+* Der Anwendungseinreichungszyklus
 * Technische und Marketing-Abschnitte der App-Übermittlung
 * Beispiel-E-Mail, die Sie erhalten, nachdem die App die Überprüfung bestanden hat.
 

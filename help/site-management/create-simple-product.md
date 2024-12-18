@@ -1,6 +1,6 @@
 ---
 title: Einfaches Produkt erstellen
-description: Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Commerce-Administrator erstellen.
+description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein einfaches Produkt erstellen können.
 kt: 14446
 doc-type: video
 audience: all
@@ -20,19 +20,19 @@ ht-degree: 0%
 
 # Einfaches Produkt erstellen
 
-Erfahren Sie, wie Sie ein einfaches Produkt mit der REST-API und dem Adobe Commerce-Administrator erstellen.
+Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein einfaches Produkt erstellen können.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
-- Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
+- E-Commerce-Merchandiser
+- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Produkt mit curl erstellen
+## Erstellen eines Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -50,7 +50,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Produkt mit curl abrufen
+## Abrufen eines Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
@@ -60,5 +60,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## Zusätzliche Ressourcen
 
-- [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

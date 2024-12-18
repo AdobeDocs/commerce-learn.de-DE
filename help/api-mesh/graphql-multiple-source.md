@@ -1,8 +1,8 @@
 ---
-title: Erstellen einer GraphQL mit mehreren Quellen zur Verwendung im API-Mesh
-description: Erfahren Sie, wie Sie mehrere Quellen für API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über einige häufige Fehler und wie Sie diese beheben können.
-landing-page-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
-short-description: Erfahren Sie, wie Sie API-Mesh in Adobe Commerce und  [!DNL Adobe App Builder] verwenden. Erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und einige häufige Fehler beheben können.
+title: Erstellen einer GraphQL mit mehreren Quellen zur Verwendung in API-Mesh
+description: Erfahren Sie, wie Sie mehrere Quellen für API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie mehr über einige häufige Fehler und deren Behebung.
+landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit mehreren Quellen erstellen und einige häufige Fehler beheben.
+short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit mehreren Quellen erstellen und einige häufige Fehler beheben.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -19,26 +19,26 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Netzwerks mit mehreren Quellen
+# Erstellen eines Netzes mit mehreren Quellen
 
-In diesem Video erfahren Entwickler, wie ein Gitter mit mehreren Quellen im API-Mesh für Adobe Developer App Builder erstellt wird. In diesem Video erfahren Sie, wie Sie ein Gitter mit mehreren Quellen erstellen und Fehler identifizieren. Weitere Informationen und Codebeispiele finden Sie unter [Ein Gitter erstellen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+In diesem Video erfahren Entwicklerinnen und Entwickler, wie sie ein Netz mit mehreren Quellen in API Mesh für Adobe Developer App Builder erstellen. In diesem Video erfahren Sie, wie Sie ein Netz mit mehreren Quellen erstellen und Fehler identifizieren. Weitere Informationen und Codebeispiele finden Sie unter [Erstellen eines Netzes](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Jeder, der neu für das API-Gitter ist
+* Alle, die neu bei API Mesh sind
 * Entwickler, die mehrere API- und GraphQL-Quellen kombinieren möchten
 
 ## Videoinhalt
 
-* Verwendung von [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} zum Ändern des Standardquellschemas
-* Beheben von Fehlern, wie Namenskonflikten, Schemaverfügbarkeit und andere Probleme mit der Schemasyntax
-* Aktualisieren Ihres Netzwerks mit einer geänderten Konfiguration
+* Verwendung von [Transformationen](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} zum Ändern des standardmäßigen Quellschemas
+* Fehlerbehebung bei Fehlern, z. B. Namenskonflikten, Schemaverfügbarkeit und anderen Problemen mit der Schemasyntax
+* Aktualisieren des Netzes mit einer geänderten Konfiguration
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
-## JSON-Konfigurationsdatei erstellen
+## Erstellen der JSON-Konfigurationsdatei
 
-API-Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält ein `sources` -Array, das die Quellen für Ihr Gitter enthält. Im Folgenden finden Sie ein Beispiel für ein Gitter mit mehreren Quellen.
+API Mesh verwendet eine JSON-Konfigurationsdatei, um Ihre Quell-Handler zu definieren. Die JSON-Datei enthält ein `sources`-Array, das die Quellen für Ihr Netz enthält. Im Folgenden finden Sie ein Beispiel für ein Netz mit mehreren Quellen.
 
 ```json
 {

@@ -1,6 +1,6 @@
 ---
 title: PWA Studio für Entwickler - Peregrine
-description: Erfahren Sie mehr über Peregrine, einschließlich der Peregrine-Bibliothek. Verstehen Sie die Motivation hinter Peregrine ​ die Unterschiede zwischen Peregrine Haken und Talonen.
+description: Erfahren Sie mehr über Peregrine, einschließlich der Peregrine-Bibliothek. Verstehen Sie die Motivation hinter Peregrine​ die Unterschiede zwischen Peregrine-Haken und Talonen.
 kt: 5649
 doc-type: video
 activity: use
@@ -24,9 +24,9 @@ In diesem Video:
 - Einführung in Peregrine
 - Die Peregrine-Bibliothek
 - Die Motivation hinter Peregrine verstehen
-- Zwischen Peregrine-Haken und Talonen unterscheiden
+- Zwischen Wanderhaken und Talonen unterscheiden
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager

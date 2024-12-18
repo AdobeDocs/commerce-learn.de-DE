@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen'
-description: Erfahren Sie mehr über Gebietsschemaeinstellungen, Informationen speichern, sichere und unsichere URLs, Website-Titel, Logo, Copyright-Informationen, E-Mail-Logos für Kommunikation, E-Mail-Adressen speichern, Währungsoptionen und Währungsraten.
+title: '[!DNL Commerce] für Business-Anwender - Store-Einstellungen'
+description: Erfahren Sie mehr über Gebietsschema-Einstellungen, Store-Informationen, sichere und unsichere URLs, Website-Titel, Logo, Copyright-Informationen, Kommunikations-E-Mail-Logos, Store-E-Mail-Adressen, Währungsoptionen und Währungskurse.
 kt: 5764
 doc-type: video
 activity: use
@@ -17,32 +17,32 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Store-Einstellungen
+# [!DNL Commerce] für Business-Anwender - Store-Einstellungen
 
 In diesem Video:
 
-- Gebietsschemaeinstellungen
-- Store-Informationen
+- Gebietsschema-Einstellungen
+- Informationen speichern
 - Sichere und unsichere URLs
-- Website-Titel, -Logo und Copyright-Informationen
-- E-Mail-Logos für Store-Kommunikation
-- E-Mail-Adressen speichern
-- Logos für Rechnungen, Sendungen und Kreditkarten
+- Website-Titel, Logo und Copyright-Informationen
+- E-Mail-Logos für Kommunikation speichern
+- Speichern von E-Mail-Adressen
+- Logos für Rechnungen, Sendungen und Gutschriften
 - Währungsoptionen
 - Währungskurse
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Store-Details - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Store-Details - [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

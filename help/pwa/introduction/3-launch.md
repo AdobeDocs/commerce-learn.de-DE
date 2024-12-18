@@ -1,6 +1,6 @@
 ---
-title: PWA Studio für Entwickler - Launch und Laden
-description: Erfahren Sie mehr über die erforderlichen Schritte vor dem Start Ihrer PWA-​, die Grundlinie für die ​ der Ladezeit und die Verbesserung der Leistung bei Konversionen.
+title: PWA Studio für Entwickler - Starten und Laden
+description: Erfahren Sie mehr über die erforderlichen Schritte vor dem Start Ihres PWA​, die Grundlinie für die Ladezeit ​ und wie die Leistung die Konversionen verbessert.
 kt: 5646
 doc-type: video
 activity: use
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio für Entwickler - Launch und Laden
+# PWA Studio für Entwickler - Starten und Laden
 
 In diesem Video:
 
-- Erforderliche Schritte zum Starten Ihrer PWA-&#x200B;
-- Grundlinie für &#x200B; der Ladezeit
-- So verbessert die Leistung Konversionen
+- Erforderliche Schritte zum Starten des PWA&#x200B;
+- Baseline für Ladezeit&#x200B;
+- Verbessern der Leistung bei Konversionen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager

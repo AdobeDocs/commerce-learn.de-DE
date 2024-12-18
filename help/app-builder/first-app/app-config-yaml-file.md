@@ -1,7 +1,7 @@
 ---
-title: Die Datei "app.config.yaml"
-description: Erfahren Sie mehr über die Dateitypen in der Datei "app.config.yaml"für diese Beispielanwendung.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen in der Datei "app.config.yaml"verwendet werden.
+title: Die Datei app.config.yaml
+description: Erfahren Sie mehr über die Dateitypen in der Datei app.config.yaml für diese Beispielanwendung.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen in app.config.yaml gespeichert werden.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 ---
 
-# Beschreibung und Verwendung der Datei &quot;app.config.yaml&quot; {#app-config-yaml}
+# Beschreibung und Verwendung der Datei app.config.yaml {#app-config-yaml}
 
-Diese Datei bestimmt die Konfiguration für die Anwendung.
+Diese Datei bestimmt die Konfiguration für das Programm.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und über die `app.config.yaml` in der Beispielanwendung verfügen.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und die `app.config.yaml` im Beispielprogramm kennenlernen.
 
 ## Videoinhalt
 
-* Die beschriebene `app.config.yaml`-Datei
-* Wie werden Definitionen mit anderen `.js`-Dateien verknüpft?
+* Die besprochene `app.config.yaml`
+* Verknüpfen von Definitionen mit anderen `.js`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
-## Codebeispiel
+## Code-Beispiel
 
 ```bash
 # Specify your secrets here
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Sie können sehen, dass diese statischen Werte im Beispielmodul in Datei `actions/commerce.index.js` verwendet werden.
+Sie können sehen, wie diese statischen Werte im Beispielmodul in der Datei `actions/commerce.index.js` verwendet werden
 
 ```javascript
         const oauth = getCommerceOauthClient(

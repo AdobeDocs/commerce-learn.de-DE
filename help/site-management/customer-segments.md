@@ -1,6 +1,6 @@
 ---
 title: Kundensegmente erstellen
-description: Erfahren Sie, wie Sie Inhalte und Promotions für bestimmte Kunden dynamisch anzeigen können, basierend auf Eigenschaften wie Kundenadresse, Bestellverlauf, Warenkorbinhalten.
+description: Erfahren Sie, wie Sie bestimmten Kundinnen und Kunden Inhalte und Promotions basierend auf Eigenschaften wie Kundenadresse, Bestellverlauf und Warenkorbinhalt dynamisch anzeigen können.
 kt: 10545
 doc-type: feature video
 audience: all
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-Kundensegmente ermöglichen es Ihnen, Inhalte und Promotions für bestimmte Kunden dynamisch anzuzeigen, basierend auf Eigenschaften wie Kundenadresse, Bestellverlauf, Warenkorbinhalten. Sie können Marketinginitiativen anhand von zielgerichteten Segmenten mit Warenkorbpreisregeln optimieren. Sie können auch Berichte erstellen und die Liste der Zielkunden exportieren.
+Kundensegmente ermöglichen es Ihnen, Inhalte und Promotions für bestimmte Kunden dynamisch anzuzeigen, basierend auf Eigenschaften wie Kundenadresse, Bestellverlauf, Inhalt des Warenkorbs. Sie können Marketing-Initiativen basierend auf zielgerichteten Segmenten mit Preisregeln für den Warenkorb optimieren. Sie können auch Berichte generieren und die Liste der Zielkunden exportieren.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Store-Administratoren
 - E-Commerce-Marketer
@@ -35,5 +35,5 @@ Kundensegmente ermöglichen es Ihnen, Inhalte und Promotions für bestimmte Kund
 
 ## Zusätzliche Ressourcen
 
-- [Kundensegmente - [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Kundensegmente in Preisregeln - [!DNL Commerce] Handbuch für die Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [Kundensegmente - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Kundensegmente in Preisregeln -  [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

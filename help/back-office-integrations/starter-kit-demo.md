@@ -1,7 +1,7 @@
 ---
-title: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Back-Office-Integrationen
-description: Erfahren Sie mehr über das Adobe Commerce Starter-Kit für Back-Office-Integrationen. Diese Videodemonstration zeigt, wie leistungsfähig und einfach eine Verbindung zu Back-Office-Integrationen mithilfe dieses Ansatzes ist.
-landing-page-description: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Back-Office-Integrationen
+title: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Backoffice-Integrationen
+description: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Backoffice-Integrationen. In diesem Video wird gezeigt, wie mithilfe dieses Ansatzes eine Verbindung zu Back-Office-Integrationen hergestellt werden kann.
+landing-page-description: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Backoffice-Integrationen
 kt: 15341
 doc-type: video
 audience: all
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 ---
 
-# Starter Kit-Demo für Back-Office-Integrationen
+# Starter Kit-Demo für Backoffice-Integrationen
 
-Erfahren Sie mehr über das Adobe Commerce Back Office Integration Starter Kit. Dieses Video-Tutorial zeigt den gesamten Prozess für diese Beispielintegration.
+Erfahren Sie mehr über das Starter Kit zur Adobe Commerce-Backoffice-Integration. Dieses Video-Tutorial zeigt den gesamten Prozess für diese Beispielintegration.
 
 ## Zielgruppe
 
-* Jeder, der dieses Konzept verstehen muss.
-* Commerce-Anwendungen, die ihre Adobe Commerce-Anwendung in ein Back-End-System integrieren müssen
+* Jeder muss dieses Konzept verstehen.
+* Commerce-Anwendungen, die ihre Adobe Commerce-Anwendung in ein Backend-System integrieren müssen
 
 ## Videoinhalt
 
-* Einrichten eines Projekts in Adobe Developer Console
+* Einrichten eines Projekts in der Adobe Developer Console
 * Verschiedene Arbeitsbereiche
-* API hinzufügen
+* Hinzufügen einer API
 * Authentifizierungstypen
-* Adobe I/O Runtime-Dienst
+* Adobe I/O Runtime-Service
 * E/A-Ereignisse konfigurieren
 * Herstellen einer Verbindung zu einem Drittanbieter zum Synchronisieren von Daten
 

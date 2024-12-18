@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Sites, Stores und Ansichten'
-description: Lernen Sie die Grundlagen der [!DNL Commerce] Architektur kennen, einschließlich der Unterschiede zwischen Websites, Geschäften, Store-Ansichten und Anwendungsbereichen. Verstehen Sie Indizierung und Zwischenspeicherung.
+title: '[!DNL Commerce] für Business-Anwender - Sites, Stores und Ansichten'
+description: Lernen Sie die Grundlagen der  [!DNL Commerce]  kennen, einschließlich der Unterschiede zwischen Websites, Stores, Store-Ansichten und Anwendungsbereichen. Grundlegendes zu Indizierung und Caching.
 kt: 5760
 doc-type: video
 activity: use
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Sites, Stores und Ansichten
+# [!DNL Commerce] für Business-Anwender - Sites, Stores und Ansichten
 
 In diesem Video:
 
-- Grundlagen der [!DNL Commerce]-Architektur, einschließlich der Unterschiede zwischen Websites, Geschäften und Store-Ansichten
+- Grundlagen der [!DNL Commerce]-Architektur, einschließlich der Unterschiede zwischen Websites, Stores und Store-Ansichten
 - Konzept der Anwendungsbereiche
-- Übersicht über die Indizierung und Zwischenspeicherung und deren Verarbeitung durch [!DNL Commerce]
+- Übersicht darüber, was Indizierung und Caching sind und wie [!DNL Commerce] damit umgeht
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Geschäftsbenutzer
 
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Websites, Stores und Ansichten - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Websites, Stores und Ansichten - [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Perimetereinstellungen - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Bereichseinstellungen- [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

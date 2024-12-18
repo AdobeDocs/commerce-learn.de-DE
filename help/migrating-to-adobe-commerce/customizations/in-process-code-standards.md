@@ -1,6 +1,6 @@
 ---
-title: In-Process PHP Codierungsstandards
-description: Überblick über die in der Verarbeitung verwendeten Kodierungsstandards für die Adobe Commerce-Migration, einschließlich PHP, JavaScript und Best Practices für Anpassungen.
+title: PHP-Kodierungsstandards im laufenden Prozess
+description: Überblick über prozessinterne Codierungsstandards für die Adobe Commerce-Migration, einschließlich PHP, JavaScript und Best Practices für Anpassungen.
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# Migration zu Adobe Commerce - In-Process-Codierungsstandards
+# Migration zu Adobe Commerce - Standards für die prozessinterne Kodierung
 
-Lernen Sie einige wichtige Kodierungsstandards und Best Practices für PHP, JavaScript und Anpassungen kennen. Unabhängig davon, ob Sie Entwickler oder ein Unternehmen sind, helfen Ihnen diese Tutorials bei der Navigation in die Komplexität der Migration zu Adobe Commerce und sorgen so für einen reibungslosen und erfolgreichen Übergang.
+Erfahren Sie mehr über die wichtigsten Programmierstandards und Best Practices für PHP, JavaScript und Anpassungen. Unabhängig davon, ob Sie Entwickler oder Unternehmen sind, hilft Ihnen diese Reihe von Tutorials, durch die Komplexität der Migration zu Adobe Commerce zu navigieren, um einen reibungslosen und erfolgreichen Übergang sicherzustellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler: Sie möchten ihre Kenntnisse in den Adobe Commerce-Migrations- und Kodierungsstandards verbessern.
+* Entwickler: Verbessern Sie ihre Kenntnisse in Adobe Commerce-Migrations- und -Kodierungsstandards.
 * Unternehmen, die eine Migration zu Adobe Commerce planen und nach Best Practices suchen.
 
 ## Videoinhalt {#video-content}
 
-* Lernen Sie Best Practices für PHP, JavaScript und Anpassungen kennen, um eine reibungslose Migration zu gewährleisten.
-* Erhalten Sie von Adobe-Experten Einblicke in Vorbereitung, Leistung und Sicherheit für erfolgreiche Adobe Commerce-Projekte.
+* Best Practices für PHP, JavaScript und Anpassungen, um eine reibungslose Migration zu gewährleisten.
+* Gewinnen Sie Erkenntnisse von Adobe-Experten zu Vorbereitung, Leistung und Sicherheit für erfolgreiche Adobe Commerce-Projekte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

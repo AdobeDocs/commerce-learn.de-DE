@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Live Search] für Empfehlungen'
-description: Erfahren Sie, wie Sie Ihrem Geschäft [!DNL Live Search] für Produktempfehlungen hinzufügen und hochinteressante, relevante und personalisierte Einkaufserlebnisse generieren können.
+description: Erfahren Sie, wie Sie  [!DNL Live Search]  Ihrem Geschäft Produktempfehlungen hinzufügen und hochinteressante, relevante und personalisierte Einkaufserlebnisse erzeugen können.
 doc-type: feature video
 audience: all
 activity: use
@@ -22,12 +22,12 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-[!DNL Live Search] aus Adobe Commerce bietet eine schnelle, superrelevante und intuitive Sucherfahrung für Adobe Commerce ohne zusätzliche Kosten. [!DNL Live Search] Mit Adobe Sensei werden künstliche Intelligenz und Algorithmen des maschinellen Lernens verwendet, um eine tiefgehende Analyse aggregierter Besucherdaten durchzuführen. Diese Daten führen in Kombination mit Ihrem Adobe Commerce-Katalog zu sehr ansprechenden, relevanten und personalisierten Einkaufserlebnissen. In diesem Video erfahren Sie, wie Sie mit der Live-Suche Produktempfehlungen optimieren können. Es war Teil einer laufenden Webinarreihe mit dem Titel &quot;Commerce Quick Wins&quot;.
+[!DNL Live Search] von Adobe Commerce bietet ein schnelles, extrem relevantes und intuitives Sucherlebnis für Adobe Commerce ohne zusätzliche Kosten. [!DNL Live Search] powered by Adobe Sensei verwendet Algorithmen für künstliche Intelligenz und maschinelles Lernen, um aggregierte Besucherdaten tief greifend zu analysieren. Diese Daten führen in Kombination mit Ihrem Adobe Commerce-Katalog zu ansprechenden, relevanten und personalisierten Einkaufserlebnissen. In diesem Video erfahren Sie, wie Sie die Live-Suche verwenden können, um Produktempfehlungen zu unterstützen, und es ist Teil der Webinar-Reihe &quot;Commerce Quick Wins“.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- Web-Händler
+- Web-Merchandiser
 
 ## Videoinhalt
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 ## Zusätzliche Ressourcen
 
 - [Einführung in [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search] overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [Einführung in die Produkt-Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [[!DNL Live Search] Übersicht](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Einführung in das Produkt Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

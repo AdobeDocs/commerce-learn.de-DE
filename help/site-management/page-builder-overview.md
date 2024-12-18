@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Page Builder] Übersicht'
-description: 'Erfahren Sie, wie Sie mit  [!DNL Page Builder] Seiten erstellen, die im Admin gespeichert werden. [!DNL Commerce] '
+title: '[!DNL Page Builder]'
+description: Erfahren Sie, wie Sie Seiten  [!DNL Commerce] Store-Seiten in Admin erstellen können mit [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 audience: all
@@ -18,25 +18,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Page Builder] Übersicht
+# [!DNL Page Builder]
 
-Mit [!DNL Page Builder] können Sie inhaltreiche Seiten mit benutzerdefinierten Layouts erstellen, die Ihr visuelles Geschichtenerzählen verbessern und die Kundeninteraktion und -loyalität steigern.
+[!DNL Page Builder] ist es einfach, inhaltsreiche Seiten mit benutzerdefinierten Layouts zu erstellen, die Ihr visuelles Storytelling verbessern und die Kundeninteraktion und -loyalität fördern.
 
-Ab Version 2.4.3 ist [!DNL Page Builder] standardmäßig in Adobe Commerce und Magento Open Source verfügbar. Mit [!DNL Page Builder] in Adobe Commerce können Sie Staging und Vorschau, personalisierte Inhalte und Produktempfehlungen mit zusätzlichen Funktionen integrieren.
+Ab Version 2.4.3 ist [!DNL Page Builder] standardmäßig sowohl in Adobe Commerce als auch in Magento Open Source verfügbar. Mit [!DNL Page Builder] in Adobe Commerce können Sie Staging- und Vorschaufunktionen, personalisierte Inhalte und Produktempfehlungen integrieren, wobei zusätzliche Funktionen hinzukommen.
 
 In diesem Video erfahren Sie, wie Sie:
 
-- Vorhandene Seite bearbeiten
-- Neue Seite bearbeiten
+- Bearbeiten einer vorhandenen Seite
+- Bearbeiten einer neuen Seite
 - Hinzufügen von Produkten zu einer vorhandenen Seite
-- Zeilen und Spalten hinzufügen und formatieren
-- Medien und Elemente zu Ihren Spalten und Zeilen hinzufügen
-- Regler hinzufügen und formatieren
+- Hinzufügen und Formatieren von Zeilen und Spalten
+- Hinzufügen von Medien und Elementen zu Spalten und Zeilen
+- Hinzufügen und Formatieren eines Schiebereglers
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Designer
-- Store-Merchandiser
+- Merchandiser-Store
 
 ## Videoinhalt
 
@@ -44,5 +44,5 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Zusätzliche Ressourcen
 
-- [Benutzerhandbuch für den Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
-- [Entwicklerhandbuch für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+- [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [Page Builder-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/)

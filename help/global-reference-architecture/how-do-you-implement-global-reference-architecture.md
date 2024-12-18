@@ -1,7 +1,7 @@
 ---
 title: Implementieren der globalen Referenzarchitektur
-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur implementieren. Erfahren Sie mehr über Ideen zur Verteilung Ihrer Websites, Erfolgsschlüssel und Rollen, die erforderlich sind, um sicherzustellen, dass Ihr Projekt mit der globalen Referenzarchitektur auf den richtigen Weg kommt.
-landing-page-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur mit Adobe Commerce implementieren
+description: Erfahren Sie, wie Sie eine globale Referenzarchitektur implementieren. Erfahren Sie, wie Sie Ihre Websites verteilen können, welche Schlüssel Sie für den Erfolg benötigen und welche Rollen Sie benötigen, um sicherzustellen, dass Ihr Projekt für eine globale Referenzarchitektur auf dem richtigen Weg beginnt.
+landing-page-description: Erfahren Sie, wie Sie mit Adobe Commerce eine globale Referenzarchitektur implementieren
 kt: 14042
 doc-type: video
 audience: all
@@ -20,23 +20,23 @@ ht-degree: 0%
 
 # Implementieren der globalen Referenzarchitektur
 
-Erfahren Sie, wie Sie die globale Referenzarchitektur (Global Reference Architecture, GRA) für kurze Zeit implementieren. Erfahren Sie mehr über frühe Entscheidungen, die bei der Einrichtung einer erfolgreichen GRA helfen. Gewinnen Sie Ideen, wie Sie Ihre Websites trennen, Schlüssel zum Erfolg und einige Konzepte für die strukturierte Entwicklung von Funktionen.
+Erfahren Sie, wie Sie die globale Referenzarchitektur (kurz GRA) implementieren. Erfahren Sie mehr über frühe Entscheidungen, die beim Einrichten einer erfolgreichen GA helfen. Erhalten Sie Ideen, wie Sie Ihre Websites trennen, Schlüssel zum Erfolg und einige Konzepte für die organisierte Entwicklung von Funktionen.
 
 ## Zielgruppe
 
-* Jeder, der dieses Konzept verstehen muss.
+* Jeder muss dieses Konzept verstehen.
 * Große Projekte mit mehreren Marken
 
 ## Videoinhalt
 
-* Frühere Entscheidungen sind von grundlegender Bedeutung für einen erfolgreichen GRA
-* Ideen zum Verteilen von Websites in einer GRA
-* Schlüssel für ein erfolgreiches Projekt mit einer globalen Referenzarchitektur
-* Namenskonventionen
-* Auswählen der richtigen Marke oder Website für die grundlegenden Funktionen
+* Frühzeitige Entscheidungen sind für ein erfolgreiches GRA von entscheidender Bedeutung
+* Ideen für die Verteilung von Websites in einem GRA
+* Schlüssel für ein erfolgreiches Projekt der globalen Referenzarchitektur
+* Benennungskonventionen
+* Auswahl der richtigen Marke oder Website für die grundlegenden Funktionen
 * Schlüsselrollen und Zuständigkeiten
-* Global Control Board - welche Funktionen
-* Alternatives Konzept für die Verwendung von GRA als Modul-Marketplace
+* Globales Control Board - welche Funktionen zu bearbeiten sind
+* Alternativkonzept für die Verwendung von GRA als Modul-Marketplace
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 

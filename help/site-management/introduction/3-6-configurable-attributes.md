@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Konfigurierbare Attribute'
+title: '[!DNL Commerce] für Business-Anwender - Konfigurierbare Attribute'
 description: Erfahren Sie, wie Sie konfigurierbare Produktattribute einrichten.
 kt: 5772
 doc-type: video
@@ -17,26 +17,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Konfigurierbare Attribute
+# [!DNL Commerce] für Business-Anwender - Konfigurierbare Attribute
 
 In diesem Video:
 
 - Konfigurierbare Produktattribute
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Konfigurierbares Produkt - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
+[Konfigurierbares Produkt -  [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
 
-[Attributsätze - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

@@ -1,8 +1,8 @@
 ---
-title: Funktionelle Demonstration von App Builder
-description: Erfahren Sie mehr über Adobe Developer App Builder in Adobe Commerce mit einer technischen Demonstration.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder in Adobe Commerce mit einer technischen Demonstration.
-short-description: Erfahren Sie mehr über Adobe Developer App Builder in Adobe Commerce mit einer technischen Demonstration.
+title: Funktionsdemonstration von App Builder
+description: Mit einer technischen Demonstration erfahren Sie mehr über die Verwendung von Adobe Developer App Builder in Adobe Commerce
+landing-page-description: Mit einer technischen Demonstration erfahren Sie mehr über die Verwendung von Adobe Developer App Builder in Adobe Commerce
+short-description: Mit einer technischen Demonstration erfahren Sie mehr über die Verwendung von Adobe Developer App Builder in Adobe Commerce
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Funktionelle Demonstration für App Builder
+# Funktionsdemonstration für App Builder
 
-Weitere Informationen zur Verwendung von Adobe Commerce mit App Builder finden Sie im folgenden Video, in dem gezeigt wird, wie Adobe Commerce mit Amazon Seller Central verbunden wird. In dieser Demonstration werden Ereignisse aus Adobe Commerce verwendet, die von App Builder genutzt werden, um eine kontinuierliche Integration mit Amazon Marketplace zu ermöglichen. In dieser Funktionsdemonstration wird beschrieben, wie diese Integration funktioniert und das Potenzial von Adobe App Builder untersucht.
+Weitere Informationen zur Verwendung von Adobe Commerce mit App Builder finden Sie im folgenden Video, das die Verbindung von Adobe Commerce mit Amazon Seller Central zeigt. In dieser Demonstration werden Ereignisse aus Adobe Commerce verwendet, die von App Builder genutzt werden, um eine kontinuierliche Integration mit dem Amazon Marketplace zu ermöglichen. Diese funktionale Demonstration beschreibt, wie diese Integration funktioniert und untersucht das Potenzial von Adobe App Builder.
 
 ## App Builder für Adobe Commerce {#app-builder-functional-demonstration}
 

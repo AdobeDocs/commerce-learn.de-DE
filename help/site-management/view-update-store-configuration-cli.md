@@ -1,6 +1,6 @@
 ---
-title: Anzeigen und Festlegen von Admin-Konfigurationen mithilfe der Befehlszeile
-description: Erfahren Sie, wie Sie Admin-Konfigurationen über die Befehlszeile anzeigen und festlegen.
+title: Anzeigen und Festlegen von Admin-Konfigurationen über die Befehlszeile
+description: Erfahren Sie, wie Sie Admin-Konfigurationen über die Befehlszeile anzeigen und festlegen können.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Anzeigen und Festlegen von Admin-Konfigurationen mithilfe der Befehlszeile
+# Anzeigen und Festlegen von Admin-Konfigurationen über die Befehlszeile
 
-Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten mit der Commerce-CLI. Erfahren Sie, wo die Werte gespeichert werden und wo die Standardwerte herkommen.
+Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten mit der Commerce-CLI. Verstehen, wo die Werte gespeichert werden und wo die Standardwerte herkommen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Adobe Commerce-Entwickler
 
@@ -31,15 +31,15 @@ Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten m
 
 ## Einige im Tutorial verwendete Befehle
 
-Ändern Sie die Kennwortsicherheitseinstellung in &quot;Empfohlen&quot;:
+Ändern Sie die Sicherheitseinstellung des Kennworts in Empfohlen:
 
 `$ php bin/magento config:set admin/security/password_is_forced 0`
 
-Anzeigen der E-Mail-Adresse für die Funktion zum automatischen Kopieren von Verkaufsbestellungen
+E-Mail-Adresse für die Funktion zum automatischen Kopieren von Kundenaufträgen anzeigen
 
 `$ php bin/magento config:show sales_email/order/copy_to`
 
-Leeres Ergebnis für eine Konfiguration anzeigen, die einen Wert in admin hat
+Leeres Ergebnis für eine Konfiguration anzeigen, die einen Wert in Admin hat
 
 `php bin/magento config:show trans_email/ident_sales/email`
 
@@ -53,14 +53,14 @@ SELECT * FROM core_config_data WHERE path = 'sales_email/order_comment/copy_to';
 SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 ```
 
-## Auffinden der standardmäßigen Verkaufs-E-Mail
+## Wo finde ich die Standard-Verkaufs-E-Mail?
 
-Wie finde ich den Konfigurationswert, der irgendwo in der Codebase definiert ist?
+Wie finde ich den Konfigurationswert, der irgendwo in der Code-Basis definiert ist?
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-So zeigen Sie eine Seite im Terminal an und zeigen die Zeilennummern an `cat -n vendor/magento/module-email/etc/config.xml`
+So zeigen Sie eine Seite im Terminal und Zeilennummern `cat -n vendor/magento/module-email/etc/config.xml` an
 
 ## Zusätzliche Ressourcen
 
-- [Befehlszeilenwerkzeug](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Konfigurieren der Administrator-Sicherheit](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Befehlszeilen-Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

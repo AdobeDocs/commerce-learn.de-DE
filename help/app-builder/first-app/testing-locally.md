@@ -1,5 +1,5 @@
 ---
-title: Lokales Testen
+title: Lokale Tests
 description: Erfahren Sie, wie Sie Ihre erste Adobe Developer App Builder-App testen.
 landing-page-description: Erfahren Sie, wie Sie Ihre erste Adobe Developer App Builder-App testen.
 kt: 12427
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 ---
 
-# Lokales Testen {#testing-locally}
+# Lokale Tests {#testing-locally}
 
-Erfahren Sie, wie Sie Ihre neue Adobe Developer App Builder-Anwendung lokal testen können.
+Erfahren Sie, wie Sie Ihr neues Adobe Developer App Builder-Programm lokal testen können.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu bei Adobe Commerce sind und über eingeschränkte Erfahrung mit Adobe App Builder verfügen und bereit sind, ihre erste Adobe Developer App Builder-App zu testen.
+* Entwicklerinnen und Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, sind bereit, ihre erste Adobe Developer App Builder-App zu testen.
 
 ## Videoinhalt
 
-* Verschiedene Teststufen
-* Unit-Tests
+* Unterschiedliche Teststufen
+* Komponententests
 * E2E-Test
 * Manueller Test
 

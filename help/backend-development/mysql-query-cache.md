@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie, wie mysql query caching
-description: Manchmal werden mysql-Abfragen gesichert, bis sie auf ein Schloss warten. In diesem Tutorial werden das Zwischenspeichern von Abfragen und einige Empfehlungen für Einstellungen bei Problemen erläutert.
+title: Erfahren Sie, wie Sie MySQL-Abfragen zwischenspeichern
+description: Manchmal werden MySQL-Abfragen gesichert, während auf eine Sperre gewartet wird. In diesem Tutorial wird erläutert, was das Abfrage-Caching ist und einige Empfehlungen für Einstellungen, wenn Probleme auftreten.
 kt: 13690
 doc-type: video
 activity: use
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über die Zwischenspeicherung von mysql-Abfragen
+# Informationen zum Caching von MySQL-Abfragen
 
-Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren Sie, wie Sie ein Problem mit dem Zwischenspeichern von mysql-Abfragen erkennen können, indem Sie &quot;Warten auf Abfrage-Cache-Sperre&quot;finden, das in einem hohen Volumen in den langsamen mysql-Abfrageprotokollen angezeigt wird.
+Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren Sie, wie Sie ein Problem mit dem Caching von MySQL-Abfragen erkennen können, indem Sie feststellen, dass „Warten auf eine Abfrage-Cache-Sperre“ in einem hohen Volumen in den langsamen MySQL-Abfrageprotokollen angezeigt wird.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Architekten
 - Entwickler
@@ -29,10 +29,10 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 
 ## Videoinhalt
 
-- Erfahren Sie mehr über die Abfrage-Zwischenspeicherung
-- Ermitteln, ob Ihre Abfrage-Cache-Einstellungen ein Problem darstellen können, indem Sie &quot;Warten auf Abfrage-Cache-Sperre&quot;finden
-- Erfahren Sie, wie Sie SQL speichern und verwenden, um einen übereinstimmenden Abfrage-Cache zu finden.
-- Tipps zu Konfigurationseinstellungen
+- Informationen zum Caching von Abfragen
+- So erkennen Sie, ob Ihre Abfrage-Cache-Einstellungen ein Problem darstellen können, indem Sie nach „Warten auf die Abfrage-Cache-Sperre“ suchen
+- Erfahren Sie, wie die SQL gespeichert und zum Suchen eines übereinstimmenden Abfrage-Caches verwendet wird
+- Einige Tipps zu Konfigurationseinstellungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 

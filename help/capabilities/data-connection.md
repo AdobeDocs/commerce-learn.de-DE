@@ -1,6 +1,6 @@
 ---
-title: Vollständige Datenverbindung
-description: Vollständige Demonstration der Funktionen von Adobe Commerce Data Connection
+title: Vollständige Demonstration zur Datenverbindung
+description: Sehen Sie sich eine umfassende Demonstration der Funktionen von Adobe Commerce Data Connection an
 kt: 14364
 doc-type: tutorial
 audience: all
@@ -17,22 +17,22 @@ ht-degree: 0%
 
 ---
 
-# Vollständige Demonstration der Adobe Commerce-Datenverbindung
+# Vollständige Demonstration zur Adobe Commerce-Datenverbindung
 
 Eine vollständige Demonstration der Adobe Commerce-Datenverbindung.
 
-## Was erwartet Sie mit diesem Video?
+## Was Sie von diesem Video erwarten können
 
-Erfahren Sie, wie Sie die Adobe Commerce-Datenverbindung zusammen mit einigen grundlegenden Konfigurationen und Einstellungen verwenden können. Diese Demonstration zeigt, wie Sie mit Adobe Commerce und der Verbindung anderer Adobe-Dienste eine vollständige 360-Grad-Ansicht eines Kunden erzielen können.
+Erfahren Sie, wie Sie Adobe Commerce Data Connection zusammen mit einigen grundlegenden Konfigurationen und Einstellungen verwenden. Diese Demonstration zeigt, wie sich mit Adobe Commerce und der Verbindung anderer Adobe-Services eine vollständige 360-Grad-Sicht auf einen Kunden erzielen lässt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler und Store-Eigentümer, die neu bei Adobe Commerce sind oder mehr über die skalierte Personalisierung mit Adobe Data Connection erfahren möchten.
+* Entwickler und Store-Besitzer, die noch nicht mit Adobe Commerce oder vertraut sind und mehr über skalierbare Personalisierung mithilfe von Adobe Data Connection erfahren möchten.
 
 ## Videoinhalt
 
-* Senden von Verhaltensdaten von Adobe Commerce an andere DX-Produkte (z. B. AJO, Analytics, Target, Real-Time CDP) zur Segmententscheidung, Profilanreicherung und personalisierten Erlebnissen auf der gesamten Journey.
-* Real-Time CDP-Zielgruppen, die die Segmentierung in Echtzeit aktualisieren und ändern, basierend auf Browserdaten, Server-seitigen Daten (einschließlich Auftragsverlauf) und Daten aus anderen Quellen (d. h. Treuedaten).
-* Verwendung von Real-Time CDP-Zielgruppen zur Personalisierung von Warenkorbpreisregeln und dynamischen Bausteinen in Adobe Commerce.
+* Senden von Verhaltensdaten von Adobe Commerce an andere DX-Produkte (z. B. AJO, Analytics, Target, Real-Time CDP) für Segmententscheidung, Profilanreicherung und personalisierte Erlebnisse über den Kunden-Journey hinweg.
+* Real-Time CDP-Zielgruppen, die die Segmentierung in Echtzeit aktualisieren und ändern, basierend auf Browser-Daten, Server-seitigen Daten (einschließlich Auftragsverlauf) und Daten aus anderen Quellen (z. B. Treuedaten).
+* Verwenden von Real-Time CDP-Zielgruppen zur Personalisierung der Preisregeln für Warenkörbe und der dynamischen Bausteine in Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)

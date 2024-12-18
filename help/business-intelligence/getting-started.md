@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Adobe Commerce Intelligence
-description: Erfahren Sie mehr über Adobe Commerce Intelligence, Benennungskonventionen, Datenintegration, anfängliche Dashboard-Einrichtung, Datenquellen, Data Warehouse, Reporting und Benutzerverwaltung.
+description: Erfahren Sie mehr über Adobe Commerce Intelligence, Namenskonventionen, Datenintegration, die anfängliche Einrichtung von Dashboards, Datenquellen, Data Warehousing, Reporting und Benutzerverwaltung.
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Erste Schritte mit Adobe Commerce Intelligence
 
-Erfahren Sie mehr über Adobe Commerce Intelligence. Dieses Tutorial bietet einen Überblick über das Tool, einige Namenskonventionen, die Sie kennen sollten, und die ersten Schritte zur Einrichtung. Adobe Commerce Intelligence besteht aus drei Teilen: Datenquellen, Data Warehouse und Reporting. &#x200B;Bei den Datenquellen handelt es sich normalerweise um die Adobe Commerce-Website und deren Datenbank. &#x200B;Die Data Warehouse ist der Ort, an dem die Berichtsabfragen ausgeführt werden, anstatt direkt in der Datenbank der Website. &#x200B;Erfahren Sie mehr über &#x200B; wichtigsten Funktionen von Adobe Commerce Intelligence wie Dashboards, Metriken und Berichte und erhalten Sie Informationen zum Zugriff auf die Dokumentation, zum Erstellen von Support-Tickets und zum Verwalten von Benutzerberechtigungen.
+Informationen zu Adobe Commerce Intelligence. Dieses Tutorial bietet einen Überblick über das Tool, einige Benennungskonventionen, die Sie beachten sollten, und die ersten Schritte zur Einrichtung. Adobe Commerce Intelligence besteht aus drei Teilen: Datenquellen, Data Warehousing und Reporting. &#x200B;Die Datenquellen sind normalerweise die Adobe Commerce-Website und ihre Datenbank. &#x200B;Auf der Data Warehouse werden die Berichtsabfragen ausgeführt und nicht direkt in der Datenbank der Website. &#x200B;Erfahren Sie mehr über &#x200B; wichtigsten Adobe Commerce Intelligence-Funktionen wie Dashboards, Metriken und Berichte und erhalten Sie Informationen zum Zugriff auf die Dokumentation, zum Erstellen von Support-Tickets und zum Verwalten von Benutzerberechtigungen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 - Datenanalysten
 
 ## Einführung in Adobe Commerce Intelligence

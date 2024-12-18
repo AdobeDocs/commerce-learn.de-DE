@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - E-Mail-Kommunikation'
-description: Kommunizieren Sie mit Ihren Kunden mithilfe von Transaktions-E-Mails, die durch ihre Aktionen auf der Storefront ausgelöst werden. Passen Sie die E-Mail-Vorlagen für Ihren Store an und konfigurieren Sie sie.
+title: '[!DNL Commerce] für Business-Anwender - E-Mail-Kommunikation'
+description: Kommunizieren Sie mit Ihren Kunden mithilfe von Transaktions-E-Mails, die durch ihre Aktionen in der Storefront ausgelöst werden. Passen Sie die E-Mail-Vorlagen für Ihren Store an und konfigurieren Sie sie.
 kt: 5780
 doc-type: video
 activity: use
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - E-Mail-Kommunikation
+# [!DNL Commerce] für Business-Anwender - E-Mail-Kommunikation
 
 In diesem Video:
 
-- Ausgelöste Transaktions-E-Mail
+- Ausgelöste Transaktions-E-Mails
 - Transaktions-E-Mail-Vorlagen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[E-Mail-Vorlagen - [!DNL Commerce] Administratorsystemhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[E-Mail-Vorlagen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variablen und Kundenkommunikation - [!DNL Commerce] Administratorsystemhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variablen und Kundenkommunikation - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

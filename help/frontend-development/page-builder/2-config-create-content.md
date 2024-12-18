@@ -1,6 +1,6 @@
 ---
 title: Page Builder für Entwickler - Konfiguration und Inhaltsanpassung
-description: Konfigurieren und Einrichten von Page Builder-​. Machen Sie sich mit der ​ des Seitenaufbaus vertraut. Verstehen und verwenden Sie Inhaltstypen - Layout, Elemente, Medien und andere ​. Fügen Sie Kataloginhalte mit Page Builder hinzu.
+description: Konfigurieren und Einrichten von Page Builder​. Grundlegendes zum Arbeitsbereich von Page Builder​. Inhaltstypen - Layout, Elemente, Medien und andere Inhalte - verstehen und ​. Hinzufügen von Kataloginhalten mit Page Builder.
 kt: 5651
 doc-type: video
 activity: use
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 In diesem Video:
 
-- Seitenaufbau konfigurieren und einrichten &#x200B;
-- Grundlegendes zum Seitenaufbau-Arbeitsbereich &#x200B;
-- Typen von Inhalten - Layout, Elemente, Medien und andere &#x200B;
+- Konfigurieren und Einrichten von Page Builder&#x200B;
+- Grundlegendes zum Arbeitsbereich von Page Builder&#x200B;
+- Inhaltstypen - Layout, Elemente, Medien und andere Inhalte - verstehen und verwenden&#x200B;
 - Hinzufügen von Kataloginhalten mit Page Builder
-- Übersicht über die Anpassung des Inhaltstyps
+- Überblick über die Anpassung von Inhaltstypen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Inhaltsersteller
 - Frontend-Entwickler
@@ -35,12 +35,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

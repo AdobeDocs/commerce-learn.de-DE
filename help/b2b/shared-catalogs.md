@@ -1,6 +1,6 @@
 ---
 title: Verwalten freigegebener Kataloge
-description: Erfahren Sie, wie Sie mit freigegebenen B2B-Katalogen geordnete Kataloge verwalten können, um geordnete Kataloge mit benutzerdefinierten Preisen für verschiedene Unternehmen zu verwalten.
+description: Erfahren Sie, wie Sie mit freigegebenen B2B-Katalogen Kataloge mit benutzerdefinierten Preisen für verschiedene Unternehmen verwalten können.
 doc-type: feature video
 audience: all
 activity: use
@@ -19,16 +19,16 @@ ht-degree: 0%
 
 # Verwalten freigegebener Kataloge
 
-B2B für Adobe Commerce bietet Ihnen die Möglichkeit, gespeicherte freigegebene Kataloge mit benutzerdefinierten Preisen für verschiedene Unternehmen zu verwalten. Zusätzlich zum standardmäßigen Primärproduktkatalog bietet es Kunden Zugriff auf zwei Arten freigegebener Kataloge mit unterschiedlichen Preisstrukturen.
+B2B für Adobe Commerce bietet Ihnen die Möglichkeit, freigegebene Gated-Kataloge mit benutzerdefinierten Preisen für verschiedene Unternehmen zu verwalten. Zusätzlich zum standardmäßigen primären Produktkatalog bietet sie dem Kunden Zugriff auf zwei Arten von freigegebenen Katalogen mit unterschiedlichen Preisstrukturen.
 
-Wenn die Funktion &quot;Freigegebener Katalog&quot;in der Konfiguration aktiviert ist, bleibt der ursprüngliche Hauptkatalog vom Administrator sichtbar, aber nur der öffentliche Standardkatalog (Allgemein) ist im Storefront sichtbar. Darüber hinaus können benutzerdefinierte Kataloge erstellt werden, die nur für Mitglieder bestimmter Unternehmenskonten sichtbar sind.
+Wenn die Funktion „Freigegebener Katalog“ in der Konfiguration aktiviert ist, bleibt der ursprüngliche primäre Katalog im Admin-Bereich sichtbar, aber nur der standardmäßige (allgemeine) öffentliche freigegebene Katalog ist in der Storefront sichtbar. Darüber hinaus können benutzerdefinierte Kataloge erstellt werden, die nur für Mitglieder bestimmter Unternehmenskonten sichtbar sind.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 

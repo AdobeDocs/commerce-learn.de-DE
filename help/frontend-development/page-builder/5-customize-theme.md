@@ -1,6 +1,6 @@
 ---
-title: Seitenaufbau für Entwickler - Designanpassung
-description: Erfahren Sie, wie Sie das Design des Seitenaufbaus anpassen.
+title: Page Builder für Entwickler - Design-Anpassung
+description: Erfahren Sie, wie Sie das Page Builder-Design anpassen.
 kt: 5654
 doc-type: video
 activity: use
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ---
 
-# Seitenaufbau für Entwickler - Designanpassung
+# Page Builder für Entwickler - Design-Anpassung
 
 In diesem Video:
 
-- Anpassen des Designs des Seitenaufbaus
+- Anpassen des Page Builder-Designs
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Inhaltsersteller
 - Frontend-Entwickler
@@ -31,12 +31,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Version 1.0.0 von Page Builder für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen zum Seitenaufbau](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
 ## Nützliche Ressourcen
 
-[Entwicklerdokumentation für den Seitenaufbau](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Seitenaufbau-Anleitung](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

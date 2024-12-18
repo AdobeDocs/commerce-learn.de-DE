@@ -1,7 +1,7 @@
 ---
 title: Schlussfolgerung
-description: Erfahren Sie, wohin Sie weitere Informationen zu App Builder finden.
-landing-page-description: Erfahren Sie, wohin Sie weitere Informationen zu App Builder finden.
+description: Erfahren Sie, wo Sie weitere Informationen zu App Builder erhalten.
+landing-page-description: Erfahren Sie, wo Sie weitere Informationen zu App Builder erhalten.
 kt: 12428
 doc-type: tutorial
 audience: all
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Schlussfolgerung {#conclusion}
 
-Nachdem Sie Ihre erste Adobe Developer App Builder-App erstellt haben, erfahren Sie mehr über andere Ressourcen, die Adobe bereitstellt.
+Nachdem Sie nun Ihre erste Adobe Developer App Builder-App erstellt haben, erfahren Sie mehr über die anderen Ressourcen, die Adobe bereitstellt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die ihre erste Adobe Developer App Builder-App abgeschlossen haben und bereit sind, mehr zu erfahren.
+* Entwicklerinnen und Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, haben ihre erste Adobe Developer App Builder-App abgeschlossen und sind bereit, mehr zu erfahren.
 
 ## Videoinhalt
 
 * Zusätzliche Ressourcen
 * Methoden zum Herstellen einer Verbindung zu anderen Entwicklern
-* Kommentare schließen
+* Abschließende Kommentare
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
 
@@ -38,7 +38,7 @@ Nachdem Sie Ihre erste Adobe Developer App Builder-App erstellt haben, erfahren 
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder-Testversion](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer App Builder docs](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Adobe Developer App Builder-Dokumente](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
 * [Adobe Developer App Builder-Foren](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
 * [Adobe Developer App Builder-Beitragsrichtlinien](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 

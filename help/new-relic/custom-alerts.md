@@ -1,6 +1,6 @@
 ---
-title: Benutzerdefinierte New Relic-Warnhinweise erstellen
-description: Erfahren Sie, wie Sie benutzerdefinierte New Relic-Warnhinweise erstellen, Schwellenwerte festlegen und Benachrichtigungen konfigurieren, um Ihre Daten effektiv zu überwachen. Ideal zur Optimierung der Site-Leistung.
+title: Erstellen benutzerdefinierter New Relic-Warnhinweise
+description: Erfahren Sie, wie Sie benutzerdefinierte New Relic-Warnhinweise erstellen, Schwellenwerte festlegen und Benachrichtigungen konfigurieren können, um Ihre Daten effektiv zu überwachen. Perfekt für die Optimierung der Site-Performance.
 feature: Tools and External Services, Security
 topic: Security
 role: Developer
@@ -17,20 +17,20 @@ ht-degree: 0%
 
 ---
 
-# Benutzerdefinierte New Relic-Warnhinweise erstellen
+# Erstellen benutzerdefinierter New Relic-Warnhinweise
 
 Erfahren Sie, wie Sie in New Relic benutzerdefinierte Warnhinweise erstellen, um den Website-Traffic zu überwachen und Schwellenwerte für Warnhinweise festzulegen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwicklungstools
-* Site-Zuverlässigkeitsingenieure
-* IT Operations Manager und Sicherheits-Monitoring-Teams
+* DevOps-Techniker
+* Site Reliability Engineers
+* IT Operations Manager und Sicherheits-Überwachungsteams
 
 ## Videoinhalt
 
-* Erstellen Sie benutzerdefinierte New Relic-Warnhinweise, indem Sie über Diagrammoptionen oder den Abfrageeditor auf die Warnhinweisoberfläche zugreifen.
-* So können Schwellenwerte für Warnhinweise basierend auf der Datenaggregation festgelegt werden.
-* Konfigurieren Sie Warnhinweise mit Prioritätsstufen und weisen Sie sie vorhandenen Richtlinien zu, um Benachrichtigungs-Workflows und -Ziele zu steuern.
+* Erstellen Sie benutzerdefinierte New Relic-Warnhinweise, indem Sie über Diagrammoptionen oder den Abfrage-Editor auf die Warnhinweisoberfläche zugreifen.
+* Verstehen, wie Schwellenwerte für Warnhinweise basierend auf der Datenaggregation festgelegt werden können.
+* Konfigurieren Sie Warnhinweise mit Schweregraden und weisen Sie sie bestehenden Richtlinien zu, um Benachrichtigungs-Workflows und Ziele zu steuern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

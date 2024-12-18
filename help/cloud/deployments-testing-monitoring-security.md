@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud-Bereitstellungsstrategien, -tests, -überwachung und -sicherheit
-description: Erfahren Sie mehr über die Adobe Commerce Cloud-Implementierungsstrategien, Tests, Überwachung und Sicherheit.
+title: Adobe Commerce Cloud-Bereitstellungsstrategien, Tests, Überwachung und Sicherheit
+description: Erfahren Sie mehr über die Adobe Commerce Cloud-Bereitstellungsstrategien, Tests, Überwachung und Sicherheit.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -18,28 +18,27 @@ ht-degree: 0%
 
 ---
 
-# Technisches Onboarding - Implementierungen, Tests, Überwachung und Sicherheit
+# Technisches Onboarding - Bereitstellung, Tests, Überwachung und Sicherheit
 
-Erfahren Sie mehr über die Adobe Commerce Cloud-Implementierungsstrategien, Best Practices für Tests, Monitoring- und Sicherheitstools.
+Erfahren Sie mehr über Adobe Commerce Cloud-Bereitstellungsstrategien, Best Practices für Tests, Überwachung und Sicherheits-Tools.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
 - Commerce-Architekten
-- Eigentümer der E-Commerce-Website
+- Inhaber der E-Commerce-Website
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
 
-## Im Video erwähnte Experience League-Dokumentation
+## Experience League-Dokumentation, die im Video erwähnt wird
 
 - [Bereitstellungsprozess](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [SWAT Site-WAN Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [ECE-Tools-Smart-Assistent](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Sicherheitsscan](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+- [SWAT Site-Wide Analysis Tool](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [ECE-Tools - intelligenter Assistent](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+- [Sicherheitsüberprüfung](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
 - [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [Übersicht über den New Relic-Dienst](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Übersicht über den New Relic-Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
-

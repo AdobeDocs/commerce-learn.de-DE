@@ -1,6 +1,6 @@
 ---
 title: PWA Studio für Entwickler - Projekteinrichtung
-description: Beginnen Sie mit einem neuen PWA Studio-Projekt, einschließlich der Generierung eines lokalen SSL-Zertifikats und der Build Pack-CLI-Befehle.
+description: Beginnen Sie mit einem neuen PWA Studio-Projekt, einschließlich der Generierung eines lokalen SSL-Zertifikats, und den Build Pack-CLI-Befehlen.
 kt: 5648
 doc-type: video
 activity: use
@@ -22,11 +22,11 @@ ht-degree: 0%
 In diesem Video:
 
 - Erste Schritte mit PWA Studio
-- Erste Projekteinrichtung
-- Generieren eines lokalen SSL-Zertifikats
+- Erstmaliges Projekt einrichten
+- Lokales SSL-Zertifikat generieren
 - [!DNL Buildpack] CLI-Befehle
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 - Projektmanager

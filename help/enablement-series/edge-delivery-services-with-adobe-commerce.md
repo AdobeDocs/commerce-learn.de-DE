@@ -1,6 +1,6 @@
 ---
 title: Edge-Bereitstellungsdienste
-description: Erfahren Sie mehr über Adobe Edge-Bereitstellungsdienste, ihre Auswirkungen auf Projektangebote, Entwicklungskosten, SEO, ADA und das Potenzial für personalisierte Erlebnisse.
+description: Erfahren Sie mehr über Adobe Edge Delivery Services, deren Auswirkungen auf Projektgebote, Entwicklungskosten, SEO, ADA und das Potenzial für personalisierte Erlebnisse.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -19,26 +19,26 @@ ht-degree: 1%
 
 # Edge Delivery Services mit Adobe Commerce
 
-In diesem Webinar werden die Bedeutung von Edge Delivery Services in Adobe Commerce-Implementierungen und die Auswirkungen dieser Tests auf verschiedene Aspekte der Website-Performance und des Benutzererlebnisses untersucht. Er hebt die Integration von Inhalten und Commerce-Produkten mit Edge Delivery Services hervor, um Konversionsraten, die Ladegeschwindigkeit von Sites und die SEO-Performance zu verbessern. Das Webinar enthält auch Einblicke von Branchenexperten, die über die Vorteile von Edge Delivery Services sprechen, wie z. B. verbesserte Leistung, Zugänglichkeit und SEO-Ranglisten. Der Adobe-Partner BlueAcorn ICI teilt auch seine Erfahrungen bei der erfolgreichen Migration von Websites zu Edge Delivery Services und die positiven Auswirkungen auf Konversionsraten und Benutzererlebnisse mit.
+In diesem Webinar werden die Bedeutung von Edge Delivery Services bei Adobe Commerce-Implementierungen und deren Auswirkungen auf verschiedene Aspekte der Website-Performance und des Benutzererlebnisses untersucht. Es hebt die Integration von Content- und Commerce-Produkten mit Edge Delivery Services hervor, um Konversionsraten, Site-Ladegeschwindigkeit und SEO-Leistung zu verbessern. Das Webinar enthält auch Einblicke von Branchenexperten, die über die Vorteile von Edge Delivery Services diskutieren, wie z. B. verbesserte Leistung, Barrierefreiheit und SEO-Rankings. Der Adobe-Partner, BlueAcorn ICI, teilt auch seine Erfahrungen bei der erfolgreichen Migration von Websites zu Edge Delivery Services und die positiven Auswirkungen auf Konversionsraten und Anwendererlebnisse.
 
-Darüber hinaus wird im Webinar die Flexibilität und Innovation erörtert, die Edge Delivery Services bei der Lösungsentwicklung und Projektgeboten einbringen. Sie ermöglicht es Unternehmen, generischere Entwicklungsarbeit zu nutzen und sich auf API-Oberflächen zu konzentrieren und so die Lücke zwischen Plattformen auf Unternehmensebene wie AEM und Adobe Commerce zu schließen. Das Webinar betont auch, wie wichtig es ist, stets auf dem neuesten Stand zu bleiben und verfügbare Ressourcen zu nutzen, um die Vorteile für Kunden zu maximieren. Insgesamt wird in dem Artikel das transformative Potenzial von Edge Delivery Services zur Verbesserung der Website-Leistung, des Benutzererlebnisses und des Unternehmenserfolgs im Adobe Commerce-Ökosystem hervorgehoben.
+Darüber hinaus wird im Webinar die Flexibilität und Innovationskraft erörtert, die Edge Delivery Services für die Lösungsentwicklung und die Projektausschreibung benötigen. Es ermöglicht Unternehmen, die Entwicklungsarbeit allgemeiner zu nutzen und sich auf API-Oberflächen zu konzentrieren, wodurch die Lücke zwischen Plattformen im Unternehmensmaßstab wie AEM und Adobe Commerce geschlossen wird. Im Webinar wird auch betont, wie wichtig es ist, mit den Edge Delivery Services auf dem Laufenden zu bleiben und die verfügbaren Ressourcen zu nutzen, um den Nutzen für die Kunden zu maximieren. Insgesamt hebt der Artikel das Transformationspotenzial von Edge Delivery Services bei der Verbesserung der Website-Performance, des Benutzererlebnisses und des allgemeinen Geschäftserfolgs im Adobe Commerce-Ökosystem hervor
 
 ## Zielgruppe
 
-* Entwicklungsteams, Manager, Lead-Entwickler, technische Architekten
-* Teams, die Adobe Commerce als Upgrade, Migration oder neues Commerce-Angebot implementieren
+* Entwicklungsteams, Manager, leitende Entwickler, technische Architekten
+* Teams, die Adobe Commerce als Upgrade-, Migrations- oder neues Commerce-Angebot implementieren
 
 ## Videoinhalt
 
-* Die Diskussion über die Investment-Adobe wird in Edge Delivery Services und deren Bedeutung in Inhalts- und Commerce-Integrationen geführt.
-* Auswirkungen der Edge Delivery Services auf den Angebotsprozess, wodurch ein flexiblerer und infrastrukturfreier Ansatz bei der Lösungsgestaltung ermöglicht wird.
-* Einblicke aus den Erfahrungen von Blue Acorn ICI mit Edge Delivery Services und den positiven Auswirkungen auf Entwicklungsprozesse und Kundenprojekte.
-* Vorteile von Edge Delivery Services wie verbesserte Leistung, SEO-Ranglisten und Barrierefreiheit.
-* Erfahren Sie mehr über die Verfügbarkeit von Ressourcen und den Support durch das Adobe VIP Programm.
-* Diskussion über Inhaltsversionierung und -genehmigungen in Doc-basierten Authoring-Tools wie Google Docs und Microsoft® Word SharePoint.
+* Diskussion über die Investition von Adobe in Edge Delivery Services und ihre Bedeutung für Content- und Commerce-Integrationen.
+* Auswirkungen von Edge Delivery Services auf den Bieterprozess, wodurch ein flexiblerer und infrastrukturfreier Ansatz für den Lösungsentwurf ermöglicht wird.
+* Einblicke aus den Erfahrungen von Blue Acorn ICI mit Edge Delivery Services und die positiven Auswirkungen auf Entwicklungsprozesse und Kundenprojekte.
+* Vorteile von Edge Delivery Services wie verbesserte Leistung, SEO-Rankings und Barrierefreiheit.
+* Erfahren Sie mehr über die Verfügbarkeit von Ressourcen und Support über das VIP-Programm der Adobe.
+* Erörterung der Inhaltsversionierung und -genehmigungen in dokumentbasierten Authoring-Tools wie Google Docs und Microsoft® Word SharePoint.
 * Nutzung von Adobe Workfront-Lösungen für Inhaltsvalidierungs-Workflows.
 * Integrationen zwischen SharePoint, Drive und Workfront für die Dokumentenverwaltung und Aufgabenzuweisung.
-* Die Möglichkeit, Dokumente zu kommentieren, Versionsverläufe anzuzeigen und frühere Versionen direkt in Google-Dokumenten zu veröffentlichen.
+* Die Möglichkeit, Dokumente zu kommentieren, Revisionsverläufe anzuzeigen und frühere Versionen direkt in Google-Dokumenten zu veröffentlichen.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429059?learn=on)

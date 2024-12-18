@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Attributsätze'
+title: '[!DNL Commerce] für Business-Anwender - Attributsätze'
 description: Erfahren Sie mehr über Produktattributsätze und deren Verwendung in Ihrem Katalog.
 kt: 5770
 doc-type: video
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Attributsätze
+# [!DNL Commerce] für Business-Anwender - Attributsätze
 
 In diesem Video:
 
 - Attributsätze
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Attributsätze - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

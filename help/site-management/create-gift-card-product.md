@@ -1,6 +1,6 @@
 ---
-title: Geschenkkartenprodukt erstellen
-description: Erfahren Sie, wie Sie mit der REST-API und dem Commerce Admin ein Geschenkkartenprodukt erstellen.
+title: Erstellen eines Geschenkkartenprodukts
+description: Erfahren Sie, wie Sie mit der REST-API und der Commerce-Administratorin bzw. dem-Administrator ein Geschenkkartenprodukt erstellen.
 kt: 14587
 doc-type: video
 audience: all
@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ---
 
-# Geschenkkartenprodukt erstellen
+# Erstellen eines Geschenkkartenprodukts
 
-Erfahren Sie, wie Sie mit der REST-API und dem Adobe Commerce Admin ein Geschenkkartenprodukt erstellen.
+Erfahren Sie, wie Sie mit der REST-API und der Adobe Commerce-Administratorin bzw. dem-Administrator ein Geschenkkartenprodukt erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
-- Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
+- E-Commerce-Merchandiser
+- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
-## Erstellen einer Geschenkkarte mit einer einfachen Payload
+## Geschenkkarte mit einfacher Payload erstellen
 
-Das folgende Anfragebeispiel zeigt die Payload, um eine Geschenkkarte wie die im Video angezeigte zu erstellen. Diese kleinere Payload setzt die Standardeinstellungen für eine Untergruppe der verfügbaren Attribute außer Kraft. Die verbleibenden Attribute, die nicht in der Payload enthalten sind, bleiben auf die Standardwerte eingestellt.
+Das folgende Anfragebeispiel zeigt die Payload zum Erstellen einer Geschenkkarte wie im Video gezeigt. Diese kleinere Payload überschreibt die Standardeinstellungen für eine Teilmenge der verfügbaren Attribute. Die übrigen Attribute, die nicht in der Payload enthalten sind, bleiben auf die Standardwerte eingestellt.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -143,9 +143,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Erstellen einer Geschenkkarte mit voller Payload
+## Geschenkkarte mit voller Payload erstellen
 
-Das folgende Beispiel zeigt die Anfrage zur POST, eine Geschenkkarte mit voller Payload zu erstellen. Die Payload enthält alle Attribute, die beim Erstellen einer Geschenkkarte konfiguriert werden können. Wenn Sie dieses Codebeispiel verwenden, passen Sie die Konfiguration an, indem Sie die Standardwerte für jedes Attribut nach Bedarf aktualisieren, bevor Sie die Anfrage senden.
+Das folgende Beispiel zeigt die POST-Anfrage zum Erstellen einer Geschenkkarte mit voller Payload. Die Payload enthält alle Attribute, die beim Erstellen einer Geschenkkarte konfiguriert werden können. Wenn Sie dieses Codebeispiel verwenden, passen Sie die Konfiguration an, indem Sie die Standardwerte für jedes Attribut nach Bedarf aktualisieren, bevor Sie die Anfrage senden.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen eines Geschenkkartenprodukts vom Commerce-Administrator](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
-- [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Erstellen Sie ein Geschenkkartenprodukt über den Commerce-Administrator](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

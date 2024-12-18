@@ -1,8 +1,8 @@
 ---
-title: Store Fulfillment - Übersicht
-description: Erfahren Sie mehr über die Store Fulfillment für Adobe Commerce von Walmart Commerce Technologies, einer fortschrittlichen Omnichannel-Fulfillment-Lösung, die das Ende des Kaufs online, der Abholung von In-Store (BOPIS)-Erlebnisses ermöglicht.
-landing-page-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden den Komfort bietet, mit der sie in der Stores- und Zwischenspeicher-Abholung und -Speicherung Mitarbeiter effizienter und mobilfähiger machen, um Abruf-, Staging- und Übergabe-Store-Abholaufträge an Kunden zu tätigen.
-short-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden den Komfort bietet, mit der sie in der Stores- und Zwischenspeicher-Abholung und -Speicherung Mitarbeiter effizienter und mobilfähiger machen, um Abruf-, Staging- und Übergabe-Store-Abholaufträge an Kunden zu tätigen.
+title: Store-Erfüllung - Übersicht
+description: Erfahren Sie mehr über Store Fulfillment für Adobe Commerce von Walmart Commerce Technologies, eine fortschrittliche Omnichannel-Fulfillment-Lösung, die Ihnen ein durchgängiges Online-Kauferlebnis und eine Abholung im Geschäft (BOPIS) bietet.
+landing-page-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden die Bequemlichkeit der Abholung und Abholung von Mitarbeitern im Geschäft und am Rande des Geschäfts bietet, damit sie effizientere, für Mobilgeräte geeignete Fulfillment-Workflows nutzen können, um Abholaufträge zu sammeln, zu testen und an Kunden abzugeben.
+short-description: Sehen Sie sich dieses Video an, um zu erfahren, wie die Store Fulfillment-Lösung Kunden die Bequemlichkeit der Abholung und Abholung von Mitarbeitern im Geschäft und am Rande des Geschäfts bietet, damit sie effizientere, für Mobilgeräte geeignete Fulfillment-Workflows nutzen können, um Abholaufträge zu sammeln, zu testen und an Kunden abzugeben.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -20,33 +20,33 @@ ht-degree: 0%
 
 ---
 
-# Store Fulfillment - Übersicht
+# Store-Erfüllung - Übersicht
 
-Store Fulfillment for Adobe Commerce by Walmart Commerce Technologies bietet ein fortschrittliches Online-Kauferlebnis, bei dem Kunden in der Filiale (BOPIS) gewinnen können. Sie maximiert die Produktivität von Store-Mitarbeitern, indem sie einen nahtlosen End-to-End-Arbeitsablauf für die Omnichannel-Erfüllung bereitstellt, der über ein mobiles Gerät aktiviert wird.
+Store Fulfillment für Adobe Commerce von Walmart Commerce Technologies bietet ein fortschrittliches Online- und Pick-up-Kundenerlebnis im Geschäft (BOPIS). Es maximiert die Produktivität der Store-Mitarbeiter, indem es einen nahtlosen, durchgängigen Omni-Channel-Fulfillment-Workflow bereitstellt, der über ein mobiles Gerät aktiviert wird.
 
-In diesem Video erhalten Sie einen schnellen Überblick über das End-to-End-BOPIS-Erlebnis &quot;Store Fulfillment&quot;mit In-Store- und Cursor-seitigen Pickup-Optionen.
+Dieses Video bietet einen schnellen Überblick über die End-to-End-BOPIS-Erlebnisse für die Store-Erfüllung mit In-Store- und Curbside-Abholoptionen.
 
-- Sehen Sie zu, wie ein Kunde eine Store-Abholbestellung sendet:
-   - Durchsuchen Sie den Online-Storefront-Katalog.
-   - Wählen Sie Elemente für die In-Store-Erfassung aus.
-   - Suchen und wählen Sie einen Speicherort mit dem verfügbaren Lager aus.
-   - Checken Sie die Optionen zur Speicherbereinigung aus und passen Sie sie an.
-   - Platzieren Sie die Bestellung.
-- Sehen Sie sich einen Store-Mitarbeiter und -Kunden an, wie er mithilfe der mit der Store Fulfillment-Lösung verfügbaren mobilen App den Prozess zur durchgehenden Auftragsbearbeitung durchläuft.
+- Kunden beim Senden einer Shop-Abholbestellung beobachten:
+   - Durchsuchen Sie den Online-StoreFront-Katalog.
+   - Wählen Sie Artikel für die Abholung im Geschäft aus.
+   - Suchen Sie einen Store-Standort mit verfügbarem Lager und wählen Sie ihn aus.
+   - Checken Sie die Abholoptionen für den Store aus und passen Sie sie an.
+   - Bestellung aufgeben.
+- Sehen Sie, wie ein Mitarbeiter eines Geschäfts und ein Kunde den gesamten Prozess der Bestellabwicklung durchlaufen, indem Sie die Mobile App verwenden, die mit der Store Fulfillment-Lösung verfügbar ist.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - E-Commerce-Manager
-- Vorgangs-Manager und -Administratoren speichern
+- Speicherbetriebsleiter und Administratoren
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version der Store Fulfillment-Lösung 1.0 wider, die auf einer Storefront mit Adobe Commerce 2.4 installiert ist. Aktuelle Informationen finden Sie im [Benutzerhandbuch zur Store-Erfüllung](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) .
+>Der Inhalt im Video spiegelt die Version Store Fulfillment Solution 1.0 wider, die in einer Storefront mit Adobe Commerce 2.4 installiert ist. Die [ Informationen finden Sie ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) „Store Fulfillment-Benutzerhandbuch“.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Benutzerhandbuch zur Store-Erfüllung](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Benutzerhandbuch für Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

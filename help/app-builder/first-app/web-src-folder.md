@@ -1,7 +1,7 @@
 ---
 title: Der Ordner web-src
-description: Erfahren Sie mehr über die Dateitypen im Ordner web-src sowie die verschachtelten Dateien und Ordner für diese Beispielanwendung.
-landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen sich im Ordner web-src befinden.
+description: Erfahren Sie mehr über die Dateitypen im Ordner „web-src“ und die verschachtelten Dateien und Ordner für diese Beispielanwendung.
+landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen sich im Ordner „web-src“ befinden.
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 ---
 
-# Den Zweck des Ordners web-src ermitteln {#web-src-folder}
+# Den Zweck des Ordners „web-src“ erkennen {#web-src-folder}
 
-Der Ordner web-src für diese Beispielanwendung enthält viele JavaScript-Dateien und -Ordner. Dieser Ordner wird für Anwendungen mit einer Benutzeroberfläche verwendet. Nicht alle Anwendungen verwenden diese Funktion. Beispielsweise erfordert eine Commerce-Integration mit einem externen Bestandsverwaltungssystem möglicherweise keine Frontend-Oberfläche und keinen Code.
+Der Ordner „web-src“ für diese Beispielanwendung enthält viele JavaScript-Dateien und -Ordner. Dieser Ordner wird für Programme mit einer Benutzeroberfläche verwendet. Nicht alle Anwendungen verwenden diese Funktion. Beispielsweise erfordert eine Commerce-Integration mit einem externen Bestandsverwaltungssystem möglicherweise keine Frontend-Oberfläche und keinen Frontend-Code.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und die sich mit dem Ordner &quot;`web-src`&quot;und dessen Inhalten vertraut machen.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und mehr über den `web-src` und dessen Inhalte erfahren.
 
 ## Videoinhalt
 
-* Was ist der Hauptzweck für den Ordner &quot;`web-src`&quot;?
-* In der Regel enthaltene Dateien und Ordner
-* Verwendung des Ordners `web-src` und des Inhalts in der Beispielanwendung
+* Was ist der Hauptzweck des `web-src` Ordners?
+* Normalerweise eingeschlossene Dateien und Ordner
+* Verwendung des `web-src` Ordners und der darin enthaltenen Inhalte im Beispielprogramm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
-## Codebeispiele
+## Code-Beispiele
 
 web-src/src/components/Orders.js
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Im folgenden Beispiel ist das Codebeispiel `not`, das die Anfrage begrenzt. Um einen 400-Fehler zu vermeiden, reduzieren Sie die Größe der Antwort mit `searchCriteria`.
+Im folgenden Beispiel beschränkt das Codebeispiel `not` die Anfrage. Um einen 400-Fehler zu vermeiden, reduzieren Sie die Größe der Antwort mithilfe von `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

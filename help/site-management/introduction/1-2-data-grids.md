@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] für Geschäftsbenutzer - Datenraster"
-description: Erfahren Sie, wie Sie mit Datenrastern in der [!DNL Commerce Admin] arbeiten.
+title: '[!DNL Commerce] für Business-Anwender - Datenraster'
+description: Erfahren Sie, wie Sie in  [!DNL Commerce Admin] mit Datenrastern arbeiten.
 kt: 5759
 doc-type: video
 activity: use
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Datenraster
+# [!DNL Commerce] für Business-Anwender - Datenraster
 
 In diesem Video:
 
-- Arbeiten mit Datengittern im [!DNL Commerce Admin]
+- Arbeiten mit Datenrastern in der [!DNL Commerce Admin]
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Admin-Rastersteuerelemente - [!DNL Commerce] Erste Schritte-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Admin-Rastersteuerelemente - [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

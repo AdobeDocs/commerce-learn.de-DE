@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Intelligence-Integrationsberichte und Dashboards
-description: Erfahren Sie mehr über Adobe Commerce Intelligence-Berichte und Dashboard-Verwaltung
+title: Adobe Commerce Intelligence Integrations-Berichte und -Dashboards
+description: Erfahren Sie mehr über Adobe Commerce Intelligence-Berichte und die Dashboard-Verwaltung
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 # Berichte und Dashboards
 
-Erfahren Sie mehr über die verschiedenen ReportBuilder-Optionen und wie Sie die Originalberichte lesen und verstehen können. Erfahren Sie, wie Sie Dashboards verwalten, filtern und warum Sie Duplikate erstellen sollten, anstatt das Original zu ändern.
+Erfahren Sie mehr über die verschiedenen Report Builder-Optionen und darüber, wie Sie die ursprünglichen Berichte lesen und verstehen können. Erfahren Sie, wie Sie Dashboards verwalten und filtern und warum Sie Duplikate erstellen sollten, anstatt das Original zu ändern.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 - Datenanalysten
 
-## Adobe Commerce Intelligence-Berichte und Dashboards
+## Adobe Commerce Intelligence-Berichte und -Dashboards
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)

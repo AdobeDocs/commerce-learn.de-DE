@@ -1,6 +1,6 @@
 ---
 title: Produktattribute erstellen
-description: Erfahren Sie, wie Sie die Produktattribute erstellen, die verwendet werden, um die Informationen zu Produkten, Kunden und Produktbewertungen zu verwalten.
+description: Erfahren Sie, wie Sie Produktattribute erstellen, mit denen die mit Produkten, Kunden und Produktbewertungen verknüpften Informationen verwaltet werden.
 kt: 10552
 doc-type: feature video
 audience: all
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Produktattribute erstellen
 
-Adobe Commerce verwendet Attribute, um die Informationen zu Produkten, Kunden und Produktbewertungen zu verwalten. Attribute sind Informationen, die als Felder in Formularen, Berichten, Produktüberprüfungen, mehrschichtiger Navigation und E-Mail-Nachrichten angezeigt werden können. Sie sind die Bausteine Ihres Produktkatalogs und beschreiben spezifische Eigenschaften eines Produkts.
+Adobe Commerce verwendet Attribute, um die mit Produkten, Kunden und Produktbewertungen verknüpften Informationen zu verwalten. Attribute sind Informationen, die als Felder in Formularen, Berichten, Produktbewertungen, mehrschichtiger Navigation und E-Mail-Nachrichten angezeigt werden können. Sie sind die Bausteine Ihres Produktkatalogs und beschreiben spezifische Eigenschaften eines Produkts.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 
@@ -33,6 +33,6 @@ Adobe Commerce verwendet Attribute, um die Informationen zu Produkten, Kunden un
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über Produktattribute - [!DNL Commerce] Leitfaden zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Übersicht über Produktattribute - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[Attributsätze - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

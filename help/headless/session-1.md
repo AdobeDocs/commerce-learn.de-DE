@@ -1,6 +1,6 @@
 ---
-title: Headless-Architecture-Sitzung 1
-description: Erfahren Sie, was Headless-Architektur, Composable Commerce und personalisierte Erlebnisse sind.
+title: 'Headless-Architektur: Sitzung 1'
+description: Erfahren Sie mehr über Headless-Architektur, zusammensetzbaren Commerce und personalisierte Erlebnisse
 kt: 13144
 doc-type: tutorial
 audience: all
@@ -19,23 +19,23 @@ ht-degree: 0%
 
 # Adobe Commerce Headless-Architektur
 
-Allgemeine Übersicht über die Geschichte von Adobe Commerce und darüber, wie sich die Dinge in Richtung einer umfassenden Unterstützung bewegen.  Zu den Vorteilen der Headless-Architektur zählen Parität über Touchpoints hinweg, Trennung von Entwicklungsaktivitäten, verbesserte Skalierbarkeit und vieles mehr.
+Allgemeine Übersicht über den Verlauf von Adobe Commerce und darüber, wie die Dinge zur vollständigen Unterstützung von Headless voranschreiten.  Zu den Vorteilen der Headless-Architektur gehören Parität über Touchpoints hinweg, Trennung von Entwicklungsaktivitäten, verbesserte Skalierbarkeit und vieles mehr.
 
-## Was erwartet Sie mit diesem Video?
+## Was Sie von diesem Video erwarten können
 
-Erfahren Sie, was Headless ist und wie Adobe Commerce vollständig Headless-Architektur unterstützt.
+Erfahren Sie, was Headless ist und wie Adobe Commerce die Headless-Architektur vollständig unterstützt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-* Entwickler und Store-Eigentümer, die neu in Adobe Commerce sind und mehr über Headless-Architektur und einige grundlegende Strategien erfahren möchten.
+* Entwickler und Store-Besitzer, die neu bei Adobe Commerce sind und mehr über die Headless-Architektur und einige grundlegende Strategien erfahren möchten.
 
 ## Videoinhalt
 
-* Entkoppeltes Frontend vom Backend
-* Was ist eine API
+* Frontend vom Backend entkoppelt
+* Was ist eine API?
 * Mehrere Headless-Ansätze
-* Erläuterung des kombinierbaren Handels
-* Adobe Commerce ist zuerst API, aber nicht nur API
-* Vor der Verwendung des Headless Commerce zu berücksichtigende Qualifikationen
+* Erklärung des zusammensetzbaren Handels
+* Adobe Commerce ist API First, aber nicht nur API
+* Zu berücksichtigende Qualifikationen vor dem Einsatz von Headless-Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Verwalten der Media Gallery
-description: Erfahren Sie, wie Sie mit der neuen erweiterten Media Gallery Mediendateien auf dem Server organisieren und verwalten können.
+title: Verwalten der Mediensammlung
+description: Erfahren Sie, wie Sie mit der neuen erweiterten Mediensammlung Mediendateien auf dem Server organisieren und verwalten können.
 doc-type: feature video
 audience: all
 activity: use
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Verwalten der Media Gallery
+# Verwalten der Mediensammlung
 
-Mit Adobe Commerce oder Magento Open Source 2.4 können Händler ihre Mediendateien auf dem Server mithilfe der neuen erweiterten Media Gallery organisieren und verwalten.
+Mit Adobe Commerce oder Magento Open Source 2.4 können Händler die neue erweiterte Mediensammlung verwenden, um ihre Mediendateien auf dem Server zu organisieren und zu verwalten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 
 ## Videoinhalt
 
@@ -32,5 +32,5 @@ Mit Adobe Commerce oder Magento Open Source 2.4 können Händler ihre Mediendate
 
 ## Zusätzliche Ressourcen
 
-- [Die Mediengalerie - [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Alternativer Medienspeicher - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [Alternative Medienspeicherung - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

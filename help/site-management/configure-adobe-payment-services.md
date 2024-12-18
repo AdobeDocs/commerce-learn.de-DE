@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce-Zahlungsdienste konfigurieren
-description: Erfahren Sie, wie Sie Adobe Commerce-Zahlungsdienste konfigurieren.
+title: Konfigurieren von Adobe Commerce Payment Services
+description: Erfahren Sie, wie Sie Adobe Commerce Payment Services konfigurieren.
 doc-type: video
 kt: 14748
 audience: all
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Zahlungsdienste für Adobe Commerce konfigurieren
+# Konfigurieren von Zahlungs-Services für Adobe Commerce
 
-Um mit der Verwendung von Zahlungsdiensten für Adobe Commerce und Magento Open Source beginnen zu können, müssen Sie einige Onboarding-Schritte ausführen. Beispiele für die ersten Schritte finden Sie im Video _Zahlungsdienste für Adobe Commerce konfigurieren_ .
+Um mit den Zahlungs-Services für Adobe Commerce und Magento Open Source zu beginnen, müssen Sie einige Onboarding-Schritte ausführen. Adobe Commerce Sehen Sie sich _Video „Konfigurieren von Zahlungs-Services für_&quot; an, um Beispiele für die ersten Schritte zu erhalten.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Betriebsingenieure
-- E-Commerce-Manager und -Kontaktstellen
+- E-Commerce-Manager und Ansprechpartner
 
 ## Videoinhalt
 
@@ -33,6 +33,6 @@ Um mit der Verwendung von Zahlungsdiensten für Adobe Commerce und Magento Open 
 
 ## Zusätzliche Ressourcen
 
-- [Onboard Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Handbuch für Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Onboarding-Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

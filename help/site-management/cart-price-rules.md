@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Preisregel für Warenkorb
+title: Erstellen einer Warenkorb-Preisregel
 description: Erfahren Sie, wie Sie Regeln für den Warenkorbpreis erstellen, die Rabatte im Warenkorb auf der Grundlage einer Reihe von Bedingungen anwenden.
 doc-type: feature video
 audience: all
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer Preisregel für Warenkorb
+# Erstellen einer Warenkorb-Preisregel
 
-Preisregeln für Warenkorb gelten für Artikel im Warenkorb, die auf einer Reihe von Bedingungen basieren. Der Rabatt kann automatisch angewendet werden, wenn die Bedingungen erfüllt sind oder wenn der Kunde einen gültigen Gutscheincode eingibt. Wenn der Rabatt angewendet wird, wird er im Warenkorb unter der Zwischensumme angezeigt. Eine Warenkorbpreisregel kann bei Bedarf für eine Saison oder eine Promotion verwendet werden, indem ihr Status und ihr Datumsbereich geändert werden.
+Die Regeln für den Warenkorbpreis wenden Rabatte auf Artikel im Warenkorb an, die auf einer Reihe von Bedingungen basieren. Der Rabatt kann automatisch angewendet werden, wenn die Bedingungen erfüllt sind oder wenn der Kunde einen gültigen Gutscheincode eingibt. Wenn angewendet, wird der Rabatt im Warenkorb unter der Zwischensumme angezeigt. Eine Warenkorb-Preisregel kann bei Bedarf für eine Saison oder Promotion verwendet werden, indem ihr Status und ihr Datumsbereich geändert werden.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - E-Commerce-Marketer
 - Website-Manager
@@ -30,94 +30,94 @@ Preisregeln für Warenkorb gelten für Artikel im Warenkorb, die auf einer Reihe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
 
-## Preisanzeigeprobleme
+## Probleme mit der Preisanzeige
 
-Es gibt einige einzigartige Szenarien, in denen jedes Zeilenelement seinen Rabatt anzeigen muss, aber die Werte stimmen möglicherweise nicht genau überein. Der Grund dafür ist, dass ein Rabatt für Warenkorbpreise auf mehrere Produkte angewendet wird, die Werte jedoch nicht gleichmäßig in zwei Dezimalstellen unterteilt werden.
+Es gibt einige eindeutige Szenarien, in denen jeder Zeileneintrag seinen Rabatt anzeigen muss, aber die Werte stimmen möglicherweise nicht genau überein. Der Grund dafür ist, dass ein Rabatt aufgrund einer Warenkorbpreisregel auf mehrere Produkte angewendet wird, die Werte sich jedoch nicht gleichmäßig auf zwei Dezimalstellen teilen.
 
 >[!BEGINSHADEBOX]
 
-Warenkorbpreisregel = 10 % Rabatt auf 2 Produkte im Warenkorb
-Bedingung, dass die Preisregel wirksam wird: Die Summe der Artikel im Warenkorb beträgt 2
-Aktionen wenden den Prozentsatz des Produktpreisrabatts an und dieser Rabatt beträgt 10
+Warenkorb-Preisregel = 10 % Rabatt auf 2 Produkte im Warenkorb
+Bedingung für das Inkrafttreten der Preisregel: Die Gesamtzahl der Artikel im Warenkorb ist 2.
+Aktionen wenden den Rabatt in Prozent des Produktpreises an und dieser Rabattbetrag ist 10
 
-2 Artikel werden dem Warenkorb hinzugefügt, jeder Artikel kostet $19,95
+2 Artikel werden zum Warenkorb hinzugefügt, jeder kostet $19.95
 
-Um den Rabattbetrag zu erhalten, multiplizieren Sie den Produktpreis mit 0,1.
+Um den Rabattbetrag zu erhalten, multiplizieren Sie den Produktpreis mit 0,1
 
-19.95 x 0.1 = 1.995
+19,95 x 0,1 = 1,995
 
-Das ist das Problem, wir haben 3 Dezimalstellen anstelle von zwei. Die Umwandlung in Dollar ist jetzt ein Problem
+Dies ist das Problem, wir haben 3 Dezimalstellen statt zwei. Dies in Dollar zu konvertieren ist jetzt ein Problem
 
 >[!ENDSHADEBOX]
 
 ### Die Lösung
 
-Wenn wir an den Website-Eigentümer denken, der die einzige Person ist, die von diesem Problem betroffen ist, wurde festgestellt, dass die Anzeige jedes bestellten Artikels mit dem in Dollar bereitgestellten Rabatt am besten geeignet war. Um sicherzustellen, dass der gesamte berechnete Bestellbetrag ordnungsgemäß berechnet wurde, wurde beschlossen, das erste Element zu gruppieren und die anderen die dritte Dezimalstelle abzugeben. Überprüfen Sie dieses Szenario:
+Wenn man an den Besitzer der Website denkt, der die einzige Person ist, die von diesem Problem betroffen ist, wurde festgestellt, dass die Anzeige jedes bestellten Artikels mit dem Rabatt in Dollar am besten geeignet war. Um sicherzustellen, dass der gesamte Bestellbetrag ordnungsgemäß berechnet wurde, wurde beschlossen, den ersten Posten aufzurunden und die anderen die dritte Dezimalstelle abzulegen. Dieses Szenario überprüfen:
 
 >[!BEGINSHADEBOX]
 
-Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
-Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
+Derselbe Rabatt von 10 % wie über der gültigen Warenkorbregel
+Fügen Sie 2 Produkte zu Warenkorb, die 19.95 sind
 
-Für jedes Produkt sollten Rabatte im Wert von 1.995 USD gewährt werden.
-Produkt 1 - 19.95 x 0.1 = 1.995
-2 - 19.95 x 0.1 = 1.995
+Jedes Produkt sollte 1.995 US-Dollar Rabatt erhalten
+Produkt 1 - 19,95 x 0,1 = 1,995
+2 - 19,95 x 0,1 = 1,995
 
-Als Rabatt wird dem Kunden eine Gesamtsumme von 3,99 gewährt
+Ein Gesamtbetrag von 3,99 wird dem Kunden als Rabatt zur Verfügung gestellt
 
-Beim Anzeigen der Zeileneinträge für den Store-Eigentümer in der Admin-Konsole
-Wir müssen das erste Element anpassen und es auf 2.000 aufrunden. Das zweite Element legen wir die dritte Dezimalstelle ab.
+Beim Anzeigen der Zeileneinträge für den Geschäftsinhaber im Admin-Bereich
+Der erste Eintrag muss angepasst und auf 2.000 aufgerundet werden. Beim zweiten Eintrag wird die dritte Dezimalstelle abgelegt
 Produkt 1 = 2,00
 Produkt 2 = 1,99
 
-Der Gesamtrabatt der beiden Produkte entspricht nun, wenn sie zusammengerechnet werden, dem tatsächlichen Rabatt, der einem Kunden gewährt wird.
+Der jetzt summierte Gesamtrabatt der beiden Produkte entspricht dem tatsächlichen Rabatt, der einem Kunden gewährt wurde.
 >[!ENDSHADEBOX]
 
-Im Folgenden finden Sie einen Screenshot, der im Administrator für eine Bestellung mit diesem Szenario angezeigt wird:
+Im Folgenden finden Sie einen Screenshot, der in der Administrationsoberfläche für eine Bestellung mit diesem Szenario angezeigt würde:
 
-![Admin-Ansicht mit geordneten Elementen mit unterschiedlichen Werten](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Admin-Ansicht mit bestellten Artikeln mit unterschiedlichen Werten](../assets/commerce-admin-cart-price-rule-values-different.png)
 
-### Andere mögliche Lösungen und Grund für ihre Nichtverwendung
+### Andere mögliche Lösungen und warum sie nicht verwendet wurden
 
 >[!BEGINSHADEBOX]
 
-Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
-Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
+Derselbe Rabatt von 10 % wie über der gültigen Warenkorbregel
+Fügen Sie 2 Produkte zu Warenkorb, die 19.95 sind
 
-Für jedes Produkt sollten Rabatte in Höhe von 1.995 USD gewährt werden.
-aber wenn wir sie einfach aufrunden, wird zu viel Rabatt angezeigt.
+Jedes Produkt sollte 1.995 USD Rabatt erhalten,
+Aber wenn wir sie aufrunden, gibt es zu viele Rabatte.
 
-Produkt 1 - 19.95 x 0.1 = 1.995
-Produkt 2 - 19.95 x 0.1 = 1.995
+Produkt 1 - 19,95 x 0,1 = 1,995
+Produkt 2 - 19,95 x 0,1 = 1,995
 
-Konvertieren in Aufrundung aller Elemente
-Produkt 1 Neuer Wert ist 2,00
-Produkt 2 Neuer Wert ist 2,00
+Zur Aufrundung aller Elemente konvertieren
+Produkt 1 Neuer Wert: 2,00
+Produkt 2 Neuer Wert: 2,00
 
-Tatsächlich wurden dem Kunden insgesamt 3,99 als Rabatt gewährt.
-Wenn wir jedoch aufrunden, würde dies zeigen, dass 4,00 Dollar gegeben wurden, und das ist falsch.
+Ein Gesamtbetrag von 3,99 wurde dem Kunden tatsächlich als Rabatt gewährt.
+Wenn wir jedoch aufschließen, würde es zeigen, dass 4,00 Dollar gegeben wurden, und das ist falsch.
 
-2,00 + 2,00 = 4,00 USD
+2,00 + 2,00 = 4,00 $
 
 >[!ENDSHADEBOX]
 
-Ähnliches Problem: Wenn die dritte Dezimalstelle für alle Elemente abgelegt wurde, wurde zu wenig Rabatt angezeigt.
+Ähnliches Problem: Wenn die dritte Dezimalzahl für alle Elemente ignoriert wird, wird zu wenig Rabatt angezeigt.
 
 >[!BEGINSHADEBOX]
 
-Derselbe 10-%-Rabatt wie die oben genannte Warenkorbregel in Kraft
-Fügen Sie dem Warenkorb 2 Produkte mit einem Wert von 19,95 hinzu.
+Derselbe Rabatt von 10 % wie über der gültigen Warenkorbregel
+Fügen Sie 2 Produkte zu Warenkorb, die 19.95 sind
 
-Für jedes Produkt sollten Rabatte in Höhe von 1.995 USD gewährt werden. Wenn wir jedoch nur die dritte Dezimalstelle ablegen, geschieht Folgendes:
-Produkt 1 - 19.95 x 0.1 = 1.995
-Produkt 2 - 19.95 x 0.1 = 1.995
+Jedes Produkt sollte 1.995 US-Dollar Rabatt erhalten, aber wenn wir nur die dritte Dezimalzahl fallen lassen, passiert dies:
+Produkt 1 - 19,95 x 0,1 = 1,995
+Produkt 2 - 19,95 x 0,1 = 1,995
 
-Konvertieren in Ablegen der dritten Dezimalzahl für alle Elemente
-Produkt 1 Neuer Wert ist 1.99
-Produkt 2 Neuer Wert ist 1,99
+Bei Konvertierung wird die dritte Dezimalzahl für alle Elemente ignoriert.
+Produkt 1 Neuer Wert: 1,99
+Produkt 2 Neuer Wert: 1,99
 
-Tatsächlich wurden dem Kunden insgesamt 3,99 als Rabatt gewährt.
-Wenn wir jedoch die dritte Dezimalstelle streichen, würde dies zeigen, dass 3,98 USD gegeben wurden, und das ist falsch.
+Ein Gesamtbetrag von 3,99 wurde dem Kunden tatsächlich als Rabatt gewährt.
+Wenn wir jedoch die dritte Dezimalzahl fallen lassen, würde dies zeigen, dass $3,98 angegeben wurde, und das ist falsch.
 
 1,99 + 1,99 = 3,98 $
 
@@ -126,5 +126,5 @@ Wenn wir jedoch die dritte Dezimalstelle streichen, würde dies zeigen, dass 3,9
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Warenkorbpreisregel - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [Couponcodes - [!DNL Commerce] Leitfaden für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [Erstellen einer Warenkorb-Preisregel - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Gutscheincodes - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

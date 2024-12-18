@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Einfache Produkte'
-description: Erfahren Sie, wie Sie ein einfaches Produkt mit Produktattributsätzen erstellen.
+title: '[!DNL Commerce] für Business-Anwender - Einfache Produkte'
+description: Erfahren Sie, wie Sie ein einfaches Produkt mithilfe von Produktattributsätzen erstellen.
 kt: 5771
 doc-type: video
 activity: use
@@ -17,26 +17,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Einfache Produkte
+# [!DNL Commerce] für Business-Anwender - Einfache Produkte
 
 In diesem Video:
 
-- Erstellen eines einfachen Produkts mit Produktattributsätzen
+- Erstellen eines einfachen Produkts mithilfe von Produktattributsätzen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Einfaches Produkt - [!DNL Commerce] Katalogverwaltungshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html)
+[Einfaches Produkt -  [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html)
 
-[Attributsätze - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

@@ -1,6 +1,6 @@
 ---
 title: PWA Docker-Entwicklung
-description: Erfahren Sie mehr über die PWA-Entwicklung auf Docker für Frontend-Entwickler, die für Entwicklungsaufgaben mit Adobe Commerce arbeiten.
+description: Erfahren Sie mehr über die PWA-Entwicklung in Docker für Frontend-Entwickler, damit sie mit Adobe Commerce bei Entwicklungsaufgaben zusammenarbeiten können.
 kt: 5564
 doc-type: video
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # PWA Docker-Entwicklung
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Frontend-Entwickler
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 ## Nützliche Ressourcen
 
-[PWA Studio-Anleitung](https://developer.adobe.com/commerce/pwa-studio/)
+[PWA Studio-Handbuch](https://developer.adobe.com/commerce/pwa-studio/)

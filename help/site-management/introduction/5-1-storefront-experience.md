@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] für Geschäftsbenutzer - Storefront'
-description: Erfahren Sie mehr über das Kundenerlebnis in der Storefront, einschließlich Kontoerstellung, Wunschlisten und Hinzufügen von Wunschlistenelementen zum Warenkorb.
+title: '[!DNL Commerce] für Business-Anwender - Storefront'
+description: Erfahren Sie mehr über das Kundenerlebnis in der Storefront, einschließlich Kontoerstellung, Wunschlisten und Hinzufügen von Wunschlistenartikeln zum Warenkorb
 kt: 5778
 doc-type: video
 activity: use
@@ -17,29 +17,29 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] für Geschäftsbenutzer - Storefront
+# [!DNL Commerce] für Business-Anwender - Storefront
 
 In diesem Video:
 
-- Kundenerlebnis auf der Storefront
+- Kundenerlebnis in der Storefront
 - Kontoerstellung
-- Listen wünschen
-- Hinzufügen von Wunschlistenelementen zum Warenkorb
+- Wunschlisten
+- Artikel der Wunschliste zum Warenkorb hinzufügen
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt des Videos spiegelt die Version 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Umfang des Kundenkontos - [!DNL Commerce] Handbuch für die Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Umfang des Kundenkontos -  [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Wunschliste für das Storefront-Erlebnis - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Wunschliste Storefront-Erlebnis - [!DNL Commerce] Stores und Kauferlebnis-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

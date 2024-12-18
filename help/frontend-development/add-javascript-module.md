@@ -1,6 +1,6 @@
 ---
 title: JavaScript-Modul hinzufügen
-description: Dieses Video bietet eine schrittweise Anleitung zur Entwicklung eines einfachen JS-Moduls, das die Begrüßung "Hello World"bereitstellt.
+description: Dieses Video bietet eine Anleitung zur Entwicklung eines einfachen JS-Moduls, das die Begrüßung „Hello World“ bereitstellt.
 kt: 5612
 doc-type: video
 activity: use
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 # JavaScript-Modul hinzufügen
 
-Dieses Video bietet eine schrittweise Anleitung zur Entwicklung eines einfachen JS-Moduls, das die Begrüßung &quot;Hello World&quot;bereitstellt.
+Dieses Video bietet eine Anleitung zur Entwicklung eines einfachen JS-Moduls, das die Begrüßung „Hello World“ bereitstellt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 
 ## Schritte
 
-- Modul erstellen
-- Erstellen von `requirejs-config.js` und einer JavaScript-Moduldatei
-- Erstellen Sie ein Layout-Update zum Hinzufügen einer Vorlage, die das JS-Modul aktiviert
+- Erstellen eines Moduls
+- Erstellen einer `requirejs-config.js` und einer JavaScript-Moduldatei
+- Erstellen einer Layout-Aktualisierung zum Hinzufügen einer Vorlage, die das JS-Modul aktiviert
 - Vorlagendatei erstellen
 - Fügen Sie das Modul hinzu und testen Sie es
 

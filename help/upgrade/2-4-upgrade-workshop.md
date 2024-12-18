@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce 2.4 Upgrade-Workshop
+title: Workshop zur Aktualisierung auf Adobe Commerce 2.4
 description: In diesem aufgezeichneten Webinar erfahren Sie mehr über die Schritte und Best Practices für die Aktualisierung von Adobe Commerce auf Version 2.4.4 oder höher.
 landing-page-description: In diesem aufgezeichneten Webinar erfahren Sie mehr über die Schritte und Best Practices für die Aktualisierung auf Adobe Commerce 2.4.
 short-description: In diesem aufgezeichneten Webinar erfahren Sie mehr über die Schritte und Best Practices für die Aktualisierung auf Adobe Commerce 2.4.
@@ -20,18 +20,18 @@ ht-degree: 33%
 
 ---
 
-# Adobe Commerce 2.4 Upgrade-Workshop
+# Workshop zur Aktualisierung auf Adobe Commerce 2.4
 
-In diesem aufgezeichneten Webinar erfahren Sie mehr über die Schritte und Best Practices bei der Vorbereitung auf Ihr nächstes Upgrade auf 2.4.4 oder höher.
+Sehen Sie sich dieses aufgezeichnete Webinar an, um die Schritte und Best Practices zu erfahren, die bei der Vorbereitung auf die nächste Aktualisierung auf 2.4.4 oder höher befolgt werden müssen.
 
-In diesem Workshop arbeitete Adobe Commerce mit Merkle zusammen, um Folgendes zu teilen:
+In diesem Workshop ging Adobe Commerce eine Partnerschaft mit Merkle ein, um Folgendes zu teilen:
 
-- Technische Schritte bei der Aktualisierung auf Adobe Commerce 2.4
-- Best Practices und Tools für die Aktualisierung
-- Empfohlene Aktualisierungspfade zu Version 2.4.4 oder höher
-- Wichtigste Upgrade-Ressourcen - Referenz
+- Technische Schritte beim Upgrade auf Adobe Commerce 2.4
+- Best Practices und Tools bei der Aktualisierung
+- Empfohlene Aktualisierungspfade auf Version 2.4.4 oder höher
+- Wichtige Upgrade-Ressourcen als Referenz
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Site-Manager
 - Entwickler
@@ -42,6 +42,6 @@ In diesem Workshop arbeitete Adobe Commerce mit Merkle zusammen, um Folgendes zu
 
 ## Zusätzliche Ressourcen
 
-- [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [Veröffentlichungsplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

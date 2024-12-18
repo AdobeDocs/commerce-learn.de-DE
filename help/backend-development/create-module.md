@@ -1,6 +1,6 @@
 ---
-title: Modul erstellen
-description: Erfahren Sie, wie Sie ein Modul in Adobe Commerce erstellen, das Informationen an den PSR-Logger sendet. Dadurch wird Ihrem ersten Modul in Adobe Commerce eine Funktion hinzugefügt.
+title: Erstellen eines Moduls
+description: Erfahren Sie, wie Sie in Adobe Commerce ein Modul erstellen, das Informationen an den PSR-Logger sendet. Dadurch wird Ihrem ersten Modul in Adobe Commerce eine Funktion hinzugefügt.
 kt: 5614
 doc-type: video
 activity: use
@@ -17,22 +17,22 @@ ht-degree: 0%
 
 ---
 
-# Modul erstellen
+# Erstellen eines Moduls
 
-Das Modul ist ein Strukturelement von [!DNL Commerce] - das gesamte System basiert auf Modulen. In der Regel besteht der erste Schritt beim Erstellen einer Anpassung darin, ein Modul zu erstellen.
+Modul ist ein strukturelles Element von [!DNL Commerce] - das gesamte System basiert auf Modulen. Normalerweise besteht der erste Schritt bei der Erstellung einer Anpassung darin, ein Modul zu erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Entwickler
 
 ## Schritte zum Hinzufügen eines Moduls
 
-- Erstellen Sie den Ordner &quot;module&quot;.
-- Erstellen Sie die Datei etc/module.xml .
-- Erstellen Sie die Datei registration.php .
-- Führen Sie das Setup von bin/magento aus.
-- Aktualisierungsskript zur Installation des neuen Moduls.
-- Überprüfen Sie, ob das Modul funktioniert.
+- Erstellen Sie den Modulordner.
+- Erstellen Sie die Datei etc/module.xml.
+- Erstellen Sie die Datei registration.php.
+- Führen Sie das bin/magento-Setup aus.
+- Upgrade-Script zur Installation des neuen Moduls
+- Prüfen Sie, ob das Modul funktioniert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Hinzufügen eines Plug-ins und Bereitstellen einiger Funktionen
+### Ein Plug-in hinzufügen und einige Funktionen bereitstellen
 
-Der nächste Schritt besteht darin, unserem grundlegenden Modul einige Funktionen hinzuzufügen. Ein Plug-in ist ein wichtiges Tool, das alle Adobe Commerce-Entwickler verwenden. In diesem Video und Tutorial können Sie ein Plug-in erstellen.
+Der nächste Schritt besteht darin, einige Funktionen zu unserem Basismodul hinzuzufügen. Ein Plug-in ist ein wichtiges Tool, das alle Adobe Commerce-Entwickler verwenden. Dieses Video und das Tutorial helfen Ihnen beim Erstellen eines Plug-ins.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### Was Sie für Plug-ins beachten sollten
+### Dinge, die Sie für Plug-ins beachten sollten
 
 - Alle Plug-ins werden in `di.xml` deklariert.
-- Das Plug-in benötigt einen eindeutigen Namen
+- Das Plug-in erfordert einen eindeutigen Namen
 - disabled und sortOrder sind optional
 - Der Umfang des Plug-ins wird durch den Ordner festgelegt, in dem es sich befindet
-- Plug-ins können vor, nach oder beide (um) ausgeführt werden, wobei die Methode aufgerufen wird
-- Vermeiden Sie die Verwendung von `around` -Plug-ins. Sie sind versucht zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
+- Plug-ins können vor, nach oder beiden (um die Methode herum) ausgeführt werden
+- Vermeiden Sie die Verwendung `around` Plug-ins. Sie sind verlockend zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
 
-### Beispiele für Plug-in-Code
+### Code-Beispiele für Plug-ins
 
-Hier finden Sie die XML- und PHP-Klassen, die im Tutorial zum Hinzufügen eines Plug-ins zum ersten Modul verwendet werden
+Im Folgenden finden Sie die XML- und PHP-Klassen, die im Tutorial zum Hinzufügen eines Plug-ins zum ersten Modul verwendet wurden
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -286,4 +286,4 @@ class RestAddLoggingAfterOrderPlacePlugin
 ## Nützliche Ressourcen
 
 - [Modul-Referenzhandbuch](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+- [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

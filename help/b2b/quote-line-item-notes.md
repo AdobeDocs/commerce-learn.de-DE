@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Adobe Commerce zum Anzeigen von Zeileneinträgen für ein Zitat
-description: Informationen zu Zeileneinträgen in einem B2B-Angebot in Adobe Commerce
+title: Verwenden von Adobe Commerce - Zeileneintragshinweise für ein Angebot anzeigen
+description: Erfahren Sie mehr über Zeileneintragshinweise zu einem B2B-Angebot in Adobe Commerce
 doc-type: feature video
 audience: all
 activity: use
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# B2B Sales Offerting Zeileneintrag Rabatt
+# B2B-Verkaufsangebot Positionsrabatt
 
-Erfahren Sie, wie Sie die Zeileneinträge für ein Adobe Commerce-B2B-Angebot verwenden.
+Erfahren Sie, wie Sie die Positionsnotizen für ein Adobe Commerce B2B-Angebot verwenden.
 
 {{b2b-feature}}
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 - Entwickler
 
 ## Videoinhalt

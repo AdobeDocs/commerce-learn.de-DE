@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines herunterladbaren Produkts
-description: Erfahren Sie, wie Sie mit der REST-API und dem Adobe Commerce Admin ein herunterladbares Produkt erstellen.
+title: Herunterladbares Produkt erstellen
+description: Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladbares Produkt erstellen.
 kt: 14464
 doc-type: video
 audience: all
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines herunterladbaren Produkts
+# Herunterladbares Produkt erstellen
 
-Erfahren Sie, wie Sie mit der REST-API und dem Adobe Commerce Admin ein herunterladbares Produkt erstellen.
+Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladbares Produkt erstellen.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
 - Website-Manager
-- eCommerce-Merchandiser
+- E-Commerce-Merchandiser
 - Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
-## Zulässige herunterladbare Domänen
+## Zulässige herunterladbare Domains
 
-Sie müssen angeben, welche Domänen Downloads zulassen dürfen. Domänen werden über die Befehlszeile zur Datei &quot;`env.php`&quot;des Projekts hinzugefügt. Die Datei `env.php` enthält Details zu den Domänen, die herunterladbaren Inhalt enthalten dürfen. Ein Fehler tritt auf, wenn ein herunterladbares Produkt mithilfe der REST-API _erstellt wurde, bevor_ die Datei `php.env` aktualisiert wird:
+Sie müssen angeben, welche Domains Downloads zulassen dürfen. Domains werden über die Befehlszeile zur `env.php` des Projekts hinzugefügt. Die `env.php`-Datei enthält die Domains, in denen herunterladbare Inhalte enthalten sein dürfen. Ein Fehler tritt auf, wenn ein herunterladbares Produkt mithilfe der REST-API erstellt _vor_ wird die `php.env` aktualisiert:
 
 ```bash
 {
@@ -42,9 +42,9 @@ Sie müssen angeben, welche Domänen Downloads zulassen dürfen. Domänen werden
 }
 ```
 
-Um die Domäne festzulegen, verbinden Sie sich mit dem Server: `bin/magento downloadable:domains:add www.example.com`
+Um die Domain festzulegen, stellen Sie eine Verbindung mit dem Server her: `bin/magento downloadable:domains:add www.example.com`
 
-Sobald dies abgeschlossen ist, wird der `env.php` im Array _downloadable_domains_ geändert.
+Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _downloadable_domains_ geändert.
 
 ```php
     'downloadable_domains' => [
@@ -52,22 +52,22 @@ Sobald dies abgeschlossen ist, wird der `env.php` im Array _downloadable_domains
     ],
 ```
 
-Nachdem die Domäne zum `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in der Adobe Commerce Admin oder mithilfe der REST-API erstellen.
+Nachdem die Domain der `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Weitere Informationen finden Sie unter [Konfigurationsreferenz](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) .
+Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)Konfigurationsreferenz“.
 
 >[!IMPORTANT]
->Bei einigen Versionen von Adobe Commerce tritt möglicherweise der folgende Fehler auf, wenn ein Produkt in der Adobe Commerce-Admin-Konsole bearbeitet wird. Das Produkt wird mit der REST-API erstellt, der verknüpfte Download hat jedoch einen `null` -Preis.
+>In einigen Versionen von Adobe Commerce wird möglicherweise die folgende Fehlermeldung angezeigt, wenn ein Produkt in der Admin-Abteilung von Adobe Commerce bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, aber der verknüpfte Download hat einen `null` Preis.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Um diesen Fehler zu beheben, verwenden Sie die Update Link-API: `POST V1/products/{sku}/downloadable-links.`
+Um diesen Fehler zu beheben, verwenden Sie die Update-Link-API: `POST V1/products/{sku}/downloadable-links.`
 
-Weitere Informationen finden Sie im Abschnitt [Aktualisieren eines Produkt-Downloadlinks mit cURL](#update-downloadable-links) .
+Weitere Informationen finden [ im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
 
-## Erstellen eines herunterladbaren Produkts mit cURL (Download vom Remote-Server)
+## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Download vom Remote-Server)
 
-In diesem Beispiel wird gezeigt, wie ein herunterladbares Produkt mithilfe von cURL erstellt wird, wenn sich die herunterzuladende Datei nicht auf demselben Server befindet. Dieser Anwendungsfall ist typisch, wenn die Datei in einem S3-Bucket oder einem anderen digitalen Asset-Manager gespeichert wird.
+Dieses Beispiel zeigt, wie ein herunterladbares Produkt mithilfe von cURL erstellt wird, wenn sich die herunterzuladende Datei nicht auf demselben Server befindet. Dieser Anwendungsfall ist typisch, wenn die Datei in einem S3-Bucket oder einem anderen Digital Asset Manager gespeichert ist.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -112,24 +112,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Erstellen eines herunterladbaren Produkts mit cURL (Download vom Commerce-Anwendungsserver)
+## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Herunterladen vom Commerce-Anwendungsserver)
 
-In diesem Beispiel wird gezeigt, wie mithilfe von cURL ein herunterladbares Produkt aus dem Adobe Commerce-Administrator erstellt wird, wenn die Datei auf demselben Server wie die Adobe Commerce-Anwendung gespeichert wird.
+Dieses Beispiel zeigt, wie Sie mit cURL ein herunterladbares Produkt vom Adobe Commerce Admin erstellen können, wenn die Datei auf demselben Server wie die Adobe Commerce-Anwendung gespeichert wird.
 
-In diesem Anwendungsfall wird die Datei in das Verzeichnis `pub/media/downloadable/files/links/` übertragen, wenn der Administrator, der den Katalog verwaltet, &quot;`upload file`&quot;auswählt.  Durch die Automatisierung werden die Dateien anhand des folgenden Musters erstellt und an ihre jeweiligen Speicherorte verschoben:
+In diesem Anwendungsfall wird die Datei in das `pub/media/downloadable/files/links/`-Verzeichnis übertragen, wenn der Administrator, der den Katalog verwaltet, `upload file` auswählt.  Die Automatisierung erstellt die Dateien und verschiebt sie an ihre jeweiligen Speicherorte anhand des folgenden Musters:
 
 - Jede hochgeladene Datei wird in einem Ordner gespeichert, der auf den ersten beiden Zeichen des Dateinamens basiert.
-- Wenn der Upload initiiert wird, erstellt oder verwendet das Commerce-Programm vorhandene Ordner, um die Datei zu übertragen.
-- Beim Herunterladen der Datei verwendet der Abschnitt `link_file` des Pfads den Teil des Pfads, der an das Verzeichnis `pub/media/downloadable/files/links/` angehängt ist.
+- Wenn der Upload gestartet wird, erstellt das Commerce-Programm vorhandene Ordner oder verwendet sie, um die Datei zu übertragen.
+- Beim Herunterladen der Datei verwendet der `link_file` Abschnitt des Pfads den Teil des Pfads, der an das `pub/media/downloadable/files/links/` angehängt wird.
 
 Wenn die hochgeladene Datei beispielsweise `download-example.zip` heißt:
 
 - Die Datei wird in den Pfad `pub/media/downloadable/files/links/d/o/` hochgeladen.
-Die Unterverzeichnisse `/d` und `/d/o` werden erstellt, wenn sie nicht vorhanden sind.
+Die Unterverzeichnisse `/d` und `/d/o` werden erstellt, wenn sie noch nicht vorhanden sind.
 
-- Der endgültige Pfad zur Datei ist `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+- Der endgültige Pfad zur Datei lautet `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- Der `link_url` -Wert für dieses Beispiel ist `d/o/download-example.zip`
+- Der `link_url` für dieses Beispiel ist `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -171,7 +171,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Produkt mit curl abrufen
+## Abrufen eines Produkts mithilfe von cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-product-1' \
@@ -179,10 +179,10 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 --header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e'
 ```
 
-## Produkt mit Postman aktualisieren {#update-downloadable-links}
+## Aktualisieren des Produkts mit Postman {#update-downloadable-links}
 
-Endpunkt `rest/all/V1/products/{sku}/downloadable-links` verwenden
-Die `SKU` ist die Produkt-ID, die beim Erstellen des Produkts generiert wurde. Im folgenden Codebeispiel ist es die Nummer 39, aber stellen Sie sicher, dass sie aktualisiert wird, um die ID von Ihrer Website zu verwenden. Dadurch werden die Links für die herunterladbaren Produkte aktualisiert.
+Verwenden des Endpunkt-`rest/all/V1/products/{sku}/downloadable-links`
+Die `SKU` ist die Produkt-ID, die beim Erstellen des Produkts generiert wurde. Im folgenden Codebeispiel ist es beispielsweise die Zahl 39. Stellen Sie jedoch sicher, dass sie aktualisiert wird, um die ID aus Ihrer Website zu verwenden. Dadurch werden die Links für die herunterladbaren Produkte aktualisiert.
 
 ```json
 {
@@ -205,9 +205,9 @@ Die `SKU` ist die Produkt-ID, die beim Erstellen des Produkts generiert wurde. I
 }
 ```
 
-## Aktualisieren eines Produkt-Downloadlinks mithilfe von CURL
+## Aktualisieren eines Produktdownload-Links mithilfe von CURL
 
-Wenn Sie einen Produkt-Download-Link mit cURL aktualisieren, enthält die URL die SKU für das Produkt, das aktualisiert wird.  Im folgenden Codebeispiel lautet die SKU `abcd12345`. Wenn Sie den Befehl senden, ändern Sie den Wert so, dass er mit der SKU für das Produkt übereinstimmt, das Sie aktualisieren möchten.
+Wenn Sie einen Produkt-Download-Link mit cURL aktualisieren, enthält die URL die SKU für das Produkt, das aktualisiert wird.  Im folgenden Code-Beispiel wird die SKU `abcd12345`. Wenn Sie den Befehl übermitteln, ändern Sie den Wert so, dass er mit der SKU für das Produkt übereinstimmt, das Sie aktualisieren möchten.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Zusätzliche Ressourcen
 
-- [herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [ Konfigurationshandbuch für herunterladbare Domänen](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Adobe Developer REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+- [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

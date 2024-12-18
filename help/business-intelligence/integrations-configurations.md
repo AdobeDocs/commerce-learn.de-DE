@@ -19,16 +19,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce Intelligence-Integrationen und -Konfigurationen
+# Integrationen und Konfigurationen mit Adobe Commerce Intelligence
 
-Das Tutorial bietet einen Überblick über die Registerkarte &quot;Daten verwalten&quot;in Adobe Commerce Intelligence und beschreibt, wie Integrations-, Data Warehouse- und Reporting-Funktionen eingerichtet und konfiguriert werden.
+Das Tutorial bietet einen Überblick über die Registerkarte Daten verwalten in Adobe Commerce Intelligence, auf der erläutert wird, wie Integrationen, Data Warehouse- und Berichtsfunktionen eingerichtet und konfiguriert werden.
 &#x200B;
-Hier werden die Optionen für Integrationen, einschließlich vordefinierter Integrationen, Standardintegrationen und Premium-Integrationen sowie die Möglichkeit zum Hinzufügen benutzerdefinierter Integrationen erläutert.
-Das Dokument behandelt auch die Synchronisation von Tabellen mit der Data Warehouse, das Hinzufügen neuer Tabellen und Spalten sowie die Erstellung von Metriken und Filtern zu Berichtszwecken.
+Erläutert werden die Optionen für Integrationen, einschließlich vordefinierter Integrationen, Standardintegrationen und Premium-Integrationen, und die Möglichkeit, benutzerdefinierte Integrationen hinzuzufügen.
+In diesem Dokument werden auch die Synchronisierung von Tabellen mit dem Data Warehouse, das Hinzufügen neuer Tabellen und Spalten und das Erstellen von Metriken und Filtern für Berichtszwecke behandelt.
 
-## Für wen ist dieses Video?
+## Für wen ist dieses Video bestimmt?
 
-- Geschäftskunden
+- Business-Anwender
 - Datenanalysten
 
 ## Integrationen und Konfigurationen

@@ -1,6 +1,6 @@
 ---
-title: Globales Bereitstellungsmodell
-description: Adobe Commerce ist eine Plattform mit KI-gestützten Funktionen, robusten APIs und höchster Sicherheit und steht in AWS und Azure mit flexiblen Support-Optionen zur Verfügung.
+title: Modell für globale Sendungen
+description: Adobe Commerce ist eine Plattform mit KI-gesteuerten Funktionen, robusten APIs und höchster Sicherheit und ist in AWS und Azure mit flexiblen Support-Optionen verfügbar.
 feature: Auto Scaling, Cloud, Checkout, Customers, Orders
 topic: Architecture, Commerce, Security, Performance
 role: Admin, User
@@ -9,28 +9,28 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
+exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
+source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
+# Globales Adobe Commerce-Versandmodell
 
-# Globales Adobe Commerce-Bereitstellungsmodell
+Adobe Commerce ist eine hybride Cloud-E-Commerce-Plattform, die auf AWS und Azure verfügbar ist und Kernfunktionen wie Warenkorb, Checkout und Bestandsverwaltung bietet. Es bietet KI-gesteuerte Services wie Live-Suche und Produktempfehlungen und bietet eine sichere, skalierbare Infrastruktur mit umfassender API-Unterstützung. Die Plattform umfasst Entwickler-Tools wie API Mesh und App Builder und bietet zwei Hosting-Optionen: Commerce on Cloud und Adobe Commerce Managed Services, die beide hohe Sicherheits- und Compliance-Standards gewährleisten.
 
-Adobe Commerce ist eine hybride Cloud-eCommerce-Plattform, die auf AWS und Azure verfügbar ist und Kernfunktionen wie Warenkorb-, Checkout- und Bestandsverwaltung bietet. Es bietet KI-basierte Dienste wie Live-Suche und Produktempfehlungen und eine sichere, skalierbare Infrastruktur mit umfassender API-Unterstützung. Die Plattform umfasst Entwicklertools wie API Measurement und App Builder und bietet zwei Hosting-Optionen: Commerce in Cloud und Adobe Commerce Managed Services, die hohe Sicherheits- und Compliance-Standards gewährleisten.
+## Für wen ist dieses Video gedacht?
 
-## Für wen ist dieses Video vorgesehen?
-
-- Unternehmen aller Größenordnungen, die ihre eCommerce-Präsenz aufbauen oder ausbauen wollen, würden von Adobe Commerce profitieren.
-- Einzelhändler, Großhändler und Unternehmen, die eine skalierbare, sichere und anpassbare Plattform mit fortschrittlichen KI-gestützten Funktionen zur Optimierung der Kundenerfahrung und der betrieblichen Effizienz suchen.
-- Entwickler und IT-Teams untersuchen Commerce-Optionen, die einen umfassenden Satz Cloud-nativer Tools und APIs zum Erstellen und Verwalten von Commerce-Anwendungen bieten.
+- Unternehmen aller Größenordnungen, die ihre E-Commerce-Präsenz aufbauen oder ausbauen möchten, profitieren von Adobe Commerce.
+- Einzelhändler, Großhändler und Unternehmen, die eine skalierbare, sichere und anpassbare Plattform mit fortschrittlichen KI-basierten Funktionen zur Optimierung von Kundenerlebnissen und betrieblicher Effizienz suchen.
+- Entwickler und IT-Teams untersuchen Commerce-Optionen, die einen robusten Satz Cloud-nativer Tools und APIs zum Erstellen und Verwalten von Commerce-Anwendungen bieten.
 
 ## Videoinhalt
 
-- Skalierbare und sichere Infrastruktur.  Erfahren Sie mehr über die vollständig redundante Multi-Cloud-Infrastruktur in AWS und Azure, die eine optimierte Leistung, Ausfallsicherheit und elastische Skalierbarkeit mit hohen Sicherheits- und Compliance-Standards gewährleistet.
-- Erweiterte KI-gestützte Dienste. Sie erhalten ein Verständnis für die intelligenten API-First-Dienste wie Live-Suche, KI-gestützte Produktempfehlungen und Katalogdienste, um das Kundenerlebnis und die betriebliche Effizienz zu verbessern.
-- Umfassende Entwicklertools. Erfahren Sie mehr über die Suite der Cloud-nativen, Server-losen Entwicklertools wie API-Mesh und App Builder, die eine nahtlose Integration und Anpassung zur Erweiterung der Commerce-Funktionen ermöglichen.
+- Skalierbare und sichere Infrastruktur.  Erfahren Sie mehr über die vollständig redundante Multi-Cloud-Infrastruktur auf AWS und Azure, die eine optimierte Leistung, Widerstandsfähigkeit und elastische Skalierbarkeit mit hohen Sicherheits- und Compliance-Standards gewährleistet.
+- Erweiterte KI-gesteuerte Services. Sie erhalten ein Verständnis für die intelligenten API-First-Services wie die Live-Suche, KI-gestützte Produktempfehlungen und Katalog-Services, um das Kundenerlebnis und die betriebliche Effizienz zu verbessern.
+- Umfassende Entwickler-Tools. Erfahren Sie mehr über die Cloud-nativen, Server-losen Entwickler-Tools wie API Mesh und App Builder, die eine nahtlose Integration und Anpassung ermöglichen, um Commerce-Funktionen zu erweitern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
