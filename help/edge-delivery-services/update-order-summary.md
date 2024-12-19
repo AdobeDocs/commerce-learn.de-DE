@@ -1,5 +1,5 @@
 ---
-title: Edge-Bereitstellungsdienste
+title: Edge Delivery Services-Bestellzusammenfassung
 description: Erfahren Sie mehr über die Adobe Edge-Bereitstellungs-Services und darüber, wie Sie den Abschnitt „Bestellübersicht“ des Dropdown-Menüs zu Commerce aktualisieren.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f911d313b3668ebdab4fbc100058ab91aa8c6290
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 0%
 
 ---
 
@@ -37,3 +37,7 @@ Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und 
 * Erfahren Sie, wie Sie Zeilen in der Warenkorbzusammenfassung in einen ausblendbaren Abschnitt zusammenführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+
+## Zusätzliche Dokumentation
+
+* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
