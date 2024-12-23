@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services-Bestellzusammenfassung
-description: Erfahren Sie mehr über die Adobe Edge-Bereitstellungs-Services und darüber, wie Sie den Abschnitt „Bestellübersicht“ des Dropdown-Menüs zu Commerce aktualisieren.
+title: Edge Delivery Services-Bestellzusammenfassung beim Checkout
+description: Erfahren Sie mehr über die Adobe Edge-Bereitstellungs-Services und darüber, wie Sie den Abschnitt mit der Bestellzusammenfassung des Commerce-Dropdown-Menüs an der Kasse aktualisieren.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Aktualisieren der Warenkorbzusammenfassung
+# Aktualisieren der Warenkorbzusammenfassung beim Checkout
 
 Erfahren Sie, wie Sie die Bestellzusammenfassung des Adobe Commerce-Warenkorbs für Edge Delivery Services ändern können.  Es gibt mehrere Beispiele dafür, wie Sie das Layout oder die Informationen, die einem Kunden an der Kasse bereitgestellt werden, schnell verbessern können.
 
