@@ -3,7 +3,7 @@ title: Verwandte Seiten zur globalen Referenzarchitektur
 description: Links zu verwandten Seiten in GRA
 source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

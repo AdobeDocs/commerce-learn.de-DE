@@ -3,7 +3,7 @@ title: Zusätzliche Ressourcen für B2B-Angebote
 description: Links zu verwandten Seiten für B2B-Angebote
 source-git-commit: eac61e862279fe0884db305fbb0a3b33feb035f1
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
