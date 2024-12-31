@@ -1,11 +1,11 @@
 ---
-title: Guide title
+title: Leitfaden-Titel
 seo-title: seo title
-description: Guide description
+description: Leitfaden-Beschreibung
 seo-description: seo-description
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Übersicht {#overview}
 
-Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von *xyz*.
+Ein 1-2 Sätze-Überblick über das Produkt, auf das sich dieses Benutzerhandbuch konzentriert. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von *xyz*.
 
 ## Neue Funktionen
 
-* **[Video einer neuen Funktion (Video)](README.md)**
+* **[Video zu neuen Funktionen (Video)](README.md)**
   <br>
-  *Erfahren Sie mehr über diese coolen neuen Funktionen.*
+  *Erfahren Sie mehr über diese coole neue Funktion.*
 
-* **[Video einer neuen Funktion (Video)](README.md)**
+* **[Video zu neuen Funktionen (Video)](README.md)**
   <br>
-  *Erfahren Sie mehr über diese coolen neuen Funktionen.*
+  *Erfahren Sie mehr über diese coole neue Funktion.*
 
 * **[Ein neuer Artikel (Artikel)](README.md)**
   <br>
-  *Klicken Sie hier , um mehr über die Funktion xyz zu erfahren.*
+  *Hier erfahren Sie mehr über die Funktion xyz!*
 
-## Mitarbeiterauswahl
+## Favoriten unserer Mitarbeiter
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konze
     </a>
     <div>
       <a href="#">
-    <strong>Aktivierungsinhalt 1</strong>
+    <strong>Inhalt aktivieren 1</strong>
     </a>
     </div>
     <p>
@@ -52,7 +52,7 @@ Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konze
     </a>
     <div>
       <a href="#">
-    <strong>Aktivierungsinhalt 1</strong>
+    <strong>Inhalt aktivieren 1</strong>
     </a>
     </div>
     <p>
@@ -65,7 +65,7 @@ Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konze
     </a>
     <div>
       <a href="#">
-    <strong>Aktivierungsinhalt 1</strong>
+    <strong>Inhalt aktivieren 1</strong>
     </a>
     </div>
     <p>
@@ -77,6 +77,6 @@ Eine 1-2-Satzübersicht des Produkts, auf das sich dieses Benutzerhandbuch konze
 
 ## Zusätzliche Ressourcen
 
-* [Ressource 1](README.md)
-* [Ressource 2](README.md)
-* [Ressource 3](README.md)
+* [#1](README.md)
+* [#2](README.md)
+* [#3](README.md)

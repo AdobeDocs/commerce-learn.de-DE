@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 331
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
+source-git-commit: aeb6264d880c671a146b2905f0d89f9c16c89087
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

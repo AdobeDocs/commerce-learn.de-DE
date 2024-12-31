@@ -1,6 +1,6 @@
 ---
-title: <title that="" displays="" in="" Google="">
-description: <description that="" displays="" in="" Google="">
+title: <Titel, der in Google angezeigt wird>
+description: <Beschreibung, die in Google angezeigt wird>
 topic: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/topic.yml>
 feature: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/feature.yml>
 role: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/role.yml>
