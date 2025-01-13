@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# UpdateEnhancing E-Commerce Checkout: Benutzerdefiniertes Adressformular-Layout und Integration der Google-Adresssuche
+# Integration des benutzerdefinierten Adressformularlayouts und der Google-Adresssuche
 
 Erfahren Sie, wie Sie das Layout des Adressformulars an der Kasse anpassen, um sicherzustellen, dass alle Felder mit Ausnahme des Textbereichs 50 % Breite haben. Erfahren Sie, wie Sie die Verwendung einer integrierten Drittanbieter-API, insbesondere der Google-Adressen-API, nutzen können, um die automatische Adresssuche und -validierung im Adressformular zu ermöglichen. &#x200B; Erfahren Sie, wie Sie dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzufügen, das mit einer benutzerdefinierten Seite für eine Store-Suche verknüpft ist.
 
