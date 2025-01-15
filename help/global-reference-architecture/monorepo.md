@@ -1,7 +1,6 @@
 ---
-title: Wie kann die globale Referenzarchitektur genutzt werden?
-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur nutzen können, um ein skalierbares und widerstandsfähiges Commerce-Erlebnis zu schaffen
-landing-page-description: Erfahren Sie mehr über die globale Referenzarchitektur und deren Verwendung mit Adobe Commerce
+title: Globale Referenzarchitektur - Monorepo
+description: Erfahren Sie, wie Sie mit dem monorepo-Ansatz für eine globale Referenzarchitektur ein skalierbares und widerstandsfähiges Commerce-Erlebnis schaffen
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,15 +10,15 @@ badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="In
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
 
 
-# Das Muster der globalen Monorepo-Referenzarchitektur
+# Monorepo Global Reference Architecture-Muster
 
 In diesem Handbuch wird erläutert, wie Sie Adobe Commerce mit dem Monorepo Global Reference Architecture (GRA)-Muster einrichten.
 
