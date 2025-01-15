@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Integration des benutzerdefinierten Adressformularlayouts und der Google-Adresssuche
 
@@ -36,7 +38,7 @@ Projektmanager, die den Fortschritt von Entwicklungsaufgaben verfolgen und die t
 * Konsistente Feldbreiten in der Checkout-Forms, um das Adressformular an der Kasse anzupassen, um alle Felder sicherzustellen.
 * Integration der Google-Adressen-API, um die automatische Suche und den Abschluss von Adressen zu ermöglichen, wodurch Fehler bei der Benutzereingabe reduziert und der Checkout-Prozess optimiert werden können.
 * Validierung und Fehlerbehandlung für die Adresseingabefelder, um sicherzustellen, dass Benutzende sofortiges Feedback zu falschen oder unvollständigen Einträgen erhalten, und um das Benutzererlebnis zu verbessern.
-* Erweiterung des Benutzerkonto-Dashboards, mit der dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzugefügt wird
+* Erweiterung des Benutzerkonto-Dashboards, mit der dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzugefügt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
