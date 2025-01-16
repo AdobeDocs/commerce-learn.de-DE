@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
-source-git-commit: 1db0daa3ca352d50cbda27c1e631ad869b2ac16b
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie das Checkout-Erlebnis in Adobe Commerce aus der Dropdown-Komponente für den Warenkorb des Edge Delivery Services anpassen. Der Schwerpunkt liegt dabei auf der Änderung der Versandoptionen und der Implementierung eines mehrstufigen Checkout-Prozesses.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Erfahren Sie Beispiele für die Anpassung des Edge Delivery Services-Warenkorbs, um die Kaufabwicklung zu erleichtern, indem Sie Elemente wie Versandoptionen und Kostenvoranschläge entfernen und erneut hinzufügen und einen mehrstufigen Checkout-Prozess implementieren. Dabei können Sie den bestehenden Code wiederverwenden und Best Practices befolgen. &#x200B;
 

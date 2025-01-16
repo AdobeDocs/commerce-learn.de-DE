@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Transaktionsfluss für den Checkout mithilfe der Dropdown-Liste Warenkorb von Edge Delivery Services anpassen.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Gewinnen Sie ein Verständnis dafür, wie Sie den Adobe Commerce-Warenkorb ablegen und den Transaktionsfluss anpassen können, um Kundinnen und Kunden neue Funktionen zu zeigen, indem Sie einige Codezeilen ändern.  Erfahren Sie außerdem, wie Sie diese Änderungen zur Verwaltung von SharePoint konvertieren können, um AB-Tests durchzuführen.
 

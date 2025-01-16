@@ -10,9 +10,9 @@ duration: 331
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
 exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
-source-git-commit: aeb6264d880c671a146b2905f0d89f9c16c89087
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die erforderlichen Komponenten zur Kasse des Edge Delivery Services hinzufügen, die einen Online-Kauf und eine Abholung im Geschäft ermöglicht, die auch als BOPIS bezeichnet werden.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Erfahren Sie, wie Sie den Adobe Commerce-Warenkorb von Edge Delivery Services verwenden, um BOPIS-Funktionen bereitzustellen.
 

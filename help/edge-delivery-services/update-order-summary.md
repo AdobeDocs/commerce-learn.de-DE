@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Bestellzusammenfassung des Adobe Commerce-Warenkorbs für Edge Delivery Services ändern können.  Es gibt mehrere Beispiele dafür, wie Sie das Layout oder die Informationen, die einem Kunden an der Kasse bereitgestellt werden, schnell verbessern können.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und das Warenkorberlebnis anpassen.  Es gibt mehrere Möglichkeiten, den Warenkorb zu verbessern, indem Sie einige kleinere Änderungen oder Aktualisierungen am Code vornehmen.
 

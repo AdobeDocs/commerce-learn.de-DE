@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Adobe Commerce-Warenkorb anpassen und erweitern können. In dieser Demonstration gibt es drei Updates.  Die Demo beginnt mit der Anzeige von Lieferfristen für zurückbestellte Produkte, der Anzeige von Rücknahme- und Endverkaufsmitteilungen und der Anwendung eines Rabatts von 25 % für Warenkörbe mit einer Zwischensumme von 75 USD oder mehr. Durch die Verwendung von Produktattributen und Slots verbessert das Hinzufügen dieser Funktionen zum Warenkorb das gesamte Benutzererlebnis.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transaktionsfluss anpassen können, um Kunden durch Ändern einiger Codezeilen eine Reihe neuer Funktionen zu zeigen.  Erfahren Sie außerdem, wie Sie diese Änderungen zur Verwaltung von SharePoint konvertieren können, um AB-Tests durchzuführen.
 

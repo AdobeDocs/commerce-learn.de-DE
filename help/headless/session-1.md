@@ -10,9 +10,9 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Allgemeine Übersicht über den Verlauf von Adobe Commerce und darüber, wie die Dinge zur vollständigen Unterstützung von Headless voranschreiten.  Zu den Vorteilen der Headless-Architektur gehören Parität über Touchpoints hinweg, Trennung von Entwicklungsaktivitäten, verbesserte Skalierbarkeit und vieles mehr.
 
-## Was Sie von diesem Video erwarten können
+## Was Sie lernen werden
 
 Erfahren Sie, was Headless ist und wie Adobe Commerce die Headless-Architektur vollständig unterstützt.
 
