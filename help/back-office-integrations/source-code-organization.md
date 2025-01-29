@@ -16,7 +16,6 @@ source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
-
 ---
 
 # Source Code-Organisation für das Adobe-Starter-Kit
