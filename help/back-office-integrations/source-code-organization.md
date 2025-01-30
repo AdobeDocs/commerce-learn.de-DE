@@ -12,11 +12,11 @@ topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
-debug: true
+
 ---
 
 # Source Code-Organisation für das Adobe-Starter-Kit
@@ -39,6 +39,6 @@ Erkunden Sie die Logik hinter der Quell-Code-Struktur und beschreiben Sie, wie d
 * Erfahren Sie, wie wichtig es ist, den Code im `starter-kit-info`-Ordner nicht zu ändern, der eine Laufzeitaktion enthält, die vom Adobe zum Nachverfolgen von Projektbereitstellungen auf der Grundlage des Starter Kits verwendet wird. &#x200B;
 * Machen Sie sich mit dem `scripts`-Ordner vertraut, der Automatisierungsskripte wie `commerce-event-subscribe` und `onboarding` enthält, die die Ereigniskonfiguration, die Anbietereinrichtung und die Konfiguration des Adobe I/O-Ereignismoduls in Commerce automatisieren. &#x200B;
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
