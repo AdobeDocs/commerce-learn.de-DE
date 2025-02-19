@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 # Videos und Tutorials zu Adobe Commerce {#tutorials}
 
 + [Tutorials für [!DNL Commerce]](overview.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
++ Adobe Commerce Cloud-{#adobe-commerce-cloud}
    + Fehlerbehebung {#troubleshooting}
       + [Ungültige SSL](../cloud/troubleshooting/invalid-ssl.md)
       + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud/troubleshooting/triage-two-common-site-errors.md)
@@ -89,7 +89,7 @@ ht-degree: 3%
       + [Aktualisieren der Bestellzusammenfassung beim Checkout](../edge-delivery-services/update-order-summary.md)
       + [Hinzufügen von BOPIS zum Checkout](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
-      + [Adresse anpassen, einschließlich Link zur automatischen Vervollständigung und zum neuen Konto](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
    + {#enablement-series} der Aktivierungsreihe
       + [Verringern des Inhaltsverzeichnisses für Commerce-Integrationen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [Erstellen von Katalogpreisregeln](../site-management/catalog-price-rules.md)
    + [Erstellen von Regeln für Warenkorbpreise](../site-management/cart-price-rules.md)
    + [Verwalten verwandter Produktregeln](../site-management/related-product-rules.md)
-   + [Einrichten von Produkt Recommendations](../site-management/product-recommendations.md)
+   + [Produktempfehlungen einrichten](../site-management/product-recommendations.md)
    + [Einführung in die Live-Suche](../site-management/live-search.md)
    + [Live Search nach Empfehlungen](../site-management/live-search-recommendations.md)
    + [Integrieren von Commerce mit AJO](../site-management/integrate-commerce-ajo.md)
@@ -206,7 +206,7 @@ ht-degree: 3%
    + [Integrationen und Konfigurationen](../business-intelligence/integrations-configurations.md)
    + [Berichte und Dashboards](../business-intelligence/reports-and-dashboards.md)
    + [Filtersätze](../business-intelligence/filter-sets.md)
-   + [Kohorten-Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [Kohorte Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
 + Commerce-Upgrades {#upgrade}

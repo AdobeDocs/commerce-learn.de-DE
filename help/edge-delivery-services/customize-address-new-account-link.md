@@ -1,5 +1,5 @@
 ---
-title: Benutzerdefinierte Adresse des Edge Delivery Services, einschließlich automatischer Vervollständigung
+title: Edge Delivery Services-Anpassungsadresse einschließlich automatischer Vervollständigung
 description: Erfahren Sie, wie Sie E-Commerce-Checkout-Formulare anpassen und die Google-Adresssuche integrieren können, um das Benutzererlebnis zu verbessern und Eingabefehler zu reduzieren.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Integration des benutzerdefinierten Adressformularlayouts und der Google-Adresssuche
+# Adressenlayout anpassen
 
 Erfahren Sie, wie Sie das Layout des Adressformulars an der Kasse anpassen, um sicherzustellen, dass alle Felder mit Ausnahme des Textbereichs 50 % Breite haben. Erfahren Sie, wie Sie die Verwendung einer integrierten Drittanbieter-API, insbesondere der Google-Adressen-API, nutzen können, um die automatische Adresssuche und -validierung im Adressformular zu ermöglichen. &#x200B; Erfahren Sie, wie Sie dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzufügen, das mit einer benutzerdefinierten Seite für eine Store-Suche verknüpft ist.
 
