@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+source-git-commit: 4d4bbad0f3480d0f5ec02c4f91e823a3246c80d5
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '821'
 ht-degree: 3%
 
 ---
@@ -39,6 +39,8 @@ ht-degree: 3%
       + [Support-Anfrage](../cloud/best-practices/support-request.md)
       + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
+   + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+      + [Architektur](../commerce-as-a-cloud-service/architecture.md)
    + Migration zu Adobe Commerce{#migrating-to-adobe-commerce}
       + [Übersicht](../migrating-to-adobe-commerce/overview.md)
       + Vorbereitung{#preparation}
