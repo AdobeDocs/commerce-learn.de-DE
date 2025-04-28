@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
+source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 # Videos und Tutorials zu Adobe Commerce {#tutorials}
 
 + [Tutorials für [!DNL Commerce]](overview.md)
-+ Adobe Commerce Cloud-{#adobe-commerce-cloud}
++ Adobe Commerce Cloud {#adobe-commerce-cloud}
    + Fehlerbehebung {#troubleshooting}
       + [Ungültige SSL](../cloud/troubleshooting/invalid-ssl.md)
       + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud/troubleshooting/triage-two-common-site-errors.md)
@@ -31,13 +31,13 @@ ht-degree: 3%
    + [Experience Lead-Daten und -Promotions](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [Migration von einer selbst gehosteten Lösung](../cloud/overview.md)
-   + Technische Onboarding- und Hardware-Handoff-{#technical-onboarding-hardware-handoff}
+   + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
       + [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
       + [schnell](../cloud/fastly.md)
       + [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
       + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
-   + Best Practices-{#commerce-cloud-best-practices}
+   + Best Practices {#commerce-cloud-best-practices}
       + [Support-Anfrage](../cloud/best-practices/support-request.md)
       + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
@@ -57,12 +57,12 @@ ht-degree: 3%
       + [Nutzen der globalen Referenzarchitektur](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architekt GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementieren der globalen Referenzarchitektur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Commerce-{#capabilities}
+   + Commerce-Funktionen {#capabilities}
       + [Datenverbindung](../capabilities/data-connection.md)
       + [Vollständige Demonstration zur Live-Suche](../capabilities/live-search-full-demonstration.md)
       + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
       + [Quality Patch-Tool](../capabilities/quality-patch-tool.md)
-   + {#create-products} erstellen
+   + Erstellen von Produkten {#create-products}
       + [Einfaches Produkt](../site-management/create-simple-product.md)
       + [Virtuelles Produkt](../site-management/create-virtual-product.md)
       + [Herunterladbares Produkt](../site-management/create-downloadable-product.md)
@@ -79,17 +79,17 @@ ht-degree: 3%
       + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
 + Adobe Commerce Optimizer {#adobe-commerce-optimizer}
    + [Übersicht](../adobe-commerce-optimizer/overview.md)
-+ Globale Referenzarchitektur - {#global-reference-architecture-implementation-techniques}
++ Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
    + [Übersicht](../global-reference-architecture/overview.md)
    + [Git teilen](../global-reference-architecture/split-git.md)
    + [Massenpakete](../global-reference-architecture/bulk-packages.md)
    + [Separate Packages](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Hilfe- und Support-{#help-and-support}
++ Hilfe und Support {#help-and-support}
    + [Erstellen eines Support-Tickets](../help-and-support/create-a-support-ticket.md)
    + [Support-Ticket suchen, verfolgen, kommentieren und eskalieren](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Beobachter hinzufügen und entfernen, Ticket schließen und erneut öffnen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services {#edge-delivery-services}
++ Edge-Bereitstellungsdienste {#edge-delivery-services}
    + Erste Schritte {#getting-started}
       + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
       + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
@@ -99,12 +99,18 @@ ht-degree: 3%
       + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
       + [Customer-experience](../edge-delivery-services/shopper-experience.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
-   + {#enablement-series} der Aktivierungsreihe
+   + Aktivierungsreihe {#enablement-series}
       + [Verringern des Inhaltsverzeichnisses für Commerce-Integrationen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [Planung der modernen Adobe Commerce-Implementierung](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Launch, nach dem Launch, Überwachung und Fehlerbehebung](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services mit Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-+ GraphQL und REST-{#graphql-rest}
+   + Commerce-Unterhaltungen {#commerce-conversations}
+      + [Was ist Expertenerfolg?](../commerce-conversations/what-is-expert-success.md)
+      + [Commerce Support-Add-ons](../commerce-conversations/commerce-support-add-ons.md)
+      + [Was ist der ultimative Erfolg](../commerce-conversations/what-is-ultimate-success.md)
+      + [Technische Bereitschaft für Erfolgsbeschleuniger](../commerce-conversations/success-accelerators-technical-readiness.md)
+      + [Einführung und Aktivierung von Erfolgsbeschleunigern](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
++ GraphQL und Rest {#graphql-rest}
    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
    + [Abfragen](../graphql-rest/graphql-queries.md)
    + [Mutationen](../graphql-rest/graphql-mutations.md)
@@ -115,7 +121,7 @@ ht-degree: 3%
    + [Funktionsdemonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
    + [Mobile App an den Marketplace senden](../app-builder/submit-app-process.md)
-   + Erstellen des ersten App Builder-App-{#first-app}
+   + Erstellen Ihres ersten App Builder-Programms {#first-app}
       + [Übersicht](../app-builder/first-app/overview.md)
       + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
       + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
@@ -126,7 +132,7 @@ ht-degree: 3%
       + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
       + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
-   + E/A-Ereignisse für Adobe Commerce {#io-events}
+   + IO-Ereignisse für Adobe Commerce {#io-events}
       + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
       + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
@@ -134,13 +140,13 @@ ht-degree: 3%
       + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
       + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
       + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
-   + API-{#api-mesh}
+   + API-Mesh {#api-mesh}
       + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
       + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
       + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
       + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
       + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
-+ Store-{#admin}
++ Store-Administration {#admin}
    + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
    + [Zwei-Faktor-Authentifizierung](../site-management/two-factor-authentication.md)
    + [Währungs- und Steuerregeln verwalten](../site-management/currency-tax-rules.md)
@@ -150,16 +156,16 @@ ht-degree: 3%
    + [Versand- und Liefermethoden](../site-management/shipping-delivery.md)
    + [Admin-Raster und -Filter](../site-management/admin-grids-and-filters.md)
    + [COMMERCE CLI](../site-management/view-update-store-configuration-cli.md)
-   + Adobe Commerce Services-{#adobe-commerce-services}
+   + Adobe Commerce Services {#adobe-commerce-services}
       + [Konfigurieren des Commerce Services-Connectors](../site-management/configure-adobe-commerce-services-connector.md)
       + [Konfigurieren von Zahlungsdiensten](../site-management/configure-adobe-payment-services.md)
       + [Verwenden von Zahlungsdiensten](../site-management/payment-services.md)
-+ Customer Management {#customers}
++ Kundenverwaltung {#customers}
    + [Kundensegmente erstellen](../site-management/customer-segments.md)
    + [Erstellen von Kundengruppen](../site-management/customer-groups.md)
    + [Kundenattribute erstellen](../site-management/customer-attributes.md)
    + [verkäuferunterstütztes Einkaufen](../site-management/seller-assisted-shopping.md)
-+ {#catalog} zur Katalogverwaltung
++ Katalogverwaltung {#catalog}
    + [Erstellen einer Kategorie](../site-management/category-create.md)
    + [Produkte in einer Kategorie verwalten](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
@@ -169,7 +175,7 @@ ht-degree: 3%
    + [Verwalten von URL-Neuschreibungen für SEO](../site-management/seo-url-rewrites.md)
    + [AR-Viewer](../site-management/augmented-reality.md)
    + [Katalogimport und -aktualisierung](../site-management/catalog-import.md)
-+ Content-Management-{#content}
++ Content-Management {#content}
    + [Übersicht zu Page Builder](../site-management/page-builder-overview.md)
    + [Erstellen von statischen und dynamischen Blöcken](../site-management/static-dynamic-blocks.md)
    + [Erstellen von Widgets](../site-management/widgets.md)
@@ -184,7 +190,7 @@ ht-degree: 3%
    + [Einführung in die Live-Suche](../site-management/live-search.md)
    + [Live Search nach Empfehlungen](../site-management/live-search-recommendations.md)
    + [Integrieren von Commerce mit AJO](../site-management/integrate-commerce-ajo.md)
-+ Bestellungen und {#orders}
++ Bestellungen und Erfüllung {#orders}
    + [Store-Erfüllung - Übersicht](../orders-and-fulfillment/store-fulfillment.md)
    + [Verwalten des Bestellstatus](../orders-and-fulfillment/order-status.md)
    + [Überprüfen des Inventarstatus](../orders-and-fulfillment/checking-inventory-status.md)
@@ -193,7 +199,7 @@ ht-degree: 3%
    + [Verwalten freigegebener Kataloge](../b2b/shared-catalogs.md)
    + [Firmenkredite verwalten](../b2b/company-credit.md)
    + [Bestellungen und Genehmigungen](../b2b/purchase-orders.md)
-   + {#b2b-quote}
+   + Zitat {#b2b-quote}
       + [Vertriebsmitarbeiter startet Angebot](../b2b/sales-rep-initiates-quote.md)
       + [Angebotsvalidierung durch Administrator](../b2b/quote-validation-admin-panel.md)
       + [Vertriebsmitarbeiter initiiert Angebot-REST-API](../b2b/sales-rep-initiates-quote-api.md)
@@ -221,7 +227,7 @@ ht-degree: 3%
    + [Workshop zur Aktualisierung auf Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
-+ Backend-{#backend-development}
++ Backend-Entwicklung {#backend-development}
    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
@@ -230,7 +236,7 @@ ht-degree: 3%
    + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
    + [PT-Abfrageauszug](../backend-development/pt-query-digest.md)
    + [Herstellen einer Verbindung zur Adobe Commerce-Datenbank und Herunterladen der Datenbank](../backend-development/remote-db-connection-execute-queries.md)
-+ Natives Frontend-Luma-{#frontend-development}
++ Native Frontend-Luma-Entwicklung {#frontend-development}
    + Page Builder für Entwickler {#page-builder}
       + [1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
@@ -240,8 +246,8 @@ ht-degree: 3%
       + [6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
    + [Erstellen einer Seite](../frontend-development/create-page.md)
-+ Headless-{#headless-architecture}
-   + Einführung in Headless-{#introduction-to-headless}
++ Headless-Architektur {#headless-architecture}
+   + Einführung in Headless {#introduction-to-headless}
       + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
    + Einführung in PWA Studio {#introduction}
       + [1. Übersicht](../pwa/introduction/1-overview.md)
