@@ -30,7 +30,7 @@ In diesem Tutorial erfahren Sie, wie Sie ein konfigurierbares Produkt mit der RE
 
 Verwenden Sie die REST-API, um ein konfigurierbares Produkt zu erstellen:
 
-1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
+1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=de) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
 1. Erstellen Sie einfache Produkte zur Verwendung im konfigurierbaren Produkt.
 1. Ein leeres konfigurierbares Produkt erstellen und die einfachen Produkte verknüpfen.
 1. Festlegen der Produktattribute für das konfigurierbare Produkt.
@@ -348,6 +348,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Zusätzliche Ressourcen
 
 - [Erstellen eines konfigurierbaren Produkt-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+- [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=de){target="_blank"}
 - [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

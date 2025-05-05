@@ -33,5 +33,5 @@ In diesem Video erfahren Sie, wie Sie Produktattribute verwalten, wenn Sie eine 
 
 ## Zusätzliche Ressourcen
 
-- [Produktattribute - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [Produktattribute - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=de)
 - [PWA Studio - Entwicklerdokumentation](https://developer.adobe.com/commerce/pwa-studio/)

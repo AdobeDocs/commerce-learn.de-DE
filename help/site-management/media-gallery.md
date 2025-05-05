@@ -32,5 +32,5 @@ Mit Adobe Commerce oder Magento Open Source 2.4 können Händler die neue erweit
 
 ## Zusätzliche Ressourcen
 
-- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Alternative Medienspeicherung - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/de/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [Alternative Medienspeicherung - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/de/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ## Zusätzliche Ressourcen
 
-- [Angebote - Übersicht](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Konfigurieren von Anführungszeichen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Angebot anfordern](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Verhandeln eines Angebots](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Meine Zitate](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+- [Angebote - Übersicht](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=de){target="_blank"}
+- [Konfigurieren von Anführungszeichen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=de){target="_blank"}
+- [Angebot anfordern](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=de){target="_blank"}
+- [Verhandeln eines Angebots](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=de){target="_blank"}
+- [Meine Zitate](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=de){target="_blank"}
 - [Verwalten von verhandelbaren Angeboten](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"}
 - [Integration mit dem NegotiableQuote-Modul](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}

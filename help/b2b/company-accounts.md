@@ -36,5 +36,5 @@ Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktu
 
 ## Zusätzliche Ressourcen
 
-- [Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=de){target="_blank"}
+- [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=de){target="_blank"}

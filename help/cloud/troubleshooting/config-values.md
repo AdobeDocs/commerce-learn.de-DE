@@ -36,10 +36,10 @@ Dieses Handbuch bietet einen umfassenden Überblick darüber, wie Sie Konfigurat
 
 ## Verwandte Experience League-Dokumentation
 
-- [Exportkonfiguration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [Konfigurationseinstellungen überschreiben](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [Festlegen von Konfigurationswerten](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [Konfigurationsreferenz config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [Konfigurationsanleitung - Technische Details](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [Gesperrte Konfigurationswerte](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [Gespeicherte Werte auf der env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [Exportkonfiguration](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [Konfigurationseinstellungen überschreiben](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [Festlegen von Konfigurationswerten](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [Konfigurationsreferenz config.php](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [Konfigurationsanleitung - Technische Details](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [Gesperrte Konfigurationswerte](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [Gespeicherte Werte auf der env.php](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

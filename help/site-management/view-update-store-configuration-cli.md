@@ -62,5 +62,5 @@ So zeigen Sie eine Seite im Terminal und Zeilennummern `cat -n vendor/magento/mo
 
 ## Zusätzliche Ressourcen
 
-- [Befehlszeilen-Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Befehlszeilen-Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=de){target="_blank"}
+- [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=de){target="_blank"}

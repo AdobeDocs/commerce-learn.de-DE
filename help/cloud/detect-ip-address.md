@@ -50,7 +50,7 @@ Das Magento-Cloud-CLI-Tool unterstützt Entwickler und Systemadministratoren bei
 
 In diesem ersten Abschnitt des Beispiel-Codes fordert `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` die URL für die Umgebung an. Der zurückgegebene Wert sieht in etwa wie `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/` aus. Ab und zu sieht es mehr so aus wie dieses `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Dieser erste Befehl ist recht einfach, und jetzt ist es an der Zeit, mit dem nächsten Befehl fortzufahren.
 
-Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Verwenden von `sed` für Suchen und Ersetzen
 

@@ -35,4 +35,4 @@ Erfahren Sie, wie Sie in Experience League für Adobe Commerce Watchers hinzufü
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 
-[Senden eines Support-Falls](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Senden eines Support-Falls](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

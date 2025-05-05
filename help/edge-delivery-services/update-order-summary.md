@@ -40,4 +40,4 @@ Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und 
 
 ## Zusätzliche Dokumentation
 
-* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=de)

@@ -31,11 +31,11 @@ Um den unbefugten Zugriff auf Ihre Daten zu verhindern, müssen alle Benutzer, d
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Zwei-Faktor-Authentifizierung (2FA) - Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Zwei-Faktor-Authentifizierung (2FA) - Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=de)
 - [Konfigurieren der Zwei-Faktor-Authentifizierung (2FA) - Entwicklerdokumentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

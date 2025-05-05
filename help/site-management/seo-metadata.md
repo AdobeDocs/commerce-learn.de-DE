@@ -34,4 +34,4 @@ Ihr Store enth채lt Orte, an denen Sie schl체sselwortreiche Metadaten eingeben k�
 
 ## Zus채tzliche Ressourcen
 
-[Metadaten - [!DNL Commerce] Handbuch f체r Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metadaten - [!DNL Commerce] Handbuch f체r Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=de)

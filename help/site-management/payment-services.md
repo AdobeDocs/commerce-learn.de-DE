@@ -38,5 +38,5 @@ Für kleine Unternehmen, Mitbewerber oder große Unternehmen tragen Payment Serv
 
 ## Zusätzliche Ressourcen
 
-- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=de)
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de)

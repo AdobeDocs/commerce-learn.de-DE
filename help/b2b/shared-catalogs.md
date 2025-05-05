@@ -36,5 +36,5 @@ Wenn die Funktion „Freigegebener Katalog“ in der Konfiguration aktiviert ist
 
 ## Zusätzliche Ressourcen
 
-- [Arbeiten mit freigegebenen Katalogen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Erstellen eines freigegebenen Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [Arbeiten mit freigegebenen Katalogen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=de){target="_blank"}
+- [Erstellen eines freigegebenen Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=de){target="_blank"}

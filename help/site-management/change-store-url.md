@@ -31,11 +31,11 @@ Jede Website in einer Adobe Commerce- oder Magento Open Source-Installation verf
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Store-URLs - [!DNL Commerce] Stores- und Kauferlebnis-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Verwenden einer benutzerdefinierten Admin-URL - [!DNL Commerce] Handbuch zu Stores und Purchase Experience](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [Store-URLs - [!DNL Commerce] Stores- und Kauferlebnis-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=de)
+- [Verwenden einer benutzerdefinierten Admin-URL - [!DNL Commerce] Handbuch zu Stores und Purchase Experience](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=de#use-a-custom-admin-url)

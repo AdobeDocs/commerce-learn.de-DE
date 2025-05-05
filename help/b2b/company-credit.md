@@ -43,5 +43,5 @@ Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter fe
 
 ## Zusätzliche Ressourcen
 
-- [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Firmenkredite verwalten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=de#configure-payment-on-account)
+- [Firmenkredite verwalten](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=de)

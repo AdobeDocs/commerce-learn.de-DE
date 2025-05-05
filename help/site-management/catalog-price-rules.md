@@ -34,5 +34,5 @@ Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem reduz
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Katalogpreisregel -  [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Erstellen einer Katalogpreisregel -  [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=de)
+- [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=de)

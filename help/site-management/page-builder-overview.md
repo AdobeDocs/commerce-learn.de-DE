@@ -44,5 +44,5 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Zusätzliche Ressourcen
 
-- [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=de)
 - [Page Builder-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/)

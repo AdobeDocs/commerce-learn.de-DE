@@ -33,5 +33,5 @@ Steuerregeln enthalten eine Kombination aus Produktklasse, Kundenklasse und Steu
 
 ## Zusätzliche Ressourcen
 
-- [Steuerregeln - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Währung - [!DNL Commerce] Stores und Kauferlebnishandbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Steuerregeln - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=de)
+- [Währung - [!DNL Commerce] Stores und Kauferlebnishandbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=de)

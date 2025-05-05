@@ -39,4 +39,4 @@ Am Frontend kann die Erfahrung mit Headless-Implementierungen den Prozess verein
 
 ## Verwandte Dokumentation
 
-[Was ist Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Was ist Adobe Commerce](https://experienceleague.adobe.com/de/docs/commerce-admin/start/about)
