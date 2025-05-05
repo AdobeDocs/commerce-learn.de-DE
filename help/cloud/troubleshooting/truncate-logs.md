@@ -33,7 +33,7 @@ Wenn Sie glauben, dass Sie diese Protokolldateien benötigen, können Sie sie `r
 - Wo sich einige häufig vorkommende große Protokolldateien befinden
 - Schnellmethode zum Abschneiden einer Protokolldatei
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454592?learn=on&captions=ger)
 
 
 ## Im Video verwendete Befehle

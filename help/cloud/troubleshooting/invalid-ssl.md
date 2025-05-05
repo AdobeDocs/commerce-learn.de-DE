@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie ein abgelaufenes SSL-Zertifikat identifizieren und dann ei
 - Geben Sie an, wann während des Prozesses ein neues Zertifikat erstellt wird.
 - Überprüfen Sie, ob das neue Zertifikat erwartungsgemäß funktioniert. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439768?learn=on&captions=ger)

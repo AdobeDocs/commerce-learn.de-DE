@@ -31,4 +31,4 @@ Erfahren Sie, wie Sie Filter für die Verwendung in Adobe Commerce Admin finden 
 * Erfahren Sie, wie Sie mit einem Filter die Ergebnisse eines Administratorrasters begrenzen können
 * In der Admin Console zu Adobe Commerce erfahren Sie, wie sich Filter auf andere Administratoren auswirken
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440391?learn=on&captions=ger)

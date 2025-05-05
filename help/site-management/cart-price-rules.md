@@ -30,7 +30,7 @@ Die Regeln für den Warenkorbpreis wenden Rabatte auf Artikel im Warenkorb an, d
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411359?quality=12&learn=on&captions=ger)
 
 ## Probleme mit der Preisanzeige
 

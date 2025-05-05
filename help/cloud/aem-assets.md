@@ -32,4 +32,4 @@ Die Integration von KI mit Adobe Commerce zentralisiert das Asset-Management, ve
 - Nahtlose Synchronisierung zwischen Produkten und Assets.
 - Vollständige Lebenszykluskontrolle einschließlich Genehmigung, Entfernung und Gültigkeit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434085?learn=on&captions=ger)

@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie mit der REST-API und der Adobe Commerce-Administratorin bz
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453086?learn=on&captions=ger)
 
 ## Geschenkkarte mit einfacher Payload erstellen
 

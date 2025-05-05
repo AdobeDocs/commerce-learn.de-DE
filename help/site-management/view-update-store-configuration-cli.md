@@ -27,7 +27,7 @@ Eine Demonstration zum Anzeigen, Festlegen und Suchen von Konfigurationswerten m
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439979?&learn=on&captions=ger)
 
 ## Einige im Tutorial verwendete Befehle
 

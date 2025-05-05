@@ -34,7 +34,7 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 - Erfahren Sie, wie die SQL gespeichert und zum Suchen eines übereinstimmenden Abfrage-Caches verwendet wird
 - Einige Tipps zu Konfigurationseinstellungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423384?learn=on&captions=ger)
 
 ## Nützliche Ressourcen
 

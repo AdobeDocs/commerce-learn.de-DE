@@ -38,7 +38,7 @@ Erfahren Sie, wie der Wiederholungsmechanismus im Kontext der Laufzeitaktionen d
 * Visuelle Indikatoren in der Entwicklerkonsole, z. B. Warnsymbole für fehlgeschlagene Ereignisse und Zirkularpfeilsymbole für erneut versuchte Ereignisse.
 * Die Laufzeitaktionen „Consumer“ spielen eine entscheidende Rolle bei der Bestimmung der geeigneten HTTP-Antwort-Status-Codes für die Ereignisbehandlung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449082?learn=on&captions=ger)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

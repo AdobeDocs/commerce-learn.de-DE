@@ -38,7 +38,7 @@ Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transakti
 * Der Coupon-Rabatt wird mithilfe von Warenkorbregeln und Fußzeilen-Slots angezeigt, um diese Informationen effektiv anzuzeigen.
 * Verwendung von Produktattributen und Slots zur Erweiterung und Anpassung der Warenkorbfunktion, um sicherzustellen, dass alle Projektanforderungen erfüllt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441125?learn=on&captions=ger)
 
 
 ## Zusätzliche Dokumentation

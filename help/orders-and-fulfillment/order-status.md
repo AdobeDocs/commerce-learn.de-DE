@@ -28,7 +28,7 @@ Wenn ein Kunde eine Bestellung aufgibt, wird ein Kundenauftrag als temporärer D
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411358?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

@@ -29,7 +29,7 @@ Bevor Sie Produkte zu Ihrem Katalog hinzufügen, müssen Sie die grundlegende Ka
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343746?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411961?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

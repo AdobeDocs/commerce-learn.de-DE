@@ -30,6 +30,6 @@ Erfahren Sie, wie Sie die Zeileneintragshinweise für ein Adobe Commerce B2B-Ang
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443494?learn=on&captions=ger)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

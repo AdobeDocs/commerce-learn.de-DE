@@ -35,7 +35,7 @@ Erfahren Sie Beispiele für die Anpassung des Edge Delivery Services-Warenkorbs,
 * Implementierung des mehrstufigen Checkouts&#x200B;
 * Wiederverwenden von vorhandenem Code und Best Practices
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442659?learn=on&captions=ger)
 
 ## Zusätzliche Dokumentation
 

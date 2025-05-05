@@ -37,4 +37,4 @@ Erfahren Sie mehr über das Starter Kit zur Adobe Commerce-Backoffice-Integratio
 * E/A-Ereignisse konfigurieren
 * Herstellen einer Verbindung zu einem Drittanbieter zum Synchronisieren von Daten
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452023?learn=on&captions=ger)

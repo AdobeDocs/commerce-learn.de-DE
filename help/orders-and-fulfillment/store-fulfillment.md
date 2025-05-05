@@ -45,7 +45,7 @@ Dieses Video bietet einen schnellen Überblick über die End-to-End-BOPIS-Erlebn
 >
 >Der Inhalt im Video spiegelt die Version Store Fulfillment Solution 1.0 wider, die in einer Storefront mit Adobe Commerce 2.4 installiert ist. Die [ Informationen finden Sie ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=de) „Store Fulfillment-Benutzerhandbuch“.
 
->[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447544?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

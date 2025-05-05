@@ -28,7 +28,7 @@ Wenn andere Personen in Ihrem Team oder Dienstleister Zugriff benötigen, könne
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443516?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

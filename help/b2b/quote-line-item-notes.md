@@ -32,6 +32,6 @@ Erfahren Sie, wie Sie die Positionsnotizen für ein Adobe Commerce B2B-Angebot v
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423692?learn=on&captions=ger)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

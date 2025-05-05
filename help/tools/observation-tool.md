@@ -28,7 +28,7 @@ In diesem Video erfahren Sie mehr über das Beobachtungs-Tool für Adobe Commerc
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411350?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

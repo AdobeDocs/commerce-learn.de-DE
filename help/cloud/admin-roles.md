@@ -33,4 +33,4 @@ Erfahren Sie, wie Sie sich mit Adobe ID oder Federated ID beim Adobe Commerce Ad
 - Verschaffen Sie sich ein gutes Verständnis über die Erstellung und Verwaltung von Rollen
 - Machen Sie sich mit der Benutzerzuweisung und den Zugriffsebenen vertraut. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433522?learn=on&captions=ger)

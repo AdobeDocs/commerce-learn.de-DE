@@ -26,6 +26,6 @@ Das folgende Video bietet einen technischen Überblick über ein Integrationsmus
 
 ## App Builder für Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430827?quality=12&learn=on&captions=ger)
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -33,4 +33,4 @@ _ Neue und Bestandskunden, die die Edge-Bereitstellungs-Storefront von Adobe Com
 - Gewinnen Sie ein Verständnis für Optimierung durch A/B-Tests.
 - Lernen Sie einige erweiterte Tools und die KI-Integration kennen, um Inhalte zu verfeinern, Varianten zu generieren und die allgemeine Werbestrategie zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433541?learn=on&captions=ger)

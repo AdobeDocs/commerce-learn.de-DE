@@ -36,7 +36,7 @@ Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und 
 * Erfahren Sie, wie Sie einen für die Warenkorbzusammenfassung gespeicherten Gesamtbetrag einbeziehen.
 * Erfahren Sie, wie Sie Zeilen in der Warenkorbzusammenfassung in einen ausblendbaren Abschnitt zusammenführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441194?learn=on&captions=ger)
 
 ## Zusätzliche Dokumentation
 

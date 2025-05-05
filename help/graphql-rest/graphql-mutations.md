@@ -24,7 +24,7 @@ ht-degree: 0%
 Dies ist Teil 3 der Serie für GraphQL und Adobe Commerce. Mutationen sind die Möglichkeit, Werte mithilfe von GraphQL zu speichern, zu aktualisieren und zurückzugeben.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441935?learn=on&captions=ger)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 

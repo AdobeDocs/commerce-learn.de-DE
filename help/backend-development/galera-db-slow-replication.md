@@ -37,7 +37,7 @@ Zur Lösung sollten Sie Ihre umfangreichen Vorgänge so stapelweise ausführen, 
 - Massenausführungen finden nur auf der primären Instanz statt. Die Replikationen erfolgen jeweils 1
 - Bündeln Sie Ihre umfangreichen Commits, damit die Replikation mit der primären Instanz Schritt halten kann
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423540?learn=on&captions=ger)
 
 ## Nützliche Ressourcen
 

@@ -29,7 +29,7 @@ Händler mit einem einzigen Lager für mehrere Lager, Läden, Abholstandorte, Dr
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411976?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

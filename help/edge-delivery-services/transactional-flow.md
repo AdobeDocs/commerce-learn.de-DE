@@ -37,7 +37,7 @@ Gewinnen Sie ein Verständnis dafür, wie Sie den Adobe Commerce-Warenkorb ableg
 * Flexibilität bei A/B-Tests. Konfigurationen über SharePoint ermöglicht es Marketing-Experten, diese Funktionen zu steuern und zu testen.
 * Verbesserte Marketing-Kontrolle. Einfaches Verwalten und Testen von Konfigurationen, wodurch das Benutzererlebnis und die Marketing-Effektivität verbessert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442360?learn=on&captions=ger)
 
 ## Zusätzliche Dokumentation
 

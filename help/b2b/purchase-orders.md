@@ -37,7 +37,7 @@ Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmi
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411353?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie ein Support-Ticket in Experience League für Adobe Commerc
 * Erfahren Sie, wie sich die empfohlenen Artikel je nach den im Formular verwendeten Informationen ändern
 * Wenn Sie verstehen, wie der Platzhaltertext in den Formularfeldern verwendet wird, können Sie die Art der Informationen verstehen, die für eine sinnvolle Support-Anfrage erforderlich sind
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449562?learn=on&captions=ger)
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 

@@ -35,4 +35,4 @@ Es lÃ¤sst sich nahtlos in digitale Erlebnis-Tools von Adobe integrieren und ermÃ
 - Echtzeit-Personalisierung und effizientes Management digitaler Assets
 - Empowerment von nicht-technischen Anwendern
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448395?learn=on&captions=ger)

@@ -33,4 +33,4 @@ In diesem Dokument werden auch die Synchronisierung von Tabellen mit dem Data Wa
 
 ## Integrationen und Konfigurationen
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452699?learn=on&captions=ger)

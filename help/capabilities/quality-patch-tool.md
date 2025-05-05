@@ -39,7 +39,7 @@ Das Quality Patches Tool ist ein Befehlszeilenprogramm für Adobe Commerce und M
 
 Diese Patches wurden von Adobe-Entwicklern und der Magento Open Source-Community entwickelt, um die Stabilität und Leistung zu verbessern. Beachten Sie, dass dies für die Anwendung einer großen Anzahl von Patches nicht empfohlen wird, da zukünftige Upgrades komplizierter werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454079?learn=on&captions=ger)
 
 ## Wozu dient das Quality Patch-Tool?
 

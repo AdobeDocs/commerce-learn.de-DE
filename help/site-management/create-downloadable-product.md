@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladb
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453955?learn=on&captions=ger)
 
 ## Zulässige herunterladbare Domains
 

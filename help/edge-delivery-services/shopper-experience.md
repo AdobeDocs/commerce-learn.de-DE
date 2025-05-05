@@ -43,4 +43,4 @@ Effektive Navigation und Nutzung der Funktionen der Adobe Commerce-Storefront. D
 * Erfahren Sie, wie Sie Bestellungen verwalten, einschließlich des Hinzufügens von Artikeln zum Warenkorb, des Auscheckens als Gast, des Stornierens von Bestellungen und der Neubestellung von Artikeln.
 * Gewinnen Sie Einblicke in die Aktualisierung von Kontoinformationen, die Zusammenführung von Gast- und Kundenwagen und die Sicherstellung eines reibungslosen Checkout-Erlebnisses.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446771?learn=on&captions=ger)

@@ -33,4 +33,4 @@ Adobe Commerce ermöglicht Unternehmen die Verwaltung mehrerer Stores, Marken od
 - Lokalisierung und Anpassung
 - Skalierbarkeit und Flexibilität
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434036?learn=on&captions=ger)

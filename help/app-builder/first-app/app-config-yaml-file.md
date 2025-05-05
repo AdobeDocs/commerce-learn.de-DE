@@ -31,7 +31,7 @@ Diese Datei bestimmt die Konfiguration für das Programm.
 * Die besprochene `app.config.yaml`
 * Verknüpfen von Definitionen mit anderen `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430838?quality=12&learn=on&captions=ger)
 
 ## Code-Beispiel
 

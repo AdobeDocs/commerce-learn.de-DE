@@ -34,7 +34,7 @@ Erfahren Sie, wie Sie Adobe Commerce konfigurieren, um die Ereignisse anzuzeigen
 * Eindeutige Kennung im Commerce Admin speichern
 * Erstellen eines Ereignisanbieters
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430613?quality=12&learn=on&captions=ger)
 
 ## Nützliche Befehle {#useful-commands}
 

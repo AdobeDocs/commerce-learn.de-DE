@@ -61,7 +61,7 @@ Beim Erstellen von Bundle-Produkten über den Adobe Commerce-Administrator könn
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454511?learn=on&captions=ger)
 
 ## Erstellen von Produkten mit REST
 

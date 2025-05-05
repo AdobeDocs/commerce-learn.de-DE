@@ -40,4 +40,4 @@ Erfahren Sie, wie Sie Adobe Live Search-Konfigurationen und -Einstellungen verwe
 * Erläuterung der regelbasierten Ranking-Typen
 * GraphQL-API-Introspektion
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454467?learn=on&captions=ger)

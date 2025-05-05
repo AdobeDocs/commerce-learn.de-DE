@@ -30,7 +30,7 @@ Erfahren Sie mehr über die SaaS-Angebote, den Support und andere Kommunikations
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432832?learn=on&captions=ger)
 
 ## Akronyme
 

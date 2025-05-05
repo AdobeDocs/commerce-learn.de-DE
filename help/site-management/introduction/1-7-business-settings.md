@@ -41,7 +41,7 @@ In diesem Video:
 >
 >Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330032?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

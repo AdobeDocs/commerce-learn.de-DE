@@ -29,7 +29,7 @@ Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411963?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

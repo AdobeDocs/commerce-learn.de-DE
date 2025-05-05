@@ -35,4 +35,4 @@ Die Implementierung eines Code-Freeze während der Adobe Commerce-Migration ist 
 * Koordination manueller und automatisierter Tests, Belastungstests und Penetrationstests, um sicherzustellen, dass alle Aspekte der Website wie erwartet funktionieren.
 * Einbindung von Stakeholdern aus der Wirtschaft, Entwicklern und IT-Teams in den Validierungsprozess, um einen reibungslosen und erfolgreichen Launch sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445498/?learn=on&captions=ger)

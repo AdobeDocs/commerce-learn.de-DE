@@ -31,7 +31,7 @@ Kundensegmente ermöglichen es Ihnen, Inhalte und Promotions für bestimmte Kund
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411974?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

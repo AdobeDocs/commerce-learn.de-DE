@@ -29,7 +29,7 @@ Adobe Commerce verwendet Attribute, um die mit Produkten, Kunden und Produktbewe
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411959?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

@@ -30,7 +30,7 @@ Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem reduz
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411361?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

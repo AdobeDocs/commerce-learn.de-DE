@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie in Experience League für Adobe Commerce Watchers hinzufü
 * Informationen zum Schließen eines Support-Tickets
 * So öffnen Sie ein Support-Ticket erneut
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441361?learn=on&captions=ger)
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 

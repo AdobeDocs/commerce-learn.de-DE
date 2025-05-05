@@ -33,6 +33,6 @@ Der Adobe Commerce Marketplace akzeptiert jetzt Einreichungen für die Auflistun
 * Technische und Marketing-Abschnitte der App-Übermittlung
 * Beispiel-E-Mail, die Sie erhalten, nachdem die App die Überprüfung bestanden hat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447353?captions=ger)
 
 {{$include /help/_includes/app-builder-related-links.md}}

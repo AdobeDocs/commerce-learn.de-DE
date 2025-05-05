@@ -32,7 +32,7 @@ Wenn die Funktion „Freigegebener Katalog“ in der Konfiguration aktiviert ist
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411351?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

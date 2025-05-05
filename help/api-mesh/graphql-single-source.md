@@ -35,7 +35,7 @@ In diesem Video erfahren Entwicklerinnen und Entwickler, wie sie ein Netz mit ei
 * Erstellen eines Netzes aus einer JSON-Konfigurationsdatei
 * Zugreifen auf den neu erstellten GraphQL-Endpunkt
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430825?quality=12&learn=on&captions=ger)
 
 ## Erstellen der JSON-Konfigurationsdatei
 

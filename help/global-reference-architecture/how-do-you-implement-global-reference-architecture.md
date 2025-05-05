@@ -38,6 +38,6 @@ Erfahren Sie, wie Sie die globale Referenzarchitektur (kurz GRA) implementieren.
 * Globales Control Board - welche Funktionen zu bearbeiten sind
 * Alternativkonzept für die Verwendung von GRA als Modul-Marketplace
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457217?learn=on&captions=ger)
 
 {{$include /help/_includes/gra-related-links.md}}

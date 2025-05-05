@@ -39,7 +39,7 @@ Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter fe
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411352?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

@@ -33,4 +33,4 @@ Erfahren Sie, wie Sie in New Relic benutzerdefinierte Warnhinweise erstellen, um
 * Verstehen, wie Schwellenwerte für Warnhinweise basierend auf der Datenaggregation festgelegt werden können.
 * Konfigurieren Sie Warnhinweise mit Schweregraden und weisen Sie sie bestehenden Richtlinien zu, um Benachrichtigungs-Workflows und Ziele zu steuern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440780?learn=on&captions=ger)

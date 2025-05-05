@@ -30,7 +30,7 @@ Mit Regeln für verwandte Produkte können Sie die Auswahl von Produkten auswäh
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417565?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

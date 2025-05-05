@@ -30,7 +30,7 @@ Ein Block ist eine modulare Inhaltseinheit, die sich am meisten an einer beliebi
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417566?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 
