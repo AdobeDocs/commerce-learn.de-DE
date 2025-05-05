@@ -26,7 +26,7 @@ Diese Checkliste soll Sie bei der Planung und Ausführung eines erfolgreichen St
 
 Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor dem Start der neuen Adobe Commerce Cloud-Site an diesen und den Account Manager, um ihn über Ihre **Absicht** zu informieren.
 
-- Einige Prüfungen werden mit &quot;[!BADGE &quot; ]{type=caution tooltip="Potenzieller Blocker"}
+- Einige Prüfungen werden mit &quot;[!BADGE &quot; &#x200B;]{type=caution tooltip="Potenzieller Blocker"}
 - Arbeiten Sie mit Ihrem Entwickler oder Systemintegrationspartner zusammen, um Ihren Implementierungsansatz zu übernehmen.
 
 >[!IMPORTANT]
@@ -37,7 +37,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 1. Lesen Sie die Dokumentation zum Testen und zur Live[Schaltung (Dokumentation zum Site-Launch](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar die Best Practices für die Adobe betont _**sie jedoch (**_) nicht an die Stelle Ihres eigenen Plans für die Live-Schaltung tritt.
+   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar die Best Practices für die Adobe betont _&#x200B;**sie jedoch (**&#x200B;_) nicht an die Stelle Ihres eigenen Plans für die Live-Schaltung tritt.
 
 2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"}[Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Endbenutzer/Händler haben UAT (User Acceptance Testing) durchgeführt, einschließlich Backend-Vorgänge.
@@ -62,7 +62,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 3. Stellen Sie sicher, dass Fastly Image Optimization aktiviert ist [siehe Fastly Image Optimization](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Stellen Sie sicher, dass der richtige Shield-Speicherort konfiguriert ist ([Konfigurieren des Cache, der Backends und der Ursprungsabschirmung](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
 5. Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen)
-6. Aktualisieren Sie die Liste „Ignorierte URL](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly [ im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
+6. Aktualisieren Sie die Liste „Ignorierte URL[&#128279;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly  im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
 
    >[!NOTE]
    > In der Fastly-Konfiguration unter _Admin > Stores > Konfigurationen > System > Vollständiger Seiten-Cache > Fastly-Konfiguration > Erweiterte Konfiguration > Ignorierte URL-Parameter (global)_ finden Sie eine kommagetrennte Liste von Parametern, die Fastly bei der Suche nach zwischengespeicherten Seiten ignorieren sollte. Bitte stellen Sie sicher, dass Sie die VCL nach der Änderung dieser Liste erneut hochladen

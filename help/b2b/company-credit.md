@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Firmenkredite verwalten
 
-Für Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert haben und Firmenkredite verfügbar haben, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
+Für Unternehmen, die _[!UICONTROL Payment on Account]_&#x200B;aktiviert haben und Firmenkredite verfügbar haben, können sie bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
 
 Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter festgelegt werden:
 

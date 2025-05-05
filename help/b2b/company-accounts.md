@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Verwalten von Unternehmenskonten
 
-Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
+Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
 
 {{b2b-feature}}
 
