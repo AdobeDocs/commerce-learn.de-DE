@@ -1,6 +1,6 @@
 ---
 title: Übernahme und Aktivierung von Erfolgsbeschleunigern
-description: Einführung und Unterstützung von Adobe Commerce Success Accelerator für strategische Entwicklung, Kompetenzverbesserung und Governance
+description: Erfahren Sie mehr über die Verwendung von Adobe Commerce Success Accelerator und die Unterstützung für strategische Entwicklung, Kompetenzverbesserung und Governance.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,15 +9,15 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
-source-git-commit: 11384ef49c6cfe3d59a7cee22cdca8ceb123d7d6
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
+source-git-commit: 34e15bd8c440b2f63fbf43e29fdd2961c72301f6
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
-# Übernahme und Aktivierung von Erfolgsbeschleunigern
+# Einführung und Aktivierung von Erfolgsbeschleunigern
 
 Adobe Commerce Success Accelerators für die Einführung und Aktivierung umfassen drei wichtige Services: Anwendungsfall- und KPI-Entwicklung, Coaching vor Ort und Tool- und Feature-Governance-Strategie. Diese Services bieten Anleitungen für die Entwicklung von strategischen Plänen und Roadmaps, die Unterstützung mehrerer Sitzungen zum Schließen von Qualifikationslücken und Governance-Strategien, um eine ordnungsgemäße Produktakzeptanz sicherzustellen. Ziel ist es, die Nutzung und Effektivität von Adobe Commerce-Produkten durch Best Practices und zielgerichteten Support zu verbessern.
 
