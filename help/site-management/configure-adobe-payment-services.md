@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 source-git-commit: 182563f9f53cc2de5a1a0577d6d0ee39d0874cef
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -34,6 +34,6 @@ Um mit Zahlungs-Services für Adobe Commerce und Magento Open Source zu beginnen
 
 ## Zusätzliche Ressourcen
 
-- [Onboarding-Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Onboarding-Zahlungsdienste](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=de){target="_blank"}
+- [Handbuch für Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=de){target="+blank"}
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de){target="+blank"}
