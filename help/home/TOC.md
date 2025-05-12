@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
+source-git-commit: 7af996c024ded08890ffc8ab88444bce2c26428d
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '859'
 ht-degree: 3%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 3%
       + [Technische Bereitschaft für Erfolgsbeschleuniger](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Einführung und Aktivierung von Erfolgsbeschleunigern](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
       + [Vorbereitung der Organisation für Erfolgsbeschleuniger](../commerce-conversations/success-accelerators-organizational-readiness.md)
+      + [Geteilte Verantwortung](../commerce-conversations/shared-responsibility.md)
 + GraphQL und Rest {#graphql-rest}
    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
    + [Abfragen](../graphql-rest/graphql-queries.md)
@@ -229,7 +230,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
