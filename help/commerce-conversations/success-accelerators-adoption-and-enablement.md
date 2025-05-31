@@ -34,4 +34,4 @@ Adobe Commerce Success Accelerators für die Einführung und Aktivierung umfasse
 * Multi-Session-Coaching vor Ort, um Qualifikationslücken zu schließen und strategische Prioritäten auszurichten.
 * Erstellung von Zugriff, Berechtigungen und Design-Governance, um eine ordnungsgemäße Produktakzeptanz und Best Practices sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463087/?learn=on&enablevpops&captions=ger)
