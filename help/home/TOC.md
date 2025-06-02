@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
+source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Konfigurationswerte](../cloud/troubleshooting/config-values.md)
       + [Protokolle kürzen](../cloud/troubleshooting/truncate-logs.md)
+   + [HIPAA-fähiges Hosting](../cloud/hippa-ready-hosting.md)
    + [IP-Adresse erkennen](../cloud/detect-ip-address.md)
    + [Marktstruktur](../cloud/marketecture.md)
    + [Modell für globale Sendungen](../cloud/global-delivery-model.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -245,23 +246,24 @@ ht-degree: 3%
    + [Herstellen einer Verbindung zur Adobe Commerce-Datenbank und Herunterladen der Datenbank](../backend-development/remote-db-connection-execute-queries.md)
 + Native Frontend-Luma-Entwicklung {#frontend-development}
    + Page Builder für Entwickler {#page-builder}
-      + [1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
-      + [2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
-      + [3. Themen](../frontend-development/page-builder/3-themes.md)
-      + [4. Vorlagen und Stile](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-      + [5. Benutzerdefinierte Designs](../frontend-development/page-builder/5-customize-theme.md)
-      + [6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
+      + [&#x200B;1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
+      + [&#x200B;2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
+      + [&#x200B;3. Themen](../frontend-development/page-builder/3-themes.md)
+      + [&#x200B;4. Vorlagen und Stile](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+      + [&#x200B;5. Benutzerdefinierte Designs](../frontend-development/page-builder/5-customize-theme.md)
+      + [&#x200B;6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
    + [Erstellen einer Seite](../frontend-development/create-page.md)
 + Headless-Architektur {#headless-architecture}
    + Einführung in Headless {#introduction-to-headless}
       + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
    + Einführung in PWA Studio {#introduction}
-      + [1. Übersicht](../pwa/introduction/1-overview.md)
-      + [2. PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
-      + [3. Launch](../pwa/introduction/3-launch.md)
+      + [&#x200B;1. Übersicht](../pwa/introduction/1-overview.md)
+      + [&#x200B;2. PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
+      + [&#x200B;3. Launch](../pwa/introduction/3-launch.md)
       + [4 - NACH OBEN](../pwa/introduction/4-upward.md)
-      + [5. Erste Schritte](../pwa/introduction/5-getting-started.md)
-      + [6. Peregrine](../pwa/introduction/6-peregrine.md)
+      + [&#x200B;5. Erste Schritte](../pwa/introduction/5-getting-started.md)
+      + [&#x200B;6. Peregrine](../pwa/introduction/6-peregrine.md)
    + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
    + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
+
