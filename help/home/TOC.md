@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -128,7 +128,6 @@ ht-degree: 3%
    + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionsdemonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Mobile App an den Marketplace senden](../app-builder/submit-app-process.md)
    + Erstellen Ihres ersten App Builder-Programms {#first-app}
       + [Übersicht](../app-builder/first-app/overview.md)
       + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
@@ -236,7 +235,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
