@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -43,10 +43,10 @@ ht-degree: 3%
       + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-      + [Übersicht](../commerce-as-a-cloud-service/overview.md)
+      + [Überblick](../commerce-as-a-cloud-service/overview.md)
       + [Architektur](../commerce-as-a-cloud-service/architecture.md)
    + Migration zu Adobe Commerce{#migrating-to-adobe-commerce}
-      + [Übersicht](../migrating-to-adobe-commerce/overview.md)
+      + [Überblick](../migrating-to-adobe-commerce/overview.md)
       + Vorbereitung{#preparation}
          + [Team und Projekt auswerten](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
       + Anpassungen{#customizations}
@@ -79,9 +79,9 @@ ht-degree: 3%
       + [Webhook-Aufnahme](../back-office-integrations/webhook-ingestion.md)
       + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
 + Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [Übersicht](../adobe-commerce-optimizer/overview.md)
+   + [Überblick](../adobe-commerce-optimizer/overview.md)
 + Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
-   + [Übersicht](../global-reference-architecture/overview.md)
+   + [Überblick](../global-reference-architecture/overview.md)
    + [Git teilen](../global-reference-architecture/split-git.md)
    + [Massenpakete](../global-reference-architecture/bulk-packages.md)
    + [Separate Packages](../global-reference-architecture/separate-packages.md)
@@ -129,7 +129,7 @@ ht-degree: 3%
    + [Funktionsdemonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
    + Erstellen Ihres ersten App Builder-Programms {#first-app}
-      + [Übersicht](../app-builder/first-app/overview.md)
+      + [Überblick](../app-builder/first-app/overview.md)
       + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
       + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
       + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
       + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
       + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
-   + API-Mesh {#api-mesh}
-      + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
-      + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
-      + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
++ API-Mesh {#api-mesh}
+   + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
+   + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
+   + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
 + Store-Administration {#admin}
    + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
    + [Zwei-Faktor-Authentifizierung](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [&#x200B;6. Peregrine](../pwa/introduction/6-peregrine.md)
    + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
    + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
-
