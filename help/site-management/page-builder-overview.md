@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder]'
+title: Übersicht über [!DNL Page Builder]
 description: Erfahren Sie, wie Sie Seiten  [!DNL Commerce] Store-Seiten in Admin erstellen können mit [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
@@ -11,14 +11,15 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 1%
 
 ---
 
-# [!DNL Page Builder]
+# Übersicht über [!DNL Page Builder]
 
 [!DNL Page Builder] ist es einfach, inhaltsreiche Seiten mit benutzerdefinierten Layouts zu erstellen, die Ihr visuelles Storytelling verbessern und die Kundeninteraktion und -loyalität fördern.
 
@@ -40,9 +41,9 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3447903?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=de)
+- [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 - [Page Builder-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/)

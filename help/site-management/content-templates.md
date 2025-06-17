@@ -10,9 +10,10 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -28,9 +29,9 @@ Die Verwendung von Vorlagen spart Ihnen Zeit und Mühe bei der Erstellung von In
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411360?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [[!DNL Page Builder] templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=de)
+- [[!DNL Page Builder] templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 - [Add templates - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
