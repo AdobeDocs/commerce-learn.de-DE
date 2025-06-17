@@ -29,7 +29,7 @@ Die Verwendung von Vorlagen spart Ihnen Zeit und Mühe bei der Erstellung von In
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411360?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 

@@ -41,7 +41,7 @@ In diesem Video erfahren Sie, wie Sie:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447903?quality=12&learn=on&captions=ger)
 
 ## Zusätzliche Ressourcen
 
