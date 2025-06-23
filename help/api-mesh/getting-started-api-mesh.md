@@ -12,7 +12,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
+source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 15%
@@ -51,6 +51,6 @@ Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt.
 Wenn Sie Adobe App Builder und API Mesh verwenden, müssen Sie nicht verstehen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktionalität für Adobe App Builder interessiert sind, verwenden Sie die folgenden Ressourcen:
 
 * [Was ist ein Reverse-Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League Communities - Reverse-Proxy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=de){target="_blank"}
+* [Experience League Communities - Reverse-Proxy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
