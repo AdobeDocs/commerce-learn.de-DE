@@ -51,6 +51,6 @@ Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt.
 Wenn Sie Adobe App Builder und API Mesh verwenden, müssen Sie nicht verstehen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktionalität für Adobe App Builder interessiert sind, verwenden Sie die folgenden Ressourcen:
 
 * [Was ist ein Reverse-Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League Communities - Reverse-Proxy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+* [Experience League Communities - Reverse-Proxy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=de){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
