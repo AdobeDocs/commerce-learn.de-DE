@@ -37,4 +37,4 @@ Erfahren Sie mehr über die GitHub-Workflows, die im API Mesh-Starter-Kit für d
 
 * [API Mesh-Starter-Kit GitHub repo](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Implementierungshandbuch für Adobe Developer OAuth Server-zu-Server](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Playlist of API Mesh videos](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Playlist of API Mesh videos](https://experienceleague.adobe.com/de/playlists/commerce-get-started-app-builder-and-api-mesh)
