@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '884'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
 + API-Mesh {#api-mesh}
    + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Workflows für API Mesh-Starter-Kits](../api-mesh/starter-kit-workflows.md)
    + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
    + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
    + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
@@ -236,7 +237,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
