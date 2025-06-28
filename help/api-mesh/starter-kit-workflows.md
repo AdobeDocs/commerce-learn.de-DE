@@ -31,7 +31,7 @@ Erfahren Sie mehr über die GitHub-Workflows, die im API Mesh-Starter-Kit für d
 * Der Workflow zum Bereitstellen von Mesh , der automatisch ein Mesh bereitstellt oder aktualisiert
 * Belastungstests mit dem K6-Lasttest-Workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464533?learn=on&enablevpops&captions=ger)
 
 ## Verwandte Dokumentation
 
