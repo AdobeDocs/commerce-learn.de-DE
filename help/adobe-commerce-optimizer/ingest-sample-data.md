@@ -37,5 +37,5 @@ Erfahren Sie, wie Sie die Beispieldaten für Ihre Adobe Commerce Optimizer-Insta
 ## Verwandte Inhalte
 
 * [GitHub-Repository - Beispieldaten](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Admin-Anwendungsfall](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Admin-Anwendungsfall](https://experienceleague.adobe.com/de/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/get-started){target="_blank"}
