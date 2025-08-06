@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie Ihre erste Adobe Commerce Optimizer-Instanz von Anfang bis
 * Wählen Sie die richtige Umgebung und Region für Ihre Instanz aus.
 * Schnelle Bereitstellung und Vorbereitung der Katalogeinrichtung in zukünftigen Tutorials.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469887?learn=on&enablevpops&captions=ger)
 
 ## Verwandte Inhalte
 
