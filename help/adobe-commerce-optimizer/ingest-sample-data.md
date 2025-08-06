@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie die Beispieldaten für Ihre Adobe Commerce Optimizer-Insta
 * Richtlinien erstellen.
 * Erstellen Sie Katalogansichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470483?learn=on&enablevpops&captions=ger)
 
 ## Verwandte Inhalte
 
