@@ -9,13 +9,13 @@ doc-type: Tutorial
 duration: 139
 last-substantial-update: 2025-07-29T00:00:00Z
 jira: KT-18638
-source-git-commit: 76313a9901493f5271157e8bd8819a1a5ddcf6ab
+exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
+source-git-commit: f2141e51bd029611e8ee086dbc20d56447e98faa
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Verwalten von Instanzen von Adobe Commerce Optimizer
 
@@ -33,10 +33,10 @@ Erfahren Sie, wie Sie eine Adobe Commerce Optimizer-Instanz verwalten, um Namen 
 * Name und Beschreibungen aktualisieren
 * Suchen nach wichtigen Endpunkten und Kennungen für Integrationen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470241?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
 
 ## Verwandte Inhalte
 
-* [Was ist Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
-* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Anleitung](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
