@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 68f2108d3526cf4159cafc9259c1692a7dc98267
+source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '913'
 ht-degree: 3%
 
 ---
@@ -129,6 +129,7 @@ ht-degree: 3%
    + [Mutationen](../graphql-rest/graphql-mutations.md)
    + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
+   + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
    + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Funktionsdemonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -242,7 +243,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
