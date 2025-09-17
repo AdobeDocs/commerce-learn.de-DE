@@ -34,7 +34,7 @@ Erfahren Sie, wie Sie mit Adobe Commerce Cloud Projekte und Umgebungen verwalten
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474970/?learn=on&enablevpops&captions=ger)
 
 ## Verwandte Inhalte und Dokumentation
 
