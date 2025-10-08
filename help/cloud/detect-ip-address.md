@@ -10,7 +10,7 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Das Magento-Cloud-CLI-Tool unterstützt Entwickler und Systemadministratoren bei
 
 In diesem ersten Abschnitt des Beispiel-Codes fordert `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` die URL für die Umgebung an. Der zurückgegebene Wert sieht in etwa wie `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/` aus. Ab und zu sieht es mehr so aus wie dieses `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Dieser erste Befehl ist recht einfach, und jetzt ist es an der Zeit, mit dem nächsten Befehl fortzufahren.
 
-Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Verwenden von `sed` für Suchen und Ersetzen
 
@@ -120,4 +120,4 @@ Diese Umgebungen auf niedrigerer Ebene sind mandantenfähig und teilen die zugru
 
 ## Verwandte Dokumentation
 
-* [Regionale IP-Adressen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Regionale IP-Adressen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
