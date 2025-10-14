@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '922'
 ht-degree: 3%
 
 ---
@@ -106,6 +106,10 @@ ht-degree: 3%
       + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
       + [Customer-experience](../edge-delivery-services/shopper-experience.md)
 + Webinare und Veranstaltungen {#webinars-and-events}
+   + Geschäftswachstum {#business-growth}
+      + [KI-Innovation](../business-growth/ai-innovation.md)
+      + [Vision nach vorn](../business-growth/vision-forward.md)
+      + [Produktakzeptanz](../business-growth/product-adoption.md)
    + Die Zukunft Commerces {#future-of-commerce}
       + [Ankündigungen zu neuen Produkten](../future-of-commerce/new-product-announcements.md)
       + [Drastische Kostensenkung](../future-of-commerce/drastically-cut-costs.md)
@@ -243,7 +247,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)

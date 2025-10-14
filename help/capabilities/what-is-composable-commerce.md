@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Composable Commerce ist ein architektonischer Ansatz im E-Commerce, der die Entkopplung der Frontend-Präsentationsebene von der Backend-Commerce-Funktion beinhaltet. &#x200B; Es ermöglicht Unternehmen, die besten Komponenten oder Module auszuwählen und zu kombinieren, um eine individuelle Lösung zu erstellen. Dieser Ansatz beinhaltet die Aufschlüsselung der herkömmlichen monolithischen E-Commerce-Plattform in kleinere, unabhängige Services oder Microservices, die zusammen zusammengestellt werden können. Composable Commerce bietet Vorteile wie Flexibilität, Skalierbarkeit, Anpassung, Agilität und die Möglichkeit zur einfacheren Integration mit anderen Systemen und Technologien.
 
-Adobe Commerce bietet viele Funktionen und Tools, mit denen Händler zusammenstellbaren Commerce annehmen und implementieren können. Adobe Commerce bietet eine zusammensetzbare Commerce-Methodik und hybride Headless- und Nicht-Headless-Frontend-Erlebnisse. Aus Gründen der Prozesserweiterbarkeit bietet Adobe API Mesh zur Integration mehrerer Services und Adobe App Builder zur Erstellung benutzerdefinierter Microservices.
+Adobe Commerce bietet viele Funktionen und Tools, mit denen Händler zusammenstellbaren Commerce annehmen und implementieren können. Adobe Commerce bietet eine zusammensetzbare Commerce-Methodik und hybride Headless- und Nicht-Headless-Frontend-Erlebnisse. Mit Blick auf die prozessexterne Erweiterbarkeit bietet Adobe API Mesh zur Integration mehrerer Services sowie Adobe App Builder zur Erstellung benutzerdefinierter Microservices.
 
 ## Warum ist Composable Commerce wichtig?
 
@@ -73,7 +73,7 @@ Composable Commerce ist ein architektonischer Ansatz im E-Commerce, der die Entk
 
 **Überlegungen:** Bei der Betrachtung von zusammensetzbarem Commerce sollten Faktoren wie Komplexität, interne technische Reife, Projektgröße und -struktur, Anpassung vs. Standardisierung, Gesamtbetriebskosten sowie Sicherheit und Datenschutz sorgfältig bewertet werden.
 
-**Adobe Commerce:** Adobe Commerce bietet Funktionen und Tools, mit denen Händler zusammensetzbaren Commerce annehmen und implementieren können. Dazu gehören eine zusammenstellbare Commerce-Methodik, umfangreiche Funktionen, hybride Frontend-Erlebnisse, API Mesh für die Integration und das Adobe von App Builder für benutzerdefinierte Microservices.
+**Adobe Commerce:** Adobe Commerce bietet Funktionen und Tools, mit denen Händler zusammensetzbaren Commerce annehmen und implementieren können. Dazu gehören eine zusammenstellbare Commerce-Methodik, umfangreiche Funktionen, hybride Frontend-Erlebnisse, API Mesh für die Integration und Adobe App Builder für benutzerdefinierte Microservices.
 
 **Geschäftsauswirkungen:** Composable Commerce ermöglicht Unternehmen die Erstellung einer hochgradig flexiblen, skalierbaren und anpassbaren E-Commerce-Plattform. Sie ermöglicht es ihnen, einzigartige Kundenerlebnisse bereitzustellen, auf der Grundlage der Nachfrage zu skalieren, in andere Systeme zu integrieren, ihren Betrieb zukunftssicher zu gestalten und Entwickler-Know-how zu nutzen.
 
