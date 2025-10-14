@@ -33,4 +33,4 @@ Erfahren Sie, wie Adobe Commerce den eCommerce mit innovativen KI-Lösungen und 
 * Beschleunigung der globalen Expansion mit Kataloginnovation
 * Verbessern des Storefront-Erlebnisses durch Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475704/?learn=on&enablevpops&captions=ger)

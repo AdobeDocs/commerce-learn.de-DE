@@ -35,4 +35,4 @@ Adobe Commerce erleichtert das Wachstum von Unternehmen, indem es ihnen den schr
 * Die Erweiterbarkeit von App Builder ermöglicht die Entkopplung benutzerdefinierter Logik in Server-lose Funktionen, wodurch die Wartung vereinfacht wird.
 * Storefront-Verbesserungen verbessern die Leistung und Inhaltserstellung mit Dropdown-Komponenten und Edge-Bereitstellung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475757/?learn=on&enablevpops&captions=ger)
