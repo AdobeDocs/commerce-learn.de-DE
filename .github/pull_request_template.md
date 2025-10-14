@@ -44,7 +44,7 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Haben Sie die [Benennungsstandards“ ](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Haben Sie die [Benennungsstandards“ &#x200B;](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] Das Inhaltsverzeichnis und die H1 stimmen für jede Seite überein, die erstellt oder aktualisiert wird.
 - [ ] Dem Inhaltsverzeichnis und dem H1 ist eine Aktion zugeordnet, z. B.: Erfahren Sie, wie Sie eine GutHub-Pull-Anfrage erstellen
 - [ ] Nothing sollte in H1 mit gleichmäßigem Abstand vorliegen.

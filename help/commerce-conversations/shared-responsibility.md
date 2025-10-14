@@ -39,5 +39,5 @@ Erfahren Sie, wie Adobe und Händler gemeinsam für die Sicherheit in Adobe Comm
 
 * [Versionshinweise zum Sicherheits-Patch](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/security-patches/overview)
 * [Benachrichtigungskanäle](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe-Sicherheitsbulletins](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Adobe-Sicherheitsbulletins](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [Sichern Ihrer Commerce-Site und -Infrastruktur](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

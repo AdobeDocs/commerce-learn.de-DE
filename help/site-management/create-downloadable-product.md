@@ -54,7 +54,7 @@ Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _download
 
 Nachdem die Domain der `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains)Konfigurationsreferenz“.
+Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains)Konfigurationsreferenz“.
 
 >[!IMPORTANT]
 >In einigen Versionen von Adobe Commerce wird möglicherweise die folgende Fehlermeldung angezeigt, wenn ein Produkt in der Admin-Abteilung von Adobe Commerce bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, aber der verknüpfte Download hat einen `null` Preis.
@@ -63,7 +63,7 @@ Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/comm
 
 Um diesen Fehler zu beheben, verwenden Sie die Update-Link-API: `POST V1/products/{sku}/downloadable-links.`
 
-Weitere Informationen finden [ im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
+Weitere Informationen finden [&#x200B; im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
 
 ## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Download vom Remote-Server)
 

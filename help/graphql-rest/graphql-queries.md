@@ -206,6 +206,6 @@ In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und
 
 Wie Sie gesehen haben, dass die eigentliche HTTP-Anfrage für eine GraphQL-Abfrage „query: `{string}`&quot; in ihrem Hauptteil enthält, enthält jede Anfrage mit einem Variablenwörterbuch einfach ein zusätzliches „variables: `{json}`&quot; in demselben Hauptteil, wobei `{json}` die JSON-Zeichenfolge mit den Variablenwerten ist.
 
-Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden ](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
+Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden &#x200B;](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

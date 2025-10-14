@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [ unter ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
+>Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [&#x200B; unter &#x200B;](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
 >BITTE BEACHTEN SIE: Damit dieser Beispielcode funktioniert, müssen Sie die setup_version einbeziehen, sonst wird InstallData.php nicht ausgeführt.
 
 

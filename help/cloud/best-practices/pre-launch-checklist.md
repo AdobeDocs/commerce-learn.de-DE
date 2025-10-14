@@ -48,7 +48,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 ## 2. Aktuelle Konfigurationen
 
 1. Aktualisieren von Adobe Commerce und zugehörigen Paketen/Services auf die [neueste Version](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/overview){target="_blank"}
-2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [ Sie die Best Practices](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
+2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [&#x200B; Sie die Best Practices](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
 3. Überprüfen Sie MySQL/Shared-Files [Festplattenauslastung](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/develop/storage/manage-disk-space){target="_blank"}
 
 ## 3. Fastly-Konfigurationen
@@ -61,7 +61,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 
 3. Stellen Sie sicher, dass Fastly Image Optimization aktiviert ist [siehe Fastly Image Optimization](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Stellen Sie sicher, dass der richtige Shield-Speicherort konfiguriert ist ([Konfigurieren des Cache, der Backends und der Ursprungsabschirmung](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten ](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen)
+5. Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen)
 6. Aktualisieren Sie die Liste „Ignorierte URL[&#128279;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly  im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
 
    >[!NOTE]
@@ -87,7 +87,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
 - Detaillierte Analyse zu [Galera-Cluster-Replikationen und Flusskontrolle.](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}
 
 1. [MYSQL-Slave-Verbindung](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} wird empfohlen, um die Leistung bei hohen Datenbanklasten zu verbessern.
-2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ ](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
+2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
 3. Ändern Sie die Datenbank-Speicher-Engine von [MyISAM zu InnoDB](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} für alle Tabellen.
 4. Überprüfen und optimieren Sie Datenbanktabellen mit einer Größe von mehr als 1 GB im Voraus.
 5. Die Informationen zum Datenbankschema sind aktuell und aktuell. (Siehe [dieses Handbuch](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
@@ -113,7 +113,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
    > - Deaktivieren der E-Mail-Kommunikation:
    >   Navigieren Sie _Store > Konfiguration > Erweitert > System > E-Mail-Sendeeinstellungen_.
 
-4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ ](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
+4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ &#x200B;](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
 
 ## 8. Andere Konfigurationen
 
@@ -145,7 +145,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
    >[!NOTE]
    > [Die Adobe Commerce-Sicherheitsprüfung ist ein hilfreiches Tool](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-scan){target="_blank"} mit dem Sie veraltete Softwareversionen, fehlerhafte Konfigurationen und potenzielle Malware auf der Website entdecken können. Melden Sie sich an, planen Sie die Ausführung häufig und stellen Sie sicher, dass E-Mails an den richtigen technischen Sicherheitskontakt gesendet werden.
    > 
-   > Führen Sie diese Aufgabe während der UAT aus. Wenn Sie die Option „Periodische Scans“ verwenden, sollten Sie die Scans zu Zeiten geringer Auslastung planen. Weitere Informationen finden Sie [ Seite ](https://account.magento.com/scanner/index/dashboard/){target="_blank"}Sicherheitsüberprüfung“ im Adobe Commerce-Konto. Sie müssen sich bei einem Adobe Commerce-Konto anmelden, um auf die Sicherheitsprüfung zugreifen zu können.
+   > Führen Sie diese Aufgabe während der UAT aus. Wenn Sie die Option „Periodische Scans“ verwenden, sollten Sie die Scans zu Zeiten geringer Auslastung planen. Weitere Informationen finden Sie [&#x200B; Seite &#x200B;](https://account.magento.com/scanner/index/dashboard/){target="_blank"}Sicherheitsüberprüfung“ im Adobe Commerce-Konto. Sie müssen sich bei einem Adobe Commerce-Konto anmelden, um auf die Sicherheitsprüfung zugreifen zu können.
 
 2. Ändern Sie die Standardeinstellungen für den Adobe Commerce Admin.
 3. Ändern Sie das Administratorkennwort (siehe [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-admin){target="_blank"}).

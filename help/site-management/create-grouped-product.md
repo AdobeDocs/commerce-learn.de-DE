@@ -183,7 +183,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Löschen eines einfachen Produkts aus einem gruppierten Produkt
 
-Um [einfaches Produkt) aus ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Um [einfaches Produkt) aus &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
 Um herauszufinden, was als `{type}` verwendet werden soll, verwenden Sie xdebug, um die Anfrage zu erfassen und die $linkTypes zu bewerten: `related`, `crosssell`, `uupsell` und `associated`.
 ![Gruppierte Produktverknüpfungstypen - Alt-Text](/help/assets/site-management/catalog/grouped-types.png "Gruppierte Produktverknüpfungstypen, die während der xdebug-Sitzung erfasst werden")
