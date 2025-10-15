@@ -113,7 +113,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
    > - Deaktivieren der E-Mail-Kommunikation:
    >   Navigieren Sie _Store > Konfiguration > Erweitert > System > E-Mail-Sendeeinstellungen_.
 
-4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ &#x200B;](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
+4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ &#x200B;](https://business.adobe.com/de/products/magento/secure-ecommerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
 
 ## 8. Andere Konfigurationen
 
