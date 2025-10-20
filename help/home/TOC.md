@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
+source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '928'
 ht-degree: 3%
 
 ---
@@ -86,6 +86,8 @@ ht-degree: 3%
    + [Verwalten von Adobe Commerce Optimizer-Instanzen](../adobe-commerce-optimizer/managing-instances.md)
    + [Aufnehmen von Beispieldaten](../adobe-commerce-optimizer/ingest-sample-data.md)
    + [Erste Abfrage mit GraphQL](../adobe-commerce-optimizer/first-query.md)
+   + Salesforce Commerce Cloud Starter Kit {#sfcc-starter-kit}
+      + [Überblick](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
 + Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
    + [Überblick](../global-reference-architecture/overview.md)
    + [Git teilen](../global-reference-architecture/split-git.md)
@@ -247,7 +249,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
