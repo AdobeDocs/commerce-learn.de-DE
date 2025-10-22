@@ -32,4 +32,4 @@ Erfahren Sie mehr über die Architektur und Funktionalität des Commerce Optimiz
 * Benutzerdefinierte SFCC-Cartridge und -APIs erkennen Katalogänderungen über Delta-Exporte und ermöglichen so eine effiziente Datensynchronisation mit Adobe App Builder.
 * App Builder Runtime-Aktionen verwalten vollständige und Delta-Synchronisationen, Validierungen und das Status-Tracking, um genaue und konfliktfreie Aktualisierungen der Commerce Optimizer sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476060?captions=ger&learn=on)
