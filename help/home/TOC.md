@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '943'
 ht-degree: 3%
 
 ---
@@ -89,6 +89,9 @@ ht-degree: 3%
    + Salesforce Commerce Cloud Starter Kit {#sfcc-starter-kit}
       + [Überblick](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
       + [Überblick über die Architektur](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+      + [Installation der SFCC-Patrone](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+      + [App Builder-Starter-Kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+      + [End-to-End-Demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
    + [Überblick](../global-reference-architecture/overview.md)
    + [Git teilen](../global-reference-architecture/split-git.md)
@@ -250,7 +253,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
