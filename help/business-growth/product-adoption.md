@@ -1,5 +1,5 @@
 ---
-title: Vereinfachung der Adobe Commerce-Migration mit KI-Tools
+title: Vereinfachen der Adobe Commerce-Migration mit KI-Tools
 description: Erfahren Sie, wie Adobe Commerce die Cloud-Migration mit KI-Tools, modularer Anpassung und schneller Entwicklung für skalierbares Geschäftswachstum optimiert.
 feature: App Builder, Storefront, Extensions, Merchandising
 topic: Artificial Intelligence, Migration, Commerce
@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Adobe Commerce erleichtert das Wachstum von Unternehmen, indem es ihnen den schr
 * Die Erweiterbarkeit von App Builder ermöglicht die Entkopplung benutzerdefinierter Logik in Server-lose Funktionen, wodurch die Wartung vereinfacht wird.
 * Storefront-Verbesserungen verbessern die Leistung und Inhaltserstellung mit Dropdown-Komponenten und Edge-Bereitstellung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475757/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
