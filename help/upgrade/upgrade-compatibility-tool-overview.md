@@ -28,9 +28,9 @@ In diesem Video:
 
 - Was das Upgrade-Kompatibilitäts-Tool ist
 - So können Sie schnell die Fehler und Fehlerbehebungen ermitteln, die für ein Upgrade auf eine neuere Adobe Commerce-Version erforderlich sind
-- Zugriff auf die HTML-Ergebnisse zur Visualisierung der Module nach Schweregrad und Anzahl der Inkompatibilitäten
+- Zugriff auf die HTML-Ergebnisse zur Visualisierung von Modulen nach Schweregrad und Anzahl der Inkompatibilitäten
 
-Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=de). Weitere Informationen zur Durchführung und Vereinfachung Ihrer Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=de).
+Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Weitere Informationen zur Durchführung und Vereinfachung Ihrer Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -39,11 +39,11 @@ Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Komp
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3409509?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=de)
-- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=de)
-- [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=de)
-- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=de)
+- [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
