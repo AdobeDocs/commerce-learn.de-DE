@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Dies ist Teil 2 der Serie für GraphQL und Adobe Commerce. In diesem Tutorial und Video erfahren Sie mehr über GraphQL-Abfragen und wie Sie diese mit Adobe Commerce durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450067?captions=ger&learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 

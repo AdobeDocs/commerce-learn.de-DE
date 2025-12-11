@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie Adobe Commerce mit externen Systemen integrieren und erhal
 * Ausführen von Skripten zum Erstellen und Konfigurieren von Ereignisanbietern und Abonnements.
 * Aktualisieren von Ereignissen in Commerce und App Builder zur Synchronisierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452783?captions=ger&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

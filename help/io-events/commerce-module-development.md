@@ -36,7 +36,7 @@ Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden u
 * Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 * Erfahren Sie, wie Sie sich von einem Ereignis abmelden
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430652?captions=ger&quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

@@ -37,4 +37,4 @@ Erfahren Sie, wie Sie die Adobe Commerce Optimizer-Kassette für eine Salesforce
 * Importieren Sie benutzerdefinierte Objekt- und Auftragsdefinitionen, um das Tracking und die Synchronisierung zu unterstützen.
 * Testen Sie einen benutzerdefinierten API-Endpunkt, um die erfolgreiche Installation zu bestätigen und die Katalogsynchronisierung vorzubereiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476079?captions=ger&learn=on)

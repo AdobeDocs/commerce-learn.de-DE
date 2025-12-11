@@ -36,7 +36,7 @@ Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Deve
 * Definieren von Regeln zur Verwendung in bedingten Ereignissen
 * Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430657?captions=ger&quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

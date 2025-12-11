@@ -35,4 +35,4 @@ Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Reli
 * Erfahren Sie mehr über Warnhinweise, Richtlinien und Workflows
 * Das Speichern des Ziels und die Validierung der neuen E-Mail wurde zu einer Richtlinie hinzugefügt
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441214?captions=ger&learn=on)

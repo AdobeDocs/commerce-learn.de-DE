@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Dies ist Teil 4 der Serie für GraphQL und Adobe Commerce. Die verwendeten Abfragen und Mutationen basieren auf einem bestimmten Datendiagramm, das auf dem Server implementiert wird und das die GraphQL-Laufzeit nutzt, um die Abfrage aufzulösen. Die GraphQL-Spezifikation definiert eine agnostische Sprache zum Ausdrücken der Typen und Beziehungen Ihres Datendiagramms.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446619?captions=ger&learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 

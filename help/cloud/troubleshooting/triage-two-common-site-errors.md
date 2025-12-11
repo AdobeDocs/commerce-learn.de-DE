@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie zwei häufige Fehler in Adobe Commerce Cloud-Projekten tri
 - Wartungsmodus verwalten
 - Effiziente Tipps zur Fehlerbehebung
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447702?captions=ger&learn=on)
 
 
 ## Im Video verwendete Befehle

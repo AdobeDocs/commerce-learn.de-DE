@@ -31,7 +31,7 @@ Erfahren Sie mehr über die wichtigsten YAML-Dateien, die in Adobe Commerce Clou
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432812?captions=ger&learn=on)
 
 ## Die im Video erwähnte Dokumentation zu Experience League
 

@@ -31,7 +31,7 @@ Erfahren Sie mehr über die Cloud-Infrastruktur und einige Best Practices für d
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432790?captions=ger&learn=on)
 
 ## Die im Video erwähnte Dokumentation zu Experience League
 
