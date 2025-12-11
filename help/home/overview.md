@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Commerce-Tutorials {#videos}
 
-Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
+Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html?lang=de) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -28,11 +28,11 @@ Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verw
 
 >[!TIP]
 >
->Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
+>Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=de) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
 
 ## Zusätzliche Ressourcen
 
-- [Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
 - [Entwicklerdokumentation](https://developer.adobe.com/commerce)
 - [Adobe Digital Learning Services - Adobe Commerce-Kurskatalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

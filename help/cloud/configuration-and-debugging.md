@@ -35,16 +35,16 @@ Erfahren Sie mehr über die wichtigsten YAML-Dateien, die in Adobe Commerce Clou
 
 ## Die im Video erwähnte Dokumentation zu Experience League
 
-- [Konfigurieren von xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [Konfigurieren von xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=de)
 - [Cloud Docker-Konfiguration: xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [Best Practices für das Debugging](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [Konfigurationsdateien - Übersicht](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [Aktualisieren des Pakets ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [Übersicht über New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [Protokolldateien anzeigen und verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [New Relic-Protokollverwaltung](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [Best Practices für das Debugging](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=de)
+- [Konfigurationsdateien - Übersicht](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=de)
+- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=de)
+- [Aktualisieren des Pakets ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=de)
+- [Übersicht über New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=de)
+- [Protokolldateien anzeigen und verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=de)
+- [New Relic-Protokollverwaltung](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=de)
+- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=de)
+- [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=de)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

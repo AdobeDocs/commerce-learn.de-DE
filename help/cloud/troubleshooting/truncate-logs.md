@@ -91,4 +91,4 @@ Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben hab
 
 ## Verwandte Dokumentation
 
-- [Konsistenzbenachrichtigungen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Konsistenzbenachrichtigungen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
