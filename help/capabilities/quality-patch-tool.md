@@ -3,14 +3,14 @@ title: Quality Patch-Tool
 description: Erfahren Sie, wie Sie das Quality Patch-Tool verwenden, um ein Problem zu diagnostizieren, eine Lösung zu finden und einen Patch anzuwenden, der in der Liste der verfügbaren Patches enthalten ist.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -37,9 +37,9 @@ Das Quality Patches Tool ist ein Befehlszeilenprogramm für Adobe Commerce und M
 * Wenden Sie Qualitäts-Patches auf Ihre Installation an.
 * Angewendete Patches bei Bedarf zurücksetzen
 
-Diese Patches wurden von Adobe-Entwicklern und der Magento Open Source-Community entwickelt, um die Stabilität und Leistung zu verbessern. Beachten Sie, dass dies für die Anwendung einer großen Anzahl von Patches nicht empfohlen wird, da zukünftige Upgrades komplizierter werden können.
+Diese Patches wurden von Adobe Developers und der Magento Open Source-Community entwickelt, um die Stabilität und Leistung zu verbessern. Beachten Sie, dass dies für die Anwendung einer großen Anzahl von Patches nicht empfohlen wird, da zukünftige Upgrades komplizierter werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454079?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Wozu dient das Quality Patch-Tool?
 
@@ -61,18 +61,18 @@ Das Quality Patches Tool bietet zwar Vorteile, es sind jedoch einige Überlegung
 
 Das Quality Patches Tool ist zwar für die Anwendung einer begrenzten Anzahl von Patches nützlich, wird aber nicht für die Handhabung einer großen Anzahl von Patches empfohlen. Die Anwendung zu vieler Patches kann zukünftige Upgrades und Wartungsarbeiten erschweren. Wenn Sie viele Patches anwenden müssen, sollten Sie alternative Ansätze in Betracht ziehen oder sich an einen Magento-Spezialisten wenden. 
 
-## Zusammenfassung 
+## Zusammenfassung
 
 Das Quality Patches Tool ermöglicht E-Commerce-Plattformen, die Stabilität und Sicherheit durch die Anwendung von Patches zu verbessern. Diese Patches beheben Probleme, verbessern die Leistung und optimieren das System. Die Installation auf dem neuesten Stand zu halten, bietet Schutz vor Sicherheitslücken.
 
-Bevor Sie Patches anwenden, müssen Sie diese unbedingt in einer Staging-Umgebung testen. Stellen Sie die Kompatibilität mit Ihrer spezifischen Version von Adobe Commerce oder Magento Open Source sicher. Einige Patches weisen möglicherweise Abhängigkeiten auf. Überprüfen Sie daher die Voraussetzungen sorgfältig.
+Bevor Sie Patches anwenden, müssen Sie diese unbedingt in einer Staging-Umgebung testen. Gewährleisten Sie die Kompatibilität mit Ihrer spezifischen Version von Adobe Commerce oder Magento Open Source. Einige Patches weisen möglicherweise Abhängigkeiten auf. Überprüfen Sie daher die Voraussetzungen sorgfältig.
 
  Sichern Sie Ihre Installation, bevor Sie Patches anwenden, um Datenverlust zu vermeiden. Wenn Sie Änderungen an benutzerdefiniertem Code vorgenommen haben, beachten Sie, dass Patches Konflikte verursachen können. Befolgen Sie die Best Practices und überwachen Sie die Wirkung jedes Patches.
 
 ## Verwandte Artikel und Videos
 
-* [Suche mit Quality Patch Tools](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=de)
-* [Versionshinweise](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Suche mit Quality Patch Tools](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Versionshinweise](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [GitHub für Patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Technisches Video zu QPT](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Technisches Video zu QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

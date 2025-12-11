@@ -1,16 +1,17 @@
 ---
 title: Diagnose und Behebung einiger häufiger Commerce Cloud-Fehler
-description: Beheben Sie zwei häufige Adobe-Cloud-Projektfehler, die verhindern, dass die Site geladen wird.
+description: Beheben Sie zwei häufige Adobe Cloud-Projektfehler, die verhindern, dass die Site geladen wird.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Erfahren Sie, wie Sie zwei häufige Fehler in Adobe Commerce Cloud-Projekten tri
 - Wartungsmodus verwalten
 - Effiziente Tipps zur Fehlerbehebung
 
->[!VIDEO](https://video.tv.adobe.com/v/3447702?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Im Video verwendete Befehle

@@ -8,17 +8,18 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Übersicht {#overview}
+# Überblick {#overview}
 
 Dieses Tutorial umfasst die folgenden Voraussetzungen:
 
@@ -41,7 +42,7 @@ Dieses Tutorial wurde entwickelt, damit Sie der Reihenfolge der Seiten im linken
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen.
+* Entwickler, die noch nicht mit Adobe Commerce vertraut sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen.
 
 ## Videoinhalt
 

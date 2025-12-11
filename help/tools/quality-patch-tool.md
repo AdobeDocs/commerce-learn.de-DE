@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -34,9 +35,9 @@ Das Adobe Commerce-Supportteam und die Magento Open Source-Community entwickeln 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411356?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=de)
+- [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 - [Quality-Patch-Tool auf GitHub](https://github.com/magento/quality-patches)

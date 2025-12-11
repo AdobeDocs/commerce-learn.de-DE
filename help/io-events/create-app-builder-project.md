@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Erstellen eines App Builder-Projekts
 
-Erfahren Sie, wie Sie ein Adobe Developer App Builder-Projekt erstellen, um Ereignisse aus Adobe Commerce zu nutzen. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie ein Adobe Developer App Builder-Projekt erstellen, um Ereignisse aus Adobe Commerce zu nutzen. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe-App Builder-Projekt erstellen.
+* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe App Builder-Projekt erstellen.
 
 ## Videoinhalt {#video-content}
 
@@ -33,7 +34,7 @@ Erfahren Sie, wie Sie ein Adobe Developer App Builder-Projekt erstellen, um Erei
 * Verwenden von Adobe Developer Console
 * Verwenden von Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3430631?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

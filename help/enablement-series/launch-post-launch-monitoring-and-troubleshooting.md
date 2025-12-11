@@ -3,14 +3,15 @@ title: Adobe Commerce Launch, Post Launch und fortlaufende Überwachung und Fehl
 description: Erfahren Sie mehr über Best Practices und Tipps zum Vorbereiten und Starten einer Website. Erfahren Sie mehr über die Auswahl der richtigen Staging-Umgebung, die Bereitstellung relevanter Details in Support-Tickets und die Verwendung desselben Überwachungs-Tools wie das Support-Team für eine bessere Kommunikation.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
 exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
-source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%

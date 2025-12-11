@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -129,7 +130,7 @@ Das Brand-X-Metapaket ist optional. Sie können auch das Brand Metapaket übersp
 
 ### GRA Foundation-Dateien außerhalb des Anbieterverzeichnisses
 
-Manchmal müssen Dateien außerhalb des Anbieterverzeichnisses gespeichert werden. Dateien, die sich im `dev/`-Verzeichnis befinden, oder Domain-Überprüfungsdateien, z. B. `.gitignore`. Der Pakettyp „magento2-component“ ist für diesen Zweck konzipiert. Schauen Sie sich <https://github.com/AntonEvers/gra-component-foundation> an.
+Manchmal müssen Dateien außerhalb des Anbieterverzeichnisses gespeichert werden. Dateien, die sich im `.gitignore`-Verzeichnis befinden, oder Domain-Überprüfungsdateien, z. B. `dev/`. Der Pakettyp „magento2-component“ ist für diesen Zweck konzipiert. Schauen Sie sich <https://github.com/AntonEvers/gra-component-foundation> an.
 
 ```json
 {
@@ -237,7 +238,7 @@ Dieses Beispiel zeigt eine lockere Definition von Abhängigkeiten. Mit `~1.0` ka
 
 Sobald Sie eine neue Version eines der genannten Pakete veröffentlichen, wird diese automatisch mit dem Composer-Update installiert.
 
-Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Vor allem die FAQ ist ein Muss zu lesen. Bei semantischer Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets sollten sicher eingeführt werden, ohne die Anwendung zu beschädigen.
+Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Vor allem die FAQ ist ein Muss zu lesen. Bei der semantischen Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets sollten sicher eingeführt werden, ohne die Anwendung zu beschädigen.
 Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswählen. Beachten Sie, dass dies zusätzlichen Aufwand verursacht, wenn Sie jede kleinere Änderung manuell auswählen:
 
 ```json

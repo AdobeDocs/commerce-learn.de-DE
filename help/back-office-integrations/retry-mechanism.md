@@ -9,19 +9,20 @@ audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Nutzung des Wiederholungsmechanismus für Adobe I/O-Ereignisse zur Verbesserung der Anwendungsresilienz
+# Adobe I/O Events-Wiederholungsmechanismus für zuverlässige Anwendungen nutzen
 
-In diesem Video wird eine umfassende Anleitung zur Nutzung des integrierten Wiederholungsmechanismus von Adobe I/O-Ereignissen zur Verbesserung der Anwendungsresilienz beschrieben. Erfahren Sie, wie bestimmte HTTP-Antwortstatus-Trigger weitere Zustellversuche codieren. Adobe I/O Events nutzt exponentielle und feste Back-off-Strategien für weitere Zustellversuche, wobei die Intervalle von einer Minute auf 15 Minuten zunehmen. In der Dokumentation wird auch beschrieben, wie Wiederholungsindikatoren in der Entwicklerkonsole angezeigt werden. Visuelle Hinweise wie Warnsymbole und Kreispfeile zeigen fehlgeschlagene bzw. wiederholte Ereignisse an.
+In diesem Video wird eine umfassende Anleitung zur Nutzung des integrierten Wiederholungsmechanismus von Adobe I/O Events zur Verbesserung der Ausfallsicherheit von Programmen beschrieben. Erfahren Sie, wie bestimmte HTTP-Antwortstatus-Trigger weitere Zustellversuche codieren. Adobe I/O Events verwendet exponentielle und feste Back-off-Strategien für weitere Zustellversuche, wobei die Intervalle von einer Minute auf 15 Minuten zunehmen. In der Dokumentation wird auch beschrieben, wie Wiederholungsindikatoren in der Entwicklerkonsole angezeigt werden. Visuelle Hinweise wie Warnsymbole und Kreispfeile zeigen fehlgeschlagene bzw. wiederholte Ereignisse an.
 
 Erfahren Sie, wie der Wiederholungsmechanismus im Kontext der Laufzeitaktionen des „Verbrauchers“ funktioniert, und stellen Sie fest, ob ein Ereignis erneut versucht wird. Erfolgreiche Antworten werden mit dem Status-Code 200 angezeigt, während Fehlerantworten ein Fehlerobjekt mit dem Attribut „statusCode“ enthalten. Die Laufzeitaktion „Verbraucher“ bestimmt den HTTP-Antwort-Code, der basierend auf nachgelagerten Verarbeitungsergebnissen zurückgegeben werden soll, und stellt so eine effiziente Ereignisbehandlung und letztendlich erfolgreiche Aktivierungen sicher.
 
@@ -33,12 +34,12 @@ Erfahren Sie, wie der Wiederholungsmechanismus im Kontext der Laufzeitaktionen d
 
 ## Videoinhalt
 
-* Adobe I/O-Ereignisse verfügen über einen nativen Wiederholungsmechanismus, der Ereignisaktivierungen basierend auf bestimmten HTTP-Antwort-Status-Codes automatisch wiederholt.
+* Adobe I/O Events verfügt über einen nativen Wiederholungsmechanismus, der Ereignisaktivierungen basierend auf bestimmten HTTP-Antwort-Status-Codes automatisch wiederholt.
 * Der von Adobe I/O Events implementierte Wiederholungsmechanismus umfasst exponentielle und feste Back-off-Strategien.
 * Visuelle Indikatoren in der Entwicklerkonsole, z. B. Warnsymbole für fehlgeschlagene Ereignisse und Zirkularpfeilsymbole für erneut versuchte Ereignisse.
 * Die Laufzeitaktionen „Consumer“ spielen eine entscheidende Rolle bei der Bestimmung der geeigneten HTTP-Antwort-Status-Codes für die Ereignisbehandlung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449082?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Reli
 * Erfahren Sie mehr über Warnhinweise, Richtlinien und Workflows
 * Das Speichern des Ziels und die Validierung der neuen E-Mail wurde zu einer Richtlinie hinzugefügt
 
->[!VIDEO](https://video.tv.adobe.com/v/3441214?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

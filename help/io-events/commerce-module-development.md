@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce-Modulentwicklung
 
-Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und eine neue XML-`io_events.xml` in der Entwicklung benutzerdefinierter Module verwenden. In diesem Video erfahren Entwicklerinnen und Entwickler auch, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle bereits definierten Ereignisse abmelden können. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden und eine neue XML-`io_events.xml` in der Entwicklung benutzerdefinierter Module verwenden. In diesem Video erfahren Entwicklerinnen und Entwickler auch, wie sie registrierte Ereignisse finden, die verwendet werden können, und alle bereits definierten Ereignisse abmelden können. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -35,7 +36,7 @@ Erfahren Sie, wie Sie Ereignisse registrieren, unterstützte Ereignisse finden u
 * Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 * Erfahren Sie, wie Sie sich von einem Ereignis abmelden
 
->[!VIDEO](https://video.tv.adobe.com/v/3430652?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

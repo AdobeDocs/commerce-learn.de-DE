@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -31,7 +32,7 @@ Diese Datei bestimmt die Konfiguration für das Programm.
 * Die besprochene `app.config.yaml`
 * Verknüpfen von Definitionen mit anderen `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430838?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
 ## Code-Beispiel
 

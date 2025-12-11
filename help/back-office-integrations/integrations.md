@@ -8,17 +8,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
-source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# Backoffice-Integrationen mit dem Adobe-Starter-Kit
+# Backoffice-Integrationen mit dem Adobe Starter Kit
 
 Erfahren Sie, wie Sie Adobe Commerce mit externen Systemen integrieren und erhalten Sie praktische Einblicke in die Einrichtungs-, Konfigurations- und Bereitstellungsprozesse, die mit dem Adobe Commerce Integration Starter Kit verbunden sind.
 
@@ -26,7 +27,7 @@ Erfahren Sie, wie Sie Adobe Commerce mit externen Systemen integrieren und erhal
 
 * Entwickler, die Best Practices für die Commerce-Integration vom Klonen bis zur Live-Bereitstellung erlernen möchten.
 * Jeder, der das Onboarding und die erfolgreiche Bereitstellungsvalidierung verstehen möchte.
-* Software-Ingenieure und Programmierer, die Einblicke in die Konfiguration von Ereignisanbietern, Abonnements und die Synchronisierung zwischen Systemen wünschen.
+* Software-Ingenieure und Programmierer, die mit insight Ereignisanbieter, Abonnements und die Synchronisierung zwischen Systemen konfigurieren möchten.
 
 ## Videoinhalt
 
@@ -36,7 +37,7 @@ Erfahren Sie, wie Sie Adobe Commerce mit externen Systemen integrieren und erhal
 * Ausführen von Skripten zum Erstellen und Konfigurieren von Ereignisanbietern und Abonnements.
 * Aktualisieren von Ereignissen in Commerce und App Builder zur Synchronisierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452783?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

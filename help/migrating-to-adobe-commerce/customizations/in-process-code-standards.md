@@ -3,14 +3,15 @@ title: PHP-Kodierungsstandards im laufenden Prozess
 description: Überblick über prozessinterne Codierungsstandards für die Adobe Commerce-Migration, einschließlich PHP, JavaScript und Best Practices für Anpassungen.
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -31,4 +32,4 @@ Erfahren Sie mehr über die wichtigsten Programmierstandards und Best Practices 
 * Best Practices für PHP, JavaScript und Anpassungen, um eine reibungslose Migration zu gewährleisten.
 * Gewinnen Sie Erkenntnisse von Adobe-Experten zu Vorbereitung, Leistung und Sicherheit für erfolgreiche Adobe Commerce-Projekte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434866?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

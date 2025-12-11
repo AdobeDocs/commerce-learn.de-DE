@@ -3,13 +3,14 @@ title: Übersicht über das App Builder Starter Kit für Salesforce Commerce Clo
 description: Erfahren Sie mehr über das Adobe App Builder-Starter-Kit für Salesforce Commerce Cloud mit Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 598
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: a23c2fd3c9bcaad40cf649a8c46cd1ff5e535823
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Erfahren Sie, wie Sie das App Builder Starter Kit für Salesforce Commerce Cloud
 * Klonen Sie das App Builder Starter Kit und konfigurieren Sie Umgebungsdateien mithilfe der Adobe IO CLI.
 * Stellen Sie die App bereit und bestätigen Sie die erfolgreiche Registrierung von Aktionen und Ereignissen in Ihrem Arbeitsbereich.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476091?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

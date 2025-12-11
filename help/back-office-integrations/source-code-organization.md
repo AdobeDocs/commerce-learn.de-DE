@@ -9,17 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-# Source Code-Organisation für das Adobe-Starter-Kit
+# Source Code-Organisation für das Adobe Starter Kit
 
 Erfahren Sie mehr über die Organisation des Quell-Codes im Adobe Commerce Integration Starter Kit&#x200B; Erkunden Sie die Struktur des Projekts und markieren Sie wichtige Ordner wie `actions` und `scripts` und deren jeweilige Inhalte&#x200B; Der Ordner „actions“ enthält Unterordner wie `ingestion` und `webhook`, die wesentlichen Code für die Ereignisbehandlung und -verfolgung enthalten. Außerdem erfahren Sie mehr über die `starter-kit-info` und `scripts` Ordner. Der Ordner `scripts` konzentriert sich auf Automatisierungsskripte wie `commerce-event-subscribe` und `onboarding`, die die Ereigniskonfiguration und die Anbietereinrichtung innerhalb des Projekts optimieren.
 &#x200B;
@@ -36,8 +37,8 @@ Erkunden Sie die Logik hinter der Quell-Code-Struktur und beschreiben Sie, wie d
 * Verstehen Sie, dass die vier Hauptordner `actions`, `scripts`, `test` und `utils` sind, wobei der Schwerpunkt auf den `actions` und `scripts` Ordnern während der Sitzung liegt. &#x200B;
 * Erfahren Sie mehr über den `actions` Ordner und darüber, wie er wichtige Unterordner wie `ingestion` und `webhook` enthält.
 * Erfahren Sie mehr über den `actions` Ordner und darüber, warum es bestimmte Ordner für Entitäten wie `customer`, `order`, `product` und `stock` gibt, die jeweils Laufzeitaktionen enthalten, die in `commerce` und `external` Ordner strukturiert sind, um Ereignisse aus Commerce und Drittanbietersystemen effektiv zu verwalten. &#x200B;
-* Erfahren Sie, wie wichtig es ist, den Code im `starter-kit-info`-Ordner nicht zu ändern, der eine Laufzeitaktion enthält, die vom Adobe zum Nachverfolgen von Projektbereitstellungen auf der Grundlage des Starter Kits verwendet wird. &#x200B;
-* Machen Sie sich mit dem `scripts`-Ordner vertraut, der Automatisierungsskripte wie `commerce-event-subscribe` und `onboarding` enthält, die die Ereigniskonfiguration, die Anbietereinrichtung und die Konfiguration des Adobe I/O-Ereignismoduls in Commerce automatisieren. &#x200B;
+* Erfahren Sie, wie wichtig es ist, den Code im `starter-kit-info`-Ordner nicht zu ändern, der eine Laufzeitaktion enthält, die von Adobe verwendet wird, um Projektbereitstellungen basierend auf dem Starter Kit zu verfolgen. &#x200B;
+* Machen Sie sich mit dem `scripts`-Ordner vertraut, der Automatisierungsskripte wie `commerce-event-subscribe` und `onboarding` enthält, die die Ereigniskonfiguration, die Anbietereinrichtung und die Konfiguration des Adobe I/O Events-Moduls in Commerce automatisieren. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 

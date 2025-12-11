@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -34,9 +35,9 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 - Erfahren Sie, wie die SQL gespeichert und zum Suchen eines übereinstimmenden Abfrage-Caches verwendet wird
 - Einige Tipps zu Konfigurationseinstellungen
 
->[!VIDEO](https://video.tv.adobe.com/v/3423384?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Nützliche Ressourcen
 
-- [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=de){target="_blank"}
-- [Galera-Replikation und langsame Abfragen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=de){target="_blank"}
+- [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [Galera-Replikation und langsame Abfragen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

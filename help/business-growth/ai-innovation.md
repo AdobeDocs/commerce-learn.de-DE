@@ -3,13 +3,14 @@ title: Unternehmenswachstum mit KI-Innovation
 description: Erkunden Sie das Wachstum von KI-gestütztem E-Commerce mit Adobe Commerce - verbessern Sie die Auffindbarkeit, optimieren Sie Storefronts und erweitern Sie global.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1419
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Erfahren Sie, wie Adobe Commerce den eCommerce mit innovativen KI-Lösungen und 
 * Beschleunigung der globalen Expansion mit Kataloginnovation
 * Verbessern des Storefront-Erlebnisses durch Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475704/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)

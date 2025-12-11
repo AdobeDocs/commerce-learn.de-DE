@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Die tatsächlichen Namen von Ordnern in diesem Beispiel sind beliebig, aber die 
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und mehr über den Aktionsordner in der Beispielanwendung erfahren.
+* Entwicklerinnen und Entwickler, die neu in Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen und im Beispielprogramm mehr über den Aktionsordner erfahren.
 
 ## Videoinhalt
 

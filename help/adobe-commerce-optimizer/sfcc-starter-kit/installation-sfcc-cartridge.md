@@ -3,13 +3,14 @@ title: Installieren der Salesforce Commerce Cloud-Kassette
 description: Erfahren Sie mehr über die in Salesforce mit Adobe Commerce Optimizer verwendete Kassette.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -36,4 +37,4 @@ Erfahren Sie, wie Sie die Adobe Commerce Optimizer-Kassette für eine Salesforce
 * Importieren Sie benutzerdefinierte Objekt- und Auftragsdefinitionen, um das Tracking und die Synchronisierung zu unterstützen.
 * Testen Sie einen benutzerdefinierten API-Endpunkt, um die erfolgreiche Installation zu bestätigen und die Katalogsynchronisierung vorzubereiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476079?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

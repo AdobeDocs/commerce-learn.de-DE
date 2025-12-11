@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ In jedem dieser Szenarien ist es ratsam, die Verwendung mehrerer Instanzen von A
 1. **Verschiedene Store-Inhaber**: Wenn Sie Code für mehrere Store-Inhaber verwalten, von denen jeder über einen eigenen Store verfügt, sind möglicherweise separate Instanzen erforderlich, um die individuellen Anforderungen effektiv zu erfüllen.
 2. **Einhaltung nationaler Vorschriften**: Bestimmte Vorschriften verlangen, dass Kundendaten in bestimmten Regionen gespeichert werden müssen. In solchen Fällen sind gesonderte Instanzen unerlässlich, um die Einhaltung dieser Vorschriften zu gewährleisten.
 3. **Betriebliche Unterschiede zwischen geografischen Regionen**: Der Betrieb in mehreren Regionen kann unterschiedliche Wartungspläne und -anforderungen bedeuten. Die Verwendung separater Instanzen ermöglicht eine flexible und effiziente Verwaltung dieser Varianten.
-4. **Flash-Vertrieb mit hoher Intensität**: Geschäfte, die Flash-Verkäufe in großem Umfang durchführen, erfordern häufig eine optimierte Serverleistung. Dedizierte Infrastruktur, die von separaten Instanzen bereitgestellt wird, sorgt für eine optimale Leistung in solchen Zeiten hoher Nachfrage.
+4. **Flash-Verkäufe mit hoher Intensität**: Geschäfte, die Flash-Verkäufe in großem Umfang durchführen, benötigen oft eine optimierte Server-Leistung. Dedizierte Infrastruktur, die von separaten Instanzen bereitgestellt wird, sorgt für eine optimale Leistung in solchen Zeiten hoher Nachfrage.
 5. **Wesentliche Unterschiede zwischen Marken oder Ländern**: Wenn der Unterschied zwischen Marken oder Ländern groß ist, führt die Verwendung einer einzigen Instanz zu Code, der nur für einige Marken oder Länder verwendet wird. Separate Instanzen können die Leistung und Stabilität verbessern, indem unnötiger Code für Marken und Länder, die ihn nicht benötigen, entfernt wird.
 
 ## Globale Referenzarchitekturmuster

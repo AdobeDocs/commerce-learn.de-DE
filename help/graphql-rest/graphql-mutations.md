@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 Dies ist Teil 3 der Serie für GraphQL und Adobe Commerce. Mutationen sind die Möglichkeit, Werte mithilfe von GraphQL zu speichern, zu aktualisieren und zurückzugeben.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441935?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 
@@ -36,7 +37,7 @@ Dies ist Teil 3 der Serie für GraphQL und Adobe Commerce. Mutationen sind die M
 
 Jede vollständige API-Spezifikation muss die Möglichkeit bieten, Daten nicht nur abzufragen, sondern auch zu erstellen und zu aktualisieren.
 
-REST unterscheidet zwischen Anfragen, die Daten ändern, und solchen, die nicht mit dem Anfragetyp oder „Verb“ (GET vs. POST oder PUT) übereinstimmen.
+REST unterscheidet zwischen Anfragen, die Daten ändern, und solchen, die nicht mit dem Anfragetyp oder „Verb“ übereinstimmen (GET vs. POST oder PUT).
 Bei Verwendung von GraphQL werden datenmodifizierende Abfragen durch das `mutation`-Schlüsselwort unterschieden, das einem anderen entspricht
 Stammentyp im auf dem Server definierten Schema.
 
@@ -115,7 +116,7 @@ Für Mutationen gibt es einen anderen Stammentyp (in der Regel als `Mutation` be
 Einige weitere Hinweise zum obigen Beispiel:
 
 * Das `!` Zeichen, das `String` und `CartItemInput` Suffix angibt, dass die Variable erforderlich ist.
-* Die eckigen Klammern (`[]`) um den für `$cartItems` angegebenen `CartItemInput` geben eine Liste an
+* Die eckigen Klammern (`[]`) um den für `CartItemInput` angegebenen `$cartItems` geben eine Liste an
 von diesem Typ statt eines einzelnen Werts.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

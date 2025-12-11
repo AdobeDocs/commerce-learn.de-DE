@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: c2a6ea2267f8ce8efebcbda06d6e55cb93afcf84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -44,6 +45,6 @@ Erfahren Sie mehr über die Bedeutung von Nachbearbeitungsaktivitäten über den
 * Erfahren Sie mehr über die Rolle des Transformations-Hooks beim Transformieren von Datenobjekten zwischen dem Ursprungs- und dem Zielsystem.
 * Erfahren Sie mehr über die Bedeutung des Sende-Hooks bei der Erleichterung des tatsächlichen Datenversands an das Zielsystem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451936?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

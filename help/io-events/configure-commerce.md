@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Konfigurieren von Adobe Commerce
 
-Erfahren Sie, wie Sie Adobe Commerce konfigurieren, um die Ereignisse anzuzeigen. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O-Ereignissen für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie Adobe Commerce konfigurieren, um die Ereignisse anzuzeigen. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe-App Builder-Projekt erstellen.
+* Entwickler, die noch nicht mit Adobe Commerce und Adobe Developer App Builder vertraut sind und I/O-Ereignisse verwenden, müssen ein Adobe App Builder-Projekt erstellen.
 
 ## Videoinhalt {#video-content}
 
@@ -34,7 +35,7 @@ Erfahren Sie, wie Sie Adobe Commerce konfigurieren, um die Ereignisse anzuzeigen
 * Eindeutige Kennung im Commerce Admin speichern
 * Erstellen eines Ereignisanbieters
 
->[!VIDEO](https://video.tv.adobe.com/v/3430613?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

@@ -3,19 +3,19 @@ title: HIPAA-fähiges Hosting
 description: Informationen über HIPPA-fähiges Hosting. Die HIPAA-fähige Lösung in Adobe Commerce gewährleistet sicheren, konformen E-Commerce für Unternehmen im Gesundheitswesen.
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # HIPAA-fähiges Hosting in Adobe Commerce
 
@@ -33,11 +33,10 @@ Adobe Commerce bietet eine HIPAA-fähige Lösung, die Unternehmen im Gesundheits
 * Die Lösung umfasst erweiterte Protokollierungsmechanismen für PHI und bietet Integrationsfunktionen mit internen Adobe-Produkten und externen Services von Drittanbietern.
 * Adobe Commerce bietet eine spezielle Staging-Umgebung für Support und Fehlerbehebung, die sicherstellt, dass sensible Daten geschützt sind und die Umgebung die Produktion genau widerspiegelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463186/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## Zusätzliche Dokumentation
 
-* [HIPAA-Bereitschaft - Datenverbindung](https://experienceleague.adobe.com/de/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA-Bereitschaft - Compliance](https://experienceleague.adobe.com/de/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Installieren der Datenverbindung](https://experienceleague.adobe.com/de/docs/commerce/data-connection/fundamentals/install)
-
+* [HIPAA-Bereitschaft - Datenverbindung](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA-Bereitschaft - Compliance](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Installieren der Datenverbindung](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
