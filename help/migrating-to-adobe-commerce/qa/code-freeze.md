@@ -3,14 +3,14 @@ title: Code-Freeze
 description: Erfahren Sie, wie wichtig die Implementierung eines Code-Freeze während der Adobe Commerce-Migration ist. Stellen Sie Stabilität, Vertrauen und einen erfolgreichen Launch sicher, indem Sie die Best Practices für QA, Tests und Validierung befolgen.
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Die Implementierung eines Code-Freeze während der Adobe Commerce-Migration ist 
 * Koordination manueller und automatisierter Tests, Belastungstests und Penetrationstests, um sicherzustellen, dass alle Aspekte der Website wie erwartet funktionieren.
 * Einbindung von Stakeholdern aus der Wirtschaft, Entwicklern und IT-Teams in den Validierungsprozess, um einen reibungslosen und erfolgreichen Launch sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445498/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
