@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 12fc97fe5de44b3ba60aa92a1e2202c517897ddc
+source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '957'
 ht-degree: 3%
 
 ---
@@ -92,6 +92,11 @@ ht-degree: 3%
       + [Installation der SFCC-Patrone](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
       + [App Builder-Starter-Kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
       + [End-to-End-Demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
++ Beobachtbarkeit {#observability}
+   + [Übersicht über die Beobachtbarkeit](../observability/overview.md)
+   + [Telemetrie öffnen](../observability/open-telemetry.md)
+   + [Einrichtung und Konfiguration der Demos](../observability/demo-setup-configuration.md)
+   + [Demo](../observability/demo.md)
 + Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
    + [Überblick](../global-reference-architecture/overview.md)
    + [Git teilen](../global-reference-architecture/split-git.md)
@@ -254,7 +259,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
