@@ -33,7 +33,7 @@ Erfahren Sie, wie Open Telemetry die Beobachtbarkeit über Protokolle, Traces un
 * Korrelieren von Protokollen, Spuren und Metriken für eine schnellere Ursachenanalyse
 * Vorhandene Überwachungs-Tools beibehalten und Datenströme vereinheitlichen
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478332?captions=ger&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

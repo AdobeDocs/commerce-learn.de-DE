@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie mithilfe standardisierter, korrelierter Telemetrie eine En
 * Verwenden des Commerce Observability Module für automatisierte Signale
 * Erweitern der Überwachung mit der IO Live Telemetry Library für Apps
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478343?captions=ger&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
