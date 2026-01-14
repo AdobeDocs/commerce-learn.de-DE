@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+source-git-commit: b515a9044cb6610fb7096ef50c0a398bcf71bc44
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '993'
 ht-degree: 3%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 3%
    + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
    + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Funktionsdemonstration für App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technische Übersicht für App Builder](../app-builder/app-builder-technical-overview.md)
    + Erstellen Ihres ersten App Builder-Programms {#first-app}
       + [Überblick](../app-builder/first-app/overview.md)
@@ -273,7 +272,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
