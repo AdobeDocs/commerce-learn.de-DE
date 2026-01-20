@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432510?captions=ger&quality=12&learn=on)
 
 
 ## Zusätzliche Ressourcen
