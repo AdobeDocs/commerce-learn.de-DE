@@ -1,5 +1,5 @@
 ---
-title: Einrichten von Produkt Recommendations
+title: Produktempfehlungen einrichten
 description: Erfahren Sie, wie Sie Produktempfehlungen in Ihrem Adobe Commerce-Store verwenden.
 doc-type: feature video
 audience: all
@@ -11,18 +11,18 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: fa2a12241e194ec1fbadb71333d05a3bb7fd6bb3
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Einrichten von Produkt Recommendations
+# Produktempfehlungen einrichten
 
 {{ee-feature}}
 
-Produktempfehlungen sind ein leistungsstarkes Marketing-Tool, mit dem Sie Konversionen steigern, Umsätze steigern und die Kundenbindung stimulieren können. Adobe Commerce-Produktempfehlungen basieren auf Adobe Sensei, das Algorithmen für künstliche Intelligenz und maschinelles Lernen verwendet, um eine gründliche Analyse aggregierter Besucherdaten durchzuführen. Wenn diese Daten mit Ihrem Adobe Commerce-Katalog kombiniert werden, können Sie ein ansprechendes, relevantes und personalisiertes Erlebnis erhalten.
+Produktempfehlungen sind ein leistungsstarkes Marketing-Tool, mit dem Sie Konversionen steigern, Umsätze steigern und die Kundenbindung stimulieren können. Adobe Commerce-Produktempfehlungen basieren auf Adobe AI, das Algorithmen für künstliche Intelligenz und maschinelles Lernen verwendet, um eine gründliche Analyse aggregierter Besucherdaten durchzuführen. Wenn diese Daten mit Ihrem Adobe Commerce-Katalog kombiniert werden, können Sie ein ansprechendes, relevantes und personalisiertes Erlebnis erhalten.
 
 In diesem Video erfahren Sie, wie Sie Produktempfehlungen einrichten.
 
@@ -37,5 +37,5 @@ In diesem Video erfahren Sie, wie Sie Produktempfehlungen einrichten.
 
 ## Zusätzliche Ressourcen
 
-- [Recommendations-Produkthandbuch](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=de){target="_blank"}
-- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de){target="_blank"}
+- [Handbuch zu Produktempfehlungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
