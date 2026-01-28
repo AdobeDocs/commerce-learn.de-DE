@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 225
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: 9e644b4dac87eeb98c9e97c7a931a460e1ef3b81
+source-git-commit: cb3fecf5f8b23425311dc31ed526b3b9bfe07b45
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
 
-# ACCS - Neue Kunden-REST-APIs
+# Kunden-REST-API
 
 Erfahren Sie, wie Sie neue Kunden-REST-APIs in Adobe Commerce as a Cloud Service verwenden. Dieses Tutorial ist ideal für Architekten und Entwickler, die API-Lösungen effektiv integrieren und optimieren möchten.
 
@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie neue Kunden-REST-APIs in Adobe Commerce as a Cloud Service
 * Verwenden des richtigen REST-API-Endpunktformats für Commerce as a Cloud Service
 * Programmgesteuertes Erstellen und Aktualisieren von Kundenkonten mithilfe von POST- und PUT-Anfragen mit entsprechenden JSON-Payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479371/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
 
 ## Code-Beispiele
 
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Verweise
 
-* [Versionshinweise zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/release-notes)
+* [Versionshinweise zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS-REST-API-Referenz](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Handbuch zur Benutzerauthentifizierung](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
