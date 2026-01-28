@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie neue Kunden-REST-APIs in Adobe Commerce as a Cloud Service
 * Verwenden des richtigen REST-API-Endpunktformats für Commerce as a Cloud Service
 * Programmgesteuertes Erstellen und Aktualisieren von Kundenkonten mithilfe von POST- und PUT-Anfragen mit entsprechenden JSON-Payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479371/?captions=ger&learn=on&enablevpops)
 
 ## Code-Beispiele
 
