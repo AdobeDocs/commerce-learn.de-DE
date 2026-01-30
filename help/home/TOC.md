@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
       + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
       + [Customer-experience](../edge-delivery-services/shopper-experience.md)
-+ Webinare und Veranstaltungen {#webinars-and-events}
-   + Geschäftswachstum {#business-growth}
-      + [KI-Innovation](../business-growth/ai-innovation.md)
-      + [Vision nach vorn](../business-growth/vision-forward.md)
-      + [Produktakzeptanz](../business-growth/product-adoption.md)
-   + Die Zukunft Commerces {#future-of-commerce}
-      + [Ankündigungen zu neuen Produkten](../future-of-commerce/new-product-announcements.md)
-      + [Drastische Kostensenkung](../future-of-commerce/drastically-cut-costs.md)
-      + [Konversionsraten aufladen](../future-of-commerce/supercharge-conversion-rates.md)
-      + [Schnelle Erweiterung](../future-of-commerce/fast-track-expansion.md)
-   + Aktivierungsreihe {#enablement-series}
-      + [Verringern des Inhaltsverzeichnisses für Commerce-Integrationen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [Planung der modernen Adobe Commerce-Implementierung](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [Launch, nach dem Launch, Überwachung und Fehlerbehebung](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services mit Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Commerce-Unterhaltungen {#commerce-conversations}
-      + [Was ist Expertenerfolg?](../commerce-conversations/what-is-expert-success.md)
-      + [Commerce Support-Add-ons](../commerce-conversations/commerce-support-add-ons.md)
-      + [Was ist der ultimative Erfolg](../commerce-conversations/what-is-ultimate-success.md)
-      + [Technische Bereitschaft für Erfolgsbeschleuniger](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [Einführung und Aktivierung von Erfolgsbeschleunigern](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [Vorbereitung der Organisation für Erfolgsbeschleuniger](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [Geteilte Verantwortung](../commerce-conversations/shared-responsibility.md)
+
 + GraphQL und Rest {#graphql-rest}
    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
    + [Abfragen](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 3%
    + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
 + Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Erstellen eines Moduls](../backend-development/create-module.md)
    + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
    + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
