@@ -13,13 +13,13 @@ ht-degree: 0%
 ## Funktion nur anzeigen {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/adobe-logo.svg" width="20" height="20" /> Exklusive Funktion nur in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">Weitere Informationen</a>)</td></tr>
+<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/adobe-logo.svg" width="20" height="20" /> Exklusive Funktion nur in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de#product-editions">Weitere Informationen</a>)</td></tr>
 </table>
 
 ## Funktion nur B2B {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/b2b.svg" width="20" height="20" /> Exklusive Funktion nur bei <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">B2B für Adobe Commerce verfügbar</a></td></tr>
+<tr><td><img alt="Adobe Commerce-Funktion" src="../assets/b2b.svg" width="20" height="20" /> Exklusive Funktion nur bei <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=de">B2B für Adobe Commerce verfügbar</a></td></tr>
 </table>
 
 ## 400 Anfragen {#avoid-400-error}
