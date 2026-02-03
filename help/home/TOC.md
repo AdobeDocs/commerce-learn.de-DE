@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
+source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '850'
 ht-degree: 3%
 
 ---
@@ -71,11 +71,7 @@ ht-degree: 3%
          + [Standards für In-Process-Code](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [Code-Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + Globale Referenzarchitektur{#global-reference-architecture}
-      + [Globale Referenzarchitektur](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Nutzen der globalen Referenzarchitektur](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [Architekt GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Implementieren der globalen Referenzarchitektur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+
    + Commerce-Funktionen {#capabilities}
       + [Datenverbindung](../capabilities/data-connection.md)
       + [Vollständige Demonstration zur Live-Suche](../capabilities/live-search-full-demonstration.md)
@@ -99,7 +95,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
       + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
