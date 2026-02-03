@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
+source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '866'
 ht-degree: 3%
 
 ---
@@ -96,6 +96,89 @@ ht-degree: 3%
       + [Integration der letzten Meile](../back-office-integrations/last-mile-integration.md)
       + [Webhook-Aufnahme](../back-office-integrations/webhook-ingestion.md)
       + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
+
++ Erweiterbarkeit {#extensibility}
+   + Backend-Entwicklung {#backend-development}
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [Erstellen eines Moduls](../backend-development/create-module.md)
+      + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
+      + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
+      + [Galera-Cluster - langsame Replikation](../backend-development/galera-db-slow-replication.md)
+      + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
+      + [PT-Abfrageauszug](../backend-development/pt-query-digest.md)
+      + [Herstellen einer Verbindung zur Adobe Commerce-Datenbank und Herunterladen der Datenbank](../backend-development/remote-db-connection-execute-queries.md)
+      + Commerce-Upgrades {#upgrade}
+         + [Workshop zur Aktualisierung auf Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
+         + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
+   + Frontend-Luma-Entwicklung {#frontend-development}
+      + PaaS/SaaS Page Builder für Entwickler {#page-builder}
+         + [&#x200B;1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
+         + [&#x200B;2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
+         + [&#x200B;3. Themen](../frontend-development/page-builder/3-themes.md)
+         + [&#x200B;4. Vorlagen und Stile](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+         + [&#x200B;5. Benutzerdefinierte Designs](../frontend-development/page-builder/5-customize-theme.md)
+         + [&#x200B;6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
+      + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
+      + [Erstellen einer Seite](../frontend-development/create-page.md)
+      + Edge-Bereitstellungsdienste {#edge-delivery-services}
+         + Erste Schritte {#getting-started}
+            + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
+            + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
+            + [Aktualisieren der Bestellzusammenfassung beim Checkout](../edge-delivery-services/update-order-summary.md)
+            + [Hinzufügen von BOPIS zum Checkout](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
+            + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
+            + [Customer-experience](../edge-delivery-services/shopper-experience.md)
+      + Headless-Architektur {#headless-architecture}
+         + Einführung in Headless {#introduction-to-headless}
+            + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
+         + Einführung in PWA Studio {#introduction}
+            + [&#x200B;1. Übersicht](../pwa/introduction/1-overview.md)
+            + [&#x200B;2. PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
+            + [&#x200B;3. Launch](../pwa/introduction/3-launch.md)
+            + [4 - NACH OBEN](../pwa/introduction/4-upward.md)
+            + [&#x200B;5. Erste Schritte](../pwa/introduction/5-getting-started.md)
+            + [&#x200B;6. Peregrine](../pwa/introduction/6-peregrine.md)
+         + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
+         + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
+   + GraphQL und Rest {#graphql-rest}
+      + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
+      + [Abfragen](../graphql-rest/graphql-queries.md)
+      + [Mutationen](../graphql-rest/graphql-mutations.md)
+      + [Schema](../graphql-rest/graphql-schema.md)
+   + Adobe Developer App Builder {#adobe-developer-app-builder}
+      + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
+      + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Erstellen Ihres ersten App Builder-Programms {#first-app}
+         + [Überblick](../app-builder/first-app/overview.md)
+         + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
+         + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+         + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
+         + [Informationen zum Testordner](../app-builder/first-app/test-folder.md)
+         + [Den Zweck des Ordners „web-src“ erkennen](../app-builder/first-app/web-src-folder.md)
+         + [Lokale Tests](../app-builder/first-app/testing-locally.md)
+         + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+         + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
+         + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
+      + IO-Ereignisse für Adobe Commerce {#io-events}
+         + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
+         + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+         + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+         + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
+         + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
+         + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
+         + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
+   + API-Mesh {#api-mesh}
+      + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+      + [Workflows für API Mesh-Starter-Kits](../api-mesh/starter-kit-workflows.md)
+      + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
+      + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
+      + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
+
 + Beobachtbarkeit {#observability}
    + [Übersicht über die Beobachtbarkeit](../observability/overview.md)
    + [Telemetrie öffnen](../observability/open-telemetry.md)
@@ -111,52 +194,7 @@ ht-degree: 3%
    + [Erstellen eines Support-Tickets](../help-and-support/create-a-support-ticket.md)
    + [Support-Ticket suchen, verfolgen, kommentieren und eskalieren](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Beobachter hinzufügen und entfernen, Ticket schließen und erneut öffnen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge-Bereitstellungsdienste {#edge-delivery-services}
-   + Erste Schritte {#getting-started}
-      + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
-      + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
-      + [Aktualisieren der Bestellzusammenfassung beim Checkout](../edge-delivery-services/update-order-summary.md)
-      + [Hinzufügen von BOPIS zum Checkout](../edge-delivery-services/add-bopis-to-checkout.md)
-      + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
-      + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
-      + [Customer-experience](../edge-delivery-services/shopper-experience.md)
 
-+ GraphQL und Rest {#graphql-rest}
-   + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
-   + [Abfragen](../graphql-rest/graphql-queries.md)
-   + [Mutationen](../graphql-rest/graphql-mutations.md)
-   + [Schema](../graphql-rest/graphql-schema.md)
-+ Adobe Developer App Builder {#adobe-developer-app-builder}
-   + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
-   + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
-   + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + Erstellen Ihres ersten App Builder-Programms {#first-app}
-      + [Überblick](../app-builder/first-app/overview.md)
-      + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
-      + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
-      + [Informationen zum Testordner](../app-builder/first-app/test-folder.md)
-      + [Den Zweck des Ordners „web-src“ erkennen](../app-builder/first-app/web-src-folder.md)
-      + [Lokale Tests](../app-builder/first-app/testing-locally.md)
-      + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
-      + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
-      + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
-   + IO-Ereignisse für Adobe Commerce {#io-events}
-      + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
-      + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
-      + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
-      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
-      + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
-+ API-Mesh {#api-mesh}
-   + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
-   + [Workflows für API Mesh-Starter-Kits](../api-mesh/starter-kit-workflows.md)
-   + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
-   + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
-   + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
-   + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
 + Store-Administration {#admin}
    + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
    + [Zwei-Faktor-Authentifizierung](../site-management/two-factor-authentication.md)
@@ -234,38 +272,6 @@ ht-degree: 3%
    + [Kohorte Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
-+ Commerce-Upgrades {#upgrade}
-   + [Workshop zur Aktualisierung auf Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-   + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
-   + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
-+ Backend-Entwicklung {#backend-development}
-   + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
-   + [Erstellen eines Moduls](../backend-development/create-module.md)
-   + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
-   + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
-   + [Galera-Cluster - langsame Replikation](../backend-development/galera-db-slow-replication.md)
-   + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
-   + [PT-Abfrageauszug](../backend-development/pt-query-digest.md)
-   + [Herstellen einer Verbindung zur Adobe Commerce-Datenbank und Herunterladen der Datenbank](../backend-development/remote-db-connection-execute-queries.md)
-+ Native Frontend-Luma-Entwicklung {#frontend-development}
-   + Page Builder für Entwickler {#page-builder}
-      + [&#x200B;1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
-      + [&#x200B;2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
-      + [&#x200B;3. Themen](../frontend-development/page-builder/3-themes.md)
-      + [&#x200B;4. Vorlagen und Stile](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-      + [&#x200B;5. Benutzerdefinierte Designs](../frontend-development/page-builder/5-customize-theme.md)
-      + [&#x200B;6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
-   + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
-   + [Erstellen einer Seite](../frontend-development/create-page.md)
-+ Headless-Architektur {#headless-architecture}
-   + Einführung in Headless {#introduction-to-headless}
-      + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
-   + Einführung in PWA Studio {#introduction}
-      + [&#x200B;1. Übersicht](../pwa/introduction/1-overview.md)
-      + [&#x200B;2. PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
-      + [&#x200B;3. Launch](../pwa/introduction/3-launch.md)
-      + [4 - NACH OBEN](../pwa/introduction/4-upward.md)
-      + [&#x200B;5. Erste Schritte](../pwa/introduction/5-getting-started.md)
-      + [&#x200B;6. Peregrine](../pwa/introduction/6-peregrine.md)
-   + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
-   + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
+
+
+
