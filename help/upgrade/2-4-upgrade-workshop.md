@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -22,6 +22,8 @@ ht-degree: 33%
 ---
 
 # Workshop zur Aktualisierung auf Adobe Commerce 2.4
+
+{{only-for-on-prem-commerce-cloud}}
 
 Sehen Sie sich dieses aufgezeichnete Webinar an, um die Schritte und Best Practices zu erfahren, die bei der Vorbereitung auf die nächste Aktualisierung auf 2.4.4 oder höher befolgt werden müssen.
 
@@ -39,10 +41,10 @@ In diesem Workshop ging Adobe Commerce eine Partnerschaft mit Merkle ein, um Fol
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3432516?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=de)
-- [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=de)
-- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=de)
+- [Upgrade-Handbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migration zu Adobe Commerce - Standards für die prozessinterne Kodierung
+
+{{only-for-on-prem-commerce-cloud}}
 
 Erfahren Sie mehr über die wichtigsten Programmierstandards und Best Practices für PHP, JavaScript und Anpassungen. Unabhängig davon, ob Sie Entwickler oder Unternehmen sind, hilft Ihnen diese Reihe von Tutorials, durch die Komplexität der Migration zu Adobe Commerce zu navigieren, um einen reibungslosen und erfolgreichen Übergang sicherzustellen.
 
@@ -32,4 +34,4 @@ Erfahren Sie mehr über die wichtigsten Programmierstandards und Best Practices 
 * Best Practices für PHP, JavaScript und Anpassungen, um eine reibungslose Migration zu gewährleisten.
 * Gewinnen Sie Erkenntnisse von Adobe-Experten zu Vorbereitung, Leistung und Sicherheit für erfolgreiche Adobe Commerce-Projekte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434866?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

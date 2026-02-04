@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Monorepo Global Reference Architecture-Muster
+
+{{only-for-on-prem-commerce-cloud}}
 
 In diesem Handbuch wird erläutert, wie Sie Adobe Commerce mit dem Monorepo Global Reference Architecture (GRA)-Muster einrichten.
 
@@ -186,7 +188,7 @@ Der folgende Git-Unterschied zeigt den Unterschied zwischen einer bereinigten Ad
 
 ### Verwenden von Metapaketen
 
-Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
+Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
 
 Composer-Metapakete bündeln mehrere Composer-Pakete in einem Paket. Wenn ein Metapaket erforderlich ist, werden alle Pakete, die es enthält, automatisch über den Abschnitt Composer erforderlich des Metapakets installiert.
 
@@ -255,7 +257,7 @@ Metapakete befinden sich im monorepo im `packages`. Dort wird die Verzeichnisstr
 
 Module im monorepo befinden sich im `packages`. Auf diese Weise kann Composer sie über das Pfadtyp-Repository finden.
 
-Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
+Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
 
 ```text
 .

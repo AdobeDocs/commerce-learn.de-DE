@@ -10,7 +10,7 @@ duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # Migration zu Adobe Commerce - Code-Freeze
+
+{{only-for-on-prem-commerce-cloud}}
 
 Die Implementierung eines Code-Freeze während der Adobe Commerce-Migration ist für einen stabilen und erfolgreichen Launch von entscheidender Bedeutung. Durch das Anhalten neuer Code-Bereitstellungen ermöglichen Sie dem QA-Team, den Entwicklern und den Stakeholdern, mit einer statischen Code-Basis zu arbeiten, wodurch die Zuversicht steigt und das Fehlerrisiko verringert wird. Dieser Prozess umfasst gründliche Tests und Validierungen, die Behebung von Fehlern mit hoher Priorität und die Sicherstellung, dass alle Aspekte der Site wie erwartet funktionieren. Ein gut ausgeführtes Code-Freeze kommt dem gesamten Projekt zugute, verhindert Probleme in letzter Minute und stellt einen reibungslosen Übergang zu Adobe Commerce sicher.
 
@@ -35,4 +37,4 @@ Die Implementierung eines Code-Freeze während der Adobe Commerce-Migration ist 
 * Koordination manueller und automatisierter Tests, Belastungstests und Penetrationstests, um sicherzustellen, dass alle Aspekte der Website wie erwartet funktionieren.
 * Einbindung von Stakeholdern aus der Wirtschaft, Entwicklern und IT-Teams in den Validierungsprozess, um einen reibungslosen und erfolgreichen Launch sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445498/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)

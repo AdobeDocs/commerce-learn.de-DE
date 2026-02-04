@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Implementierungstechniken der globalen Referenzarchitektur
+
+{{only-for-on-prem-commerce-cloud}}
 
 Es gibt mehrere Möglichkeiten, die Wiederverwendung von Code mit Adobe Commerce zu optimieren. Diese vier Implementierungstechniken haben jeweils ihre eigenen Vorteile. Die Beispiele in diesem Artikel sind von einfach bis komplexer sortiert. Wählen Sie die Strategie aus, die am besten zu Ihrem Projekt und Ihrer künftigen Roadmap passt. Die Migration von einer Strategie zur anderen kann zeitaufwendig sein.
 
