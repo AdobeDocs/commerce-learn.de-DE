@@ -38,7 +38,7 @@ Am Frontend kann die Erfahrung mit Headless-Implementierungen den Prozess verein
 * Erfahren Sie mehr über Frontend- und Backend-Überlegungen.
 * Planen Sie eine reibungslose Migration, indem Sie bestehende Module bewerten, Kernanwendungen aktualisieren und mit anderen Adobe-Lösungen integrieren.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447455/?captions=ger&learn=on)
 
 ## Verwandte Dokumentation
 
