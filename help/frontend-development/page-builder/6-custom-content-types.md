@@ -36,7 +36,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [ zu Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [&#x200B; zu Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
