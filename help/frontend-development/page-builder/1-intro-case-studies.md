@@ -11,7 +11,7 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -37,7 +37,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [&#x200B; zu Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [&#x200B; zu Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
@@ -45,4 +45,4 @@ In diesem Video:
 
 [Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=de)
