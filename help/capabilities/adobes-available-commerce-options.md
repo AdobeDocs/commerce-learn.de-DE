@@ -34,7 +34,7 @@ Erfahren Sie mehr über Adobe Commerce-Optionen. Erfahren Sie, was einige der Ha
 * Erfahren Sie, wann Storefronts modernisiert werden müssen, ohne Ihr Backend zu ersetzen
 * Identifizieren Sie die beste Lösung basierend auf DevOps-Ressourcen, Skalierbarkeit und Geschäftszielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480252?captions=ger&learn=on)
 
 ## Verwandte Dokumentation
 
