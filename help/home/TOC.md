@@ -3,7 +3,7 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 3%
@@ -44,7 +44,6 @@ ht-degree: 3%
       + [Support-Anfrage](../cloud/best-practices/support-request.md)
       + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
-   + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Überblick](../commerce-as-a-cloud-service/overview.md)
       + [Architektur](../commerce-as-a-cloud-service/architecture.md)
@@ -74,6 +73,7 @@ ht-degree: 3%
          + [Code-Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
    + Commerce-Funktionen {#capabilities}
+      + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
       + [Datenverbindung](../capabilities/data-connection.md)
       + [Vollständige Demonstration zur Live-Suche](../capabilities/live-search-full-demonstration.md)
       + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
       + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
