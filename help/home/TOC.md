@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
+source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
       + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -148,6 +148,8 @@ ht-degree: 3%
       + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
       + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Erstellen benutzerdefinierter Versandraten mit KI-Tools {#custom-shipping-rates-ai-tools}
+         + [Feedback an Adobe geben](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Erstellen Ihres ersten App Builder-Programms {#first-app}
          + [Überblick](../app-builder/first-app/overview.md)
          + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
