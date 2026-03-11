@@ -32,6 +32,6 @@ Erfahren Sie, wie Sie mit KI-Tools benutzerdefinierte Versandraten erstellen kö
 * Erfahren Sie, wie das MCP Feedback Tool funktioniert
 * Erfahren Sie, wie Sie Adobe von der IDE Feedback geben können
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481315?captions=ger&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
