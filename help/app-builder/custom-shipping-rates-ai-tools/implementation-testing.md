@@ -34,6 +34,6 @@ Agent schließt Implementierung ab, bereinigt nicht verwendeten Code und bereite
 Die Anmeldeinformationen und die Umgebung sind konfiguriert, um die neue Versanderweiterung bereitzustellen und zu registrieren.
 Storefront-Tests bestätigen, dass die externen Versandraten wie erwartet angezeigt werden und funktionieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481337/?captions=ger&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
