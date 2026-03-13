@@ -1,9 +1,9 @@
 ---
 title: KI-Tools Versandraten Verwandte Seiten
 description: Links zu verwandten Seiten in KI-Tools Versandraten
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
@@ -13,4 +13,6 @@ ht-degree: 0%
 ## Verwandte Tutorials
 
 * [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [Implementierung und Tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
 * [Feedback](../app-builder/custom-shipping-rates-ai-tools/feedback.md)

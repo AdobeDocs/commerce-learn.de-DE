@@ -3,15 +3,15 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 
-# Videos und Tutorials zu Adobe Commerce {#tutorials}
+# Adobe Commerce-Videos und -Tutorials {#tutorials}
 
 + [Tutorials für [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -30,15 +30,15 @@ ht-degree: 3%
    + [Storefront-Optionen](../cloud/storefront-options.md)
    + [Datenfreigabe](../cloud/data-sharing.md)
    + [Mehrere Websites](../cloud/multiple-websites.md)
-   + [Experience Lead-Daten und -Promotions](../cloud/experience-lead-data-promoitions.md)
+   + [Daten und Promotions zu Experience Leads](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [Migration von einer selbst gehosteten Lösung](../cloud/overview.md)
-   + [Einschränken des Zugriffs mit Fastly](../cloud/limit-website-access-using-fastly.md)
-   + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
+   + [Zugriff mit Fastly beschränken](../cloud/limit-website-access-using-fastly.md)
+   + Technische Einführung und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
       + [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
       + [schnell](../cloud/fastly.md)
-      + [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
-      + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
+      + [Konfiguration und Debuggen](../cloud/configuration-and-debugging.md)
+      + [Implementierung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
    + Best Practices {#commerce-cloud-best-practices}
       + [Support-Anfrage](../cloud/best-practices/support-request.md)
@@ -75,10 +75,10 @@ ht-degree: 3%
    + Commerce-Funktionen {#capabilities}
       + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
       + [Datenverbindung](../capabilities/data-connection.md)
-      + [Vollständige Demonstration zur Live-Suche](../capabilities/live-search-full-demonstration.md)
+      + [Live Search - vollständige Demonstration](../capabilities/live-search-full-demonstration.md)
       + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
-      + [Quality Patch-Tool](../capabilities/quality-patch-tool.md)
-   + Erstellen von Produkten {#create-products}
+      + [Qualitätspatch-Werkzeug](../capabilities/quality-patch-tool.md)
+   + Produkte erstellen {#create-products}
       + [Einfaches Produkt](../site-management/create-simple-product.md)
       + [Virtuelles Produkt](../site-management/create-virtual-product.md)
       + [Herunterladbares Produkt](../site-management/create-downloadable-product.md)
@@ -96,17 +96,17 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Empfohlene Vorgehensweisen zum Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
-      + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
-      + [Galera-Cluster - langsame Replikation](../backend-development/galera-db-slow-replication.md)
+      + [Beispiel für Abhängigkeitsinjektion](../backend-development/dependency-injection.md)
+      + [Galera Cluster - langsame Replikation](../backend-development/galera-db-slow-replication.md)
       + [MySQL-Abfrage-Cache](../backend-development/mysql-query-cache.md)
       + [PT-Abfrageauszug](../backend-development/pt-query-digest.md)
       + [Herstellen einer Verbindung zur Adobe Commerce-Datenbank und Herunterladen der Datenbank](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce-Upgrades {#upgrade}
-         + [Workshop zur Aktualisierung auf Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-         + [Upgrade-Kompatibilitäts-Tool - Übersicht](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [Adobe Commerce 2.4 Upgrade-Workshop](../upgrade/2-4-upgrade-workshop.md)
+         + [Übersicht über das Upgrade-Kompatibilitätstool](../upgrade/upgrade-compatibility-tool-overview.md)
          + [Verwenden des Upgrade-Kompatibilitäts-Tools in PHP Storm](../upgrade/uct-phpstorm.md)
    + Frontend-Luma-Entwicklung {#frontend-development}
       + PaaS/SaaS Page Builder für Entwickler {#page-builder}
@@ -135,10 +135,10 @@ ht-degree: 3%
             + [&#x200B;2. PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
             + [&#x200B;3. Launch](../pwa/introduction/3-launch.md)
             + [4 - NACH OBEN](../pwa/introduction/4-upward.md)
-            + [&#x200B;5. Erste Schritte](../pwa/introduction/5-getting-started.md)
+            + [5 - Erste Schritte](../pwa/introduction/5-getting-started.md)
             + [&#x200B;6. Peregrine](../pwa/introduction/6-peregrine.md)
          + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
-         + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
+         + [Venia für die Entwicklung einrichten](../pwa/set-up-venia-for-dev.md)
    + GraphQL und Rest {#graphql-rest}
       + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
       + [Abfragen](../graphql-rest/graphql-queries.md)
@@ -150,12 +150,14 @@ ht-degree: 3%
       + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Erstellen benutzerdefinierter Versandraten mit KI-Tools {#custom-shipping-rates-ai-tools}
          + [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [Implementierung und Tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
          + [Feedback an Adobe geben](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-      + Erstellen Ihres ersten App Builder-Programms {#first-app}
+      + Die erste App-Entwicklung starten {#first-app}
          + [Überblick](../app-builder/first-app/overview.md)
-         + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
+         + [ENV-Datei generieren und konfigurieren](../app-builder/first-app/env-file.md)
          + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-         + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
+         + [Weitere Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
          + [Informationen zum Testordner](../app-builder/first-app/test-folder.md)
          + [Den Zweck des Ordners „web-src“ erkennen](../app-builder/first-app/web-src-folder.md)
          + [Lokale Tests](../app-builder/first-app/testing-locally.md)
@@ -198,8 +200,8 @@ ht-degree: 3%
 + Store-Administration {#admin}
    + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
    + [Zwei-Faktor-Authentifizierung](../site-management/two-factor-authentication.md)
-   + [Währungs- und Steuerregeln verwalten](../site-management/currency-tax-rules.md)
-   + [Hinzufügen von Websites, Stores und Store-Ansichten](../site-management/add-websites-stores-views.md)
+   + [Währung und Steuerregeln verwalten](../site-management/currency-tax-rules.md)
+   + [Websites, Stores und Store Views hinzufügen](../site-management/add-websites-stores-views.md)
    + [Ändern der Store-URL](../site-management/change-store-url.md)
    + [Admin-URI zurücksetzen](../site-management/reset-admin-uri.md)
    + [Versand- und Liefermethoden](../site-management/shipping-delivery.md)
@@ -256,7 +258,7 @@ ht-degree: 3%
       + [Preisnachlass für Angebotspositionen GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [Preisnachlass-REST-API für Angebotspositionsartikel](../b2b/quote-rest-api-line-item-notes.md)
 + Tools und externe Services {#tools}
-   + [Dashboard des Site-Wide Analysis Tool](../tools/site-wide-analysis-tool.md)
+   + [Site Wide Analysis Tool-Dashboard](../tools/site-wide-analysis-tool.md)
    + [Cloud-Automatisierung - Patch-Service](../tools/cloud-automation-patching-service.md)
    + [Beobachtung für Adobe Commerce](../tools/observation-tool.md)
    + [Quality Patch-Tool](../tools/quality-patch-tool.md)
@@ -264,7 +266,7 @@ ht-degree: 3%
       + [Finden bösartiger IP-Adressen](../new-relic/malicious-ip.md)
       + [Setup für Warnhinweise](../new-relic/new-relic-alert-notification-setup.md)
       + [Benutzerdefinierte Warnhinweise](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
++ Commerce Intelligence. {#mbi}
    + [Erste Schritte](../business-intelligence/getting-started.md)
    + [Integrationen und Konfigurationen](../business-intelligence/integrations-configurations.md)
    + [Berichte und Dashboards](../business-intelligence/reports-and-dashboards.md)

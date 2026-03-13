@@ -6,16 +6,16 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 0
+duration: 178
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen benutzerdefinierter Versandraten mit KI-Tools
 
@@ -33,6 +33,6 @@ Erfahren Sie, wie Sie KI-Tools einrichten, um benutzerdefinierte Versandraten zu
 * Führt Sie durch die Einrichtung der Entwicklungsumgebung, einschließlich des Auscheckens des Repositorys, der Überprüfung der Starter-Kit-Struktur und der Installation der erforderlichen Tools.
 * Bereitet das System für die KI-unterstützte Entwicklung vor, indem es sich anmeldet, den Zugriff konfiguriert und sicherstellt, dass alle Abhängigkeiten und Voraussetzungen vorhanden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
