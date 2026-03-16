@@ -1,5 +1,5 @@
 ---
-title: Erstellen benutzerdefinierter Versandraten mit KI-Tools
+title: Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools | Funktion erstellen
 description: Erfahren Sie, wie Sie mit den KI-Tools von Adobe benutzerdefinierte Versandraten erstellen und die Checkout-Funktionen mit einer Pseudo-API und sicheren Konfigurationen erweitern können.
 feature: Extensibility
 topic: Artificial Intelligence
@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
-source-git-commit: 2cf5392b7cf21cad9f912f16891cfa550d118d77
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
+source-git-commit: 650cd54d155520f4d2ff89bceefbd529efccc8c3
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# Erstellen benutzerdefinierter Versandraten mit KI-Tools
+# Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools - Erstellen der Funktion
 
 Erfahren Sie, wie Sie mit den KI-gestützten Tools von Adobe den Entwicklungs-Workflow optimieren und die Checkout-Funktionen erweitern können. In diesem Tutorial wird die Integration benutzerdefinierter Versandraten aus externen Systemen beschrieben, wobei eine Pseudo-API verwendet wird, die mit einem API-Schlüssel gesichert ist. Erfahren Sie, wie Sie Service-URLs konfigurieren, die Sicherheit verwalten und erweiterte Checkout-Funktionen aktivieren. Dieses umfassende Handbuch zeigt, wie KI die Software-Entwicklung von der Anforderungserfassung bis hin zur Implementierungsplanung beschleunigt. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung zu erhalten.
 
