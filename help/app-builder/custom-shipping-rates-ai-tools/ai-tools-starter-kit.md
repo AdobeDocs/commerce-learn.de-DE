@@ -34,6 +34,6 @@ Erfahren Sie, wie Sie mit den KI-gestützten Tools von Adobe den Entwicklungs-Wo
 * MCP-Tools stellen Befehle und Daten bereit, die der Agent zum Planen und Generieren von Code verwendet.
 * KI automatisiert Anforderungen, Architektur und Entscheidungen bei der Implementierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481353/?captions=ger&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
