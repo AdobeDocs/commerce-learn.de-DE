@@ -33,7 +33,7 @@ Erfahren Sie, warum eine zentralisierte Beobachtung für moderne Adobe Commerce-
 * Zentralisierte Beobachtbarkeit ist der Schlüssel: Korrelieren Sie Protokolle und Metriken über alle Komponenten hinweg.
 * Verbesserung der Checkout-Leistung: Identifizieren Sie Engpässe schnell, um den Einkauf reibungslos zu gestalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478297?captions=ger&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

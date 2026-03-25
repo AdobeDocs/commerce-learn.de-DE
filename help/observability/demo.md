@@ -33,7 +33,7 @@ Sehen Sie sich eine Live-Demo zur Beobachtbarkeit in Adobe Commerce an. In diese
 * Erläutert die Korrelation von Webhooks und Ereignissen für die Rückverfolgbarkeit
 * Zeigt die Integration mit Grafana und New Relic für Protokolle und Spuren
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477876?captions=ger&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
