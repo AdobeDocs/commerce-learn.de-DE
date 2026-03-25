@@ -41,4 +41,4 @@ Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb von Edge Delivery Service
 
 ## Zusätzliche Dokumentation
 
-* [Online-Abholung im Geschäft kaufen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Online-Abholung im Geschäft kaufen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=de)

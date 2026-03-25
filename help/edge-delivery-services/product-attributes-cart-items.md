@@ -43,4 +43,4 @@ Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transakti
 
 ## Zusätzliche Dokumentation
 
-* [Produktlinien zum Warenkorb hinzufügen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Produktlinien zum Warenkorb hinzufügen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=de)
