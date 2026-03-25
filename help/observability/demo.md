@@ -3,19 +3,19 @@ title: Beobachtbarkeits-Demo
 description: Erfahren Sie, wie Adobe Commerce Beobachtbarkeit, Webhooks und Ereigniskorrelation für die nahtlose Nachverfolgung und Fehlerbehebung von Aufträgen verwendet
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-20000
-source-git-commit: c0a2aa9b657b3ad0edc2cafb28f53970db4e1b42
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Beobachtbarkeits-Demo
 
@@ -33,7 +33,7 @@ Sehen Sie sich eine Live-Demo zur Beobachtbarkeit in Adobe Commerce an. In diese
 * Erläutert die Korrelation von Webhooks und Ereignissen für die Rückverfolgbarkeit
 * Zeigt die Integration mit Grafana und New Relic für Protokolle und Spuren
 
->[!VIDEO](https://video.tv.adobe.com/v/3477876?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

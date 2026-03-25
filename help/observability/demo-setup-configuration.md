@@ -3,19 +3,19 @@ title: Einrichtung und Details der Observability-Demos
 description: Bereitstellen von End-to-End-Beobachtbarkeit mit standardisierter, korrelierter Telemetrie in Adobe Commerce und benutzerdefinierten Apps
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 170
+duration: 208
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19992
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Einrichtung und Konfiguration
 
@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie mithilfe standardisierter, korrelierter Telemetrie eine En
 * Verwenden des Commerce Observability Module für automatisierte Signale
 * Erweitern der Überwachung mit der IO Live Telemetry Library für Apps
 
->[!VIDEO](https://video.tv.adobe.com/v/3478343?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
