@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb von Edge Delivery Service
 * Zwischen Versand und Abholung im Geschäft wechseln
 * Pick-up-Speicherorte werden abgerufen
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441709?captions=ger&learn=on)
 
 ## Zusätzliche Dokumentation
 

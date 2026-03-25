@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie das App Builder Starter Kit für Salesforce Commerce Cloud
 * Klonen Sie das App Builder Starter Kit und konfigurieren Sie Umgebungsdateien mithilfe der Adobe IO CLI.
 * Stellen Sie die App bereit und bestätigen Sie die erfolgreiche Registrierung von Aktionen und Ereignissen in Ihrem Arbeitsbereich.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476091?captions=ger&learn=on)

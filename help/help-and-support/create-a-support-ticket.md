@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie in Experience League für Adobe Commerce ein Support-Ticke
 * Erfahren Sie, wie sich die empfohlenen Artikel je nach den im Formular verwendeten Informationen ändern
 * Wenn Sie verstehen, wie der Platzhaltertext in den Formularfeldern verwendet wird, können Sie die Art der Informationen verstehen, die für eine sinnvolle Support-Anfrage erforderlich sind
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449562?captions=ger&learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 

@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie in Experience League für Adobe Commerce ein Support-Ticke
 * Erfahren Sie, wie Sie einem offenen Support-Ticket einen Kommentar hinzufügen.
 * Erfahren Sie, wie und warum Sie ein Support-Ticket eskalieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445320?captions=ger&learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 
