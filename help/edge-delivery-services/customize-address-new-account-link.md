@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Adressenlayout anpassen
 
-Erfahren Sie, wie Sie das Layout des Adressformulars an der Kasse anpassen, um sicherzustellen, dass alle Felder mit Ausnahme des Textbereichs 50 % Breite haben. Erfahren Sie, wie Sie die Verwendung einer integrierten Drittanbieter-API, insbesondere der Google-Adressen-API, nutzen können, um die automatische Adresssuche und -validierung im Adressformular zu ermöglichen. &#x200B; Erfahren Sie, wie Sie dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzufügen, das mit einer benutzerdefinierten Seite für eine Store-Suche verknüpft ist.
+Erfahren Sie, wie Sie das Layout des Adressformulars an der Kasse anpassen, um sicherzustellen, dass alle Felder mit Ausnahme des Textbereichs 50 % Breite haben. Erfahren Sie, wie Sie die Verwendung einer integrierten API eines Drittanbieters, insbesondere der Google Address API, handhaben können, um die automatische Adressensuche und -validierung im Adressformular zu ermöglichen. &#x200B; Erfahren Sie, wie Sie dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzufügen, das mit einer benutzerdefinierten Seite für eine Store-Suche verknüpft ist.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -40,8 +40,8 @@ Projektmanager, die den Fortschritt von Entwicklungsaufgaben verfolgen und die t
 * Validierung und Fehlerbehandlung für die Adresseingabefelder, um sicherzustellen, dass Benutzende sofortiges Feedback zu falschen oder unvollständigen Einträgen erhalten, und um das Benutzererlebnis zu verbessern.
 * Erweiterung des Benutzerkonto-Dashboards, mit der dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzugefügt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442915?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=de)
+* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

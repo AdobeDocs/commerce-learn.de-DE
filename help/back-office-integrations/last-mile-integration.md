@@ -4,7 +4,7 @@ description: Integration der letzten Meile in Commerce, wobei Erweiterbarkeitsha
 landing-page-description: Erfahren Sie mehr über den Aufbau und die Funktionen von Erweiterbarkeitshaken bei der Integration der letzten Meile für Commerce-Systeme.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -45,6 +45,6 @@ Erfahren Sie mehr über die Bedeutung von Nachbearbeitungsaktivitäten über den
 * Erfahren Sie mehr über die Rolle des Transformations-Hooks beim Transformieren von Datenobjekten zwischen dem Ursprungs- und dem Zielsystem.
 * Erfahren Sie mehr über die Bedeutung des Sende-Hooks bei der Erleichterung des tatsächlichen Datenversands an das Zielsystem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451936?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

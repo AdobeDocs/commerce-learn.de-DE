@@ -5,6 +5,7 @@ landing-page-description: Dies ist eine Einführung in GraphQL. Grundlegendes zu
 short-description: Dies ist eine Einführung in GraphQL. Grundlegendes zum Schema und zur Interpretation einiger Elemente
 kt: 13939
 doc-type: video
+duration: 363
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Dies ist Teil 4 der Serie für GraphQL und Adobe Commerce. Die verwendeten Abfragen und Mutationen basieren auf einem bestimmten Datendiagramm, das auf dem Server implementiert wird und das die GraphQL-Laufzeit nutzt, um die Abfrage aufzulösen. Die GraphQL-Spezifikation definiert eine agnostische Sprache zum Ausdrücken der Typen und Beziehungen Ihres Datendiagramms.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446619?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 

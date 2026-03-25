@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie einen Aufnahme-Webhook einrichten und anpasse
 landing-page-description: Erfahren Sie, wie Sie mit dem Commerce Integration Starter Kit Commerce mithilfe eines Aufnahme-Webhooks in ein Back-Office-System eines Drittanbieters integrieren können.
 kt: 15870
 doc-type: video
-duration: 593
+duration: 697
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%

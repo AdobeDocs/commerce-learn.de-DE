@@ -4,6 +4,7 @@ description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento 
 short-description: Erfahren Sie, wie Sie GraphQL GET- und POST-Aufrufe für Adobe Commerce und  [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
+duration: 286
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -25,7 +26,7 @@ Dies ist Teil 1 der Serie für GraphQL und Adobe Commerce. GraphQL hat sich schn
 
 Wenn Sie GraphQL noch nicht kennen, finden Sie in diesem Abschnitt grundlegende Konzepte und Verwendungsmöglichkeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443951?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 

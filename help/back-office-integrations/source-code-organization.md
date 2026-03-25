@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die Organisation des Quell-Codes im Commerc
 landing-page-description: Erkunden der Source Code-Organisation in einem Commerce Integration Starter Kit
 kt: 15868
 doc-type: video
-duration: 420
+duration: 534
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Erkunden Sie die Logik hinter der Quell-Code-Struktur und beschreiben Sie, wie d
 
 ## Videoinhalt
 
-* Verstehen Sie, dass die vier Hauptordner `actions`, `scripts`, `test` und `utils` sind, wobei der Schwerpunkt auf den `actions` und `scripts` Ordnern während der Sitzung liegt. &#x200B;
+* Verstehen Sie, dass die vier Hauptordner `actions`, `scripts`, `test` und `utils` sind, mit Schwerpunkt auf den `actions` und `scripts` Ordnern während der Sitzung. &#x200B;
 * Erfahren Sie mehr über den `actions` Ordner und darüber, wie er wichtige Unterordner wie `ingestion` und `webhook` enthält.
 * Erfahren Sie mehr über den `actions` Ordner und darüber, warum es bestimmte Ordner für Entitäten wie `customer`, `order`, `product` und `stock` gibt, die jeweils Laufzeitaktionen enthalten, die in `commerce` und `external` Ordner strukturiert sind, um Ereignisse aus Commerce und Drittanbietersystemen effektiv zu verwalten. &#x200B;
 * Erfahren Sie, wie wichtig es ist, den Code im `starter-kit-info`-Ordner nicht zu ändern, der eine Laufzeitaktion enthält, die von Adobe verwendet wird, um Projektbereitstellungen basierend auf dem Starter Kit zu verfolgen. &#x200B;

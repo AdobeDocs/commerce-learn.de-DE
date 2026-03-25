@@ -5,6 +5,7 @@ landing-page-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Ado
 short-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und  [!DNL Magento Open Source]. Dies ist eine Einführung in GraphQL mit GET- und POST-Aufrufen.
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Dies ist Teil 2 der Serie für GraphQL und Adobe Commerce. In diesem Tutorial und Video erfahren Sie mehr über GraphQL-Abfragen und wie Sie diese mit Adobe Commerce durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450067?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 
@@ -207,6 +208,6 @@ In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und
 
 Wie Sie gesehen haben, dass die eigentliche HTTP-Anfrage für eine GraphQL-Abfrage „query: `{string}`&quot; in ihrem Hauptteil enthält, enthält jede Anfrage mit einem Variablenwörterbuch einfach ein zusätzliches „variables: `{json}`&quot; in demselben Hauptteil, wobei `{json}` die JSON-Zeichenfolge mit den Variablenwerten ist.
 
-Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden &#x200B;](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
+Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden ](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

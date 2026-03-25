@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 218
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16565
 exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
-source-git-commit: 64415b84eccd209fcd03ee7ac87a01c534b7335c
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -29,6 +29,6 @@ Erfahren Sie, wie Sie Filter für die Verwendung in Adobe Commerce Admin finden 
 
 * Ermitteln des Konfigurationswerts für jedes Attribut, um es als Filter zu aktivieren oder zu deaktivieren
 * Erfahren Sie, wie Sie mit einem Filter die Ergebnisse eines Administratorrasters begrenzen können
-* In der Admin Console zu Adobe Commerce erfahren Sie, wie sich Filter auf andere Administratoren auswirken
+* Erfahren Sie, wie sich Filter auf andere Administratoren in der Adobe Commerce Admin Console auswirken
 
->[!VIDEO](https://video.tv.adobe.com/v/3440391?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

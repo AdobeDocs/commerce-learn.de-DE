@@ -4,6 +4,7 @@ description: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Backoff
 landing-page-description: Erfahren Sie mehr über das Adobe Commerce Starter Kit für Backoffice-Integrationen
 kt: 15341
 doc-type: video
+duration: 502
 audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -38,4 +39,4 @@ Erfahren Sie mehr über das Starter Kit zur Adobe Commerce-Backoffice-Integratio
 * E/A-Ereignisse konfigurieren
 * Herstellen einer Verbindung zu einem Drittanbieter zum Synchronisieren von Daten
 
->[!VIDEO](https://video.tv.adobe.com/v/3452023?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)

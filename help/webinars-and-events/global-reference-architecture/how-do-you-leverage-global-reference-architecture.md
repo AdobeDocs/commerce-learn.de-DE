@@ -4,6 +4,7 @@ description: Erfahren Sie, wie Sie eine globale Referenzarchitektur nutzen könn
 landing-page-description: Erfahren Sie mehr über die globale Referenzarchitektur und deren Verwendung mit Adobe Commerce
 kt: 14040
 doc-type: video
+duration: 1833
 audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
-source-git-commit: 42525268cda32ac461b6842c27675ee1b9a3305a
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

@@ -5,6 +5,7 @@ landing-page-description: Erfahren Sie, wie Sie Warnhinweise, Richtlinien und Ve
 short-description: Erfahren Sie, wie Sie in New Relic eine neue E-Mail-Adresse zu einer bestehenden Warnhinweisrichtlinie hinzufügen.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Reli
 * Erfahren Sie mehr über Warnhinweise, Richtlinien und Workflows
 * Das Speichern des Ziels und die Validierung der neuen E-Mail wurde zu einer Richtlinie hinzugefügt
 
->[!VIDEO](https://video.tv.adobe.com/v/3441214?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

@@ -3,6 +3,7 @@ title: Übersicht über Adobe Commerce as a Cloud Service
 description: Informationen zu Adobe Commerce as a Cloud Service. Eine flexible, skalierbare und effiziente Lösung für dynamische digitale Vorgänge mit einer zusammensetzbaren Architektur.
 kt: 17219
 doc-type: Technical Video
+duration: 232
 audience: all
 last-substantial-update: 2025-2-3
 feature: Auto Scaling, Cloud, Services
@@ -10,7 +11,7 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
-source-git-commit: ae0d2892e7b3499be1270fd183fca0e4bdf2aef4
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -39,8 +40,8 @@ Adobe Commerce as a Cloud Service bietet eine flexible, skalierbare und effizien
 * Vereinfachte Onboarding- und Self-Service-Bereitstellung für eine schnelle und effiziente Einrichtung von Sandbox- oder Produktionsinstanzen.
 * Zusammensetzbare Architektur für die unabhängige Bereitstellung, Skalierung und Aktualisierung von Services mit API-First-Erweiterbarkeit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443320?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Verwandte Dokumentation
 
-* [Handbuch zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/overview)
+* [Handbuch zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

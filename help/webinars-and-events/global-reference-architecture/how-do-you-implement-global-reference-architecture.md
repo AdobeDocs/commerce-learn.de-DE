@@ -4,6 +4,7 @@ description: Erfahren Sie, wie Sie eine globale Referenzarchitektur implementier
 landing-page-description: Erfahren Sie, wie Sie mit Adobe Commerce eine globale Referenzarchitektur implementieren
 kt: 14042
 doc-type: video
+duration: 2289
 audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 42525268cda32ac461b6842c27675ee1b9a3305a
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -42,6 +43,6 @@ Erfahren Sie, wie Sie die globale Referenzarchitektur (kurz GRA) implementieren.
 * Globales Control Board - welche Funktionen zu bearbeiten sind
 * Alternativkonzept für die Verwendung von GRA als Modul-Marketplace
 
->[!VIDEO](https://video.tv.adobe.com/v/3457217?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

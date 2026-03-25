@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 665
+duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Installieren der SFCC-Patrone
 
@@ -37,4 +37,4 @@ Erfahren Sie, wie Sie die Adobe Commerce Optimizer-Kassette für eine Salesforce
 * Importieren Sie benutzerdefinierte Objekt- und Auftragsdefinitionen, um das Tracking und die Synchronisierung zu unterstützen.
 * Testen Sie einen benutzerdefinierten API-Endpunkt, um die erfolgreiche Installation zu bestätigen und die Katalogsynchronisierung vorzubereiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476079?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

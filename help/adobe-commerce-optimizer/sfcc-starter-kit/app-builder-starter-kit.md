@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Erfahren Sie mehr über die Architektur des Salesforce Commerce Cloud Starter Kits
 
@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie das App Builder Starter Kit für Salesforce Commerce Cloud
 * Klonen Sie das App Builder Starter Kit und konfigurieren Sie Umgebungsdateien mithilfe der Adobe IO CLI.
 * Stellen Sie die App bereit und bestätigen Sie die erfolgreiche Registrierung von Aktionen und Ereignissen in Ihrem Arbeitsbereich.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476091?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

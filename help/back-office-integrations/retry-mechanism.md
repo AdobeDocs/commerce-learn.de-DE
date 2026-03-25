@@ -4,7 +4,7 @@ description: Nutzen Sie den Wiederholungsmechanismus von Adobe I/O Events für r
 landing-page-description: Machen Sie sich mit dem integrierten Wiederholungsmechanismus von Adobe I/O Events vertraut und nutzen Sie ihn, um die Anwendungsresilienz zu verbessern und Ereignisaktivierungen effektiv zu verwalten.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Erfahren Sie, wie der Wiederholungsmechanismus im Kontext der Laufzeitaktionen d
 * Visuelle Indikatoren in der Entwicklerkonsole, z. B. Warnsymbole für fehlgeschlagene Ereignisse und Zirkularpfeilsymbole für erneut versuchte Ereignisse.
 * Die Laufzeitaktionen „Consumer“ spielen eine entscheidende Rolle bei der Bestimmung der geeigneten HTTP-Antwort-Status-Codes für die Ereignisbehandlung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449082?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

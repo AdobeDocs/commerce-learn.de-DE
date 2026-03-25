@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Zusammensetzbarer Handel
 
-Composable Commerce ist ein architektonischer Ansatz im E-Commerce, der die Entkopplung der Frontend-Präsentationsebene von der Backend-Commerce-Funktion beinhaltet. &#x200B; Es ermöglicht Unternehmen, die besten Komponenten oder Module auszuwählen und zu kombinieren, um eine individuelle Lösung zu erstellen. Dieser Ansatz beinhaltet die Aufschlüsselung der herkömmlichen monolithischen E-Commerce-Plattform in kleinere, unabhängige Services oder Microservices, die zusammen zusammengestellt werden können. Composable Commerce bietet Vorteile wie Flexibilität, Skalierbarkeit, Anpassung, Agilität und die Möglichkeit zur einfacheren Integration mit anderen Systemen und Technologien.
+Composable Commerce ist ein architektonischer Ansatz im E-Commerce, der die Entkopplung der Frontend-Präsentationsebene von der Backend-Commerce-Funktionalität beinhaltet. &#x200B; Es ermöglicht Unternehmen, die besten Komponenten oder Module auszuwählen und zu kombinieren, um eine individuelle Lösung zu erstellen. Dieser Ansatz beinhaltet die Aufschlüsselung der herkömmlichen monolithischen E-Commerce-Plattform in kleinere, unabhängige Services oder Microservices, die zusammen zusammengestellt werden können. Composable Commerce bietet Vorteile wie Flexibilität, Skalierbarkeit, Anpassung, Agilität und die Möglichkeit zur einfacheren Integration mit anderen Systemen und Technologien.
 
 Adobe Commerce bietet viele Funktionen und Tools, mit denen Händler zusammenstellbaren Commerce annehmen und implementieren können. Adobe Commerce bietet eine zusammensetzbare Commerce-Methodik und hybride Headless- und Nicht-Headless-Frontend-Erlebnisse. Mit Blick auf die prozessexterne Erweiterbarkeit bietet Adobe API Mesh zur Integration mehrerer Services sowie Adobe App Builder zur Erstellung benutzerdefinierter Microservices.
 

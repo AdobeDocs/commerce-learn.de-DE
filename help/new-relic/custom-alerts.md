@@ -6,11 +6,11 @@ topic: Security
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 183
+duration: 207
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16606
 exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
-source-git-commit: fbe79f36ba7cc699287b1adc1fcb1fab7246da1c
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Erfahren Sie, wie Sie in New Relic benutzerdefinierte Warnhinweise erstellen, um
 * Verstehen, wie Schwellenwerte für Warnhinweise basierend auf der Datenaggregation festgelegt werden können.
 * Konfigurieren Sie Warnhinweise mit Schweregraden und weisen Sie sie bestehenden Richtlinien zu, um Benachrichtigungs-Workflows und Ziele zu steuern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440780?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

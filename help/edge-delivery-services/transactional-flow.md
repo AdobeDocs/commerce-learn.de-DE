@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 453
+duration: 525
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Transaktionsfluss für den Checkout anpassen
 
-Erfahren Sie, wie Sie den Transaktionsfluss für den Checkout mithilfe der Dropdown-Liste Warenkorb von Edge Delivery Services anpassen.
+Erfahren Sie, wie Sie den Transaktionsfluss für den Checkout mithilfe der Dropdown-Liste Warenkorb in Edge Delivery Services anpassen.
 
 ## Was Sie lernen werden
 
@@ -27,7 +27,7 @@ Gewinnen Sie ein Verständnis dafür, wie Sie den Adobe Commerce-Warenkorb ableg
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickler und Store-Besitzer lernen Edge Delivery Services kennen, die einige Dropdown-Elemente im Warenkorb ändern müssen.
+* Entwickelnde und Store-Besitzer lernen Edge Delivery Services kennen und müssen einige Dropdown-Elemente im Warenkorb ändern.
 * Marketingexperten und andere, die an der Verwendung von SharePoint zur Verwaltung von Funktionen und AB-Tests interessiert sind.
 
 ## Videoinhalt
@@ -37,8 +37,8 @@ Gewinnen Sie ein Verständnis dafür, wie Sie den Adobe Commerce-Warenkorb ableg
 * Flexibilität bei A/B-Tests. Konfigurationen über SharePoint ermöglicht es Marketing-Experten, diese Funktionen zu steuern und zu testen.
 * Verbesserte Marketing-Kontrolle. Einfaches Verwalten und Testen von Konfigurationen, wodurch das Benutzererlebnis und die Marketing-Effektivität verbessert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442360?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Warenkorbzusammenfassung konfigurieren](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=de)
+* [Warenkorbzusammenfassung konfigurieren](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
