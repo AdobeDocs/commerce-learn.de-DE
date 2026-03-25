@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie [Datenverbindung](https://experienceleague.adobe.com/docs/
 * Erstellen und aktivieren Sie in Adobe Journey Optimizer :1 1-Kunden-Journey mit nativen Ereignissen, die mit der Datenverbindung verfügbar sind
 * Interagieren Sie mit Kunden auf allen Kanälen in Echtzeit und verwenden Sie dazu die nativen Messaging-Funktionen von Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452479?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

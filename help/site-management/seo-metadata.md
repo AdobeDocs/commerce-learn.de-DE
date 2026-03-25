@@ -31,7 +31,7 @@ Ihr Store enthält Orte, an denen Sie schlüsselwortreiche Metadaten eingeben k�
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411965?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

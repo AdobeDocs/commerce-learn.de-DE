@@ -42,7 +42,7 @@ In diesem Workshop ging Adobe Commerce eine Partnerschaft mit Merkle ein, um Fol
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432516?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

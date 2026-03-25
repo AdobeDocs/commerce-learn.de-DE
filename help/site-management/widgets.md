@@ -31,7 +31,7 @@ Widgets sind wiederverwendbare Komponenten, die Sie erstellen und ändern könne
 * verstehen, was Widgets sind und wo sie erscheinen.
 * Erstellen und Verwalten von Widgets im Admin-Bereich.
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417564?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

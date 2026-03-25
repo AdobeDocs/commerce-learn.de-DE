@@ -31,7 +31,7 @@ Die Organisation Ihrer Produkte in Kategorien ist der Schlüssel zur Verwaltung 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411967?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

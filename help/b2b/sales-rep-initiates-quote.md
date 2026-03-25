@@ -32,6 +32,6 @@ Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot über das Admin-Bedienfel
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430585?captions=ger&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

@@ -43,7 +43,7 @@ Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Komp
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409509?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

@@ -33,7 +33,7 @@ Mit der Inhalts-Staging-Funktion kann Ihr Business-Team eine breite Palette von 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411362?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

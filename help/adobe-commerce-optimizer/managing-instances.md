@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie eine Adobe Commerce Optimizer-Instanz verwalten, um Namen 
 * Name und Beschreibungen aktualisieren
 * Suchen nach wichtigen Endpunkten und Kennungen für Integrationen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470241?captions=ger&learn=on)
 
 ## Verwandte Inhalte
 

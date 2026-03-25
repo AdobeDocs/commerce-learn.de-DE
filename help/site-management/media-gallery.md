@@ -29,7 +29,7 @@ Mit Adobe Commerce oder Magento Open Source 2.4 können Händler die neue erweit
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417562?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

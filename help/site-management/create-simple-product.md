@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein einfaches Pr
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443911?captions=ger&learn=on)
 
 ## Erstellen eines Produkts mithilfe von cURL
 

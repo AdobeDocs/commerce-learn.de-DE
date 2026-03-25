@@ -33,6 +33,6 @@ Erfahren Sie, wie der Vertriebsmitarbeiter das Angebot über die Adobe Commerce 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423710?captions=ger&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

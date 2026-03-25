@@ -34,4 +34,4 @@ Erfahren Sie mehr über die wichtigsten Programmierstandards und Best Practices 
 * Best Practices für PHP, JavaScript und Anpassungen, um eine reibungslose Migration zu gewährleisten.
 * Gewinnen Sie Erkenntnisse von Adobe-Experten zu Vorbereitung, Leistung und Sicherheit für erfolgreiche Adobe Commerce-Projekte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434866?captions=ger&learn=on)

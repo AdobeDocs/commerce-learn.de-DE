@@ -44,7 +44,7 @@ Erstellen Sie beim Erstellen von gruppierten Produkten über die Adobe Commerce-
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454047?captions=ger&learn=on)
 
 ## Einrichtung für das gruppierte Produkt
 

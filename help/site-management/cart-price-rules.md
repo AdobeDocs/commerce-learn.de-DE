@@ -31,7 +31,7 @@ Die Regeln für den Warenkorbpreis wenden Rabatte auf Artikel im Warenkorb basie
 * Erstellen Sie Regeln für den Warenkorbpreis und optionale Gutscheincodes.
 * Erfahren Sie, wie Rabatte im Warenkorb angezeigt werden und welche Werbeaktionen es gibt.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411359?captions=ger&learn=on)
 
 ## Probleme mit der Preisanzeige
 

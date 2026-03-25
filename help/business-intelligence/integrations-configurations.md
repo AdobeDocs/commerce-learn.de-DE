@@ -34,4 +34,4 @@ In diesem Dokument wird auch der Prozess der Synchronisierung von Tabellen mit d
 
 ## Integrationen und Konfigurationen
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452699?captions=ger&learn=on)

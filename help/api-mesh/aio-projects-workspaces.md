@@ -38,7 +38,7 @@ In diesem Tutorial wird das Erstellen eines Projekts und Arbeitsbereichs erläut
 * Ändern der ausgewählten Organisation, des ausgewählten Projekts oder des ausgewählten Arbeitsbereichs in der CLI
 * Testen einfacher API-Mesh-Befehle
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430775?captions=ger&learn=on)
 
 ## Informationen über die Adobe Developer Console
 

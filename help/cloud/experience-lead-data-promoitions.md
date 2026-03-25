@@ -38,7 +38,7 @@ Entdecken Sie die leistungsstarken Katalogverwaltungstools von Adobe Commerce, d
 * Erweiterte Integration und Anpassung.
 * Verbessertes Einkaufserlebnis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434073?captions=ger&learn=on)
 
 ## Live Search
 
@@ -50,7 +50,7 @@ Entdecken Sie die erweiterten Suchfunktionen der Adobe Commerce Live Search auf 
 * Anpassbares Sucherlebnis: Funktionen wie erweiterte Suchregeln, Synonyme und Facetten ermöglichen ein maßgeschneidertes und optimiertes Sucherlebnis für Kunden.
 * B2B-Integration: Die Live Search unterstützt B2B-Modelle mit freigegebenen Katalogen und spezifischen Preisen und verbessert so ihre Vielseitigkeit für verschiedene Geschäftsanforderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434051?captions=ger&learn=on)
 
 ## Promotions  
 
@@ -62,5 +62,5 @@ Adobe Commerce ermöglicht es Store-Managern, Produktpakete und Werbeaktionen m�
 * Erweiterte Werbestrategien.
 * Nahtlose Integration mit Systemen von Drittanbietern für mehr Flexibilität und Automatisierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434062?captions=ger&learn=on)
 >

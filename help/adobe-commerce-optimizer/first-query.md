@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie Daten mit GraphQL in einer Adobe Commerce Optimizer-Instan
 * Abfragen von Daten mit GraphQL
 * Verwenden von JQ, um das Lesen von JSON zu vereinfachen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470809?captions=ger&learn=on)
 
 ## Code-Beispiele
 

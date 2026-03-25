@@ -36,7 +36,7 @@ Installationsanweisungen und Voraussetzungen finden Sie auf der Seite API-Mesh [
 * Installieren der Adobe I/O Runtime-CLI (Befehlszeilenschnittstelle)
 * Installieren des API Mesh-Plug-ins
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430771?captions=ger&learn=on)
 
 ## Installieren der `aio` CLI und des API Mesh-Plug-ins
 

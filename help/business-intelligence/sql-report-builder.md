@@ -40,7 +40,7 @@ Mit Adobe Commerce Intelligence SQL Report Builder können Sie Ihr Data Warehous
 * Erstellen einer Visualisierung aus den Abfrageergebnissen
 * Speichern Sie den Bericht in einem Dashboard für Ihr Team.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413528?captions=ger&learn=on)
 
 ## Nützliche Ressourcen
 

@@ -38,7 +38,7 @@ In diesem Video:
 * Installieren und führen Sie UCT von PhpStorm aus.
 * Überprüfen Sie HTML-Berichte und priorisieren Sie Fehlerbehebungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409512?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

@@ -30,7 +30,7 @@ Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzus
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411980?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

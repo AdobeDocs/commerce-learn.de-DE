@@ -35,7 +35,7 @@ Für kleine Unternehmen, Mitbewerber oder große Unternehmen tragen die Payment 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411357?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

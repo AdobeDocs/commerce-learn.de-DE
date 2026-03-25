@@ -31,6 +31,6 @@ Erfahren Sie mehr über die Validierungsschritte und -bereiche, die die B2B-Ange
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423719?captions=ger&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

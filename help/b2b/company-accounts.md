@@ -33,7 +33,7 @@ Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktu
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411354?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

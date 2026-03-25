@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie ein Adobe Developer App Builder-Projekt erstellen, um Erei
 * Verwenden von Adobe Developer Console
 * Verwenden von Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430631?captions=ger&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

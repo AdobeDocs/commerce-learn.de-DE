@@ -44,4 +44,4 @@ Sie erfahren, wie Sie das Erlebnis der Adobe Commerce-Storefront auf Edge Delive
 * Arbeiten mit dem Warenkorb und Bestellungen: Artikel hinzufügen, als Gast auschecken, Bestellungen stornieren, neu anordnen und Rücksendungen verarbeiten.
 * Kontoinformationen aktualisieren, Gast- und Kundenwagen zusammenführen und den Checkout konsistent halten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446771?captions=ger&learn=on)

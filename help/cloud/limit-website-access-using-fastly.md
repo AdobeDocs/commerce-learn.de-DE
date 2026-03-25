@@ -31,7 +31,7 @@ Beschränken des Adobe Commerce-Site-Zugriffs mit Fastly Edge ACLs und benutzerd
 * Adobe Commerce Developer
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464788?captions=ger&learn=on)
 
 ## Code-Beispiel
 

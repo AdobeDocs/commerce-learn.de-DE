@@ -32,7 +32,7 @@ Mit dem URL Rewrite-Tool können Sie jede URL ändern, die mit einem Produkt, ei
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411957?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

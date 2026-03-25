@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie Adobe Commerce App Builder-Apps mit Adobe Exchange finden,
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471533?captions=ger&learn=on)

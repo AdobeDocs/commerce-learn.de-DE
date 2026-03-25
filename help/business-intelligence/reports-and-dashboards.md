@@ -31,4 +31,4 @@ Erfahren Sie mehr über die verschiedenen Report Builder-Optionen und darüber, 
 
 ## Adobe Commerce Intelligence-Berichte und -Dashboards
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453152?captions=ger&learn=on)

@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie eine Verbindung zu einem Adobe Commerce on Cloud-Projekt h
 * Stellen Sie mit einem GUI-Tool wie MySQL Workbench oder TablePlus eine Verbindung zu einem Remote-Adobe Commerce-Cloud-Projekt her.
 * Stellen Sie eine Verbindung mit dem Projekt her und führen Sie SQL über die Befehlszeile aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450045?captions=ger&learn=on)
 
 Sie können mit einer der folgenden Methoden auf Adobe Commerce-Daten aus Ihrem Cloud-Projekt zugreifen:
 

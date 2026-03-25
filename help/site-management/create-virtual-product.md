@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein virtuelles P
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444873?captions=ger&learn=on)
 
 ## Erstellen eines virtuellen Produkts mithilfe von cURL
 

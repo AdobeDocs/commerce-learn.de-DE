@@ -33,7 +33,7 @@ Kundensegmente ermöglichen es Ihnen, bestimmten Kunden Inhalte und Promotions b
 * Erstellen Sie Segmente aus Kundenattributen, Bestellungen und Warenkorbdaten.
 * Verbinden Sie Segmente mit Promotions und Warenkorb-Preisregeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411974?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

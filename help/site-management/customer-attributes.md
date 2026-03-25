@@ -30,7 +30,7 @@ Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-,
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411969?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

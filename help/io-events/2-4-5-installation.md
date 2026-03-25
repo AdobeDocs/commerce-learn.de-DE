@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Ado
 * Für Adobe Commerce Cloud auszuführende Befehle
 * Adobe Commerce Cloud-YAML - erforderliche Bearbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430646?captions=ger&learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

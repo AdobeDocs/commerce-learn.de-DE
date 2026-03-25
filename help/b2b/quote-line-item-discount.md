@@ -33,6 +33,6 @@ Erfahren Sie, wie Sie den Positionsrabatt verwenden und die Werte mit Adobe Comm
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445594?captions=ger&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

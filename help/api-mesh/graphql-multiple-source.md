@@ -36,7 +36,7 @@ In diesem Video erfahren Entwicklerinnen und Entwickler, wie sie ein Netz mit me
 * Fehlerbehebung bei Fehlern, z. B. Namenskonflikten, Schemaverfügbarkeit und anderen Problemen mit der Schemasyntax
 * Aktualisieren des Netzes mit einer geänderten Konfiguration
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430766?captions=ger&learn=on)
 
 ## Erstellen der JSON-Konfigurationsdatei
 
