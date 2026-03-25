@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ Wenn Sie glauben, dass Sie diese Protokolldateien benötigen, können Sie sie `r
 
 ## Für wen ist dieses Video gedacht?
 
-- Entwickler und IT-Experten
-- Systemadministratoren
+* Entwickler und IT-Experten
+* Systemadministratoren
 
 ## Videoinhalt
 
-- Diagnose und Behebung einer fehlgeschlagenen Bereitstellung
-- Wo sich einige häufig vorkommende große Protokolldateien befinden
-- Schnellmethode zum Abschneiden einer Protokolldatei
+* Diagnose und Behebung einer fehlgeschlagenen Bereitstellung
+* Wo sich einige häufig vorkommende große Protokolldateien befinden
+* Schnellmethode zum Abschneiden einer Protokolldatei
 
->[!VIDEO](https://video.tv.adobe.com/v/3454592?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Im Video verwendete Befehle
@@ -91,4 +91,4 @@ Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben hab
 
 ## Verwandte Dokumentation
 
-- [Konsistenzbenachrichtigungen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Konsistenzbenachrichtigungen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

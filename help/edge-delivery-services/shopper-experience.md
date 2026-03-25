@@ -1,46 +1,47 @@
 ---
-title: Commerce-Storefront mit Edge Delivery Services-Käufererlebnis
-description: Erfahren Sie mehr über die von Edge Delivery Services unterstützte Adobe Commerce-Storefront, was der Kunde von diesem extrem schnellen und leistungsstarken Einkaufserlebnis erwarten kann.
+title: Kundenerlebnis mit Edge Delivery Services
+description: Erfahren Sie, was Kunden in der von Edge Delivery Services unterstützten Adobe Commerce-Storefront sehen und tun, einschließlich Warenkorb, Checkout, Rabatte, Kontoaufgaben, Bestellungen und Rücksendungen.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
-role: Developer
+role: User
 level: Beginner
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-2-21
+duration: 596
+last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-17259
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
+source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Kundenerlebnis
 
-Lernen Sie verschiedene Funktionen der Commerce-Storefront kennen, die von Edge-Bereitstellungs-Services unterstützt wird. In diesem Video wird das Käufererlebnis behandelt, einschließlich des Hinzufügens von Artikeln zum Warenkorb, der Anwendung von Warenkorbpreisregeln und Gutscheincodes, des Auscheckens als Gast, des Aktualisierens von Kontoinformationen, des Stornierens von Bestellungen, der Neubestellung von Artikeln und der Rückgabe von Produkten. Außerdem erfahren Sie, wie Sie Bestellungen verwalten, wie Kunden Rabatte gewähren und manchmal sogar Gutscheincodes stapeln können, um bessere Rabatte zu erhalten.
+Erfahren Sie, wie die Commerce-Storefront mit Edge Delivery Services gängige Kundenaufgaben unterstützt: Hinzufügen von Artikeln zum Warenkorb, Anwenden von Warenkorbpreisregeln und Gutscheincodes, Auschecken als Gast, Aktualisieren von Kontoinformationen, Stornieren von Bestellungen, Neuanordnung und Starten von Rücksendungen. Das Video behandelt auch die Auftragsverwaltung, wie Kunden Rabatte anwenden und wann mehrere Gutscheincodes stapeln können.
 
-## Was Sie lernen werden
+## Was Sie lernen
 
-Effektive Navigation und Nutzung der Funktionen der Adobe Commerce-Storefront. Dazu gehören die Verwaltung des Warenkorbs, die Anwendung von Rabatten und Gutscheincodes, das Auschecken als Gast, die Aktualisierung von Kontoinformationen, die Stornierung und Neubestellung von Artikeln und die Rücksendung von Produkten. All dies dient der Verbesserung des gesamten Einkaufserlebnisses.
+Sie erfahren, wie Sie das Erlebnis der Adobe Commerce-Storefront auf Edge Delivery Services nutzen können, einschließlich Warenkorb, Rabatten und Gutscheincodes, Gast-Checkout, Kontoaktualisierungen, Stornierungen und Neubestellungen, Rücksendungen und eines reibungsloseren Pfads durch den Checkout.
 
 ## Für wen ist dieses Video bestimmt?
 
 * E-Commerce-Geschäftsinhaber
-* Website-Administrator
-* Digitaler Marketer
+* Website-Administratoren
+* Digitale Marketer
 * Kundendienstmitarbeiter
-* IT-Fachmann
-* Online Store Manager
-* UX/UI-Designer
+* IT-Experten
+* Online-Store-Manager
+* Benutzeroberflächen-/Benutzeroberflächen-Designer
 * Vertriebsleiter
-* Marketing-Experte
+* Marketing-Experten
 * Produkt-Manager
 
 ## Videoinhalt
 
-* Erfahren Sie, wie Sie Regeln für den Warenkorbpreis und Gutscheincodes anwenden, um die Einsparungen während des Checkout-Prozesses zu maximieren.
-* Erfahren Sie, wie Sie Bestellungen verwalten, einschließlich des Hinzufügens von Artikeln zum Warenkorb, des Auscheckens als Gast, des Stornierens von Bestellungen und der Neubestellung von Artikeln.
-* Gewinnen Sie Einblicke in die Aktualisierung von Kontoinformationen, die Zusammenführung von Gast- und Kundenwagen und die Sicherstellung eines reibungslosen Checkout-Erlebnisses.
+* Wenden Sie Warenkorbpreisregeln und Couponcodes während des Checkouts an, auch wenn das Stapeln verfügbar ist.
+* Arbeiten mit dem Warenkorb und Bestellungen: Artikel hinzufügen, als Gast auschecken, Bestellungen stornieren, neu anordnen und Rücksendungen verarbeiten.
+* Kontoinformationen aktualisieren, Gast- und Kundenwagen zusammenführen und den Checkout konsistent halten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446771?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

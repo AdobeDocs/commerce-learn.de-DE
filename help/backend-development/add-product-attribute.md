@@ -3,6 +3,7 @@ title: Produktattribut erstellen
 description: Erstellen Sie eine Seite, die JSON mit einem Parameter zurückgibt.
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -23,29 +24,29 @@ Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [
 
 In diesem Video:
 
-- Fügen Sie ein Attribut namens „Clothing_material“ mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fell und Wolle.
-- Dieses Attribut auf der Produktansichtsseite in Fettdruck anzeigen
-- Dem Standardwert zuweisen und eine Einschränkung hinzufügen
-- Hinzufügen des neuen Attributs
+* Fügen Sie ein Attribut namens „Clothing_material“ mit den möglichen Werten hinzu: Baumwolle, Leder, Seide, Denim, Fell und Wolle.
+* Dieses Attribut auf der Produktansichtsseite in Fettdruck anzeigen
+* Dem Standardwert zuweisen und eine Einschränkung hinzufügen
+* Hinzufügen des neuen Attributs
 
 ## Für wen ist dieses Video bestimmt?
 
-- Entwickler, die noch nicht mit Commerce vertraut sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
+* Entwickler, die noch nicht mit Commerce vertraut sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## Code-Beispiel
 
 Erstellen Sie zunächst die erforderlichen Ordner, XML- und PHP-Dateien:
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +65,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [&#x200B; unter &#x200B;](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
+>Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [ unter ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
 >BITTE BEACHTEN SIE: Damit dieser Beispielcode funktioniert, müssen Sie die setup_version einbeziehen, sonst wird InstallData.php nicht ausgeführt.
 
 

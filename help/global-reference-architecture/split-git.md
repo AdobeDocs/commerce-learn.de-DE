@@ -1,8 +1,9 @@
 ---
 title: Einrichten von Adobe Commerce mit der globalen Split-Git-Referenzarchitektur
-description: Erfahren Sie, wie Sie Adobe Commerce mithilfe der globalen Split-Git-Referenzarchitektur einrichten, um die Code-Verwaltung zu optimieren und die Bereitstellung zu optimieren. ​
+description: Erfahren Sie, wie Sie Adobe Commerce mithilfe der globalen Referenzarchitektur von Split-Git einrichten, um eine effiziente Code-Verwaltung und eine optimierte Bereitstellung zu ermöglichen. ​
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Das aufgeteilte Git-GRA-Muster umfasst zwei Git-Repositorys für die Entwicklung
 
 Vorteile:
 
-- Wiederverwendung von Code über ein gemeinsam genutztes Code-Repository
-- Einfaches GRA-Muster, auch für Teams mit begrenztem Komponistenwissen geeignet
-- Zusätzlich zu Adobe Commerce-Modulen, Themen und Sprachpaketen ist es möglich, jede Art von Composer-Paket über dieses Modell zu installieren, einschließlich Composer-Plug-in, Composer-Metapaket, Magento2-Komponente und Patches
-- Freigabe in Phasen möglich, Freigabe in Regionen in eigenen Wartungsfenstern planen
-- Unterstützung für Git-Tags zu Administrationszwecken, nicht zur Bereitstellungssteuerung
-- Sicherstellen, dass die Kombination von Paketen in einer Produktionsbereitstellung in genau dieser Konfiguration entwickelt und getestet wird
+* Wiederverwendung von Code über ein gemeinsam genutztes Code-Repository
+* Einfaches GRA-Muster, auch für Teams mit begrenztem Komponistenwissen geeignet
+* Zusätzlich zu Adobe Commerce-Modulen, Themen und Sprachpaketen ist es möglich, jede Art von Composer-Paket über dieses Modell zu installieren, einschließlich Composer-Plug-in, Composer-Metapaket, Magento2-Komponente und Patches
+* Freigabe in Phasen möglich, Freigabe in Regionen in eigenen Wartungsfenstern planen
+* Unterstützung für Git-Tags zu Administrationszwecken, nicht zur Bereitstellungssteuerung
+* Sicherstellen, dass die Kombination von Paketen in einer Produktionsbereitstellung in genau dieser Konfiguration entwickelt und getestet wird
 
 Nachteile:
 
-- Keine zusätzliche Flexibilität im Vergleich zu anderen GRA-Mustern
-- Es ist nicht möglich, einzelne Module pro Instanz zu aktualisieren oder herunterzustufen. Führen Sie immer ein Upgrade oder ein Downgrade für die gesamte GRA durch.
-- In den meisten Fällen ist das Muster für Massenpakete besser geeignet, da es ebenso einfach, aber konventioneller ist
+* Keine zusätzliche Flexibilität im Vergleich zu anderen GRA-Mustern
+* Es ist nicht möglich, einzelne Module pro Instanz zu aktualisieren oder herunterzustufen. Führen Sie immer ein Upgrade oder ein Downgrade für die gesamte GRA durch.
+* In den meisten Fällen ist das Muster für Massenpakete besser geeignet, da es ebenso einfach, aber konventioneller ist
 
 ## Einrichten von Adobe Commerce mit dem Split Git-GRA-Muster
 
@@ -153,11 +154,11 @@ Adobe Commerce ist ein Composer-Programm. Die bevorzugte Methode zur Installatio
 
 Zusammenfassung:
 
-- **Adobe Commerce**: in einem Composer-Repository gespeichert.
-- **Module von Drittanbietern**: in einem Composer-Repository gespeichert.
-- **Fallback-Option für Drittanbietermodule**: im Git-Repository von gra-split-3rd-party gespeichert.
-- **GRA Foundation Code**: im gra-split-gra Git-Repository gespeichert.
-- **Lokaler Code**: im Git-Repository „gra-split-brand-x“ gespeichert.
+* **Adobe Commerce**: in einem Composer-Repository gespeichert.
+* **Module von Drittanbietern**: in einem Composer-Repository gespeichert.
+* **Fallback-Option für Drittanbietermodule**: im Git-Repository von gra-split-3rd-party gespeichert.
+* **GRA Foundation Code**: im gra-split-gra Git-Repository gespeichert.
+* **Lokaler Code**: im Git-Repository „gra-split-brand-x“ gespeichert.
 
 ### Package-Speicher mit Composer verbinden
 
@@ -377,9 +378,9 @@ Zusammenführen von Drittanbieter- und GRA-Commits niemals im Marken-Repository 
 
 Die Code-Beispiele für diesen Artikel sind als eine Reihe von Git-Repositorys verfügbar, mit denen Sie den Machbarkeitsnachweis testen können.
 
-- Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-split-brand-x>
-- Das Drittanbieter-Code-Repository: <https://github.com/AntonEvers/gra-split-3rdparty>
-- Das GRA-Code-Repository: <https://github.com/AntonEvers/gra-split-gra>
-- Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
-- Ein Beispiel für ein GRA-Modul: <https://github.com/AntonEvers/module-example-gra>
-- Ein Beispiel für ein Modul eines Drittanbieters: <https://github.com/AntonEvers/module-example-3rdparty>
+* Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-split-brand-x>
+* Das Drittanbieter-Code-Repository: <https://github.com/AntonEvers/gra-split-3rdparty>
+* Das GRA-Code-Repository: <https://github.com/AntonEvers/gra-split-gra>
+* Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
+* Ein Beispiel für ein GRA-Modul: <https://github.com/AntonEvers/module-example-gra>
+* Ein Beispiel für ein Modul eines Drittanbieters: <https://github.com/AntonEvers/module-example-3rdparty>

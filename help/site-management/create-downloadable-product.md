@@ -3,6 +3,7 @@ title: Herunterladbares Produkt erstellen
 description: Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladbares Produkt erstellen.
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladb
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
-- Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden
+* Website-Manager
+* E-Commerce-Merchandiser
+* Neue Adobe Commerce-Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3453955?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Zulässige herunterladbare Domains
 
@@ -54,7 +55,7 @@ Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _download
 
 Nachdem die Domain der `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains)Konfigurationsreferenz“.
+Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)Konfigurationsreferenz“.
 
 >[!IMPORTANT]
 >In einigen Versionen von Adobe Commerce wird möglicherweise die folgende Fehlermeldung angezeigt, wenn ein Produkt in der Admin-Abteilung von Adobe Commerce bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, aber der verknüpfte Download hat einen `null` Preis.
@@ -63,7 +64,7 @@ Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.ado
 
 Um diesen Fehler zu beheben, verwenden Sie die Update-Link-API: `POST V1/products/{sku}/downloadable-links.`
 
-Weitere Informationen finden [&#x200B; im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
+Weitere Informationen finden [ im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
 
 ## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Download vom Remote-Server)
 
@@ -116,20 +117,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Dieses Beispiel zeigt, wie Sie mit cURL ein herunterladbares Produkt vom Adobe Commerce Admin erstellen können, wenn die Datei auf demselben Server wie die Adobe Commerce-Anwendung gespeichert wird.
 
-In diesem Anwendungsfall wird die Datei in das `pub/media/downloadable/files/links/`-Verzeichnis übertragen, wenn der Administrator, der den Katalog verwaltet, `upload file` auswählt.  Die Automatisierung erstellt die Dateien und verschiebt sie an ihre jeweiligen Speicherorte anhand des folgenden Musters:
+In diesem Anwendungsfall wird die Datei in das `upload file`-Verzeichnis übertragen, wenn der Administrator, der den Katalog verwaltet, `pub/media/downloadable/files/links/` auswählt.  Die Automatisierung erstellt die Dateien und verschiebt sie an ihre jeweiligen Speicherorte anhand des folgenden Musters:
 
-- Jede hochgeladene Datei wird in einem Ordner gespeichert, der auf den ersten beiden Zeichen des Dateinamens basiert.
-- Wenn der Upload gestartet wird, erstellt das Commerce-Programm vorhandene Ordner oder verwendet sie, um die Datei zu übertragen.
-- Beim Herunterladen der Datei verwendet der `link_file` Abschnitt des Pfads den Teil des Pfads, der an das `pub/media/downloadable/files/links/` angehängt wird.
+* Jede hochgeladene Datei wird in einem Ordner gespeichert, der auf den ersten beiden Zeichen des Dateinamens basiert.
+* Wenn der Upload gestartet wird, erstellt das Commerce-Programm vorhandene Ordner oder verwendet sie, um die Datei zu übertragen.
+* Beim Herunterladen der Datei verwendet der `link_file` Abschnitt des Pfads den Teil des Pfads, der an das `pub/media/downloadable/files/links/` angehängt wird.
 
 Wenn die hochgeladene Datei beispielsweise `download-example.zip` heißt:
 
-- Die Datei wird in den Pfad `pub/media/downloadable/files/links/d/o/` hochgeladen.
+* Die Datei wird in den Pfad `pub/media/downloadable/files/links/d/o/` hochgeladen.
 Die Unterverzeichnisse `/d` und `/d/o` werden erstellt, wenn sie noch nicht vorhanden sind.
 
-- Der endgültige Pfad zur Datei lautet `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+* Der endgültige Pfad zur Datei lautet `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- Der `link_url` für dieses Beispiel ist `d/o/download-example.zip`
+* Der `link_url` für dieses Beispiel ist `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Zusätzliche Ressourcen
 
-- [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=de){target="_blank"}
-- [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains){target="_blank"}
-- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -7,7 +7,7 @@ role: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master
 level: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/level.yml>
 kt: <JIRA KT Story No.>
 thumbnail: <MPC Video ID>.jpeg
-source-git-commit: d8ec460ab9d6ce29bd63c5d39513d1ea83d1bb0c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Kurzbeschreibung hinzufügen
 
->[!VIDEO](https://video.tv.adobe.com/v/MPC-Video-ID/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/MPC-Video-ID?learn=on&hidetitle=true)

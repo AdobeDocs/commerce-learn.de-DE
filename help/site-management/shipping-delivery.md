@@ -3,6 +3,7 @@ title: Versand- und Liefermethoden verwalten
 description: Erfahren Sie, wie Sie Versandherkunft, Mehrversandkosten, Versandkosten und Provider-Einstellungen für Ihren Commerce Store konfigurieren.
 kt: 10543
 doc-type: feature video
+duration: 155
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzus
 
 ## Für wen ist dieses Video bestimmt?
 
-- Store-Administratoren
-- E-Commerce-Manager
+* Store-Administratoren
+* E-Commerce-Manager
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411980?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Versandeinstellungen - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=de)
-- [Grundlegende Versandmethoden - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=de#basic-delivery-methods)
-- [Einrichtung des Spediteurs - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=de)
+* [Versandeinstellungen - [!DNL Commerce] Handbuch für Stores und Käufe](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+* [Grundlegende Versandmethoden - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+* [Einrichtung des Spediteurs - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

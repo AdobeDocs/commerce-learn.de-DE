@@ -1,42 +1,42 @@
 ---
 title: Erstellen eines Moduls
-description: Erfahren Sie, wie Sie in Adobe Commerce ein Modul erstellen, das Informationen an den PSR-Logger sendet. Dadurch wird Ihrem ersten Modul in Adobe Commerce eine Funktion hinzugefügt.
-kt: 5614
-doc-type: video
+description: Erstellen und registrieren Sie ein Modul in Adobe Commerce, führen Sie die Einrichtung aus und fügen Sie Plug-ins hinzu, die sich im Admin-Bereich, in der Storefront und im REST-API-Kontext bei der PSR-Protokollierung anmelden.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Moduls
 
-Modul ist ein strukturelles Element von [!DNL Commerce] - das gesamte System basiert auf Modulen. Normalerweise besteht der erste Schritt bei der Erstellung einer Anpassung darin, ein Modul zu erstellen.
+Ein Modul ist ein Strukturelement von [!DNL Commerce] - Module bilden das Rückgrat des Systems. Normalerweise starten Sie eine Anpassung, indem Sie ein Modul erstellen.
 
 ## Für wen ist dieses Video bestimmt?
 
-- Entwickler
+* Backend-Entwickler
 
 ## Schritte zum Hinzufügen eines Moduls
 
-- Erstellen Sie den Modulordner.
-- Erstellen Sie die Datei etc/module.xml.
-- Erstellen Sie die Datei registration.php.
-- Führen Sie das bin/magento-Setup aus.
-- Upgrade-Script zur Installation des neuen Moduls
-- Prüfen Sie, ob das Modul funktioniert.
+1. Erstellen Sie den Modulordner.
+2. Erstellen Sie die `etc/module.xml`.
+3. Erstellen Sie die `registration.php`.
+4. Führen Sie `bin/magento setup:upgrade` aus, um das Modul zu registrieren und zu installieren.
+5. Prüfen Sie, ob das Modul funktioniert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### Die Datei module.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ Modul ist ein strukturelles Element von [!DNL Commerce] - das gesamte System bas
 </config>
 ```
 
-### registration.php
+### Die Datei registration.php
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Ein Plug-in hinzufügen und einige Funktionen bereitstellen
+### Plug-in hinzufügen
 
-Der nächste Schritt besteht darin, einige Funktionen zu unserem Basismodul hinzuzufügen. Ein Plug-in ist ein wichtiges Tool, das alle Adobe Commerce-Entwickler verwenden. Dieses Video und das Tutorial helfen Ihnen beim Erstellen eines Plug-ins.
+Als Nächstes fügen Sie Ihrem Basismodul Funktionen hinzu. Plug-ins sind unverzichtbare Tools in der Adobe Commerce-Entwicklung. In diesem Video und Tutorial erfahren Sie, wie Sie ein Plug-in erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
 ### Dinge, die Sie für Plug-ins beachten sollten
 
-- Alle Plug-ins werden in `di.xml` deklariert.
-- Das Plug-in erfordert einen eindeutigen Namen
-- disabled und sortOrder sind optional
-- Der Umfang des Plug-ins wird durch den Ordner festgelegt, in dem es sich befindet
-- Plug-ins können vor, nach oder beiden (um die Methode herum) ausgeführt werden
-- Vermeiden Sie die Verwendung `around` Plug-ins. Sie sind verlockend zu verwenden, sind aber oft die falsche Wahl und führen zu Leistungsproblemen.
+* Sie deklarieren alle Plug-ins in `di.xml`.
+* Sie geben jedem Plug-in einen eindeutigen Namen.
+* Sie können optional die Attribute `disabled` und `sortOrder` festlegen.
+* Sie legen den Umfang des Plug-ins fest, indem Sie auswählen, welcher Ordner die `di.xml`-Datei enthält.
+* Sie führen Plug-ins vor, nach oder um den Aufruf der Zielmethode aus.
+* Vermeiden Sie `around`. Sie führen zu Versuchungen, stellen aber oft die falsche Wahl dar und verursachen Leistungsprobleme.
 
 ### Code-Beispiele für Plug-ins
 
-Im Folgenden finden Sie die XML- und PHP-Klassen, die im Tutorial zum Hinzufügen eines Plug-ins zum ersten Modul verwendet wurden
+Das Tutorial verwendet die folgenden XML- und PHP-Klassen, um Ihrem ersten Modul ein Plug-in hinzuzufügen.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Nützliche Ressourcen
 
-- [Modul-Referenzhandbuch](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Modul-Referenzhandbuch](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

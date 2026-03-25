@@ -4,6 +4,7 @@ description: Erfahren Sie mehr über die Dateitypen im Aktionsordner für diese 
 landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen im Aktionsordner gespeichert werden.
 kt: 12422
 doc-type: tutorial
+duration: 465
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Die tatsächlichen Namen von Ordnern in diesem Beispiel sind beliebig, aber die 
 * Der Zweck der JavaScript-Datei, die sich in den Ordnern `actions` und `commerce` befindet
 * Ein kurzer Überblick über die OAuth-Authentifizierungsdateien
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Code-Beispiele
 

@@ -5,6 +5,7 @@ landing-page-description: Erfahren Sie, was App Builder ist und wie er bei den E
 short-description: Erfahren Sie, was App Builder ist und wie er bei den Entwicklungsstrategien von Adobe Commerce helfen kann.
 kt: 11433
 doc-type: tutorial
+duration: 322
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 6%
@@ -26,7 +27,7 @@ Bisher wurde bei der Adobe Commerce-Entwicklung die prozessinterne Erweiterbarke
 
 ## App Builder für Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder ist eine Server-lose Erweiterungsplattform für die Integration und Erstellung benutzerdefinierter Erlebnisse zur Erweiterung von Adobe-Lösungen. Sie ist jetzt für Adobe Commerce verfügbar. Mit App Builder können Sie sichere und skalierbare Apps erstellen, die Commerce-native Funktionen erweitern und mit Lösungen von Drittanbietern integrieren. Als Entwickler können Sie jetzt die Vorteile der prozessexternen Erweiterbarkeit mit Adobe Commerce nutzen, was sofortige und langfristige Vorteile bietet.
 
@@ -90,6 +91,6 @@ Sind Sie bereit, mit der Entwicklung zu beginnen? Der folgende Link enthält Bei
 
 ## Support {#support}
 
-Für Anfragen zum Entwickler-Support verwenden Sie das [Experience League-Forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=de){target="_blank"} um Hilfe zu erhalten.
+Für Anfragen zum Entwickler-Support verwenden Sie das [Experience League-Forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} um Hilfe zu erhalten.
 
 {{$include /help/_includes/app-builder-related-links.md}}

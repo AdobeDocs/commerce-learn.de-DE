@@ -1,55 +1,48 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: Erfahren Sie, wie Sie mit Commerce Intelligence SQL Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
-landing-page-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence SQL-Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
-short-description: In diesem Video erfahren Sie, wie Sie mit dem Commerce Intelligence SQL-Report Builder Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln können.
-kt: 10288
-doc-type: feature video
-solution: Commerce,Commerce Intelligence
-audience: all
-activity: use
-last-substantial-update: 2023-2-10
+description: Erfahren Sie, wie Sie mit Adobe Commerce Intelligence SQL Report Builder Ihr Data Warehouse abfragen, Ergebnisse anzeigen und Diagramme erstellen können, ohne auf Berichtaktualisierungszyklen zu warten.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+doc-type: Technical Video
+duration: 259
+solution: Commerce,Commerce Intelligence
+last-substantial-update: 2023-02-10T00:00:00Z
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# MBI - SQL-Report Builder
+# SQL-Report Builder
 
-Mit dem SQL-Report Builder können Sie Ihr Data Warehouse direkt abfragen, die Ergebnisse anzeigen und schnell in ein Diagramm umwandeln. Das Beste an der Verwendung von SQL zum Erstellen von Berichten ist, dass Sie nicht auf Aktualisierungszyklen warten müssen, um die von Ihnen erstellten Spalten zu iterieren. Wenn die Ergebnisse nicht korrekt aussehen, können Sie die Abfrage schnell bearbeiten und erneut ausführen, bis die Dinge Ihren Erwartungen entsprechen.
+Mit Adobe Commerce Intelligence SQL Report Builder können Sie Ihr Data Warehouse abfragen, Ergebnisse überprüfen und in Diagramme umwandeln. Wenn Sie Berichte mit SQL erstellen, müssen Sie nicht auf Aktualisierungszyklen warten, um die von Ihnen erstellten Spalten zu verfeinern. Wenn etwas aussieht, bearbeiten Sie die Abfrage und führen Sie sie erneut aus, bis die Ausgabe dem entspricht, was Sie erwarten.
 
 >[!IMPORTANT]
 >
->Sie müssen über Administratorrechte verfügen, um auf den SQL-Report Builder zugreifen zu können.
-
-In diesem Video:
-
-- SQL-Abfrage ausführen
-- Visualisieren der Ergebnisse
-- Bericht in einem Dashboard speichern
+> Sie benötigen Administratorrechte, um SQL Report Builder verwenden zu können.
 
 >[!TIP]
 >
->Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+> Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird im [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} erläutert, wie Sie Daten aggregieren, analysieren und visualisieren können, um bessere Geschäftserkenntnisse zu erhalten.
 
 ## Für wen ist dieses Video bestimmt?
 
-- Business-Anwender
-- Datenanalysten
+* Business-Anwender
+* Datenanalysten
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3413528?quality=12&learn=on&captions=ger)
+* Öffnen Sie SQL Report Builder und führen Sie eine Abfrage für Ihr Data Warehouse aus.
+* Erstellen einer Visualisierung aus den Abfrageergebnissen
+* Speichern Sie den Bericht in einem Dashboard für Ihr Team.
+
+>[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
 
 ## Nützliche Ressourcen
 
-[Verwenden von SQL Report Builder - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=de)
-
-[Erstellen von Visualisierungen aus SQL-Abfragen - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=de)
+* [Verwenden von SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (Commerce Intelligence-Benutzerhandbuch)
+* [Erstellen von Visualisierungen aus SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"}Abfragen (Commerce Intelligence-Benutzerhandbuch)

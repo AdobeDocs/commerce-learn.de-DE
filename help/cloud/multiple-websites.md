@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 353
+duration: 390
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
 exl-id: c041bd9a-9955-4053-a147-570ae1d88692
-source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -23,14 +23,14 @@ Adobe Commerce ermöglicht Unternehmen die Verwaltung mehrerer Stores, Marken od
 
 ## Für wen ist dieses Video gedacht?
 
-- Unternehmen, die ihre E-Commerce-Aktivitäten auf mehrere Regionen, Marken oder Produktlinien ausdehnen möchten.
-- Store-Manager, E-Commerce-Leiter und Marketing-Teams.
-- Unternehmen, die Skalierbarkeit und Flexibilität in ihrer Online-Präsenz anstreben.
+* Unternehmen, die ihre E-Commerce-Aktivitäten auf mehrere Regionen, Marken oder Produktlinien ausdehnen möchten.
+* Store-Manager, E-Commerce-Leiter und Marketing-Teams.
+* Unternehmen, die Skalierbarkeit und Flexibilität in ihrer Online-Präsenz anstreben.
 
 ## Videoinhalt
 
-- Multi-Site-Management
-- Lokalisierung und Anpassung
-- Skalierbarkeit und Flexibilität
+* Multi-Site-Management
+* Lokalisierung und Anpassung
+* Skalierbarkeit und Flexibilität
 
->[!VIDEO](https://video.tv.adobe.com/v/3434036?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

@@ -3,6 +3,7 @@ title: Kundenattribute erstellen
 description: Erfahren Sie, wie Sie den Abschnitten Kontoinformationen, Adressbuch und Rechnungsinformationen eines Kundenkontos benutzerdefinierte Attribute hinzufügen.
 kt: 10547
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-,
 
 ## Für wen ist dieses Video bestimmt?
 
-- Store-Administratoren
-- E-Commerce-Marketer
+* Store-Administratoren
+* E-Commerce-Marketer
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411969?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Kundenattributeigenschaften -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=de)
-- [Erstellen eines individuellen Kundenkontos -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=de)
+* [Kundenattributeigenschaften -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [Erstellen eines individuellen Kundenkontos -  [!DNL Commerce] Handbuch zur Kundenverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Erfahren Sie, wie Sie mit der REST-API und der Adobe Commerce-Administratorin bz
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
-- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
+* Website-Manager
+* E-Commerce-Merchandiser
+* Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3453086?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Geschenkkarte mit einfacher Payload erstellen
 
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen Sie ein Geschenkkartenprodukt über den Commerce-Administrator](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=de){target="_blank"}
-- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Erstellen Sie ein Geschenkkartenprodukt über den Commerce-Administrator](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

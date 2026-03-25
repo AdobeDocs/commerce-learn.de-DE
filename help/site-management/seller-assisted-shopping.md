@@ -3,6 +3,7 @@ title: verkäuferunterstütztes Einkaufen
 description: Erfahren Sie, wie Sie hinzufügen können, um sofortige Hilfe sowohl für Gäste als auch für Kunden, die sich für ein Konto bei Ihrem Geschäft registriert haben, anzubieten.
 kt: 10548
 doc-type: feature video
+duration: 205
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden ka
 
 ## Für wen ist dieses Video bestimmt?
 
-- Vertriebsleiter
-- Kundendienstmitarbeiter
+* Vertriebsleiter
+* Kundendienstmitarbeiter
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411978?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Kundenunterstützung bereitstellen - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=de)
-- [Shopping-Hilfe - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=de#shopping-assistance)
+* [Kundenunterstützung bereitstellen - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Shopping-Hilfe - [!DNL Commerce] Handbuch zu Stores und Kauferlebnissen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

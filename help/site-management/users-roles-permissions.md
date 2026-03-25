@@ -3,6 +3,7 @@ title: Verwalten von Benutzerrollen und Berechtigungen
 description: Erfahren Sie mehr über Benutzerkonten und Berechtigungen, mit denen der Zugriff auf  [!DNL Commerce]  Website und die Speicherung von Daten in der Admin Console gesteuert werden.
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Wenn andere Personen in Ihrem Team oder Dienstleister Zugriff benötigen, könne
 
 ## Für wen ist dieses Video bestimmt?
 
-- Store-Administratoren
+* Store-Administratoren
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3443516?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Verwalten von Admin-Benutzerkonten -  [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=de)
+[Verwalten von Admin-Benutzerkonten -  [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Benutzerrollen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=de)
+[Benutzerrollen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

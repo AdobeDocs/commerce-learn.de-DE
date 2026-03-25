@@ -10,10 +10,10 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17150
-duration: 374
+duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -26,14 +26,14 @@ Ein Block ist eine modulare Inhaltseinheit, die sich am meisten an einer beliebi
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- Inhalts-Designer
+* Website-Manager
+* Inhalts-Designer
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3417566?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Bausteine - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=de)
-- [Dynamische Blöcke - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=de)
+* [Bausteine - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+* [Dynamische Blöcke - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

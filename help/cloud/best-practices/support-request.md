@@ -6,11 +6,11 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 126
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: b94fcb4170e7c00d858d08c48b1f51ee29405b0e
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Viele Probleme in Adobe Commerce lassen sich über New Relic nachvollziehen. Dur
 
 >[!MORELIKETHIS]
 > 
-> - [Benutzerhandbuch zur Adobe Commerce-Hilfe](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Benutzerhandbuch zur Adobe Commerce-Hilfe](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

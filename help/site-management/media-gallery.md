@@ -2,6 +2,7 @@
 title: Verwalten der Mediensammlung
 description: Erfahren Sie, wie Sie mit der neuen erweiterten Mediensammlung Mediendateien auf dem Server organisieren und verwalten können.
 doc-type: feature video
+duration: 196
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: 972a50c3e9e70ae0724b78ab79bd6304bbff4042
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -23,14 +24,14 @@ Mit Adobe Commerce oder Magento Open Source 2.4 können Händler die neue erweit
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
+* Website-Manager
+* E-Commerce-Merchandiser
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3417562?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/de/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Alternative Medienspeicherung - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/de/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+* [The Media Gallery - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+* [Alternative Medienspeicherung - [!DNL Commerce] Leitfaden für Inhalt und Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

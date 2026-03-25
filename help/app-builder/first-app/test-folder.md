@@ -4,6 +4,7 @@ description: Erfahren Sie mehr über die Dateitypen im Testordner für diese Bei
 landing-page-description: Erfahren Sie mehr über Adobe Developer App Builder, das mit Adobe Commerce verwendet wird, und welche Dateitypen sich im Testordner befinden.
 kt: 12424
 doc-type: tutorial
+duration: 233
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Dies ist ein einfaches Beispiel und kann erweitert werden, um umfassende Tests f
 * Eine kurze Erläuterung der Modultestdatei und ihrer Komponenten
 * Einführung in End-to-End-Tests
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Code-Beispiele
 

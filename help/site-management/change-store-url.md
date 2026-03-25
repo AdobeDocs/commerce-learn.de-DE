@@ -3,6 +3,7 @@ title: Ändern der Store-URL
 description: Erfahren Sie, wie Sie Ihre  [!DNL Commerce] -Store-Basis-URL in der Admin ändern.
 kt: 5605
 doc-type: feature video
+duration: 136
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -24,18 +25,18 @@ Jede Website in einer Adobe Commerce- oder Magento Open Source-Installation verf
 
 ## Für wen ist dieses Video bestimmt?
 
-- Store-Administratoren
-- Website-Manager
+* Store-Administratoren
+* Website-Manager
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
+>Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Store-URLs - [!DNL Commerce] Stores- und Kauferlebnis-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=de)
-- [Verwenden einer benutzerdefinierten Admin-URL - [!DNL Commerce] Handbuch zu Stores und Purchase Experience](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=de#use-a-custom-admin-url)
+* [Store-URLs - [!DNL Commerce] Stores- und Kauferlebnis-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+* [Verwenden einer benutzerdefinierten Admin-URL - [!DNL Commerce] Handbuch zu Stores und Purchase Experience](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

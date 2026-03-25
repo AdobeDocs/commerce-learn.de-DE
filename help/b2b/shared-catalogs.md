@@ -2,6 +2,7 @@
 title: Verwalten freigegebener Kataloge
 description: Erfahren Sie, wie Sie mit freigegebenen B2B-Katalogen Kataloge mit benutzerdefinierten Preisen für verschiedene Unternehmen verwalten können.
 doc-type: feature video
+duration: 456
 audience: all
 activity: use
 last-substantial-update: 2023-5-10
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,14 +28,14 @@ Wenn die Funktion „Freigegebener Katalog“ in der Konfiguration aktiviert ist
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
+* Website-Manager
+* E-Commerce-Merchandiser
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411351?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Arbeiten mit freigegebenen Katalogen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=de){target="_blank"}
-- [Erstellen eines freigegebenen Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=de){target="_blank"}
+* [Arbeiten mit freigegebenen Katalogen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+* [Erstellen eines freigegebenen Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}

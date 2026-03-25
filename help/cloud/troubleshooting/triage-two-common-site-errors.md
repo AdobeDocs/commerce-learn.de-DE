@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 297
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -24,16 +24,16 @@ Erfahren Sie, wie Sie zwei häufige Fehler in Adobe Commerce Cloud-Projekten tri
 
 ## Für wen ist dieses Video gedacht?
 
-- Entwickler und IT-Experten
-- Systemadministratoren
+* Entwickler und IT-Experten
+* Systemadministratoren
 
 ## Videoinhalt
 
-- Diagnose und Behebung von Speicherproblemen:
-- Wartungsmodus verwalten
-- Effiziente Tipps zur Fehlerbehebung
+* Diagnose und Behebung von Speicherproblemen:
+* Wartungsmodus verwalten
+* Effiziente Tipps zur Fehlerbehebung
 
->[!VIDEO](https://video.tv.adobe.com/v/3447702?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Im Video verwendete Befehle

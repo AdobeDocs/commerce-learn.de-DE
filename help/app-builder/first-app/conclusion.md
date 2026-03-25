@@ -4,6 +4,7 @@ description: Erfahren Sie, wo Sie weitere Informationen zu App Builder erhalten.
 landing-page-description: Erfahren Sie, wo Sie weitere Informationen zu App Builder erhalten.
 kt: 12428
 doc-type: tutorial
+duration: 100
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -33,14 +34,14 @@ Nachdem Sie nun Ihre erste Adobe Developer App Builder-App erstellt haben, erfah
 * Methoden zum Herstellen einer Verbindung zu anderen Entwicklern
 * Abschließende Kommentare
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
 
 ## Zusätzliche App Builder-Ressourcen
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder-Testversion](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder-Dokumente](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder-Foren](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=de){target="_blank"}
+* [Adobe Developer App Builder-Foren](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
 * [Adobe Developer App Builder-Beitragsrichtlinien](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

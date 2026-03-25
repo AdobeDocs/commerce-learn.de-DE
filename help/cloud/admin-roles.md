@@ -6,11 +6,11 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
-source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -23,14 +23,14 @@ Erfahren Sie, wie Sie sich mit Adobe ID oder Federated ID beim Adobe Commerce Ad
 
 ## Für wen ist dieses Video gedacht?
 
-- Store-Administratoren und Business-Anwender, die für die Verwaltung von Zugriff und Berechtigungen verantwortlich sind.
-- Neue Store-Besitzer, die Anweisungen zum Erstellen von Rollen mit bestimmten Berechtigungen und zum Zuweisen von Benutzern zu diesen Rollen benötigen
-- Adobe Commerce-Projekte, die eine sichere und effiziente Verwaltung der Verwaltungsaufgaben in Adobe Commerce Admin sicherstellen möchten.
+* Store-Administratoren und Business-Anwender, die für die Verwaltung von Zugriff und Berechtigungen verantwortlich sind.
+* Neue Store-Besitzer, die Anweisungen zum Erstellen von Rollen mit bestimmten Berechtigungen und zum Zuweisen von Benutzern zu diesen Rollen benötigen
+* Adobe Commerce-Projekte, die eine sichere und effiziente Verwaltung der Verwaltungsaufgaben in Adobe Commerce Admin sicherstellen möchten.
 
 ## Videoinhalt
 
-- Erfahren Sie mehr über die neuesten Anmeldemethoden.
-- Verschaffen Sie sich ein gutes Verständnis über die Erstellung und Verwaltung von Rollen
-- Machen Sie sich mit der Benutzerzuweisung und den Zugriffsebenen vertraut. &#x200B;
+* Erfahren Sie mehr über die neuesten Anmeldemethoden.
+* Verschaffen Sie sich ein gutes Verständnis über die Erstellung und Verwaltung von Rollen
+* Machen Sie sich mit der Benutzerzuweisung und den Zugriffsebenen vertraut. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433522?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

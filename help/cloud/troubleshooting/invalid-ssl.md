@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 118
+duration: 141
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,13 +24,13 @@ Erfahren Sie, wie Sie ein abgelaufenes SSL-Zertifikat identifizieren und dann ei
 
 ## Für wen ist dieses Video gedacht?
 
-- Entwickler, die die Adobe Commerce Cloud-Integration verwenden, und andere Entwicklerverzweigungen zum Testen.
-- Neue Adobe Commerce Cloud-Teammitglieder, die die Luma-Storefront zum Testen von Funktionen verwenden.
+* Entwickler, die die Adobe Commerce Cloud-Integration verwenden, und andere Entwicklerverzweigungen zum Testen.
+* Neue Adobe Commerce Cloud-Teammitglieder, die die Luma-Storefront zum Testen von Funktionen verwenden.
 
 ## Videoinhalt
 
-- Erfahren Sie, wie Sie ein ungültiges SSL-Zertifikat erkennen.
-- Geben Sie an, wann während des Prozesses ein neues Zertifikat erstellt wird.
-- Überprüfen Sie, ob das neue Zertifikat erwartungsgemäß funktioniert. &#x200B;
+* Erfahren Sie, wie Sie ein ungültiges SSL-Zertifikat erkennen.
+* Geben Sie an, wann während des Prozesses ein neues Zertifikat erstellt wird.
+* Überprüfen Sie, ob das neue Zertifikat erwartungsgemäß funktioniert. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3439768?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

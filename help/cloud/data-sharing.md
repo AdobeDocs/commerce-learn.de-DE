@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
 exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
-source-git-commit: 523a21135c178d475ec5d08ea0372be7f8f71b8e
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -24,13 +24,13 @@ Nahtlose Integration mit Adobe Experience Cloud-Produkten zur Erstellung persona
 
 ## Für wen ist dieses Video gedacht?
 
-- Unternehmen und E-Commerce-Unternehmen, die die Kundentreue stärken möchten
-- Einzelhändler, Telekommunikationsunternehmen und Marken, die ihre Daten nahtlos in Adobe Experience Cloud integrieren möchten
+* Unternehmen und E-Commerce-Unternehmen, die die Kundentreue stärken möchten
+* Einzelhändler, Telekommunikationsunternehmen und Marken, die ihre Daten nahtlos in Adobe Experience Cloud integrieren möchten
 
 ## Videoinhalt
 
-- Verbesserte Personalisierung durch die nativen Datenfreigabefunktionen von Adobe Commerce
-- Erhöhte Kundeninteraktion und Kundenloyalität
-- Nahtlose Integration und einheitliche Kundenansicht
+* Verbesserte Personalisierung durch die nativen Datenfreigabefunktionen von Adobe Commerce
+* Erhöhte Kundeninteraktion und Kundenloyalität
+* Nahtlose Integration und einheitliche Kundenansicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3433578?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

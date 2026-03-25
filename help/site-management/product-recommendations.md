@@ -2,6 +2,7 @@
 title: Produktempfehlungen einrichten
 description: Erfahren Sie, wie Sie Produktempfehlungen in Ihrem Adobe Commerce-Store verwenden.
 doc-type: feature video
+duration: 395
 audience: all
 activity: use
 kt: 13790
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -28,14 +29,14 @@ In diesem Video erfahren Sie, wie Sie Produktempfehlungen einrichten.
 
 ## Für wen ist dieses Video bestimmt?
 
-- E-Commerce-Marketer
-- Website-Manager
+* E-Commerce-Marketer
+* Website-Manager
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Handbuch zu Produktempfehlungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=de){target="_blank"}
-- [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de){target="_blank"}
+* [Handbuch zu Produktempfehlungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

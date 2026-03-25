@@ -4,6 +4,7 @@ description: Erfahren Sie mehr über die Dateitypen in der .env-Datei für diese
 landing-page-description: Erfahren Sie mehr über die mit Adobe Commerce verwendete Adobe Developer App Builder und welche Inhaltstypen in der .env-Datei verwendet werden
 kt: 12423
 doc-type: tutorial
+duration: 177
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Der `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber
 * Anhängen der Datei zum Hinzufügen neuer geheimer Daten
 * Übertragung dieser Datei vermeiden, da sie vertrauliche Informationen enthält
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
 
 ## Code-Beispiel
 

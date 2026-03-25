@@ -5,6 +5,7 @@ landing-page-description: In dieser Videoreihe lernen Sie die Grundlagen von Ado
 short-description: In dieser Videoreihe lernen Sie die Grundlagen von Adobe Commerce und die Arbeit im Admin-Bereich kennen.
 kt: 5758
 doc-type: video
+duration: 52
 activity: use
 last-substantial-update: 2023-5-28
 feature: Configuration, System
@@ -12,7 +13,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
-source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 29%
@@ -25,20 +26,20 @@ Das [!DNL Commerce Admin] ist das passwortgeschützte Back Office, in dem Sie Pr
 
 In diesem Video:
 
-- Überprüfung der Admin-Menüs
+* Überprüfung der Admin-Menüs
 
 ## Für wen ist dieses Video bestimmt?
 
-- Business-Anwender
+* Business-Anwender
 
 ## Videoinhalt
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330088?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35942?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[[!DNL Commerce] Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
+[[!DNL Commerce] Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)

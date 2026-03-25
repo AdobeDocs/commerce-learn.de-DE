@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 847
+duration: 887
 last-substantial-update: 2025-05-16T00:00:00Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Erfahren Sie, wie Adobe Commerce Unternehmen in die Lage versetzt, ihre digitale
 * Nahtlose Integration von Produktsortimenten von Erst- und Drittanbietern
 * Beschleunigte Entwicklung der Storefront mit Drop-ins und Designs
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
 
 ## Weitere Videos in dieser Reihe
 

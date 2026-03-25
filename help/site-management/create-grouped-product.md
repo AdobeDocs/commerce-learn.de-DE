@@ -3,6 +3,7 @@ title: Gruppiertes Produkt erstellen
 description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein gruppiertes Produkt erstellen.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -37,13 +38,13 @@ Erstellen Sie beim Erstellen von gruppierten Produkten über die Adobe Commerce-
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
-- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Sie mithilfe der REST-API gruppierte Produkte in Adobe Commerce erstellen.
+* Website-Manager
+* E-Commerce-Merchandiser
+* Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Sie mithilfe der REST-API gruppierte Produkte in Adobe Commerce erstellen.
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3454047?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Einrichtung für das gruppierte Produkt
 
@@ -183,7 +184,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Löschen eines einfachen Produkts aus einem gruppierten Produkt
 
-Um [einfaches Produkt) aus &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Um [einfaches Produkt) aus ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) gruppierten Produkt zu löschen, verwenden Sie: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
 Um herauszufinden, was als `{type}` verwendet werden soll, verwenden Sie xdebug, um die Anfrage zu erfassen und die $linkTypes zu bewerten: `related`, `crosssell`, `uupsell` und `associated`.
 ![Gruppierte Produktverknüpfungstypen - Alt-Text](/help/assets/site-management/catalog/grouped-types.png "Gruppierte Produktverknüpfungstypen, die während der xdebug-Sitzung erfasst werden")
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Zusätzliche Ressourcen
 
-- [Gruppierte Produkte erstellen und verwalten](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Gruppiertes Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=de){target="_blank"}
-- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Gruppierte Produkte erstellen und verwalten](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Gruppiertes Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

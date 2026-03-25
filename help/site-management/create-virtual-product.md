@@ -3,6 +3,7 @@ title: Erstellen eines virtuellen Produkts
 description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein virtuelles Produkt erstellen.
 kt: 14464
 doc-type: video
+duration: 213
 audience: all
 activity: use
 last-substantial-update: 2023-11-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -24,13 +25,13 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein virtuelles P
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
-- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
+* Website-Manager
+* E-Commerce-Merchandiser
+* Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Produkte in Adobe Commerce mithilfe der REST-API erstellt werden.
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3444873?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
 
 ## Erstellen eines virtuellen Produkts mithilfe von cURL
 
@@ -61,5 +62,5 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Admin-created-virtua
 
 ## Zusätzliche Ressourcen
 
-- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

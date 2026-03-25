@@ -2,6 +2,7 @@
 title: Verwalten verwandter Produktregeln
 description: Erfahren Sie, wie Sie eine zielgerichtete Auswahl von Produkten präsentieren, um Kunden als verwandte Produkte, Up-Sells und Crosssell zu speichern.
 doc-type: feature video
+duration: 160
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -25,13 +26,13 @@ Mit Regeln für verwandte Produkte können Sie die Auswahl von Produkten auswäh
 
 ## Für wen ist dieses Video bestimmt?
 
-- E-Commerce-Marketer
-- Website-Manager
+* E-Commerce-Marketer
+* Website-Manager
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3417565?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Regeln für verwandte Produkte - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=de)
+[Regeln für verwandte Produkte - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 jira: KT-17149
-duration: 124
+duration: 153
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: c3f992e4ec71632629500adc7c0b8f2feef34364
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,14 +25,14 @@ Katalogpreisregeln können verwendet werden, um Käufern Produkte zu einem reduz
 
 ## Für wen ist dieses Video bestimmt?
 
-- E-Commerce-Marketer
-- Website-Manager
+* E-Commerce-Marketer
+* Website-Manager
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411361?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen einer Katalogpreisregel -  [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=de)
-- [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=de)
+* [Erstellen einer Katalogpreisregel -  [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [Katalogpreisregel mit mehreren SKUs - [!DNL Commerce] Handbuch für Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

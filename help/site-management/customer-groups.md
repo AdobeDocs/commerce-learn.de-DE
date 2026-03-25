@@ -3,6 +3,7 @@ title: Erstellen von Kundengruppen
 description: Erfahren Sie, wie Sie eine Kundengruppe erstellen und Kunden bestimmten Gruppen zuweisen, die die verfügbaren Rabatte und die zugehörige Steuerklasse bestimmen.
 kt: 10546
 doc-type: feature video
+duration: 141
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse 
 
 ## Für wen ist dieses Video bestimmt?
 
-- Store-Administratoren
-- E-Commerce-Marketer
+* Store-Administratoren
+* E-Commerce-Marketer
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411963?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [Kundengruppen - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=de)
-- [Beschränkungen der Kundengruppe nach Websites - [!DNL Commerce] Handbuch für das Kundenmanagement](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [Kundengruppen - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Beschränkungen der Kundengruppe nach Websites - [!DNL Commerce] Handbuch für das Kundenmanagement](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

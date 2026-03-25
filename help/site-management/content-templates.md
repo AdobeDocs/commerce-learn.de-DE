@@ -2,6 +2,7 @@
 title: Erstellen von Inhaltsvorlagen
 description: Erfahren Sie, wie Sie mit Vorlagen Zeit und Aufwand sparen können, wenn Sie Inhalte erstellen oder ältere Inhalte ersetzen.
 doc-type: feature video
+duration: 182
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,8 +11,8 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Die Verwendung von Vorlagen spart Ihnen Zeit und Mühe bei der Erstellung von In
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- Inhalts-Designer
+* Website-Manager
+* Inhalts-Designer
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411360?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## Zusätzliche Ressourcen
 
-- [[!DNL Page Builder] templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=de)
-- [Add templates - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+* [[!DNL Page Builder] templates - [!DNL Page Builder] Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [Add templates - [!DNL Page Builder] Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

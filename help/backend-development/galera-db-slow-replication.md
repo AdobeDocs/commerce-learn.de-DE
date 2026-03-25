@@ -3,6 +3,7 @@ title: Erfahren Sie, wie Sie langsame Abfragen in MySQL-Protokollen für langsam
 description: Galera DB verfügt über eine Design-Methode, die die Replikation von Daten in sekundäre Datenbanken länger als die primäre Datenbank dauert. Erfahren Sie, wie Sie diese Ereignisse im MySQL-Protokoll für langsame Abfragen finden, und erfahren Sie, warum Einträge in den Protokollen für langsame Abfragen angezeigt werden und wie Sie sie möglicherweise in Zukunft verhindern können.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Zur Lösung sollten Sie Ihre umfangreichen Vorgänge so stapelweise ausführen, 
 
 ## Für wen ist dieses Video bestimmt?
 
-- Architekten
-- Entwickler
-- DevOps
+* Architekten
+* Entwickler
+* DevOps
 
 ## Videoinhalt
 
-- Galerische Replikation in sekundäre Datenbank
-- Erfahren Sie mehr über die Flusskontrolle
-- Thread-Nummern in langsamen Abfrageprotokollen von MySQL finden
-- Massenausführungen finden nur auf der primären Instanz statt. Die Replikationen erfolgen jeweils 1
-- Bündeln Sie Ihre umfangreichen Commits, damit die Replikation mit der primären Instanz Schritt halten kann
+* Galerische Replikation in sekundäre Datenbank
+* Erfahren Sie mehr über die Flusskontrolle
+* Thread-Nummern in langsamen Abfrageprotokollen von MySQL finden
+* Massenausführungen finden nur auf der primären Instanz statt. Die Replikationen erfolgen jeweils 1
+* Bündeln Sie Ihre umfangreichen Commits, damit die Replikation mit der primären Instanz Schritt halten kann
 
->[!VIDEO](https://video.tv.adobe.com/v/3423540?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Nützliche Ressourcen
 
-- [Galera-Cluster](https://galeracluster.com/)
+* [Galera-Cluster](https://galeracluster.com/)

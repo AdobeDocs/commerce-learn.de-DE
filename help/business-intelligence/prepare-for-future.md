@@ -5,6 +5,7 @@ landing-page-description: Sehen Sie sich diese Videoreihe an, um zu verdeutliche
 short-description: Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellosen Veränderungen verstehen, die die Zukunft des digitalen Handels prägen.
 kt: 10411
 doc-type: feature video
+duration: 1516
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -31,21 +32,21 @@ Sehen Sie sich diese Videoreihe an, um zu verdeutlichen, wie Sie die beispiellos
 
 >[!TIP]
 >
->Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video bestimmt?
 
-- Business-Anwender
-- Datenanalysten
+* Business-Anwender
+* Datenanalysten
 
 ## Teil 1: Anstieg des Traffics auf Digital Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342498?learn=on)
 
 ## Teil 2: Segmentierung des Verkehrsaufkommens nach Branchen
 
->[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342499?learn=on)
 
 ## Teil 3: Auswirkungen auf das Kaufverhalten der Kunden
 
->[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342500?learn=on)

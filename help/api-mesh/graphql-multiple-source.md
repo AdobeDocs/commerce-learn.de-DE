@@ -5,6 +5,7 @@ landing-page-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  
 short-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie, wie Sie ein Netz mit mehreren Quellen erstellen und einige häufige Fehler beheben.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ In diesem Video erfahren Entwicklerinnen und Entwickler, wie sie ein Netz mit me
 * Fehlerbehebung bei Fehlern, z. B. Namenskonflikten, Schemaverfügbarkeit und anderen Problemen mit der Schemasyntax
 * Aktualisieren des Netzes mit einer geänderten Konfiguration
 
->[!VIDEO](https://video.tv.adobe.com/v/3430766?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Erstellen der JSON-Konfigurationsdatei
 

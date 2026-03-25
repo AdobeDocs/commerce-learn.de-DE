@@ -3,6 +3,7 @@ title: Erstellen eines konfigurierbaren Produkts
 description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein konfigurierbares Produkt erstellen.
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -30,7 +31,7 @@ In diesem Tutorial erfahren Sie, wie Sie ein konfigurierbares Produkt mit der RE
 
 Verwenden Sie die REST-API, um ein konfigurierbares Produkt zu erstellen:
 
-1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=de) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
+1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
 1. Erstellen Sie einfache Produkte zur Verwendung im konfigurierbaren Produkt.
 1. Ein leeres konfigurierbares Produkt erstellen und die einfachen Produkte verknüpfen.
 1. Festlegen der Produktattribute für das konfigurierbare Produkt.
@@ -43,9 +44,9 @@ Beim Erstellen konfigurierbarer Produkte über die Adobe Commerce Admin können 
 
 ## Für wen ist dieses Video bestimmt?
 
-- Website-Manager
-- E-Commerce-Merchandiser
-- Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie man mit der REST-API konfigurierbare Produkte in Adobe Commerce erstellt
+* Website-Manager
+* E-Commerce-Merchandiser
+* Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie man mit der REST-API konfigurierbare Produkte in Adobe Commerce erstellt
 
 ## Videoinhalt
 
@@ -100,8 +101,8 @@ Erstellen Sie das erste einfache Produkt, indem Sie die -API verwenden, um die f
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
-- Ändern Sie `"attribute-set": 10`, um `10` durch die Attributsatz-ID aus Ihrer Umgebung zu ersetzen.
-- Ändern Sie `"value": "13"`, um `13` durch den Wert aus Ihrer Umgebung zu ersetzen.
+* Ändern Sie `"attribute-set": 10`, um `10` durch die Attributsatz-ID aus Ihrer Umgebung zu ersetzen.
+* Ändern Sie `"value": "13"`, um `13` durch den Wert aus Ihrer Umgebung zu ersetzen.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +142,8 @@ Erstellen Sie das zweite einfache Produkt, indem Sie die -API verwenden, um die 
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
-- Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus in Ihrer Umgebung.
-- Ändern Sie `"value": "14"` und ersetzen Sie `14` durch den Wert aus Ihrer Umgebung.
+* Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus in Ihrer Umgebung.
+* Ändern Sie `"value": "14"` und ersetzen Sie `14` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +183,8 @@ Erstellen Sie das dritte einfache Produkt, indem Sie die folgende POST-Anfrage m
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
-- Ändern Sie `"attribute_set_id": 10,`, um `10` durch die Attributsatz-ID aus Ihrer Umgebung zu ersetzen.
-- Ändern Sie `"value": "15"` und ersetzen Sie `15` durch den Wert aus Ihrer Umgebung.
+* Ändern Sie `"attribute_set_id": 10,`, um `10` durch die Attributsatz-ID aus Ihrer Umgebung zu ersetzen.
+* Ändern Sie `"value": "15"` und ersetzen Sie `15` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +224,8 @@ Erstellen Sie ein leeres konfigurierbares Produkt, indem Sie die folgende POST-A
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
-- Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus Ihrer Umgebung.
-- Ändern Sie `"value": "93"` und ersetzen Sie `93` durch den Wert aus Ihrer Umgebung.
+* Ändern Sie `"attribute_set_id": 10,` und ersetzen Sie `10` durch die Attributsatz-ID aus Ihrer Umgebung.
+* Ändern Sie `"value": "93"` und ersetzen Sie `93` durch den Wert aus Ihrer Umgebung.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -252,7 +253,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Festlegen der für das konfigurierbare Produkt verfügbaren Optionen
 
-Legen Sie die für das konfigurierbare Produkt verfügbaren Optionen fest, indem Sie die folgende POST-Anfrage über cURL senden.
+Legen Sie die für das konfigurierbare Produkt verfügbaren Optionen fest, indem Sie die folgende POST-Anfrage mithilfe von cURL senden.
 
 Ändern Sie vor dem Senden der Anfrage `"attribute_id": 93,` , um `93` durch die Attribut-ID aus Ihrer Umgebung zu ersetzen.
 
@@ -284,13 +285,13 @@ Wenn Sie vergessen, die Optionen für das konfigurierbare Produkt (übergeordnet
 
 Jetzt haben Sie drei einfache Produkte erstellt:
 
-- `"Kids Hawaiian Ukulele Red"`,
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
 Fügen Sie diese einfachen Produkte als untergeordnete Elemente des konfigurierbaren Produkts hinzu, indem Sie die folgende POST-Anfrage senden. Für jedes Produkt eine separate Anfrage einreichen.
 
-Aktualisieren Sie für jede Anfrage den `childSKU` mit dem Wert für das untergeordnete Produkt, das Sie hinzufügen. Im folgenden Beispiel wird dem konfigurierbaren Produkt mit der SKU-`Kids-Hawaiian-Ukulele-red` die einfache `kids-Hawaiian-Ukulele-red` zugewiesen.
+Aktualisieren Sie für jede Anfrage den `childSKU` mit dem Wert für das untergeordnete Produkt, das Sie hinzufügen. Im folgenden Beispiel wird dem konfigurierbaren Produkt mit der SKU-`kids-Hawaiian-Ukulele-red` die einfache `Kids-Hawaiian-Ukulele-red` zugewiesen.
 
 
 ```bash
@@ -347,7 +348,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Zusätzliche Ressourcen
 
-- [Erstellen eines konfigurierbaren Produkt-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=de){target="_blank"}
-- [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Erstellen eines konfigurierbaren Produkt-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

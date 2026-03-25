@@ -3,6 +3,7 @@ title: Globale Referenzarchitektur - Monorepo
 description: Erfahren Sie, wie Sie mit dem monorepo-Ansatz für eine globale Referenzarchitektur ein skalierbares und widerstandsfähiges Commerce-Erlebnis schaffen
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Das Monorepo GRA-Muster beinhaltet ein einzelnes Git-Repository, in dem alle gä
 
 Vorteile:
 
-- Ideal für Funktionstests
-- Wiederverwendung von Code durch gemeinsam genutzte Code-Repositorys
-- Vollständige Flexibilität bei der Paketinstallation. Jedes GRA-Paket kann einzeln aktualisiert, heruntergestuft oder rückportiert werden
-- Vollständige Unterstützung der semantischen Versionierung
-- Keine speziellen Tools, keine komplexe Infrastruktur oder spezielle Verzweigungsstrategie erforderlich
-- Unterstützung aller von Composer unterstützten Pakettypen
-- Ideal für temporäre Umgebungen, die optional sind, aber für Bereitstellungs-Teams mit hohem Volumen sind sie sehr nützlich
+* Ideal für Funktionstests
+* Wiederverwendung von Code durch gemeinsam genutzte Code-Repositorys
+* Vollständige Flexibilität bei der Paketinstallation. Jedes GRA-Paket kann einzeln aktualisiert, heruntergestuft oder rückportiert werden
+* Vollständige Unterstützung der semantischen Versionierung
+* Keine speziellen Tools, keine komplexe Infrastruktur oder spezielle Verzweigungsstrategie erforderlich
+* Unterstützung aller von Composer unterstützten Pakettypen
+* Ideal für temporäre Umgebungen, die optional sind, aber für Bereitstellungs-Teams mit hohem Volumen sind sie sehr nützlich
 
 Nachteile:
 
-- Mögliche Kombinationen von Paketen bereitzustellen, die nicht in derselben Konfiguration entwickelt wurden, erfordern strenge Testverfahren
-- Das monorepo GRA-Muster kann zu Beginn komplex sein. Weisen Sie einen Lead zu, der das Team bei der Arbeit mit dem System unterstützt
+* Mögliche Kombinationen von Paketen bereitzustellen, die nicht in derselben Konfiguration entwickelt wurden, erfordern strenge Testverfahren
+* Das monorepo GRA-Muster kann zu Beginn komplex sein. Weisen Sie einen Lead zu, der das Team bei der Arbeit mit dem System unterstützt
 
 ## Einrichten von Adobe Commerce mit dem separaten Package GRA-Muster
 
@@ -188,7 +189,7 @@ Der folgende Git-Unterschied zeigt den Unterschied zwischen einer bereinigten Ad
 
 ### Verwenden von Metapaketen
 
-Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
+Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
 
 Composer-Metapakete bündeln mehrere Composer-Pakete in einem Paket. Wenn ein Metapaket erforderlich ist, werden alle Pakete, die es enthält, automatisch über den Abschnitt Composer erforderlich des Metapakets installiert.
 
@@ -257,7 +258,7 @@ Metapakete befinden sich im monorepo im `packages`. Dort wird die Verzeichnisstr
 
 Module im monorepo befinden sich im `packages`. Auf diese Weise kann Composer sie über das Pfadtyp-Repository finden.
 
-Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
+Laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter, um die Metapakete und die Beispielmodule zu erhalten, die in diesem Beispiel verwendet werden.
 
 ```text
 .
@@ -348,5 +349,5 @@ Wenn Sie temporäre Umgebungen verwenden oder planen, diese zu verwenden, ist da
 
 Die Code-Beispiele dieses Artikels wurden in einer Reihe von Git-Repositorys kombiniert, mit denen Sie den Machbarkeitsnachweis umspielen können.
 
-- Ein Beispiel für ein monorepo-Repository: <https://github.com/AntonEvers/gra-monorepo>
-- Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* Ein Beispiel für ein monorepo-Repository: <https://github.com/AntonEvers/gra-monorepo>
+* Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-monorepo-brand-x>

@@ -5,6 +5,7 @@ landing-page-description: Erfahren Sie, wie Sie mit Composer mehrere für Adobe 
 short-description: Erfahren Sie, wie Sie mit Composer mehrere für Adobe Commerce 2.4.5 erforderliche Module installieren.
 kt: 11886
 doc-type: tutorial
+duration: 214
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Ado
 * Für Adobe Commerce Cloud auszuführende Befehle
 * Adobe Commerce Cloud-YAML - erforderliche Bearbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3430646?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

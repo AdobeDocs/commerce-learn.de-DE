@@ -3,6 +3,7 @@ title: Optimieren von Adobe Commerce mit der globalen Referenzarchitektur für M
 description: Erfahren Sie, wie Sie Adobe Commerce mithilfe der globalen Referenzarchitektur für Massenpakete einrichten, um die Code-Verwaltung und Versionskontrolle zu optimieren.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Das Massen-Package-GRA-Muster umfasst ein einzelnes Git-Repository, in dem alle 
 
 Vorteile:
 
-- Wiederverwendung von Code über ein gemeinsam genutztes Code-Repository
-- Flexibilität bei der Installation verschiedener historischer Versionen der GRAA auf verschiedenen Instanzen, was schrittweise Versionen ermöglicht
-- Flexibilität beim Backport und bei der Pflege mehrerer Hauptversionen der GRA
-- Unterstützung der semantischen Versionierung der GRA
-- Einfachheit: Entwickler benötigen nicht mehr Fähigkeiten als in regulären Einzelhandelsentwicklungsmustern
-- Keine speziellen Tools, keine komplexe Infrastruktur oder spezielle Verzweigungsstrategie erforderlich
-- Die Kombination von Paketen in einer Version wird immer gemeinsam entwickelt und getestet
+* Wiederverwendung von Code über ein gemeinsam genutztes Code-Repository
+* Flexibilität bei der Installation verschiedener historischer Versionen der GRAA auf verschiedenen Instanzen, was schrittweise Versionen ermöglicht
+* Flexibilität beim Backport und bei der Pflege mehrerer Hauptversionen der GRA
+* Unterstützung der semantischen Versionierung der GRA
+* Einfachheit: Entwickler benötigen nicht mehr Fähigkeiten als in regulären Einzelhandelsentwicklungsmustern
+* Keine speziellen Tools, keine komplexe Infrastruktur oder spezielle Verzweigungsstrategie erforderlich
+* Die Kombination von Paketen in einer Version wird immer gemeinsam entwickelt und getestet
 
 Nachteile:
 
-- Nur möglich, das vollständige GRA einschließlich aller darin enthaltenen Pakete zu aktualisieren.
-- Keine Unterstützung im GRA-Bulk-Package für Composer-Pakete außer Adobe Commerce-Modulen, Sprachpaketen und Designs, also keine Metapakete, Magento2-Komponenten-Pakete, Composer-Plug-ins und Patches
+* Nur möglich, das vollständige GRA einschließlich aller darin enthaltenen Pakete zu aktualisieren.
+* Keine Unterstützung im GRA-Bulk-Package für Composer-Pakete außer Adobe Commerce-Modulen, Sprachpaketen und Designs, also keine Metapakete, Magento2-Komponenten-Pakete, Composer-Plug-ins und Patches
 
 ## Einrichten von Adobe Commerce mit dem Split Git-GRA-Muster
 
@@ -233,11 +234,11 @@ git push origin main
 
 Nur wenn der Drittanbieter die Installation nicht über ein Composer-Repository anbietet, können Sie Module von Drittanbietern im `src/` Ihres Foundation-Repositorys oder in einem dedizierten Massenpaket von Drittanbietern speichern.
 
-- **Adobe Commerce Core**: verfügbar über repo.magento.com.
-- **Module von Drittanbietern**: verfügbar über den Marketplace oder das eigene Composer-Repository eines Anbieters.
-- **Fallback-Option für Drittanbietermodule**: Wird `src/` eines Massenpakets gespeichert.
-- **GRA-Foundation**: Wird in `src/` des Foundation-Bulk-Pakets gespeichert.
-- **Lokaler Code**: im `packages/local` des Bereitstellungs-Repositorys gespeichert.
+* **Adobe Commerce Core**: verfügbar über repo.magento.com.
+* **Module von Drittanbietern**: verfügbar über den Marketplace oder das eigene Composer-Repository eines Anbieters.
+* **Fallback-Option für Drittanbietermodule**: Wird `src/` eines Massenpakets gespeichert.
+* **GRA-Foundation**: Wird in `src/` des Foundation-Bulk-Pakets gespeichert.
+* **Lokaler Code**: im `packages/local` des Bereitstellungs-Repositorys gespeichert.
 
 ## Entwickeln eines GRA-Moduls
 
@@ -272,6 +273,6 @@ In Ticket-Verzweigungen sollten Sie fast nie die Datei composer.lock aktualisier
 
 Die Code-Beispiele für diesen Artikel sind als eine Reihe von Git-Repositorys verfügbar, mit denen Sie den Machbarkeitsnachweis testen können.
 
-- Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- Das GRA-Code-Repository: <https://github.com/AntonEvers/gra-bulk-foundation>
-- Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
+* Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* Das GRA-Code-Repository: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
