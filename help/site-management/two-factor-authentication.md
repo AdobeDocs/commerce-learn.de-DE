@@ -32,7 +32,7 @@ Um den unbefugten Zugriff auf Ihre Daten zu verhindern, müssen alle Benutzer, d
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 

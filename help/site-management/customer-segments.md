@@ -37,5 +37,5 @@ Kundensegmente ermöglichen es Ihnen, bestimmten Kunden Inhalte und Promotions b
 
 ## Zusätzliche Ressourcen
 
-* [Kundensegmente - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
-* [Kundensegmente in Preisregeln -  [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}
+* [Kundensegmente - [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=de){target="_blank"}
+* [Kundensegmente in Preisregeln -  [!DNL Commerce] Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=de){target="_blank"}

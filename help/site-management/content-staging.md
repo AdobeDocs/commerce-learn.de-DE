@@ -11,7 +11,7 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
@@ -37,5 +37,5 @@ Mit der Inhalts-Staging-Funktion kann Ihr Business-Team eine breite Palette von 
 
 ## Zusätzliche Ressourcen
 
-* [Content-Staging - [!DNL Commerce] Content- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Vorschau einer Kampagne - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+* [Content-Staging - [!DNL Commerce] Content- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=de){target="_blank"}
+* [Vorschau einer Kampagne - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=de){target="_blank"}

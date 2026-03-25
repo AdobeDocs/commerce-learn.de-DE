@@ -38,6 +38,6 @@ Erfahren Sie, wie Sie mit Adobe Commerce Cloud Projekte und Umgebungen verwalten
 
 ## Verwandte Inhalte und Dokumentation
 
-* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Sichere Verbindung zu Remote-Umgebungen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Cloud-Infrastrukturprojekt](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Sichere Verbindung zu Remote-Umgebungen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Cloud-Infrastrukturprojekt](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/overview)

@@ -40,5 +40,5 @@ Das Adobe Commerce-Supportteam und die Magento Open Source-Community entwickeln 
 
 ## Zusätzliche Ressourcen
 
-* [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Quality Patch-Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=de)
 * [Quality-Patch-Tool auf GitHub](https://github.com/magento/quality-patches)

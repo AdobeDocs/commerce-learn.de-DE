@@ -38,4 +38,4 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[categories - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[categories - [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=de)

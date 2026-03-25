@@ -35,5 +35,5 @@ Widgets sind wiederverwendbare Komponenten, die Sie erstellen und ändern könne
 
 ## Zusätzliche Ressourcen
 
-* [Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Erstellen und Verwalten von Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}
+* [Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=de){target="_blank"}
+* [Erstellen und Verwalten von Widgets - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=de){target="_blank"}
