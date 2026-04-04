@@ -139,7 +139,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
 
 5. Stellen Sie sicher, dass Xdebug deaktiviert ist, wenn es während der Entwicklung aktiviert wurde (siehe [Konfigurieren von Xdebug für Commerce in Cloud](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"}).
 6. Überprüfen Sie, ob OPcache und andere Konfigurationen in der Datei php.ini korrekt aktualisiert wurden ([siehe Beispiel](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
-7. Abonnieren Sie die [**Adobe Commerce-Statusseite**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
+7. Abonnieren Sie die [**Adobe Commerce-Statusseite**](https://status.adobe.com/de-de/cloud/experience_cloud#/){target="_blank"}.
 8. Abonnieren Sie die New Relic[Benachrichtigungskanäle „Verwaltete Warnhinweise für Adobe Commerce](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}, um die angegebenen Leistungsmetriken zu überwachen ([mehr dazu](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## &#x200B;9. Sicherheit
