@@ -29,7 +29,7 @@ In diesem Tutorial wird erläutert, wie die Kapazität in Adobe Commerce Cloud f
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482045?captions=ger&learn=on)
 
 ## Verwandte Dokumentation
 
