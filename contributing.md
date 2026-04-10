@@ -1,8 +1,8 @@
 ---
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 3%
 
 ---
 
@@ -27,15 +27,15 @@ Konsens über die Projektausrichtung und Problemlösungen in Problem-Threads
 ## Lizenzvereinbarung für Mitarbeiter
 
 Alle Drittanbieter-Beiträge zu diesem Projekt müssen von einem unterzeichneten Mitwirkenden begleitet werden
-Lizenzvereinbarung. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge zu verteilen
+Lizenzvereinbarung. Dadurch erhält Adobe die Berechtigung, Ihre Beiträge zu verteilen
 als Teil des Projekts. [Unterschreiben Sie unsere Lizenzvereinbarung für Mitwirkende](https://opensource.adobe.com/cla.html). Sie
-Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitarbeiter einreichen. Wenn Sie also bereits eine einreichen,
+Sie müssen nur einmal eine Adobe-Lizenzvereinbarung für Mitwirkende übermitteln. Wenn Sie also bereits eine gesendet haben,
 Du bist gut zu gehen!
 
 ## Code-Überprüfungen
 
 Alle Einreichungen sollten in Form von Pull-Anfragen erfolgen und müssen überprüft werden
-durch Projektverantwortliche. Lesen [&#x200B; Dokumentation zu Pull Requests von GitHub](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+durch Projektverantwortliche. Lesen [ Dokumentation zu Pull Requests von GitHub](https://help.github.com/de/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 Weitere Informationen zum Senden von Pull-Anforderungen finden Sie unter.
 
 <!--
@@ -54,4 +54,4 @@ Wenden Sie sich an bestehende Verantwortliche, um darüber zu sprechen.
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten nicht in dieser Problemverfolgung gemeldet werden. Stattdessen [ein Problem an unsere Sicherheitsfachleute gesendet](https://helpx.adobe.com/de/security/alertus.html)
+Sicherheitsprobleme sollten nicht in dieser Problemverfolgung gemeldet werden. Stattdessen [ein Problem an unsere Sicherheitsfachleute gesendet](https://helpx.adobe.com/security/alertus.html)
