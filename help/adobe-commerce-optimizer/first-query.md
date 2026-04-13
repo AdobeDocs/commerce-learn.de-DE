@@ -10,7 +10,7 @@ duration: 243
 last-substantial-update: 2025-08-13T00:00:00Z
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie Daten mit GraphQL in einer Adobe Commerce Optimizer-Instan
 * Abfragen von Daten mit GraphQL
 * Verwenden von JQ, um das Lesen von JSON zu vereinfachen
 
->[!VIDEO](https://video.tv.adobe.com/v/3470809?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Code-Beispiele
 
@@ -57,4 +57,4 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 ## Verwandte Inhalte
 
 * [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Anleitung](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Anleitung](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
