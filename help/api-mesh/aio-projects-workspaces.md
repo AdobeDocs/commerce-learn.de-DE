@@ -1,22 +1,18 @@
 ---
 title: Arbeiten mit Projekten und Arbeitsbereichen
 description: Erfahren Sie, wie Sie die Adobe Developer-Konsole für die Arbeit mit Projekten und Arbeitsbereichen verwenden.
-landing-page-description: Erfahren Sie, wie Sie die Adobe Developer-Konsole verwenden. Erfahren Sie mehr über Projekte und Arbeitsbereiche, die mit API Mesh verwendet werden können.
-short-description: Erfahren Sie, wie Sie die Adobe Developer-Konsole verwenden. Erfahren Sie mehr über Projekte und Arbeitsbereiche, die mit API Mesh verwendet werden können.
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -42,7 +38,7 @@ In diesem Tutorial wird das Erstellen eines Projekts und Arbeitsbereichs erläut
 
 ## Informationen über die Adobe Developer Console
 
-In der Adobe Developer Console stellt die folgende Hierarchie dar, wie Ihre APIs in Ihr Unternehmen passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zu Adobe App Builder, zur Anmeldung bei der Konsole und zu grundlegenden Fehlerbehebungen finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In der Adobe Developer Console stellt die folgende Hierarchie dar, wie Ihre APIs in Ihr Unternehmen passen: `Organization > Project > Workspace > [API]`. Weitere Informationen zu Adobe App Builder, zur Anmeldung bei der Konsole und zu grundlegenden Fehlerbehebungen finden Sie unter [Erstellen der ersten App Builder-Anwendung](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Einführung in Projekte in der Adobe Developer Console
 
