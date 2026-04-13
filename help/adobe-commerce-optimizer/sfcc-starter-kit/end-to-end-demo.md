@@ -34,4 +34,4 @@ Sehen Sie sich eine umfassende Demonstration an, in der die erfolgreiche Einrich
 * Änderungen an Produktdetails und Preisen im Salesforce Commerce Cloud-Katalog werden automatisch in Commerce Optimizer über den Delta-Synchronisierungsprozess erkannt und aktualisiert.
 * Echtzeit-Updates und Demonstration eines nahtlosen Datenflusses und einer nahtlosen Synchronisation zwischen Systemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476102?captions=ger&learn=on)
