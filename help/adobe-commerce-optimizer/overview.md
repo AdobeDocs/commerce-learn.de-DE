@@ -7,10 +7,10 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06T00:00:00Z
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Überblick über Adobe Commerce Optimizer
 
-Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine leistungsstarke Headless-Storefront, die den organischen Traffic steigert und Merchandiser-Tools wie A/B-Tests unterstützt. Sie konzentriert sich auf die Steigerung des Traffics und der Konversionsraten im Store, die Steigerung der Produktivität von Merchandisern, die Skalierung digitaler Abläufe und die Vereinfachung der Verwaltung für niedrigere Kosten und schnellere Innovationen. Diese Lösung lässt sich nahtlos in bestehende Systeme integrieren und bietet Storefront-Migrationsservices, Plug-and-Play-Katalogintegrationen und eine einheitliche Katalogorchestrierung. So ist sie ideal für Unternehmen, die ihre Umsätze steigern und ihre Einkaufserlebnisse optimieren möchten, ohne die Plattform neu zu platzieren.
+Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine leistungsstarke Headless-Storefront, die den organischen Traffic steigert und Merchandiser-Tools wie A/B-Tests unterstützt. Sie konzentriert sich auf die Steigerung des Traffics und der Konversionsraten im Store, die Steigerung der Produktivität von Merchandisern, die Skalierung digitaler Abläufe und die Vereinfachung der Verwaltung für niedrigere Kosten und schnellere Innovationen. Diese Lösung lässt sich nahtlos in bestehende Systeme integrieren und bietet Storefront-Migrationsservices, Plug-and-Play-Katalogintegrationen und eine einheitliche Katalogorchestrierung. So ist sie ideal für Unternehmen, die ihre Umsätze steigern und ihre Einkaufserlebnisse optimieren möchten, ohne dass eine Neuplattform erforderlich ist.
 
 ## Für wen ist dieses Video bestimmt?
 

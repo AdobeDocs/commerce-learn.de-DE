@@ -2,10 +2,10 @@
 user-guide-title: Videos und Tutorials zu Adobe Commerce Optimizer
 user-guide-description: In Videos und Tutorials erfahren Sie mehr über Adobe Commerce Optimizer.
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: ac213bf038d786c1f6285ae700c9c1d42b8114f7
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: Übersicht über das App Builder Starter Kit für Salesforce Commerce Cloud
-description: Erfahren Sie mehr über das Adobe App Builder-Starter-Kit für Salesforce Commerce Cloud mit Adobe Commerce Optimizer.
+title: App Builder Starter Kit für Salesforce Commerce Cloud
+description: Erfahren Sie mehr über das Adobe App Builder Starter Kit für Salesforce Commerce Cloud mit Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,14 +10,14 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über die Architektur des Salesforce Commerce Cloud Starter Kits
+# Erfahren Sie mehr über die Architektur des Salesforce Commerce Cloud Starter Kit
 
 Erfahren Sie, wie Sie das App Builder Starter Kit für Salesforce Commerce Cloud mithilfe von Adobe Commerce Optimizer einrichten und bereitstellen. Erfahren Sie mehr über das Erstellen eines neuen Projekts in der Adobe Developer Console, das Hinzufügen erforderlicher APIs und das Herunterladen der JSON-Arbeitsbereich-Datei. Erfahren Sie mehr über den Prozess zum Klonen des Starter Kit-Repositorys, das Einrichten von Konfigurationsdateien und das Installieren der Adobe IO-CLI, um die lokale Codebasis mit dem Entwicklungs-Konsolen-Projekt zu verknüpfen. Machen Sie sich mit dem Ausfüllen von Umgebungsvariablen und dem Synchronisieren von Site-Details vertraut und überprüfen Sie, ob die App erfolgreich erstellt und bereitgestellt wurde. Lernen Sie einige Onboarding-Schritte wie Registrierungsaktionen kennen, und die Bereitstellung wird im Arbeitsbereich der Dev-Konsole bestätigt.
 
