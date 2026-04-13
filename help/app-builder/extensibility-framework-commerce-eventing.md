@@ -1,22 +1,18 @@
 ---
 title: Erweiterbarkeits-Framework und Commerce-Eventing
-description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
-landing-page-description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
-short-description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Abend
-kt: 11740
-doc-type: tutorial
+description: Erfahren Sie mehr über Unified Extensibility Framework und Commerce-Eventing
+jira: KT-11740
+doc-type: Tutorial
 duration: 298
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -27,6 +23,6 @@ In dieser Funktionsdemonstration werden App Builder und seine potenziellen Anwen
 
 ## App Builder für Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3447487?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

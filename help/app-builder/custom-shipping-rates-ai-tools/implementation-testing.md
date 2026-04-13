@@ -1,5 +1,5 @@
 ---
-title: Individuelle Versandraten mit KI-Tools | Implementierung und Tests
+title: Implementierung und Tests für benutzerdefinierte Versandraten mit KI-Tools
 description: Erfahren Sie, wie Sie KI-gesteuerte benutzerdefinierte Versandraten implementieren und testen, Umgebungen konfigurieren und Integrationen für erweiterte Checkout-Erlebnisse überprüfen.
 feature: Deploy
 topic: Development
@@ -10,9 +10,9 @@ duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Agent schließt Implementierung ab, bereinigt nicht verwendeten Code und bereite
 Die Anmeldeinformationen und die Umgebung sind konfiguriert, um die neue Versanderweiterung bereitzustellen und zu registrieren.
 Storefront-Tests bestätigen, dass die externen Versandraten wie erwartet angezeigt werden und funktionieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481366?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

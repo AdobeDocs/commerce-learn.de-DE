@@ -1,23 +1,19 @@
 ---
 title: Out-of-Process-Erweiterbarkeit für Adobe Commerce
 description: Erfahren Sie mehr über Adobe App Builder und warum er ein wichtiger Aspekt der prozessexternen Erweiterbarkeit ist.
-landing-page-description: Erfahren Sie, was App Builder ist und wie er bei den Entwicklungsstrategien von Adobe Commerce helfen kann.
-short-description: Erfahren Sie, was App Builder ist und wie er bei den Entwicklungsstrategien von Adobe Commerce helfen kann.
-kt: 11433
-doc-type: tutorial
+jira: KT-11433
+doc-type: Tutorial
 duration: 322
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
 
@@ -91,6 +87,6 @@ Sind Sie bereit, mit der Entwicklung zu beginnen? Der folgende Link enthält Bei
 
 ## Support {#support}
 
-Für Anfragen zum Entwickler-Support verwenden Sie das [Experience League-Forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=de){target="_blank"} um Hilfe zu erhalten.
+Für Anfragen zum Entwickler-Support verwenden Sie das [Experience League-Forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} um Hilfe zu erhalten.
 
 {{$include /help/_includes/app-builder-related-links.md}}

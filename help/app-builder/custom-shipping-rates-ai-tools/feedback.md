@@ -1,5 +1,5 @@
 ---
-title: Benutzerdefinierte Versandraten mithilfe von KI-Tools | Feedback geben
+title: Feedback zu benutzerdefinierten Versandraten mit KI-Tools geben
 description: Erfahren Sie, wie Sie mit KI-Tools benutzerdefinierte Versandraten erstellen können. Erfahren Sie mehr über den Feedback-Prozess und optimieren Sie Ihren Workflow mit diesem Anfänger-freundlichen Tutorial.
 feature: Tools and External Services
 topic: Artificial Intelligence
@@ -10,9 +10,9 @@ duration: 101
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Erfahren Sie, wie Sie mit KI-Tools benutzerdefinierte Versandraten erstellen kö
 * Erfahren Sie, wie das MCP Feedback Tool funktioniert
 * Erfahren Sie, wie Sie Adobe von der IDE Feedback geben können
 
->[!VIDEO](https://video.tv.adobe.com/v/3481315?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
