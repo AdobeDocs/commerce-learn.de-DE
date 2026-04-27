@@ -44,7 +44,7 @@ Learn why you use the pt-query-digest and some real-world examples to help deepe
 * Learn about the benefits and shortcomings of this Percona Toolkit feature
 * Understand the results and learn what possible performance steps should be considered
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452303?captions=ger&learn=on)
 
 ## Code references
 

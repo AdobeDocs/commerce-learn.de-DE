@@ -53,7 +53,7 @@ In diesem Video:
 >
 >This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/35709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432512?captions=ger&learn=on)
 
 ## Nützliche Ressourcen
 

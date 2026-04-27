@@ -54,4 +54,4 @@ Nahtlose Integration mit Adobe Experience Cloud-Produkten zur Erstellung persona
 * Erhöhte Kundeninteraktion und Kundenloyalität
 * Nahtlose Integration und einheitliche Kundenansicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433578?captions=ger&learn=on)

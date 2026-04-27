@@ -52,4 +52,4 @@ Extensibility tools such as API Mesh and unified event management streamline dev
 * Adobe Commerce offers Composable Services such as live search, AI recommendations, and flexible payment solutions.
 * Advanced Integration including API Mesh, unified event management, and seamless Adobe Experience Platform integration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433444?captions=ger&learn=on)

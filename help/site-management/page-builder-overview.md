@@ -56,7 +56,7 @@ In this video, learn how to:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447903?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

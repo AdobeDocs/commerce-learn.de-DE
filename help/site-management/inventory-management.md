@@ -45,7 +45,7 @@ Merchants with a single store to multiple warehouses, stores, pickup locations, 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411976?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

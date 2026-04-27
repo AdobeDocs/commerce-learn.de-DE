@@ -47,7 +47,7 @@ Learn how to create a support ticket within Experience League for Adobe Commerce
 * Lean how the recommended articles change depending on what information was used in the form
 * Understanding how the placeholder text found in the form fields helps with understanding the type of information needed for a good support request
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449562?captions=ger&learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 

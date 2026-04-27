@@ -48,7 +48,7 @@ Customer segments allow you to dynamically display content and promotions to spe
 * Build segments from customer attributes, orders, and cart data.
 * Connect segments to promotions and cart price rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411974?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

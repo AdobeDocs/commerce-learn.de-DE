@@ -46,4 +46,4 @@ Learn how to create custom alerts in New Relic for monitoring website traffic an
 * Understanding how thresholds for alerts can be set based on data aggregation.
 * Configure alerts with severity levels and assigned to existing policies to control notification workflows and destinations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440780?captions=ger&learn=on)

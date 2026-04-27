@@ -55,7 +55,7 @@ With the required permissions for their role, B2B customers can set up approval 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411353?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 
