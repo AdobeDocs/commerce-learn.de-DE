@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer vollständigen Demo zu aufgeteilten Zahlungen - POC: App Builder
 
-Dies ist die durchgängige Anleitung zum Machbarkeitsnachweis für die Aufspaltung von Zahlungen, der auf Adobe Commerce und Adobe App Builder basiert. In der Demo wird davon ausgegangen, dass Sie bereits KI-Tools verwendet haben, und eine Eingabeaufforderung angezeigt, um die im Prozess befindliche Commerce-Erweiterung und die App Builder-App zu erstellen. In diesem Video wird gezeigt, was passiert, nachdem dieser Code zusammengeführt, in Commerce in der Cloud (Luma) bereitgestellt und das App Builder-Projekt live ist.
+Dies ist die durchgängige Anleitung zum Machbarkeitsnachweis für die Aufspaltung von Zahlungen, der auf Adobe Commerce und Adobe App Builder basiert. In der Demo wird davon ausgegangen, dass Sie bereits KI-Tools verwendet haben, und eine Eingabeaufforderung angezeigt, um die im Prozess befindliche Commerce-Erweiterung und die App Builder-App zu erstellen. In diesem Video wird gezeigt, was passiert, nachdem dieser Code zusammengeführt, auf einer Adobe Commerce Cloud-Website unter Verwendung des nativen Luma-Designs bereitgestellt und das App Builder-Projekt live ist.
 
 Ein Käufer zahlt mit Teil-Bargeld und Teil-**[!UICONTROL Store Credit]**. Commerce verfügt über das synchrone Auschecken und die APIs, die die Storefront benötigt. App Builder übernimmt die Orchestrierung, Benutzer-Workflows und I/O-Ereignisnutzer. Die Referenzimplementierung verwendet ein Commerce-Projekt (PaaS) und die native Kasse von Luma anstelle einer Edge Delivery Services-Storefront, die immer noch ein häufiger Pfad für viele Händler ist. Wenn Sie **Adobe Commerce as a Cloud Service** in einer anderen Topologie verwenden, bleibt der App Builder-Code ähnlich, aber Storefront und laufende Arbeit würden anders aussehen. Für On-Premise, Self-Hosting und Commerce in der Cloud auf Luma zeigt dieses Video eine praktische Aufteilung zwischen Prozesscode und App Builder für neue Funktionen.
 
