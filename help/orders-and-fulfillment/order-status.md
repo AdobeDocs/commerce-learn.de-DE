@@ -47,5 +47,5 @@ Wenn ein Kunde eine Bestellung aufgibt, wird ein Kundenauftrag als temporärer D
 
 ## Zusätzliche Ressourcen
 
-* [Bestellung verarbeiten - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-* [Bestellstatus - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+* [Bestellung verarbeiten - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=de#process-an-order)
+* [Bestellstatus - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=de)

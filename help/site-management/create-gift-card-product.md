@@ -340,6 +340,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Zusätzliche Ressourcen
 
-* [Create a gift card product from the Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Create a gift card product from the Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=de){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

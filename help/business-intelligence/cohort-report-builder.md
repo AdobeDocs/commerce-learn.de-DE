@@ -51,7 +51,7 @@ In diesem Video:
 
 >[!TIP]
 >
->If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -64,6 +64,6 @@ In diesem Video:
 
 ## Nützliche Ressourcen
 
-[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=de)
 
-[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=de)

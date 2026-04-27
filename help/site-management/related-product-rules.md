@@ -50,4 +50,4 @@ Mit Regeln für verwandte Produkte können Sie die Auswahl von Produkten auswäh
 
 ## Zusätzliche Ressourcen
 
-[Verwandte Produktregeln - Handbuch  [!DNL Commerce] Merchandising und Werbeaktionen“](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Verwandte Produktregeln - Handbuch  [!DNL Commerce] Merchandising und Werbeaktionen“](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=de)

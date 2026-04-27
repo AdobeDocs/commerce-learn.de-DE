@@ -51,4 +51,4 @@ Gewinnen Sie ein Verständnis dafür, wie Sie den Adobe Commerce-Warenkorb ableg
 
 ## Zusätzliche Dokumentation
 
-* [Konfigurieren der Warenkorbzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Konfigurieren der Warenkorbzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=de)

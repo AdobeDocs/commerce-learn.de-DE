@@ -50,4 +50,4 @@ Erfahren Sie Beispiele für die Anpassung der Edge Delivery Services-Warenkorbab
 
 ## Zusätzliche Dokumentation
 
-* [Mehrstufiger Gast-Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Mehrstufiger Gast-Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=de)

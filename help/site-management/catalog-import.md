@@ -46,7 +46,7 @@ Choose from one of the options below to learn more.
 
 ## Creating the products manually {#manual-import}
 
-If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. To see additional documentation for this process, visit [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. To see additional documentation for this process, visit [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=de){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=de){target="_blank"}.
 
 ### When to consider this approach
 
@@ -61,7 +61,7 @@ If you have a limited catalog and updates are infrequent, creating them manually
 ## Admin CSV Import Tool {#admin-csv}
 
 Mit diesem Tool kann ein Store-Inhaber einen Katalog mithilfe einer CSV-Datei direkt vom Commerce-Administrator importieren.
-[Daten von Commerce Admin importieren](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Daten von Commerce Admin importieren](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=de){target="_blank"}
 
 Vorteile:
 Das Hochladen einer CSV-Datei von der Administratorin bzw. dem Administrator ist ein unkomplizierter Ansatz für die Katalogverwaltung. Dies ermöglicht schnellere Katalogproduktaktualisierungen auf einen Katalog mittlerer Größe.
@@ -155,6 +155,6 @@ Nachteile:
 ## Zusätzliche Ressourcen
 
 * [Daten mit der neuen REST-CSV importieren](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-* [Versionshinweise zu Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+* [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=de){target="_blank"}
+* [Versionshinweise zu Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=de){target="_blank"}
 * [Benutzer, Rollen und Berechtigungen](../site-management/users-roles-permissions.md){target="_blank"}

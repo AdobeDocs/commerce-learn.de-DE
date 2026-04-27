@@ -48,4 +48,4 @@ Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine le
 
 ## Zusätzliche Ressourcen
 
-[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}

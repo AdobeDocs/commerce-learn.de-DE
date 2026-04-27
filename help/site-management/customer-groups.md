@@ -50,5 +50,5 @@ Kundengruppen bestimmen, welche Rabatte verfügbar sind und welche Steuerklasse 
 
 ## Zusätzliche Ressourcen
 
-* [Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=de)
 * [Einschränkungen bei Kundengruppen nach Websites - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

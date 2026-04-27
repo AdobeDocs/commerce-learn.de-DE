@@ -103,4 +103,4 @@ After you ssh into the right project and environment, change into the `var/log` 
 
 ## Verwandte Dokumentation
 
-* [Health notifications](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Health notifications](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

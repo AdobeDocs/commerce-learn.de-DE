@@ -49,5 +49,5 @@ Merchants with a single store to multiple warehouses, stores, pickup locations, 
 
 ## Zusätzliche Ressourcen
 
-* [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=de)
 * [Inventory Management - Developer REST documentation](https://developer.adobe.com/commerce/webapi/rest/inventory/)

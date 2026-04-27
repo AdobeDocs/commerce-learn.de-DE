@@ -58,4 +58,4 @@ Projektmanager, die den Fortschritt von Entwicklungsaufgaben verfolgen und die t
 
 ## Zusätzliche Dokumentation
 
-* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=de)

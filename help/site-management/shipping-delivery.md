@@ -49,6 +49,6 @@ Die Verwaltung Ihrer Versand- und Versandmethoden ist entscheidend, um sicherzus
 
 ## Zusätzliche Ressourcen
 
-* [Versandeinstellungen - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-* [Grundlegende Versandmethoden - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-* [Einrichtung von Spediteuren - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+* [Versandeinstellungen - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=de)
+* [Grundlegende Versandmethoden - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=de#basic-delivery-methods)
+* [Einrichtung von Spediteuren - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=de)

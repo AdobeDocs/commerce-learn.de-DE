@@ -52,5 +52,5 @@ Für kleine Unternehmen, Mitbewerber oder große Unternehmen tragen die Payment 
 
 ## Zusätzliche Ressourcen
 
-* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=de)
+* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de)

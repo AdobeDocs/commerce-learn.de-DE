@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -49,5 +49,5 @@ Die Verwendung von Vorlagen spart Ihnen Zeit und Mühe bei der Erstellung von In
 
 ## Zusätzliche Ressourcen
 
-* [[!DNL Page Builder] -  [!DNL Page Builder] -Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [[!DNL Page Builder] -  [!DNL Page Builder] -Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=de)
 * [Vorlagen hinzufügen -  [!DNL Page Builder] -Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

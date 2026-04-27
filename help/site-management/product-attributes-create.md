@@ -50,6 +50,6 @@ Adobe Commerce verwendet Attribute, um die mit Produkten, Kunden und Produktbewe
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=de)
 
-[Attributsätze - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Attributsätze - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=de)

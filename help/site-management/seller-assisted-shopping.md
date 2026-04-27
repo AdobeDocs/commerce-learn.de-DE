@@ -50,5 +50,5 @@ Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden ka
 
 ## Zusätzliche Ressourcen
 
-* [Kundenunterstützung bereitstellen - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-* [Shopping-Hilfe - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+* [Kundenunterstützung bereitstellen - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=de)
+* [Shopping-Hilfe - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=de#shopping-assistance)

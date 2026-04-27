@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -51,5 +51,5 @@ Mit dem URL Rewrite-Tool können Sie jede URL ändern, die mit einem Produkt, ei
 
 ## Zusätzliche Ressourcen
 
-* [URL-Neuschreibungen - [!DNL Commerce] - und Werbeaktionen-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-* [Allgemein > Web - [!DNL Commerce] -Konfigurationshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [URL-Neuschreibungen - [!DNL Commerce] - und Werbeaktionen-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=de)
+* [Allgemein > Web - [!DNL Commerce] -Konfigurationshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=de)

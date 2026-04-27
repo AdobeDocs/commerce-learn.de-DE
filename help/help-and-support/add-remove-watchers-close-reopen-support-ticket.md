@@ -45,4 +45,4 @@ Erfahren Sie, wie Sie in Experience League for Adobe Commerce Beobachter hinzuf√
 
 ## Handbuch zum Commerce Knowledge Base-Hilfezentrum
 
-[Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

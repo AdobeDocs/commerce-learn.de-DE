@@ -12,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: https://experienceleague.adobe.com/3WWSsHmsfF43uVGqXj0BXnO5azlCKtzuVIZTOEMz42E
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -52,5 +52,5 @@ Die Organisation Ihrer Produkte in Kategorien ist der Schlüssel zur Verwaltung 
 
 ## Zusätzliche Ressourcen
 
-* [Kategorieproduktzuweisungen -  [!DNL Commerce] -Handbuch für das Katalogmanagement](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-* [Kategorieregeln für Merchandising - Handbuch  [!DNL Commerce]  Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+* [Kategorieproduktzuweisungen -  [!DNL Commerce] -Handbuch für das Katalogmanagement](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=de)
+* [Kategorieregeln für Merchandising - Handbuch  [!DNL Commerce]  Merchandising und Promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html?lang=de)

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -50,5 +50,5 @@ Ein Block ist eine modulare Inhaltseinheit, die sich am meisten an einer beliebi
 
 ## Zusätzliche Ressourcen
 
-* [Bausteine - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-* [Dynamische Bausteine -  [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [Bausteine - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=de)
+* [Dynamische Bausteine -  [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=de)
