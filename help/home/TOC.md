@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
       + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
       + [Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+      + [Erstellen einer vollständigen Demo zu aufgeteilten Zahlungen - POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools {#custom-shipping-rates-ai-tools}
          + [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -199,83 +200,81 @@ ht-degree: 3%
    + [Support-Ticket suchen, verfolgen, kommentieren und eskalieren](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Beobachter hinzufügen und entfernen, Ticket schließen und erneut öffnen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Store Administration {#admin}
-   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
-   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
-   + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
-   + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
-   + [Change a Store URL](../site-management/change-store-url.md)
-   + [Reset the admin URI](../site-management/reset-admin-uri.md)
-   + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
-   + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
-   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
++ Store-Administration {#admin}
+   + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
+   + [Zwei-Faktor-Authentifizierung](../site-management/two-factor-authentication.md)
+   + [Währungs- und Steuerregeln verwalten](../site-management/currency-tax-rules.md)
+   + [Hinzufügen von Websites, Stores und Store-Ansichten](../site-management/add-websites-stores-views.md)
+   + [Ändern der Store-URL](../site-management/change-store-url.md)
+   + [Admin-URI zurücksetzen](../site-management/reset-admin-uri.md)
+   + [Versand- und Liefermethoden](../site-management/shipping-delivery.md)
+   + [Admin-Raster und -Filter](../site-management/admin-grids-and-filters.md)
+   + [COMMERCE CLI](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce Services {#adobe-commerce-services}
-      + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
-      + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
-      + [Use Payment Services](../site-management/payment-services.md)
-+ Customer Management {#customers}
-   + [Create Customer Segments](../site-management/customer-segments.md)
-   + [Create Customer Groups](../site-management/customer-groups.md)
-   + [Create Customer Attributes](../site-management/customer-attributes.md)
-   + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
-+ Catalog Management {#catalog}
-   + [Create a Category](../site-management/category-create.md)
-   + [Manage Products in a Category](../site-management/category-products.md)
-   + [Inventory Management](../site-management/inventory-management.md)
-   + [Create Product Attributes](../site-management/product-attributes-create.md)
-   + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
-   + [Manage SEO Metadata](../site-management/seo-metadata.md)
-   + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
-   + [AR Viewer](../site-management/augmented-reality.md)
-   + [Catalog Import and update](../site-management/catalog-import.md)
-+ Content Management {#content}
-   + [Page Builder Overview](../site-management/page-builder-overview.md)
-   + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
-   + [Create Widgets](../site-management/widgets.md)
-   + [Use Content Templates](../site-management/content-templates.md)
-   + [Content Staging](../site-management/content-staging.md)
-   + [Manage the Media Gallery](../site-management/media-gallery.md)
-+ Marketing Tools {#marketing}
-   + [Create Catalog Price Rules](../site-management/catalog-price-rules.md)
-   + [Create Cart Price Rules](../site-management/cart-price-rules.md)
-   + [Manage Related Product Rules](../site-management/related-product-rules.md)
-   + [Set Up Product Recommendations](../site-management/product-recommendations.md)
-   + [Introduction to Live Search](../site-management/live-search.md)
-   + [Live Search for recommendations](../site-management/live-search-recommendations.md)
-   + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
-+ Orders and Fulfillment {#orders}
+      + [Konfigurieren des Commerce Services-Connectors](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Konfigurieren von Zahlungsdiensten](../site-management/configure-adobe-payment-services.md)
+      + [Verwenden von Zahlungsdiensten](../site-management/payment-services.md)
++ Kundenverwaltung {#customers}
+   + [Kundensegmente erstellen](../site-management/customer-segments.md)
+   + [Erstellen von Kundengruppen](../site-management/customer-groups.md)
+   + [Kundenattribute erstellen](../site-management/customer-attributes.md)
+   + [verkäuferunterstütztes Einkaufen](../site-management/seller-assisted-shopping.md)
++ Katalogverwaltung {#catalog}
+   + [Erstellen einer Kategorie](../site-management/category-create.md)
+   + [Produkte in einer Kategorie verwalten](../site-management/category-products.md)
+   + [Inventory management](../site-management/inventory-management.md)
+   + [Produktattribute erstellen](../site-management/product-attributes-create.md)
+   + [Verwenden von Produktattributen mit PWA Studio](../site-management/product-attributes-pwa.md)
+   + [Verwalten von SEO-Metadaten](../site-management/seo-metadata.md)
+   + [Verwalten von URL-Neuschreibungen für SEO](../site-management/seo-url-rewrites.md)
+   + [AR-Viewer](../site-management/augmented-reality.md)
+   + [Katalogimport und -aktualisierung](../site-management/catalog-import.md)
++ Content-Management {#content}
+   + [Übersicht zu Page Builder](../site-management/page-builder-overview.md)
+   + [Erstellen von statischen und dynamischen Blöcken](../site-management/static-dynamic-blocks.md)
+   + [Erstellen von Widgets](../site-management/widgets.md)
+   + [Verwenden von Inhaltsvorlagen](../site-management/content-templates.md)
+   + [Inhalts-Staging](../site-management/content-staging.md)
+   + [Verwalten der Mediensammlung](../site-management/media-gallery.md)
++ Marketing-Tools {#marketing}
+   + [Erstellen von Katalogpreisregeln](../site-management/catalog-price-rules.md)
+   + [Erstellen von Regeln für Warenkorbpreise](../site-management/cart-price-rules.md)
+   + [Verwalten verwandter Produktregeln](../site-management/related-product-rules.md)
+   + [Produktempfehlungen einrichten](../site-management/product-recommendations.md)
+   + [Einführung in die Live-Suche](../site-management/live-search.md)
+   + [Live Search nach Empfehlungen](../site-management/live-search-recommendations.md)
+   + [Integrieren von Commerce mit AJO](../site-management/integrate-commerce-ajo.md)
++ Bestellungen und Erfüllung {#orders}
    + [Verwalten des Bestellstatus](../orders-and-fulfillment/order-status.md)
-   + [Checking Inventory Status](../orders-and-fulfillment/checking-inventory-status.md)
-+ B2B for Adobe Commerce {#b2b}
-   + [Manage Company Accounts](../b2b/company-accounts.md)
-   + [Manage Shared Catalogs](../b2b/shared-catalogs.md)
-   + [Manage Company Credit](../b2b/company-credit.md)
-   + [Purchase Orders and Approvals](../b2b/purchase-orders.md)
-   + Quote {#b2b-quote}
-      + [Sales Representative initiates quote](../b2b/sales-rep-initiates-quote.md)
-      + [Quote validation from admin](../b2b/quote-validation-admin-panel.md)
-      + [Sales Representative initiates quote REST API](../b2b/sales-rep-initiates-quote-api.md)
-      + [Quote line item discounts](../b2b/quote-line-item-discount.md)
-      + [Quote line item notes](../b2b/quote-line-item-notes.md)
-      + [Quote line item discount GraphQL](../b2b/quote-graphql-line-item-discount.md)
-      + [Quote line item discount REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ Tools and External services {#tools}
-   + [Site-Wide Analysis Tool Dashboard](../tools/site-wide-analysis-tool.md)
-   + [Cloud Automation Patching Service](../tools/cloud-automation-patching-service.md)
+   + [Überprüfen des Inventarstatus](../orders-and-fulfillment/checking-inventory-status.md)
++ B2B für Adobe Commerce {#b2b}
+   + [Verwalten von Unternehmenskonten](../b2b/company-accounts.md)
+   + [Verwalten freigegebener Kataloge](../b2b/shared-catalogs.md)
+   + [Firmenkredite verwalten](../b2b/company-credit.md)
+   + [Bestellungen und Genehmigungen](../b2b/purchase-orders.md)
+   + Zitat {#b2b-quote}
+      + [Vertriebsmitarbeiter startet Angebot](../b2b/sales-rep-initiates-quote.md)
+      + [Angebotsvalidierung durch Administrator](../b2b/quote-validation-admin-panel.md)
+      + [Vertriebsmitarbeiter initiiert Angebot-REST-API](../b2b/sales-rep-initiates-quote-api.md)
+      + [Preisnachlässe bei Angebotspositionen](../b2b/quote-line-item-discount.md)
+      + [Notizen zu Angebotspositionen](../b2b/quote-line-item-notes.md)
+      + [Preisnachlass für Angebotspositionen GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [Preisnachlass-REST-API für Angebotspositionsartikel](../b2b/quote-rest-api-line-item-notes.md)
++ Tools und externe Services {#tools}
+   + [Dashboard des Site-Wide Analysis Tool](../tools/site-wide-analysis-tool.md)
+   + [Cloud-Automatisierung - Patch-Service](../tools/cloud-automation-patching-service.md)
    + [Beobachtung für Adobe Commerce](../tools/observation-tool.md)
    + [Quality Patch-Tool](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
-      + [Locating a malicious IP](../new-relic/malicious-ip.md)
-      + [Alert notification setup](../new-relic/new-relic-alert-notification-setup.md)
-      + [Custom alerts](../new-relic/custom-alerts.md)
+      + [Finden bösartiger IP-Adressen](../new-relic/malicious-ip.md)
+      + [Setup für Warnhinweise](../new-relic/new-relic-alert-notification-setup.md)
+      + [Benutzerdefinierte Warnhinweise](../new-relic/custom-alerts.md)
 + Commerce Intelligence {#mbi}
    + [Erste Schritte](../business-intelligence/getting-started.md)
-   + [Integrations and configurations](../business-intelligence/integrations-configurations.md)
-   + [Reports and dashboards](../business-intelligence/reports-and-dashboards.md)
-   + [Filter Sets](../business-intelligence/filter-sets.md)
-   + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [Integrationen und Konfigurationen](../business-intelligence/integrations-configurations.md)
+   + [Berichte und Dashboards](../business-intelligence/reports-and-dashboards.md)
+   + [Filtersätze](../business-intelligence/filter-sets.md)
+   + [Kohorte Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
-
-
 
