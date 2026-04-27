@@ -12,12 +12,24 @@ last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
 TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2: id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 1982
@@ -41,7 +53,7 @@ Eine weitere Überlegung betrifft die Kosten für die Entwicklung, das Testen un
 
 Versuchen Sie, Inventarprüfungen und deren Durchführung in drei Ansätzen in Betracht zu ziehen. Jede hat ihre Vorteile und Einschränkungen. Sie sind außerdem komplexer und erfordern mehr Tests und Nachdenken bei der Fehlerbehandlung. Denken Sie daran, dass es bei der Entscheidung für eine benutzerdefinierte Route zusätzliche Zuständigkeiten und Überlegungen gibt. Einige Beispiele sind ein Fallback-Prozess, Überwachung, Tests und Fehlerbehebung, die an das Entwicklungs-Team weitergeleitet werden. Einige gute Elemente sind die neue unterstützende Dokumentation, Schulung und Überwachung, um sicherzustellen, dass das Entwicklungs-Team die gesamte Funktion unterstützen kann. Ein zusätzlicher Nebeneffekt besteht darin, dass das Entwicklungs-Team die Verantwortung für den Prozess vollständig trägt und nicht mehr die native Funktionalität nutzt, die vom zentralen Adobe Commerce-Programm bereitgestellt wird. Der Adobe-Support kann bei diesem Anpassungsgrad nicht behilflich sein.
 
-Der erste Ansatz besteht in der Verwendung der nativen -Funktion. Die Verwendung nativer Funktionen ist mit geringstem Risiko verbunden und bietet viele Vorteile. Dieser Ansatz bedeutet, dass Sie sich bei der Verwendung der Funktion auf die gesamte vorhandene Dokumentation und die von Adobe Commerce bereitgestellten Tutorials verlassen können. Die Bestandsverwaltung umfasst viele Aspekte. Daher sollte zuerst berücksichtigt werden, was im Lieferumfang der Anwendung enthalten ist. Es gibt jedoch Anwendungsfälle, in denen die im Handel zum Zeitpunkt der Bestellung gefundenen Daten möglicherweise nicht vollständig korrekt sind. Ein Beispiel dafür, wie die Dinge aus dem Takt geraten können, ist, dass Verkäufe außerhalb der Adobe Commerce-Anwendung direkt im Auftragsverwaltungssystem erlaubt sind. Ein Grund dafür ist, dass es, um sicherzustellen, dass die korrekten Inventarebenen in Adobe Commerce dargestellt werden, einer gewissen Integration bedarf, damit die Adobe Commerce-Informationen so genau wie möglich sind. Wenn Überverkäufe nicht akzeptabel sind, dann ist das Hinzufügen eines Schwellenwerts für nicht vorrätige Artikel eine gute Methode, den Verkauf von Artikeln zu stoppen, bevor Sie auf null kommen. Die native Synchronisierungsfunktion für Adobe Commerce beträgt maximal 1 Mal pro Tag. Dies ist für einige Anwendungsfälle ausreichend, kann aber für andere nicht häufig genug sein. Weitere Informationen finden [ unter „Geplanter Import ](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) Export“.
+Der erste Ansatz besteht in der Verwendung der nativen -Funktion. Die Verwendung nativer Funktionen ist mit geringstem Risiko verbunden und bietet viele Vorteile. Dieser Ansatz bedeutet, dass Sie sich bei der Verwendung der Funktion auf die gesamte vorhandene Dokumentation und die von Adobe Commerce bereitgestellten Tutorials verlassen können. Die Bestandsverwaltung umfasst viele Aspekte. Daher sollte zuerst berücksichtigt werden, was im Lieferumfang der Anwendung enthalten ist. Es gibt jedoch Anwendungsfälle, in denen die im Handel zum Zeitpunkt der Bestellung gefundenen Daten möglicherweise nicht vollständig korrekt sind. Ein Beispiel dafür, wie die Dinge aus dem Takt geraten können, ist, dass Verkäufe außerhalb der Adobe Commerce-Anwendung direkt im Auftragsverwaltungssystem erlaubt sind. Ein Grund dafür ist, dass es, um sicherzustellen, dass die korrekten Inventarebenen in Adobe Commerce dargestellt werden, einer gewissen Integration bedarf, damit die Adobe Commerce-Informationen so genau wie möglich sind. Wenn Überverkäufe nicht akzeptabel sind, dann ist das Hinzufügen eines Schwellenwerts für nicht vorrätige Artikel eine gute Methode, den Verkauf von Artikeln zu stoppen, bevor Sie auf null kommen. Die native Synchronisierungsfunktion für Adobe Commerce beträgt maximal 1 Mal pro Tag. Dies ist für einige Anwendungsfälle ausreichend, kann aber für andere nicht häufig genug sein. Weitere Informationen finden [&#x200B; unter „Geplanter Import &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) Export“.
 
 Der zweite Ansatz wäre `near real-time`. Beinahe in Echtzeit verwendet weiterhin die native Funktionalität. Dazu gehören jedoch einige zusätzliche Arbeiten zur Bereitstellung einer Integration, die Commerce häufig nutzt, um seinen Bestand nach einem Zeitplan zu aktualisieren. Zum Beispiel jede Stunde. Diese Option erfordert einige Überlegungen dazu, wie eine Integration funktionieren könnte, aber die Verwendung der „Bulk-API“ und die Bereitstellung von Middleware zur Umwandlung der Daten und deren Übertragung auf den Handel ist ein großartiger Ansatz. Sehen Sie sich die Verwendung von Adobe App Builder oder ähnlichen Plattformen an, um den Großteil der Arbeit zu erledigen und die Informationen häufiger an Adobe Commerce zu übertragen.
 

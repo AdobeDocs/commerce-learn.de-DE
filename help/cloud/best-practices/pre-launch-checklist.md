@@ -11,12 +11,25 @@ last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 2365
@@ -43,9 +56,9 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 1. Lesen Sie die Dokumentation zum Testen und zur Live[Schaltung (Dokumentation zum Site-Launch](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar den Schwerpunkt auf die Best Practices von Adobe legt _**jedoch**_ ersetzt (nicht), dass Sie einen eigenen Plan für die Live-Schaltung benötigen.
+   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar den Schwerpunkt auf die Best Practices von Adobe legt _&#x200B;**jedoch**&#x200B;_ ersetzt (nicht), dass Sie einen eigenen Plan für die Live-Schaltung benötigen.
 
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[ (Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
+2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[&#x200B; (Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Bestätigen, dass Endbenutzer und Händler UAT (User Acceptance Testing) abgeschlossen haben, einschließlich Backend-Vorgänge.
 4. Bestätigen Sie, dass das Systemintegrator-Team End-to-End-UAT für Staging und Produktion durchgeführt hat. Weitere Informationen finden Sie in der Dokumentation zu [Experience League](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Bestätigen der Bereitstellung und des Testens von Code in Staging- und Produktionsumgebungen ([mehr dazu](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"})
@@ -54,7 +67,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 ## &#x200B;2. Aktuelle Konfigurationen
 
 1. Aktualisieren von Adobe Commerce und zugehörigen Paketen/Services auf die [neueste Version](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview){target="_blank"}
-2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [ Sie die Best Practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
+2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [&#x200B; Sie die Best Practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
 3. Überprüfen Sie MySQL/Shared-Files [Festplattenauslastung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space){target="_blank"}
 
 ## &#x200B;3. Fastly-Konfigurationen
@@ -63,12 +76,12 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 2. Verwenden Sie gegebenenfalls die GET-Methode für GraphQL-Abfragen auf PWA-/Headless-Websites.
 
    >[!NOTE]
-   > Nur die mit einem HTTP-GET-Vorgang gesendeten Abfragen können zwischengespeichert werden (falls zutreffend). [POST-Abfragen können nicht zwischengespeichert ](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
+   > Nur die mit einem HTTP-GET-Vorgang gesendeten Abfragen können zwischengespeichert werden (falls zutreffend). [POST-Abfragen können nicht zwischengespeichert &#x200B;](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
 
 3. Stellen Sie sicher, dass Fastly Image Optimization aktiviert ist [siehe Fastly Image Optimization](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Stellen Sie sicher, dass der richtige Shield-Speicherort konfiguriert ist ([Konfigurieren des Cache, der Backends und der Ursprungsabschirmung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Bestätigen Sie, dass die Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen.)
-6. Aktualisieren Sie die Liste „Ignorierte URL](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly [ im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
+5. Bestätigen Sie, dass die Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen.)
+6. Aktualisieren Sie die Liste „Ignorierte URL[&#128279;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly  im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
 
    >[!NOTE]
    > In der Fastly-Konfiguration unter _Admin > Stores > Konfigurationen > System > Vollständiger Seiten-Cache > Fastly-Konfiguration > Erweiterte Konfiguration > Ignorierte URL-Parameter (global)_ finden Sie eine kommagetrennte Liste von Parametern, die Fastly bei der Suche nach zwischengespeicherten Seiten ignorieren sollte. Laden Sie die VCL erneut hoch, nachdem Sie diese Liste geändert haben.
@@ -93,7 +106,7 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
 * [Galera-Clusterreplikation und Flusskontrolle](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (tiefer gehende Analyse)
 
 1. [MySQL-Slave-Verbindung](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} wird empfohlen, um die Leistung bei hohen Datenbanklasten zu verbessern.
-2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
+2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
 3. Ändern Sie die Datenbank-Speicher-Engine von [MyISAM zu InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} für alle Tabellen.
 4. Überprüfen und optimieren Sie Datenbanktabellen mit einer Größe von mehr als 1 GB rechtzeitig im Voraus.
 5. The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
