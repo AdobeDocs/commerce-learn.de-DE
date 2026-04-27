@@ -11,9 +11,14 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: 325
 ht-degree: 0%
 
 ---
@@ -65,7 +70,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [&#x200B; unter &#x200B;](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
+>Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [ unter ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
 >BITTE BEACHTEN SIE: Damit dieser Beispielcode funktioniert, müssen Sie die setup_version einbeziehen, sonst wird InstallData.php nicht ausgeführt.
 
 
@@ -236,4 +241,4 @@ class InstallData implements InstallDataInterface
 
 ## Nützliche Ressourcen
 
-[Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Hinzufügen eines benutzerdefinierten Textfeldattributs](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

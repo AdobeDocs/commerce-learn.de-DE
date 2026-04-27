@@ -1,38 +1,43 @@
 ---
-title: Technische Bereitschaft für Erfolgsbeschleuniger
-description: Erfahren Sie mehr über die technische Bereitschaft von Commerce Success Accelerator, die Prüfung von Lösungen, die Ereignisplanung und das 24-Stunden-Monitoring, um eine optimale Leistung zu erzielen.
+title: Success Accelerators Technical Readiness
+description: Learn about Commerce Success Accelerator Technical readiness, solution review, event planning, and 24/7 monitoring for optimal performance.
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 193
-last-substantial-update: 2025-04-16T00:00:00Z
+last-substantial-update: 2025-04-16T00:00:00.000Z
 jira: KT-17804
 exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/DqEkA5ovp9TzEVc9ga2FjBbQ8C3XxtbEp988Fo4OAVg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 151
 ht-degree: 0%
 
 ---
 
-# Technische Bereitschaft für Erfolgsbeschleuniger
+# Success Accelerators technical readiness
 
-Adobe Commerce Success Accelerators umfassen Services wie technische Bereitschaft, die Launch-Beratung, Upgrade-/Migrationsbereitschaft, Umgebungsprüfung und Fehlerbehebung bei Lösungen umfassen. Darüber hinaus bieten sie Lösungs- und Anpassungsüberprüfungen an, um die Produktnutzung und -leistung zu verbessern. Services zur Ereignisplanung und -überwachung bieten Anleitung und rund um die Uhr Support für kritische Kampagnen und Produkteinführungen und gewährleisten so eine optimale Leistung und proaktive Identifizierung von Problemen. Diese Accelerators zielen darauf ab, die Effektivität und Akzeptanz von Adobe Commerce-Produkten zu maximieren
+Adobe Commerce Success Accelerators include services like technical readiness, which covers launch advisory, upgrade/migration readiness, environment review, and solution troubleshooting. Additionally, they offer solution and adoption reviews to enhance product usage and performance. Event planning and monitoring services provide guidance and 24/7 support for critical campaigns and product launches, ensuring optimal performance and proactive issue identification. These accelerators aim to maximize the effectiveness and adoption of Adobe Commerce products
 
 ## Für wen ist dieses Video bestimmt?
 
 * E-Commerce-Manager
-* Technische Leads
+* Technical Leads
 * Projektmanager
-* Support-Experten
+* Customer Support Specialists
 * Wirtschaftsanalysten
 
 ## Videoinhalt {#video-content}
 
-* Launch Advisory, Upgrade/Migration Readiness und Umgebungsprüfung.
-* Anleitung nach der Implementierung zur Lösung von Problemen außerhalb des regulären Kunden-Supports
-* Produktnutzung, -leistung und allgemeine Akzeptanz.
-* Anleitung und 24/7-Support für kritische Kampagnen und Produkteinführungen.
+* Launch advisory, upgrade/migration readiness, and environment review.
+* Post-implementation guidance for resolving issues outside regular customer support.
+* Product usage, performance, and overall adoption.
+* Guidance and 24/7 support for critical campaigns and product launches.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)

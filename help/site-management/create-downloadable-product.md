@@ -6,15 +6,21 @@ doc-type: video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2023-11-16T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: 631
 ht-degree: 0%
 
 ---
@@ -31,7 +37,7 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladb
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3453955?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Zulässige herunterladbare Domains
 
@@ -45,7 +51,7 @@ Sie müssen angeben, welche Domains Downloads zulassen dürfen. Domains werden �
 
 Um die Domain festzulegen, stellen Sie eine Verbindung mit dem Server her: `bin/magento downloadable:domains:add www.example.com`
 
-Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _downloadable_domains_ geändert.
+Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _downloadable_ domains_ geändert.
 
 ```php
     'downloadable_domains' => [
@@ -55,7 +61,7 @@ Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _download
 
 Nachdem die Domain der `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains)Konfigurationsreferenz“.
+Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)Konfigurationsreferenz“.
 
 >[!IMPORTANT]
 >In einigen Versionen von Adobe Commerce wird möglicherweise die folgende Fehlermeldung angezeigt, wenn ein Produkt in der Admin-Abteilung von Adobe Commerce bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, aber der verknüpfte Download hat einen `null` Preis.
@@ -64,7 +70,7 @@ Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.ado
 
 Um diesen Fehler zu beheben, verwenden Sie die Update-Link-API: `POST V1/products/{sku}/downloadable-links.`
 
-Weitere Informationen finden [&#x200B; im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
+Weitere Informationen finden [ im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
 
 ## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Download vom Remote-Server)
 
@@ -117,7 +123,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Dieses Beispiel zeigt, wie Sie mit cURL ein herunterladbares Produkt vom Adobe Commerce Admin erstellen können, wenn die Datei auf demselben Server wie die Adobe Commerce-Anwendung gespeichert wird.
 
-In diesem Anwendungsfall wird die Datei in das `upload file`-Verzeichnis übertragen, wenn der Administrator, der den Katalog verwaltet, `pub/media/downloadable/files/links/` auswählt.  Die Automatisierung erstellt die Dateien und verschiebt sie an ihre jeweiligen Speicherorte anhand des folgenden Musters:
+In diesem Anwendungsfall wird die Datei in das `pub/media/downloadable/files/links/`-Verzeichnis übertragen, wenn der Administrator, der den Katalog verwaltet, `upload file` auswählt.  Die Automatisierung erstellt die Dateien und verschiebt sie an ihre jeweiligen Speicherorte anhand des folgenden Musters:
 
 * Jede hochgeladene Datei wird in einem Ordner gespeichert, der auf den ersten beiden Zeichen des Dateinamens basiert.
 * Wenn der Upload gestartet wird, erstellt das Commerce-Programm vorhandene Ordner oder verwendet sie, um die Datei zu übertragen.
@@ -182,7 +188,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Aktualisieren des Produkts mit Postman {#update-downloadable-links}
 
-Verwenden des Endpunkt-`rest/all/V1/products/{sku}/downloadable-links`
+Verwenden des Endpunkts `rest/all/V1/products/{sku}/downloadable-links`
 Die `SKU` ist die Produkt-ID, die beim Erstellen des Produkts generiert wurde. Im folgenden Codebeispiel ist es beispielsweise die Zahl 39. Stellen Sie jedoch sicher, dass sie aktualisiert wird, um die ID aus Ihrer Website zu verwenden. Dadurch werden die Links für die herunterladbaren Produkte aktualisiert.
 
 ```json
@@ -237,7 +243,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Zusätzliche Ressourcen
 
-* [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=de){target="_blank"}
-* [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains){target="_blank"}
+* [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

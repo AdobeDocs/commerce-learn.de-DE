@@ -7,12 +7,18 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2024-12-17T00:00:00Z
+last-substantial-update: 2024-12-17T00:00:00.000Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/oZUaAnDWr0pokSxhOV75wZzzXWgb9SLMLQMDBjwq6do
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: 196
 ht-degree: 0%
 
 ---
@@ -36,8 +42,8 @@ Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und 
 * Erfahren Sie, wie Sie einen für die Warenkorbzusammenfassung gespeicherten Gesamtbetrag einbeziehen.
 * Erfahren Sie, wie Sie Zeilen in der Warenkorbzusammenfassung in einen ausblendbaren Abschnitt zusammenführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441194?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=de)
+* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

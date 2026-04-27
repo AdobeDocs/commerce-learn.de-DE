@@ -8,13 +8,20 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 1349
-last-substantial-update: 2024-03-14T00:00:00Z
+last-substantial-update: 2024-03-14T00:00:00.000Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/DMnfxBNDgGc50xHZtATfXxweMOfgs3zlxKsFmdbMTOs
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 446
 ht-degree: 0%
 
 ---
@@ -31,7 +38,7 @@ Erfahren Sie mehr über die SaaS-Angebote, den Support und andere Kommunikatione
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3432832?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
 
 ## Akronyme
 
@@ -74,22 +81,22 @@ Erfahren Sie mehr über die SaaS-Angebote, den Support und andere Kommunikatione
 
 ## Die im Video erwähnte Dokumentation zu Experience League
 
-* [Suche öffnen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html?lang=de)
-* [Live-Suche](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=de)
-* [Produktempfehlungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=de)
-* [Live Search- und Katalog-Service](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=de)
-* [Preisindizierung für Katalog-Service](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=de)
+* [Suche öffnen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
+* [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Produkt Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [Live Search und Katalog-Service](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
+* [Preisindizierung für Katalog-Service](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
 * [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
-* [Geteilte Verantwortung](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=de)
-* [Kundendatenzugriff und Datenschutz](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html?lang=de)
-* [Commerce-Zertifizierungen](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=de)
+* [Geteilte Verantwortung](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
+* [Zugriff auf Kundendaten und Datenschutz](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
+* [Commerce-Zertifizierungen](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 * [Commerce-Lernkurse](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Commerce-Community-Forum](https://community.magento.com/)
-* [Schnell konfigurieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html?lang=de)
-* [Leistungstests](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
-* [Site Wide Analysis Tool - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?lang=de&)
-* [New Relic-Beobachtung für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=de)
-* [Sicherheits-Patches](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html?lang=de)
-* [Checkliste starten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=de)
+* [Fastly konfigurieren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
+* [Leistungstests](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
+* [Site Wide Analysis Tool - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
+* [New Relic-Beobachtung für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [Sicherheitspatches](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
+* [Launch Checklist](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

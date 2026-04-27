@@ -1,41 +1,47 @@
 ---
-title: Optimieren der Wiederverwendung von Code mit Adobe Commerce
-description: Erfahren Sie, wie Sie die Wiederverwendung von Code in Adobe Commerce mit Mustern der globalen Referenzarchitektur optimieren und so die Leistung und Compliance über mehrere Instanzen hinweg verbessern können.
+title: Optimizing Code Reuse with Adobe Commerce
+description: Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns, enhancing performance and compliance across multiple instances.
 kt: 15773
 doc-type: tutorial
 duration: 287
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
+badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
 topic: Architecture, Commerce, Development
 old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: 1127
 ht-degree: 0%
 
 ---
 
-# Implementierungstechniken der globalen Referenzarchitektur
+# Global Reference Architecture Implementation Techniques
 
 {{only-for-on-prem-commerce-cloud}}
 
-Es gibt mehrere Möglichkeiten, die Wiederverwendung von Code mit Adobe Commerce zu optimieren. Diese vier Implementierungstechniken haben jeweils ihre eigenen Vorteile. Die Beispiele in diesem Artikel sind von einfach bis komplexer sortiert. Wählen Sie die Strategie aus, die am besten zu Ihrem Projekt und Ihrer künftigen Roadmap passt. Die Migration von einer Strategie zur anderen kann zeitaufwendig sein.
+There are several ways to optimize code reuse with Adobe Commerce. These four implementation techniques each have their own advantages. The examples in this article are ordered from simple to more complex. Pick the strategy that best fits your project and future roadmap. A migration from one strategy to another can be time consuming.
 
-## Verwendung der globalen Referenzarchitektur
+## When to use Global Reference Architecture
 
-Die globale Referenzarchitektur kann je nach der Anzahl der Instanzen, deren Inhaber Sie sind, von Nutzen sein. Eine Instanz ist eine eigenständige Installation von Adobe Commerce unter Verwendung einer eigenen Datenbank. Zählen Sie die Anzahl der Produktionsdatenbanken, um zu erfahren, wie viele Instanzen Sie besitzen. Wenn Sie mehr als eine Instanz verwalten oder dieses Szenario für die Zukunft vorhersehen, können Sie von der globalen Referenzarchitektur profitieren. Je mehr Funktionen die Instanzen gemeinsam nutzen, desto mehr Wert bietet eine globale Referenzarchitektur.
+Global reference architecture can be valuable, depending on the number of instances you own. An instance is a standalone installation of Adobe Commerce using its own database. Count the number of production databases to know how many instances you own. If you maintain more than one instance, or if you foresee this scenario in the future, you can benefit from global reference architecture. The more functionality the instances share, the more value a global reference architecture adds.
 
-In jedem dieser Szenarien ist es ratsam, die Verwendung mehrerer Instanzen von Adobe Commerce zu untersuchen.
+In any of these scenarios, it is advisable to explore using multiple instances of Adobe Commerce.
 
-1. **Verschiedene Store-Inhaber**: Wenn Sie Code für mehrere Store-Inhaber verwalten, von denen jeder über einen eigenen Store verfügt, sind möglicherweise separate Instanzen erforderlich, um die individuellen Anforderungen effektiv zu erfüllen.
-2. **Einhaltung nationaler Vorschriften**: Bestimmte Vorschriften verlangen, dass Kundendaten in bestimmten Regionen gespeichert werden müssen. In solchen Fällen sind gesonderte Instanzen unerlässlich, um die Einhaltung dieser Vorschriften zu gewährleisten.
-3. **Betriebliche Unterschiede zwischen geografischen Regionen**: Der Betrieb in mehreren Regionen kann unterschiedliche Wartungspläne und -anforderungen bedeuten. Die Verwendung separater Instanzen ermöglicht eine flexible und effiziente Verwaltung dieser Varianten.
-4. **Flash-Verkäufe mit hoher Intensität**: Geschäfte, die Flash-Verkäufe in großem Umfang durchführen, benötigen oft eine optimierte Server-Leistung. Dedizierte Infrastruktur, die von separaten Instanzen bereitgestellt wird, sorgt für eine optimale Leistung in solchen Zeiten hoher Nachfrage.
+1. **Different Store Owners**: If you maintain code for multiple store owners, each with their own distinct store, separate instances may be needed to maintain their individual requirements effectively.
+2. **Compliance with National Regulations**: Certain regulations mandate that customer data must be stored within specific regions. In such cases, separate instances are essential to ensure compliance with these regulations.
+3. **Operational Variances Across Geographical Regions**: Operating in multiple regions may mean differing maintenance schedules and requirements. Using separate instances allows for flexibility in managing these variations efficiently.
+4. **High-Intensity Flash Sales**: Stores conducting large-scale flash sales often require optimized server performance. Dedicated infrastructure provided by separate instances ensures optimal performance during such high-demand periods.
 5. **Wesentliche Unterschiede zwischen Marken oder Ländern**: Wenn der Unterschied zwischen Marken oder Ländern groß ist, führt die Verwendung einer einzigen Instanz zu Code, der nur für einige Marken oder Länder verwendet wird. Separate Instanzen können die Leistung und Stabilität verbessern, indem unnötiger Code für Marken und Länder, die ihn nicht benötigen, entfernt wird.
 
 ## Globale Referenzarchitekturmuster

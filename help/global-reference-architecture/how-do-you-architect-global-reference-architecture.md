@@ -1,7 +1,7 @@
 ---
-title: Wie wird die globale Referenzarchitektur erstellt?
-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur entwerfen. Lernen Sie Techniken und Ideen kennen, um sicherzustellen, dass Ihr Projekt für eine globale Referenzarchitektur auf dem richtigen Weg beginnt
-landing-page-description: Erfahren Sie, wie Sie mit Adobe Commerce eine globale Referenzarchitektur erstellen
+title: How do you architect Global Reference Architecture
+description: Learn how to architect a global reference architecture. Learn techniques and ideas to ensure your Global Reference Architecture project starts off on the right track
+landing-page-description: Learn how to architect a Global Reference Architecture with Adobe Commerce
 kt: 14041
 doc-type: video
 duration: 3124
@@ -13,16 +13,22 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/cvvzSQOI6TiFnxDkZOy3U52pDtAIvOBWc9u5CgLCk-8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
-# Architektur für GRA
+# Architecting for GRA
 
-Erfahren Sie, wie Sie eine globale Referenzarchitektur (kurz: GRA) erstellen. Um eine GRA besser auf eine erfolgreiche Implementierung vorzubereiten, besprechen die Adobe-Experten, was eine GRA ist und was nicht. Eine ausführliche Erörterung der Code-Verwaltung mit separaten Paketen, Split-Git und MonoRepo. Weitere Themen rund um Dokumentation, Tools und Personalerwartungen werden diskutiert, um ihre Teile für eine erfolgreiche GRA-Implementierung auszuarbeiten.
+Learn how to architect Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss what is and what is not GRA. A deep discussion on code management using separate packages, split git and monorepo. Other topics around documentation, tools, and personnel expectations are discussed to elaborate on their parts for a successful GRA implementation.
 
 ## Zielgruppe
 
@@ -31,12 +37,12 @@ Erfahren Sie, wie Sie eine globale Referenzarchitektur (kurz: GRA) erstellen. Um
 
 ## Videoinhalt
 
-* Was ist und was nicht als globale Referenzarchitektur betrachtet wird
-* Verschiedene Code-Management-Techniken - separate Pakete, Git-Aufteilung und MonoRepo
-* Häufige Probleme und Probleme
-* Erwartungen an die Dokumentation
-* Fehlermanagement und zugehörige Software und Tools
-* DevOps, Leads und automatisierte Tests
+* What is and what is not considered a Global Reference Architecture
+* Different code management techniques - separate packages, split git and monorepo
+* Common issues and pain points
+* Documentation expectations
+* Bug management and associated software and tools
+* DevOps, leads and automated testing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424644?learn=on)
 
