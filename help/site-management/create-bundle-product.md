@@ -1,6 +1,6 @@
 ---
-title: Bundle-Produkt erstellen
-description: Erfahren Sie, wie Sie mit der REST-API und Commerce Admin ein Produktpaket erstellen.
+title: Create a bundle product
+description: Learn how to create a bundle product using the REST API and the Commerce Admin.
 kt: 14589
 doc-type: video
 duration: 1335
@@ -12,61 +12,74 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: 673
 ht-degree: 0%
 
 ---
 
-# Bundle-Produkt erstellen
+# Create a bundle product
 
-Ein Produktpaket ist eine Möglichkeit, mehrere Produkte unter einem übergeordneten Produkt zu gruppieren. Bei diesen untergeordneten Produkten kann es sich um einen definierten Satz von Produkten handeln oder um einige Varianten, die Kunden flexible Konfigurationsoptionen bieten. Die Einrichtung von Bundle-Produkttypen dauert etwas länger und Sie müssen einige Planungen durchführen, bevor Sie sie konfigurieren können. Das Angebot von Bundle-Produkten verbessert jedoch das Einkaufserlebnis, da Kunden ihre Produktauswahl leichter anpassen können.
+A bundle product is a way to group several products under a parent product. These child products can be a defined set of products or offer a few variations that provide flexible configuration options for customers. Bundle product types do take a little longer to set up, and you must do some planning before you configure them. However, offering bundle products improves the shopping experience by making it easier for customers to customize their product selections.
 
-Beispielsweise können Sie in Ihrem Webstore ein Produktpaket mit dem Namen `Learning to surf` anbieten. Das Bundle ist das übergeordnete Produkt, das als Container für die zugewiesenen untergeordneten Produkte dient, die die verfügbaren Optionen angeben:
+For example, you can offer a product bundle called `Learning to surf` in your web store. The bundle is the parent product that serves as a container for the assigned child products that specify available options:
 
-* Ein Standard-Surfbrett
-* Eine typische Surfbrett-Leine
-* Rote Surfbrett-Flossen
+* A standard surfboard
+* A typical surfboard leash
+* Red surfboard fins
 
-Wenn zusätzliche Flexibilität erwünscht ist, wird empfohlen, verschiedene Optionen für untergeordnete Produkte zuzulassen. Dies erfordert eine komplexere Verwendung von Optionen und untergeordneten Produkten. Um das vorherige Beispiel zu erweitern, lauten die endgültigen Optionen:
+When additional flexibility is desired, to allow for several options of child products is recommended. This requires a more complex use of options and child products. To expand on the previous example, the final options are:
 
-* Ein Standard-Surfbrett
-* Eine typische Surfbrett-Leine
-* Auswahl der Flossenfarbe:
-   * Rot
-   * Blau
-   * Gelb
+* A standard surfboard
+* A typical surfboard leash
+* Choice of fin color:
+   * Red
+   * Blue
+   * Yellow
 
-Unabhängig davon, ob es sich bei dem Bundle um eine statische Gruppe einfacher Produkte oder um mehrere Produkte mit Varianten handelt, machen die flexiblen Konfigurationsoptionen Bundle-Produkttypen zu einem einzigartigen und leistungsstarken Merchandising-Tool für den Adobe Commerce Store.
+Whether the bundle is a static group of simple products or several products with variations, the flexible configuration options make bundle product types a unique and powerful merchandising tool for the Adobe Commerce store.
 
-Bevor Sie ein Produktpaket erstellen, überprüfen Sie, ob alle einfachen Produkte, die im Produktpaket enthalten sein sollen, in Adobe Commerce verfügbar sind. Erstellen Sie alle , die nicht vorhanden sind.
+Before creating a bundle product, verify that all the simple products to include in the bundle product are available in Adobe Commerce. Create any that do not exist.
 
-In diesem Tutorial erfahren Sie, wie Sie ein Produktpaket mithilfe der REST-API und der Adobe Commerce Admin erstellen.
+In this tutorial, learn how to create a bundle product using the REST API and the Adobe Commerce Admin.
 
-Verwenden der REST-API zum Definieren eines Produktpakets:
+Use the REST API to define a bundle product:
 
-1. Erstellen Sie einfache Produkte zur Verwendung im Produktpaket.
-1. Erstellen Sie ein Produkt-Bundle und verknüpfen Sie die einfachen Produkte.
-1. Rufen Sie das Produktpaket und alle zugehörigen Optionen ab.
-1. Löschen einer Option aus einem Abschnitt der Produktpakete.
-1. Stellen Sie die Optionen für ein Produktpaket wieder her.
+1. Create simple products for use in the bundle product.
+1. Create a bundle product and associate the simple products.
+1. Get the bundle product and all the associated options.
+1. Delete an option from one section of the bundle products.
+1. Restore the options for a bundle product.
 
-Beim Erstellen von Bundle-Produkten über den Adobe Commerce-Administrator können Sie entweder zuerst die einfachen Produkte erstellen oder das automatisierte Tool verwenden, um mithilfe eines Assistenten einfache Produkte zu erstellen.
+When creating bundle products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool to create simple products using a wizard.
 
 ## Für wen ist dieses Video bestimmt?
 
 * Website-Manager
 * E-Commerce-Merchandiser
-* Neue Adobe Commerce-Entwicklerinnen und -Entwickler, die lernen möchten, wie Sie mit der REST-API Bundle-Produkte in Adobe Commerce erstellen
+* New Adobe Commerce developers who want to learn how to create bundle products in Adobe Commerce using the REST API
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454511?captions=ger&learn=on)
 
-## Erstellen von Produkten mit REST
+## Create products with REST
 
-Mit den folgenden Befehlen werden alle Produkte erstellt, die zum Definieren des Bundle-Produkts in diesem Beispiel erforderlich sind: fünf einfache Produkte und ein Bundle-Produkt mit drei Optionen.
+The following commands create all the products required to define the bundle product in this example: five simple products, and one bundle product that has three options.
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
@@ -187,13 +200,13 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Bundle-Produkt erstellen und die einfachen Produkte als Optionen zuweisen
+## Create a bundle product and assign the simple products as options
 
-Erstellen Sie ein Produktpaket, indem Sie die folgende POST-Anfrage senden.
+Create a bundle product by sending the following POST request.
 
 Bevor Sie die Anfrage senden, aktualisieren Sie das Beispiel mit Werten für Ihre Umgebung.
 
-* Ändern Sie `"attribute_set_id": 4,` und ersetzen Sie `4` durch die Attributsatz-ID aus Ihrer Umgebung.
+* Change `"attribute_set_id": 4,` and replace `4` with the attribute set id from your environment.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -308,9 +321,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Löschen einer Option aus einem Produktpaket
+## Delete an option from a bundle product
 
-Entfernen Sie ein untergeordnetes Produkt aus einem Produktpaket, ohne das Produkt aus dem Katalog zu löschen, indem Sie die folgende DELETE-Anfrage mit cURL senden.
+Remove a child product from a bundle product without deleting the product from the catalog by sending the following DELETE request using cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-products/beginner-surfboard/options/35/children/blue-fins-and-fin-plugs' \
@@ -318,9 +331,9 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 --header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3'
 ```
 
-## Produktoptionen wiederherstellen
+## Restore product options
 
-Stellen Sie beim Aktualisieren der Bundle-Produktoptionen sicher, dass Sie alle Optionen einbeziehen, die Sie mit diesem Produkt verknüpfen möchten. Wenn Ihr ursprünglicher Satz von Optionen drei Produkte enthielt und eines entfernt wurde, schließen Sie alle drei Optionen in die POST-Anfrage ein, um sicherzustellen, dass das Produktpaket alle Optionen angibt. Wenn Sie nur die Option einbezogen haben, die Sie entfernt haben, enthält das aktualisierte Produktpaket nur diese Option.
+When updating bundle product options, make sure to include all the options you want to associate with this product. If your original set of options contained three products and one was removed, include all three options in the POST request to ensure that the product bundle specifies all the options. Wenn Sie nur die Option einbezogen haben, die Sie entfernt haben, enthält das aktualisierte Produktpaket nur diese Option.
 
 Suchen Sie die Option-ID, indem Sie die Antwort aus der Erstellung für das Produkt-Bundle überprüfen. In dieser Antwort wird die `option_id` `35`.
 
@@ -430,7 +443,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen eines Bundle-Produkt-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Tutorial zum Erstellen eines Bundles](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
 * [Bundle-Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=de){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

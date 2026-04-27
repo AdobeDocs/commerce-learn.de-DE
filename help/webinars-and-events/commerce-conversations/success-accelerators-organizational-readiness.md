@@ -1,37 +1,48 @@
 ---
-title: Vorbereitung auf den Unternehmenserfolg von Accelerators
-description: Erfahren Sie mehr über die Erfolgsbeschleuniger von Adobe für die organisatorische Vorbereitung. Die Bereitschaft der Commerce Success Accelerator-Organisation hilft bei strategischer Planung, Workflows, Änderungsmanagement und digitaler Überprüfung.
+title: Success Accelerators Organizational Readiness
+description: Learn about Adobe's success accelerators for organizational readiness. Commerce Success Accelerator organization readiness helps with strategic planning, workflows, change management, and digital review.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00Z
+last-substantial-update: 2025-04-29T00:00:00.000Z
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 125
 ht-degree: 0%
 
 ---
 
-# Organisatorische Bereitschaft für Erfolgsbeschleuniger
+# Success Accelerators organizational readiness
 
-Erfahren Sie mehr über die Erfolgsbeschleuniger von Adobe für die organisatorische Vorbereitung. Einige Beispiele sind die strategische Zyklusplanung und die Entwicklung von Roadmaps, um den Betrieb mit der Geschäftsstrategie abzustimmen, die Workflow- und Betriebsmodelloptimierung zur Übernahme von Adobe-Lösungen. Darüber hinaus gibt es Change Management- und Kommunikationsstrategien für die digitale Transformation sowie digitale Prüfung und Benchmarking, um digitale Erlebnisse anhand von Branchenstandards zu bewerten und zu verbessern.
+Learn about Adobe&#39;s success accelerators for organizational readiness. A few examples include strategic cycle planning and roadmap development to align operations with business strategy, workflow and operating model optimization for adopting Adobe solutions. Additionally, there is Change Management and Communication Strategies for digital transformation, and digital review and benchmarking to assess and improve digital experiences against industry standards.
 
 ## Für wen ist dieses Video bestimmt?
 
 * E-Commerce-Manager
-* Technische Leads
+* Technical Leads
 * Wirtschaftsanalysten
 
 ## Videoinhalt {#video-content}
 
-* Strategische Zyklusplanung und Roadmap-Entwicklung
-* Workflow- und Betriebsmodelloptimierung und Governance
-* Veränderungsmanagement und Kommunikationsstrategien
-* Digitale Überprüfung und Benchmarking
+* Strategic Cycle Planning and Roadmap Development
+* Workflow and Operating Model Optimization and Governance
+* Change Management and Communication Strategies
+* Digital Review and Benchmarking
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)

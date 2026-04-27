@@ -1,6 +1,6 @@
 ---
-title: Protokolle kürzen
-description: Erfahren Sie, wie Sie eine fehlgeschlagene Bereitstellung aufgrund einer vollen Festplatte durch Abschneiden großer Protokolldateien einteilen können.
+title: Truncate logs
+description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
 feature: Cloud, Site Management
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -11,36 +11,48 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: 200
 ht-degree: 0%
 
 ---
 
-# Protokolle kürzen
+# Truncate logs
 
-Erfahren Sie, wie Sie eine fehlerhafte Bereitstellung aufgrund einer vollen Festplatte testen und beheben können. Erfahren Sie, wie Sie Befehle finden und ausführen können, um Speicherplatz in Ihrer Adobe Commerce Cloud-Umgebung freizugeben.
+Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.
 
-Wenn Sie glauben, dass Sie diese Protokolldateien benötigen, können Sie sie `rsync` oder andere Methoden verwenden, um eine Kopie vom Server zur Verfügung zu stellen, bevor Sie sie abschneiden.
+If you think you might need these log files, you can `rsync` them or use other methods to get a copy available off the server before you truncate them.
 
 ## Für wen ist dieses Video gedacht?
 
-* Entwickler und IT-Experten
+* Developers and IT Professionals
 * Systemadministratoren
 
 ## Videoinhalt
 
-* Diagnose und Behebung einer fehlgeschlagenen Bereitstellung
-* Wo sich einige häufig vorkommende große Protokolldateien befinden
-* Schnellmethode zum Abschneiden einer Protokolldatei
+* Diagnose and Resolve a failed deployment
+* Where some common large log files are found
+* Quick method to truncate a log file
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454592?captions=ger&learn=on)
 
 
-## Im Video verwendete Befehle
+## Commands used in the video
 
-So überprüfen Sie die `df -h` des Festplattenspeichers. Achten Sie auf die Zeile dev/mapper/xxxx
+To check hard drive space `df -h`. Pay attention to the line dev/mapper/xxxx
 
 ```SHELL
 df -h
@@ -60,7 +72,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Zeigen Sie die Dateien und ihre Größen in menschenlesbarem Format wie KB, MB und GB mithilfe der `ls -lah` an
+Display the files and their sizes in human readable format such as kb, mb and gb using the command `ls -lah`
 
 ```SHELL
 ls -lah
@@ -80,9 +92,9 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 -rw-rw-r-- 1 web web  516 Dec  6  2023 system.log
 ```
 
-## Beispiele für das Abschneiden von Protokollen
+## Examples for truncate log
 
-Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben haben, wechseln Sie in das Verzeichnis `var/log` . Dann können Sie eine Datei mit etwas Ähnlichem wie `> some-log-file.log` abschneiden
+After you ssh into the right project and environment, change into the `var/log` directory. Then you can truncate a file with something similar to `> some-log-file.log`
 
 ```BASH
 > support_report.log 
@@ -91,4 +103,4 @@ Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben hab
 
 ## Verwandte Dokumentation
 
-* [Konsistenzbenachrichtigungen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Health notifications](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

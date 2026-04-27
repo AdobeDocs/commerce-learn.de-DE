@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über die Katalogimportoptionen in Adobe Commerce
-description: Erfahren Sie mehr über einige der nativen Optionen zum Importieren Ihres Katalogs in Ihren Adobe Commerce-Store.
+title: Learn about catalog import options that come native with Adobe Commerce
+description: Learn how a few of the native options for importing your catalog to your Adobe Commerce store.
 kt: 13634
 doc-type: tutorial
 duration: 211
@@ -12,32 +12,47 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: 898
 ht-degree: 0%
 
 ---
 
-# Optionen zum Importieren eines Katalogs
+# Options for importing a catalog
 
-Es gibt einige native Methoden zum Importieren eines Katalogs in Adobe Commerce. Jede Methode hat ihre eigenen Gründe für die Verwendung zusammen mit den Vor- und Nachteilen, die berücksichtigt werden müssen.
+There are a few native methods for importing a catalog into Adobe Commerce. Each method has its own reasoning for usage along with pros and cons that must be considered.
 
-Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
+Choose from one of the options below to learn more.
 
 >[!BEGINTABS]
 
->[!TAB Manuell]
+>[!TAB Manual]
 
-## Manuelles Erstellen der Produkte {#manual-import}
+## Creating the products manually {#manual-import}
 
-Wenn Sie nur über einen begrenzten Katalog verfügen und Aktualisierungen selten auftreten, ist es möglicherweise am besten, sie manuell zu erstellen. Die Eingabe der einzelnen Produkte dauert einige Zeit, und für die Verwendung von Commerce Admin sind einige begrenzte Schulungen erforderlich. Die manuelle Katalogverwaltung ist für die meisten Geschäfte nicht die richtige Option, kann aber in bestimmten Situationen sinnvoll sein. Weitere Dokumentationen zu diesem Prozess finden Sie unter [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=de){target="_blank"}. Vergessen Sie nicht, dass Sie mehr als eine Methode zur Verwaltung Ihres Katalogs verwenden können. Sobald jedoch eine Automatisierung verwendet wird, müssen manuelle Bearbeitungen eingeschränkt werden. Automatisierte Aktualisierungen bieten die Möglichkeit, manuell durchgeführte Änderungen zu überschreiben und dadurch Verwirrung zu stiften. Sobald die Integration mit Adobe Commerce zum Verwalten des Katalogs mithilfe von Automatisierung und APIs erfolgt, wird empfohlen, die Katalogverwaltung vom Administrator durch [Benutzerrollen und -berechtigungen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=de){target="_blank"} einzuschränken.
+If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. To see additional documentation for this process, visit [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=de){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=de){target="_blank"}.
 
-### Wann dieser Ansatz in Betracht zu ziehen ist
+### When to consider this approach
 
-* Sehr kleiner Katalog, zum Beispiel weniger als 50 Produkte
-* Aktualisierungen treten selten auf
-* Sie verfügen über alle Produktdetails, Bilder und Videos und möchten sich nicht die Zeit nehmen, um zu erfahren, wie die Daten in CSV konvertiert werden
+* Very small catalog, for example fewer than 50 products
+* Updates are infrequent
+* You have all the product details, images, videos, and you do not want to take the time to learn how to convert the data to CSV
 * Sie möchten beim Erstellen der Produkte das Hinzufügen von Bildern und Videos einbeziehen
 * Ihr Team ist `not` mit APIs und der Funktionsweise von OAUTH vertraut
 
@@ -74,40 +89,40 @@ Die Massen-REST-API ermöglicht eine Automatisierung und häufigere Aktualisieru
 [Dokumentation zu Massenendpunkten](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
 Vorteile:
-Die Möglichkeit, große Datensätze zu importieren, die nicht im CSV-Format vorliegen.
+The ability to import large data sets that are not in CSV format.
 
 Nachteile:
 
 * Die zugehörigen Bilder und Videos müssen separat hochgeladen werden
-* Kann durch Bandbreitenbeschränkungen auf den Hosting-Provider beschränkt werden
+* Can be limited by bandwidth constraints on the hosting provider
 
 ### Wann dieser Ansatz in Betracht zu ziehen ist
 
-* Katalog ist eine beliebige Größe
-* Updates werden häufig durchgeführt, mehr als 1x täglich ist akzeptabel
-* Die Importzeit ist wichtig, aber nicht kritisch, und eine kurze Verzögerung bei der Verarbeitung der Importdaten ist akzeptabel
-* Die Daten sind nicht im CSV-Format strukturiert und können nicht mithilfe der Automatisierung umgewandelt werden
+* Catalog is any size
+* Updates are frequent, more than 1x a day is acceptable
+* Time to import is important but not critical and a short delay in processing the import data is acceptable
+* The data is not structured in CSV format and you are not capable of transforming it using automation
 
->[!TAB ASYNC-REST-API]
+>[!TAB ASYNC REST API]
 
-## ASYNC REST-API {#async-rest-api}
+## ASYNC REST API {#async-rest-api}
 
-Ein asynchroner Web-Endpunkt fängt Nachrichten an eine Web-API ab und schreibt sie in die Nachrichtenwarteschlange. Jedes Mal, wenn das System eine solche API-Anfrage akzeptiert, generiert es eine UUID-Kennung. Adobe Commerce fügt diese UUID hinzu, wenn es die Nachricht zur Warteschlange hinzufügt. Anschließend liest ein Verbraucher die Nachrichten aus der Warteschlange und führt sie einzeln aus.
-[Dokumentation zu asynchronen Web-Endpunkten](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+An asynchronous web endpoint intercepts messages to a Web API and writes them to the message queue. Each time the system accepts such an API request, it generates a UUID identifier. Adobe Commerce includes this UUID when it adds the message to the queue. Then, a consumer reads the messages from the queue and executes them one-by-one.
+[Asynchronous web endpoints documentation](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
 
 Vorteile:
 
-* Schneller Datenimport
-* Der Store-Bereich wird unterstützt oder Sie können angeben, `all` Vorgänge für alle vorhandenen Stores ausgeführt werden sollen
+* Fast to import data
+* Store scope is supported or you can specify `all` to perform operation on all existing stores
 
 Nachteile:
 
-* GET-Anfragen werden nicht unterstützt
+* GET request are not supported
 
 ### Wann dieser Ansatz in Betracht zu ziehen ist
 
-* Importe sind häufig
-* Kein Problem mit einer kleinen Verzögerung ab dem Zeitpunkt, zu dem sie über die API gesendet und dann aus der Nachrichtenwarteschlange verarbeitet werden.
+* Imports are frequent
+* No issue with a small delay from the time they are submitted via API and then processed from the message queue.
 
 
 >[!TAB CSV-REST-API]
@@ -139,7 +154,7 @@ Nachteile:
 
 ## Zusätzliche Ressourcen
 
-* [Importieren von Daten mit der neuen REST-CSV](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+* [Daten mit der neuen REST-CSV importieren](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 * [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=de){target="_blank"}
-* Versionshinweise zu [Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=de){target="_blank"}
+* [Versionshinweise zu Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=de){target="_blank"}
 * [Benutzer, Rollen und Berechtigungen](../site-management/users-roles-permissions.md){target="_blank"}

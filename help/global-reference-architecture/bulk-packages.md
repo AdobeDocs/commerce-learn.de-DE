@@ -1,6 +1,6 @@
 ---
-title: Optimieren von Adobe Commerce mit der globalen Referenzarchitektur für Massenpakete
-description: Erfahren Sie, wie Sie Adobe Commerce mithilfe der globalen Referenzarchitektur für Massenpakete einrichten, um die Code-Verwaltung und Versionskontrolle zu optimieren.
+title: Optimizing Adobe Commerce with Bulk Packages Global Reference Architecture
+description: Learn how to set up Adobe Commerce using the Bulk Packages Global Reference Architecture for efficient code management and version control.
 jira: KT-16726
 doc-type: tutorial
 duration: 391
@@ -8,50 +8,65 @@ audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
+badge: label="Contributed by Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contributed by Tony Evers"
 old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: 1188
 ht-degree: 0%
 
 ---
 
-# Das Muster der globalen Referenzarchitektur für Bulk Packages
+# The Bulk Packages global reference architecture pattern
 
 {{only-for-on-prem-commerce-cloud}}
 
-In diesem Handbuch wird erläutert, wie Sie Adobe Commerce mit dem GRA-Muster (Bulk Packages Global Reference Architecture) einrichten.
+This guide explains how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.
 
-Das Massen-Package-GRA-Muster umfasst ein einzelnes Git-Repository, in dem alle gängigen Anpassungen gehostet werden. Dieses einzelne Git-Repository wird über Composer als einzelnes Composer-Paket bereitgestellt, das mehrere Adobe Commerce-Module enthält.
+The Bulk Packages GRA pattern involves a single Git repository to host all common customizations. This single Git repository is exposed through Composer as a single composer package, which contains multiple Adobe Commerce modules.
 
-![Ein Diagramm, das zeigt, wo Code in einem Massen-Package-GRA-Muster gespeichert wird](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"}
+![A diagram showing where code is stored in a bulk packages GRA pattern](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"}
 
-## Vor- und Nachteile dieses Musters
+## Advantages and disadvantages of this pattern
 
-Vorteile:
+Advantages:
 
-* Wiederverwendung von Code über ein gemeinsam genutztes Code-Repository
-* Flexibilität bei der Installation verschiedener historischer Versionen der GRAA auf verschiedenen Instanzen, was schrittweise Versionen ermöglicht
-* Flexibilität beim Backport und bei der Pflege mehrerer Hauptversionen der GRA
-* Unterstützung der semantischen Versionierung der GRA
-* Einfachheit: Entwickler benötigen nicht mehr Fähigkeiten als in regulären Einzelhandelsentwicklungsmustern
-* Keine speziellen Tools, keine komplexe Infrastruktur oder spezielle Verzweigungsstrategie erforderlich
-* Die Kombination von Paketen in einer Version wird immer gemeinsam entwickelt und getestet
+* Code reuse through a shared code repository
+* Flexibility to install different historical versions of the GRA on different instances, enabling phased releases
+* Flexibility to backport and maintain multiple major versions of the GRA
+* Support for semantic versioning of the GRA
+* Simplicity, developers do not need more skills than in regular single store development patterns
+* No special tooling, complex infrastructure or special branching strategy required
+* The combination of packages in a release is always developed and tested together
 
-Nachteile:
+Disadvantages:
 
-* Nur möglich, das vollständige GRA einschließlich aller darin enthaltenen Pakete zu aktualisieren.
-* Keine Unterstützung im GRA-Bulk-Package für Composer-Pakete außer Adobe Commerce-Modulen, Sprachpaketen und Designs, also keine Metapakete, Magento2-Komponenten-Pakete, Composer-Plug-ins und Patches
+* Only possible to upgrade the full GRA, including all packages contained in it.
+* No support in the GRA bulk package for composer packages other than Adobe Commerce modules, language packs and themes, so no metapackages, magento2-component packages, Composer plugins and patches
 
-## Einrichten von Adobe Commerce mit dem Split Git-GRA-Muster
+## Set up Adobe Commerce with the Split Git GRA pattern
 
-### Die Verzeichnisstruktur
+### The directory structure
 
-Das Bulk Packages-GRA installiert den gesamten wiederverwendbaren Code über Composer-Repositorys. Code, der für eine einzelne Instanz spezifisch ist, befindet sich im Git-Repository dieser Instanz. Instanzspezifischer Code wird in anderen Instanzen von Adobe Commerce nicht wiederverwendet.
+The Bulk Packages GRA installs all reusable code through Composer repositories. Code, der für eine einzelne Instanz spezifisch ist, befindet sich im Git-Repository dieser Instanz. Instanzspezifischer Code wird in anderen Instanzen von Adobe Commerce nicht wiederverwendet.
 
 Die endgültige Verzeichnisstruktur einer vollständigen Adobe Commerce-Installation mit dem Massen-Package-GRA-Muster sieht wie folgt aus:
 
@@ -271,8 +286,8 @@ In Ticket-Verzweigungen sollten Sie fast nie die Datei composer.lock aktualisier
 
 ## Code-Beispiele
 
-Die Code-Beispiele für diesen Artikel sind als eine Reihe von Git-Repositorys verfügbar, mit denen Sie den Machbarkeitsnachweis testen können.
+The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-* Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-bulk-brand-x>
-* Das GRA-Code-Repository: <https://github.com/AntonEvers/gra-bulk-foundation>
-* Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
+* An example production store: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* The GRA code repository: <https://github.com/AntonEvers/gra-bulk-foundation>
+* An example local module: <https://github.com/AntonEvers/module-example-local>

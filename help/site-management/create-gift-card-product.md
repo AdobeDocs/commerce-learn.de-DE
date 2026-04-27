@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Geschenkkartenprodukts
-description: Erfahren Sie, wie Sie mit der REST-API und der Commerce-Administratorin bzw. dem-Administrator ein Geschenkkartenprodukt erstellen.
+title: Create a gift card product
+description: Learn how to create a gift card product using the REST API and the Commerce Admin.
 kt: 14587
 doc-type: video
 audience: all
@@ -12,16 +12,31 @@ role: Developer, User
 level: Beginner
 duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/wGq8KFBDMlY5wW02ZVuV0ZCVquAlXNxxWQioXVba8Kk
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: 237
 ht-degree: 0%
 
 ---
 
-# Erstellen eines Geschenkkartenprodukts
+# Create a gift card product
 
-Erfahren Sie, wie Sie mit der REST-API und der Adobe Commerce-Administratorin bzw. dem-Administrator ein Geschenkkartenprodukt erstellen.
+Learn how to create a gift card product using the REST API and the Adobe Commerce Admin.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -33,9 +48,9 @@ Erfahren Sie, wie Sie mit der REST-API und der Adobe Commerce-Administratorin bz
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453086?captions=ger&learn=on)
 
-## Geschenkkarte mit einfacher Payload erstellen
+## Create a gift card with a simple payload
 
-Das folgende Anfragebeispiel zeigt die Payload zum Erstellen einer Geschenkkarte wie im Video gezeigt. Diese kleinere Payload überschreibt die Standardeinstellungen für eine Teilmenge der verfügbaren Attribute. Die übrigen Attribute, die nicht in der Payload enthalten sind, bleiben auf die Standardwerte eingestellt.
+The following request example shows the payload to create a gift card like the one shown in the video. This smaller payload overrides the default settings for a subset of the available attributes. The remaining attributes not included in the payload remain set to the default values.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -143,9 +158,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Geschenkkarte mit voller Payload erstellen
+## Create a gift card with a full payload
 
-Das folgende Beispiel zeigt die POST-Anfrage zum Erstellen einer Geschenkkarte mit voller Payload. Die Payload enthält alle Attribute, die beim Erstellen einer Geschenkkarte konfiguriert werden können. Wenn Sie dieses Codebeispiel verwenden, passen Sie die Konfiguration an, indem Sie die Standardwerte für jedes Attribut nach Bedarf aktualisieren, bevor Sie die Anfrage senden.
+The following example shows the POST request to create a gift card with a full payload. The payload includes all attributes that can configured when you create a gift card. If you use this code sample, customize the configuration by updating the default values for each attribute as needed before submitting the request.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +340,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen Sie ein Geschenkkartenprodukt über den Commerce-Administrator](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=de){target="_blank"}
+* [Create a gift card product from the Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=de){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Adobe Commerce-REST-Überprüfung](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

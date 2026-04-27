@@ -1,7 +1,7 @@
 ---
-title: '[!DNL Commerce] Videos und Tutorials'
-description: Eine Videosammlung und Tutorials für Adobe Commerce und Magento Open Source
-last-substantial-update: 2023-01-19T00:00:00Z
+title: '[!DNL Commerce] Videos and Tutorials'
+description: A collection of videos and tutorials for Adobe Commerce and Magento Open Source
+last-substantial-update: 2023-01-19T00:00:00.000Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
 old-role: Architect, Developer
@@ -9,16 +9,29 @@ role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 duration: 29
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/vKBZdCBWH5s8AspGVsCkbJ2cDD-L81ZFxbMjbt3X7Uc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 132
 ht-degree: 0%
 
 ---
 
-# Commerce-Tutorials {#videos}
+# Commerce tutorials {#videos}
 
-Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html?lang=de) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
+Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html?lang=de), provides an opportunity to learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -29,11 +42,11 @@ Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verw
 
 >[!TIP]
 >
->Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=de) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
+>The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=de) space provides access to recorded event content that you can watch on demand.
 
 ## Zusätzliche Ressourcen
 
-* [Händlerdokumentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
-* [Entwicklerdokumentation](https://developer.adobe.com/commerce)
-* [Adobe Digital Learning Services - Adobe Commerce-Kurskatalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+* [Merchant documentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
+* [Developer documentation](https://developer.adobe.com/commerce)
+* [Adobe Digital Learning Services - Adobe Commerce course catalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 
