@@ -197,7 +197,7 @@ Bevor Sie mit den Buildaufforderungen beginnen, bestätigen Sie Folgendes:
 * [ ] Für das App Builder-Projekt ist der I/O Events-Service und der Commerce Event Provider konfiguriert
 * [ ] `aio login` ist abgeschlossen und der richtige Arbeitsbereich wird mit `aio app use` ausgewählt
 * [ ] Node.js 18 oder höher wird installiert und die `aio` CLI wird installiert
-* [ ] `.env` Dateien werden pro ([ POC: Umgebungsvariablen-Referenz](split-payment-poc-env-reference.md) (und Ihr Quellpaket, falls Sie eines verwenden) vorbereitet
+* [ ] `.env` Dateien werden pro ([&#x200B; POC: Umgebungsvariablen-Referenz](split-payment-poc-env-reference.md) (und Ihr Quellpaket, falls Sie eines verwenden) vorbereitet
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

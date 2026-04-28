@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz
 
-In jeder Komponente werden dieselben vier Commerce OAuth-Anmeldeinformationen verwendet. Erstellen Sie **[!UICONTROL Commerce Admin]** eine **[!UICONTROL Integration]** und verwenden Sie dann die vier Werte in jeder `.env` unten stehenden Datei erneut. ([ Aktivierungsschritte finden Sie unter „Zahlungs-POC aufteilen: Voraussetzungen ](split-payment-poc-prerequisites-and-setup.md) Umgebungseinrichtung“.)
+In jeder Komponente werden dieselben vier Commerce OAuth-Anmeldeinformationen verwendet. Erstellen Sie **[!UICONTROL Commerce Admin]** eine **[!UICONTROL Integration]** und verwenden Sie dann die vier Werte in jeder `.env` unten stehenden Datei erneut. ([&#x200B; Aktivierungsschritte finden Sie unter „Zahlungs-POC aufteilen: Voraussetzungen &#x200B;](split-payment-poc-prerequisites-and-setup.md) Umgebungseinrichtung“.)
 
 ## Die vier OAuth-Anmeldeinformationen (überall verwendet)
 
