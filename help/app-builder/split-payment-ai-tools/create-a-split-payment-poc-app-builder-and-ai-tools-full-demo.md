@@ -24,7 +24,7 @@ Ein Käufer zahlt mit Teil-Bargeld und Teil-**[!UICONTROL Store Credit]**. Comme
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484108?captions=ger&learn=on)
 
 ## Für wen ist dieses Video bestimmt?
 
