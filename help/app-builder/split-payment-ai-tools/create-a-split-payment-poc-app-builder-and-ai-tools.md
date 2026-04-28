@@ -2,15 +2,15 @@
 title: 'Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools'
 description: Erfahren Sie mehr über einen separaten Zahlungsnachweis mit App Builder und Commerce PaaS, einschließlich der Ziele, der Architektur und der Themen, die in dieser ersten Sitzung behandelt werden.
 feature: App Builder, Paas, Payments
-topic: App Builder, Commerce, Development, Integrations
+topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 259
+duration: 260
 jira: KT-20791
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Dies ist das erste einer Reihe von Tutorials, die Sie mit der Verwendung der KI-
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483942?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
 
 ## Wichtige Details
 
@@ -31,11 +31,13 @@ Dieses Tutorial überbrückt die Kluft zwischen dem, wo die meisten Adobe Commer
 ### Was Sie tatsächlich bauen werden
 
 Split-Zahlungssystem, bei dem Kunden mit einer Kombination aus Nachnahme und Vorratskredit bezahlen. Nachdem die Bestellung aufgegeben wurde, bestätigt oder lehnt ein Benutzer (oder ERP-System) die Barzahlung über ein eigenständiges Dashboard ab - ohne jemals Commerce Admin zu öffnen. Der gesamte Workflow zum Akzeptieren/Ablehnen wird in App Builder ausgeführt.
-Die Architekturlektion (dies ist die Kernlehre)
+
+#### Der Architekturunterricht (Kernunterricht)
+
 Das Tutorial zeigt ein absichtliches und wiederholbares Entscheidungs-Framework:
 
-Was in PHP bleiben muss: alles, was synchron im Commerce-Anfragezyklus läuft oder Commerce-interne APIs ohne saubere Oberfläche aufruft
-Was zu App Builder wechselt: alles andere - Ereignisverarbeitung, Benutzer-Workflow, externe Integrationen und Tools, die auf Benutzer ausgerichtet sind
+* **Was in PHP bleiben muss:** alles, was synchron im Commerce-Anfragezyklus läuft oder Commerce-interne APIs ohne saubere externe Oberfläche aufruft
+* **Was zu App Builder wechselt:** alles andere - Ereignisverarbeitung, Benutzer-Workflow, externe Integrationen und Tools für die Benutzereingabe
 
 Es geht nicht darum, „alles nach App Builder zu verschieben“. Es ist ein praktischer, ehrlicher Ausgangspunkt für Teams, die die Umstellung ohne Umschreibung beginnen müssen.
 
@@ -45,10 +47,10 @@ Der Ansatz mit der KI-Eingabeaufforderung ist tatsächlich besser als Beispiel-C
 
 ### Was enthalten ist
 
-Vollständiger App Builder-Anwendungs-Code (projektübergreifend konsistent - direkt oder als Referenz verwenden)
-Ein kompletter Satz von nummerierten KI-Eingabeaufforderungen, die für Cursor und Claude entwickelt wurden und das Commerce-Modul, den App Builder Orchestrator, das Benutzer-Dashboard, Tests und den Weg zur Produktion abdecken
-Ein Simulationsskript zum Testen des Akzeptanz-/Ablehnungsflusses gegenüber einer Live-Commerce-Site, ohne dass ein echtes ERP erforderlich ist
-Architekturdokumentation zur Erläuterung jeder Entscheidung
+* Vollständiger App Builder-Anwendungs-Code (projektübergreifend konsistent - direkt oder als Referenz verwenden)
+* Ein kompletter Satz von nummerierten KI-Eingabeaufforderungen, die für Cursor und Claude entwickelt wurden und das Commerce-Modul, den App Builder Orchestrator, das Benutzer-Dashboard, Tests und den Weg zur Produktion abdecken
+* Ein Simulationsskript zum Testen des Akzeptanz-/Ablehnungsflusses gegenüber einer Live-Commerce-Site, ohne dass ein echtes ERP erforderlich ist
+* Architekturdokumentation zur Erläuterung jeder Entscheidung
 
 ### Für wen ist das?
 
@@ -61,3 +63,5 @@ Adobe Commerce 2.4.5 oder höher, Zugriff auf eine Adobe Developer Console-Organ
 ### Abschließende Gedanken
 
 Dies sollte als Einstiegsdiskussion über die KI-gestützte Entwicklung betrachtet werden. Dieses Tutorial ist eine Demonstration für die Verwendung von KI-Tools in einem Commerce-Entwicklungs-Workflow und nicht nur ein Tutorial zu aufgeteilten Zahlungen.
+
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}

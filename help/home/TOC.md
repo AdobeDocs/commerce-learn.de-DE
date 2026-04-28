@@ -3,9 +3,9 @@ user-guide-title: Videos und Tutorials
 user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Commerce und Magento Open Source.
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
    + Backend-Entwicklung {#backend-development}
-      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+      + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Erstellen eines Moduls](../backend-development/create-module.md)
       + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
       + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -152,6 +152,15 @@ ht-degree: 3%
       + Verwenden von KI-Tools zum Erstellen eines aufgeteilten Zahlungs-POC {#create-a-split-payment-poc}
          + [Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [Erstellen einer vollständigen Demo zu aufgeteilten Zahlungen - POC: App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [Aufspaltung des Zahlungs-POC: Architektur- und Design-Entscheidungen](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [Aufspaltung des Zahlungs-POC: Commerce-Modul-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [Aufspaltung des Zahlungs-POC: App Builder Orchestrator-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [Split Payment POC: Test- und Verifizierungshandbuch](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Konzeptnachweis](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [Aufspaltung des Zahlungs-POC: Tutorial-Schnellübersicht für Autoren](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools {#custom-shipping-rates-ai-tools}
          + [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
