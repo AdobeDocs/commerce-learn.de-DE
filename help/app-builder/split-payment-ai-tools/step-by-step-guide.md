@@ -22,7 +22,7 @@ Diese Seite ist die Checkliste für Ihre Implementierung. Es wird davon ausgegan
 
 ## Bevor Sie beginnen
 
-Bestätigen Sie alles Folgende, bevor Sie eine Eingabeaufforderung oder einen Befehl ausführen. Auf [ Seite „Voraussetzungen und Setup](./prerequisites-and-setup.md) werden die einzelnen Elemente detailliert behandelt.
+Bestätigen Sie alles Folgende, bevor Sie eine Eingabeaufforderung oder einen Befehl ausführen. Auf [&#x200B; Seite „Voraussetzungen und Setup](./prerequisites-and-setup.md) werden die einzelnen Elemente detailliert behandelt.
 
 **Commerce-Seite**
 
@@ -90,7 +90,7 @@ Bestätigen Sie dann in einem Browser, dass die Aufspaltungs-Zahlungsfelder an d
 
 **Funktion:** Bereitet die vom App Builder Orchestrator, dem Simulationsskript und (optional) der Experience Cloud-Benutzeroberflächenerweiterung verwendeten Berechtigungsdateien vor. In jeder `.env`-Datei werden die gleichen vier OAuth-Werte aus Ihrer Commerce-Integration verwendet.
 
-Die vollständige Liste [ Variablen pro Komponente finden ](./env-reference.md) in der „Umgebungsvariablen-Referenz .
+Die vollständige Liste [&#x200B; Variablen pro Komponente finden &#x200B;](./env-reference.md) in der „Umgebungsvariablen-Referenz .
 
 ### Schritt 2.1 - Orchestrierungs-`.env` erstellen
 
@@ -126,7 +126,7 @@ Geben Sie `COMMERCE_BASE_URL` und die vier OAuth-Werte (dieselben Anmeldeinforma
 
 ### Schritt 3.1 - Orchestrierungsaufforderung ausführen
 
-Öffnen Sie die Seite mit der Eingabeaufforderung für die App Builder Orchestrator-](./orchestrator-prompt.md). [Kopieren Sie die vollständige Eingabeaufforderung und führen Sie sie aus dem Verzeichnis `split-payment-orchestrator/` aus.
+Öffnen Sie die Seite mit der Eingabeaufforderung für die App Builder Orchestrator-[&#128279;](./orchestrator-prompt.md). Kopieren Sie die vollständige Eingabeaufforderung und führen Sie sie aus dem Verzeichnis `split-payment-orchestrator/` aus.
 
 ### Schritt 3.2 - Installieren von Abhängigkeiten und Bereitstellen
 
