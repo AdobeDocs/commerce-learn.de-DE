@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz
 
-In jeder Komponente werden dieselben vier Commerce OAuth-Anmeldeinformationen verwendet. Erstellen Sie **[!UICONTROL Commerce Admin]** eine **[!UICONTROL Integration]** und verwenden Sie dann die vier Werte in jeder `.env` unten stehenden Datei erneut. ([&#x200B; Aktivierungsschritte finden Sie unter „Zahlungs-POC aufteilen: Voraussetzungen &#x200B;](split-payment-poc-prerequisites-and-setup.md) Umgebungseinrichtung“.)
+In jeder Komponente werden dieselben vier Commerce OAuth-Anmeldeinformationen verwendet. Erstellen Sie **[!UICONTROL Commerce Admin]** eine **[!UICONTROL Integration]** und verwenden Sie dann die vier Werte in jeder `.env` unten stehenden Datei erneut. ([&#x200B; Aktivierungsschritte finden Sie unter „Zahlungs-POC aufteilen: Voraussetzungen &#x200B;](./prerequisites-and-setup.md) Umgebungseinrichtung“.)
 
 ## Die vier OAuth-Anmeldeinformationen (überall verwendet)
 

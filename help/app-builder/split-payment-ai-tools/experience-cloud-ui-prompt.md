@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung
 
-Dies ist der optionale Schritt, bei dem das Bedienfeld „Aufspaltung“ für Zahlungsaufträge mithilfe der `commerce-checkout-starter-kit` und des `commerce-backend-ui-1` in die **[!UICONTROL Adobe Commerce]** Admin Shell (Experience Cloud) eingebettet wird. Das eigenständige [Demo-Dashboard](split-payment-poc-app-builder-orchestrator-prompt.md) von App Builder Orchestrator deckt denselben Akzeptieren- und Ablehnungsfluss ohne Admin-Shell-Integration ab.
+Dies ist der optionale Schritt, bei dem das Bedienfeld „Aufspaltung“ für Zahlungsaufträge mithilfe der `commerce-checkout-starter-kit` und des `commerce-backend-ui-1` in die **[!UICONTROL Adobe Commerce]** Admin Shell (Experience Cloud) eingebettet wird. Das eigenständige [Demo-Dashboard](./orchestrator-prompt.md) von App Builder Orchestrator deckt denselben Akzeptieren- und Ablehnungsfluss ohne Admin-Shell-Integration ab.
 
 ## So verwenden Sie diese Eingabeaufforderung
 
@@ -26,8 +26,8 @@ Kopieren Sie alles von **PROMPT START** bis **Ende der Eingabeaufforderung** in 
 
 ## Vor der Ausführung
 
-* Dieser Pfad benötigt **IMS**-Anmeldeinformationen zusätzlich zu den OAuth-Werten (siehe [Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz](split-payment-poc-env-reference.md) für die `commerce-checkout-starter-kit` Variablen).
-* Schließen Sie [Zahlungs-POC aufteilen: App Builder Orchestrator-KI-Eingabeaufforderung](split-payment-poc-app-builder-orchestrator-prompt.md) zuerst ab, wenn Sie dasselbe `payment-accept` und `payment-decline` Verhalten vergleichen möchten. Die Benutzeroberflächenerweiterung verwendet diese Logik mit `COMMERCE_INTEGRATION_*` Umfeldnamen.
+* Dieser Pfad benötigt **IMS**-Anmeldeinformationen zusätzlich zu den OAuth-Werten (siehe [Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz](./env-reference.md) für die `commerce-checkout-starter-kit` Variablen).
+* Schließen Sie [Zahlungs-POC aufteilen: App Builder Orchestrator-KI-Eingabeaufforderung](./orchestrator-prompt.md) zuerst ab, wenn Sie dasselbe `payment-accept` und `payment-decline` Verhalten vergleichen möchten. Die Benutzeroberflächenerweiterung verwendet diese Logik mit `COMMERCE_INTEGRATION_*` Umfeldnamen.
 
 
 ## Die Eingabeaufforderung

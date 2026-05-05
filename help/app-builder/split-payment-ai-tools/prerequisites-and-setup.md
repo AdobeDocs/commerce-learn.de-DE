@@ -1,6 +1,6 @@
 ---
 title: 'Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung'
-description: Learn how to set up Commerce, Admin for COD and store credit, OAuth integration, I/O Events, App Builder, and aio CLI before the split payment build prompts.
+description: Erfahren Sie, wie Sie Commerce, Admin für COD und Store-Guthaben, OAuth-Integration, I/O-Ereignisse, App Builder und AIO CLI einrichten, bevor die Aufspaltung zur Zahlungserstellung auffordert.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -18,17 +18,17 @@ ht-degree: 1%
 
 # Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung
 
-Complete every step in this tutorial before you run any of the build prompts. Missing a single step is the most common reason the flow breaks mid-tutorial.
+Führen Sie jeden Schritt in diesem Tutorial aus, bevor Sie eine der Build-Anweisungen ausführen. Das Fehlen eines einzelnen Schritts ist der häufigste Grund dafür, dass der Fluss während des Tutorials unterbrochen wird.
 
-## 1. Adobe Commerce requirements
+## &#x200B;1. Adobe Commerce-Anforderungen
 
-* Adobe Commerce **2.4.5 or later** (on-premises or Commerce Cloud)
-* Git access to the Commerce project (you add a module under `app/code/`)
-* Access to **[!UICONTROL Commerce Admin]**
+* Adobe Commerce **2.4.5 oder höher** (On-Premise oder Commerce Cloud)
+* Git-Zugriff auf das Commerce-Projekt (Sie fügen ein Modul unter `app/code/` hinzu)
+* Zugriff auf **[!UICONTROL Commerce Admin]**
 
-### Commerce Cloud only: enable I/O eventing
+### Nur Commerce Cloud: I/O-Eventing aktivieren
 
-Add the following to `.magento.env.yaml` and deploy before you add the module:
+Fügen Sie Folgendes hinzu, um `.magento.env.yaml` und bereitzustellen, bevor Sie das Modul hinzufügen:
 
 ```yaml
 stage:
@@ -36,23 +36,23 @@ stage:
     ENABLE_EVENTING: true
 ```
 
-> **Warning:** This deploy must finish successfully before the I/O Event module dependency can resolve.
+> **Warnung:** Diese Bereitstellung muss erfolgreich abgeschlossen werden, bevor die I/O-Ereignismodulabhängigkeit aufgelöst werden kann.
 
 
-## 2. Commerce Admin configuration
+## &#x200B;2. Commerce Admin-Konfiguration
 
-Do these steps before anything else. Der Checkout-JavaScript hängt von den exakten Zeichenfolgen-Übereinstimmungen ab.
+Führen Sie diese Schritte vor allen anderen Schritten aus. Der Checkout-JavaScript hängt von den exakten Zeichenfolgen-Übereinstimmungen ab.
 
-### 2a. Enable Cash on Delivery with the exact title
+### 2a. Nachnahme mit dem genauen Titel aktivieren
 
 **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Sales]** > **[!UICONTROL Payment Methods]** > **[!UICONTROL Cash On Delivery Payment]**
 
 * **[!UICONTROL Enabled]**: **Ja**
-* **[!UICONTROL Title]**: **`Cash`** (this exact string is what the checkout JavaScript matches)
+* **[!UICONTROL Title]**: **`Cash`** (Diese exakte Zeichenfolge entspricht der Checkout-JavaScript)
 
-> **Note:** If your store uses a different cash-on-delivery (COD) implementation or title, adjust `payment-method-helper.js` in the Commerce module.
+> **Hinweis:** Wenn Ihr Store eine andere Cash-on-delivery (COD)-Implementierung oder einen anderen Titel verwendet, passen Sie die `payment-method-helper.js` im Commerce-Modul an.
 
-### 2b. Enable store credit
+### 2b. Filialkredit aktivieren
 
 **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Customers]** > **[!UICONTROL Customer Configuration]** > **[!UICONTROL Store Credit Options]**
 
@@ -197,7 +197,7 @@ Bevor Sie mit den Buildaufforderungen beginnen, bestätigen Sie Folgendes:
 * [ ] Für das App Builder-Projekt ist der I/O Events-Service und der Commerce Event Provider konfiguriert
 * [ ] `aio login` ist abgeschlossen und der richtige Arbeitsbereich wird mit `aio app use` ausgewählt
 * [ ] Node.js 18 oder höher wird installiert und die `aio` CLI wird installiert
-* [ ] `.env` Dateien werden pro ([&#x200B; POC: Umgebungsvariablen-Referenz](split-payment-poc-env-reference.md) (und Ihr Quellpaket, falls Sie eines verwenden) vorbereitet
+* [ ] `.env` Dateien werden pro ([&#x200B; POC: Umgebungsvariablen-Referenz](./env-reference.md) (und Ihr Quellpaket, falls Sie eines verwenden) vorbereitet
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

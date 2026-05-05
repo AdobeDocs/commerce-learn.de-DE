@@ -1,6 +1,6 @@
 ---
 title: 'Split Payment POC: Test- und Verifizierungshandbuch'
-description: 'Erfahren Sie, wie Sie den aufgeteilten Zahlungs-POC überprüfen: Commerce-Installation, REST, Checkout, Schwellenwert, Simulation akzeptieren und ablehnen, Demo-Dashboard und App Builder-Protokolle.'
+description: Erfahren Sie, wie Sie den aufgeteilten Zahlungs-POC überprüfen. Commerce-Installation, REST, Checkout, Schwellenwert, Annahme und Ablehnung von Simulationen, Demo-Dashboard und App Builder-Protokolle.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -231,32 +231,32 @@ Für `payment-accept` oder `payment-decline`:
 **Ursache:** Die Liste der `io_events.xml` Felder enthält keine `entity_id` oder die Payload-Form des Ereignisses hat sich geändert.
 
 **Beheben:**
-* Confirm `io_events.xml` includes `entity_id` in the field list
-* In the action, log `JSON.stringify(params)` temporarily to see the full payload shape
-* Check that the `extractValue()` function is finding the right nesting level
+* Bestätigen, `io_events.xml` `entity_id` in die Feldliste einfügt
+* Melden Sie sich in der Aktion vorübergehend `JSON.stringify(params)`, um die vollständige Payload-Form anzuzeigen
+* Überprüfen Sie, ob die `extractValue()` die richtige Verschachtelungsebene findet
 
-### Orders don&#39;t show in demo dashboard
+### Bestellungen werden nicht im Demo-Dashboard angezeigt
 
-**Cause:** Commerce REST `orders` search criteria not returning orders, or `split_cash_status` field not in the REST response.
+**Ursache:** Commerce REST `orders` Suchkriterien geben keine Bestellungen zurück oder `split_cash_status` Feld nicht in der REST-Antwort.
 
 **Beheben:**
-* Confirm `OrderRepositoryPlugin` is loading extension attributes correctly
-* Test directly: `GET /rest/V1/orders?searchCriteria[pageSize]=5` and check if `extension_attributes.split_cash_status` appears in the response
-* Check that `extension_attributes.xml` is correctly declaring the `split_cash_status` attribute on `OrderInterface`
+* Überprüfen, `OrderRepositoryPlugin` Erweiterungsattribute korrekt geladen werden
+* Direkt testen: `GET /rest/V1/orders?searchCriteria[pageSize]=5` und überprüfen, ob `extension_attributes.split_cash_status` in der Antwort angezeigt wird
+* Vergewissern Sie sich, dass `extension_attributes.xml` das `split_cash_status` Attribut in `OrderInterface` korrekt deklariert.
 
 
-## Verification Checklist
+## Verifizierungs-Checkliste
 
-* [ ] `split_*` columns visible in `sales_order` table
-* [ ] REST endpoints return 401 (not 404) when called without auth
-* [ ] Split payment UI renders at checkout when Cash is selected
-* [ ] Validation messages work (overpayment, insufficient credit)
-* [ ] Threshold guard blocks orders > $100
-* [ ] Placed order has `pending_payment` status and App Builder comments
-* [ ] `simulate-split-payment.mjs list` shows the test order with split amounts
-* [ ] `simulate-split-payment.mjs accept <id>` moves order to `processing` with invoice and shipment
-* [ ] `simulate-split-payment.mjs decline <id>` cancels the order
-* [ ] Demo dashboard lists pending orders and accept/decline work from the UI
+* [ ] `split_*` Spalten sichtbar in `sales_order` Tabelle
+* [ ] REST-Endpunkte geben 401 (nicht 404) zurück, wenn sie ohne Authentifizierung aufgerufen werden
+* [ ] Aufspaltung der Zahlungs-Benutzeroberfläche wird an der Kasse gerendert, wenn „Bargeld“ ausgewählt wird
+* [ ] Validierungsnachrichten funktionieren (Überzahlung, unzureichende Gutschrift)
+* [ ] Schwellenwertwächter blockiert Bestellungen > $100
+* [ ] aufgegebene Bestellung hat `pending_payment` Status und App Builder-Kommentare
+* [ ] `simulate-split-payment.mjs list` zeigt den Testauftrag mit aufgeteilten Beträgen an
+* [ ] `simulate-split-payment.mjs accept <id>` verschiebt Bestellung mit Rechnung und Versand nach `processing`
+* [ ] `simulate-split-payment.mjs decline <id>` storniert die Bestellung
+* [ ] Demo-Dashboard listet ausstehende Bestellungen auf und akzeptiert/verweigert Arbeit über die Benutzeroberfläche
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

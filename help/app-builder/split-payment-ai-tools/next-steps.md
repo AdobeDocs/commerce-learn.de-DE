@@ -1,6 +1,6 @@
 ---
 title: 'Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Konzeptnachweis'
-description: 'Erfahren Sie, wie Sie den aufgeteilten Zahlungs-POC in die Produktion verschieben können: Experience Cloud-Benutzeroberfläche, ERP-Hooks, API-Mesh, PHP-Umfang, App Builder-Workflows und Checkliste für die Bereitstellung.'
+description: Erfahren Sie, wie Sie den POC für aufgeteilte Zahlungen in die Produktion verschieben können. Experience Cloud-Benutzeroberfläche, ERP-Hooks, API-Mesh, PHP-Umfang, App Builder-Workflows und Bereitstellungs-Checkliste.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Das Demo-Dashboard und das Simulationsskript, das Sie in diesem Tutorial erstell
 
 Die `demo-dashboard` Web-Aktion stellt HTML über eine Zeichenfolge innerhalb einer Node.js-Funktion bereit. Es funktioniert, aber es ist nicht das Produktionsmuster.
 
-Der richtige Ersatz ist die `commerce-backend-ui-1` im `commerce-checkout-starter-kit` - eine React-App, die über die Adobe Admin UI SDK in die Commerce Admin Shell eingebettet ist. Siehe [Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterungs-KI](split-payment-poc-experience-cloud-ui-prompt.md)Eingabeaufforderung für die Erzeugungsaufforderung.
+Der richtige Ersatz ist die `commerce-backend-ui-1` im `commerce-checkout-starter-kit` - eine React-App, die über die Adobe Admin UI SDK in die Commerce Admin Shell eingebettet ist. Siehe [Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterungs-KI](./experience-cloud-ui-prompt.md)Eingabeaufforderung für die Erzeugungsaufforderung.
 
 **Änderungen:**
 * Benutzende melden sich über die Commerce Admin Shell an (IMS-Authentifizierung statt eines freigegebenen Geheimnisses)
@@ -45,64 +45,64 @@ Der Akzeptier-/Ablehnungsfluss in diesem PoC wird durch das Klicken eines Mensch
 
 **Das Integrationsmuster:**
 1. Ihr ERP-System erfasst Bargeld und ruft `POST /payment-accept` (die App Builder Web Action URL) mit `{ orderId: <entity_id> }` auf
-2. App Builder validates the call (bearer token or API key — add auth middleware to `payment-accept`)
-3. App Builder calls Commerce REST `cash-received`
-4. Commerce invoices and ships the order
+2. App Builder validiert den Aufruf (Bearer-Token oder API-Schlüssel — Authentifizierungs-Middleware zu `payment-accept` hinzufügen)
+3. App Builder ruft Commerce REST-`cash-received` auf
+4. Commerce stellt Rechnungen aus und versendet die Bestellung
 
-No PHP changes required. The REST surface is already there. The App Builder action just needs a secure caller instead of a dashboard button.
+Keine PHP-Änderungen erforderlich. Die REST-Oberfläche ist bereits vorhanden. Für die App Builder-Aktion ist nur ein sicherer Aufrufer anstelle einer Dashboard-Schaltfläche erforderlich.
 
-**Authentication options for the ERP caller:**
-* Adobe I/O Runtime supports `require-adobe-auth: true` for IMS tokens (if your ERP can get an IMS token)
-* For non-Adobe systems: add a simple API key check in the `payment-accept` action (check a header against a secret stored in the action&#39;s env)
-
-
-## Step 3 — Add API Mesh as a Broker Layer
-
-Currently, App Builder calls Commerce REST directly with OAuth 1.0a credentials. For larger deployments, Adobe API Mesh provides a managed gateway layer between App Builder and Commerce.
-
-**Benefits:**
-* Centralized credential management — API Mesh holds the Commerce credentials; App Builder calls API Mesh
-* Request transformation — map App Builder payloads to Commerce REST shapes without changing the App Builder action
-* Rate limiting and caching — protect Commerce from high-volume event traffic
-
-**The pattern:**
-* Replace `createCommerceClient(params, logger)` calls with calls to your API Mesh endpoint
-* API Mesh handles OAuth signing toward Commerce
+**Authentifizierungsoptionen für ERP-Aufrufer:**
+* Adobe I/O Runtime unterstützt `require-adobe-auth: true` für IMS-Token (wenn Ihr ERP ein IMS-Token erhalten kann)
+* Für Nicht-Adobe-Systeme: Fügen Sie eine einfache API-Schlüsselprüfung in der `payment-accept` hinzu (überprüfen Sie eine Kopfzeile mit einem Geheimnis, das in der Umgebung der Aktion gespeichert ist)
 
 
-## Step 4 — Reduce the PHP Footprint
+## Schritt 3 - API-Mesh als Broker-Ebene hinzufügen
 
-The current PHP module handles five things that must stay in-process (see [Split payment POC: architecture and design decisions](split-payment-poc-architecture-and-decisions.md)). As Adobe Commerce&#39;s API surface matures, some of these may become movable:
+Derzeit ruft App Builder Commerce REST direkt mit OAuth 1.0a-Anmeldeinformationen auf. Für größere Bereitstellungen bietet Adobe API Mesh eine verwaltete Gateway-Ebene zwischen App Builder und Commerce.
 
-**Potentially movable in the future:**
-* The store credit REST API is evolving — future versions may support applying credit post-order or to inactive carts
-* As more Commerce operations become async-safe, the threshold guard may be movable to a pre-order API Mesh resolver
+**Vorteile:**
+* Zentralisierte Berechtigungsverwaltung - API Mesh speichert die Commerce-Anmeldeinformationen; App Builder ruft API Mesh auf
+* Anforderungstransformation - Ordnen Sie App Builder-Payloads Commerce-REST-Shapes zu, ohne die App Builder-Aktion zu ändern
+* Ratenbegrenzung und Caching - Schützen Sie Commerce vor Ereignisdatenverkehr mit hohem Volumen
 
-**Not movable (architectural constraints):**
-* Quote manipulation before `placeOrder()` will always require in-process code unless Commerce exposes a clean hook via an API-first extension point
-* The REST endpoints (`/V1/split-payment/*`) are specific to this feature; they live in Commerce because they call Commerce-internal services
-
-
-## Step 5 — Add More Workflow to App Builder
-
-The current PoC does one thing: listen for order placement, then enable accept/decline. Natural extensions:
-
-**Fraud scoring before accept:**
-In `payment-orchestrator`, after recording cash pending, call a fraud scoring API before the orchestration result is considered final. If the score is above a threshold, auto-decline instead of waiting for operator action.
-
-**Notification emails:**
-When `payment-accept` succeeds, trigger an email (via Adobe Campaign, SendGrid, or any HTTPS API) notifying the customer that their cash payment was confirmed.
-
-**Loyalty point awards:**
-After cash is confirmed, call a loyalty API to award points. This is pure App Builder — no PHP required.
-
-**Timeout handling:**
-Add a scheduled App Builder action (using `cron` in `app.config.yaml`) that scans for orders with `split_cash_status = 'pending'` older than X days and auto-declines them.
+**Das Muster:**
+* Ersetzen `createCommerceClient(params, logger)` Aufrufe durch Aufrufe an Ihren API-Mesh-Endpunkt
+* API-Mesh handhabt das OAuth-Signieren für Commerce
 
 
-## Step 6 — Deploy to Production
+## Schritt 4: Reduzierung des PHP-Platzbedarfs
 
-The PoC is configured for `Stage` workspace. Moving to production:
+Das aktuelle PHP-Modul behandelt fünf Dinge, die im Prozess bleiben müssen (siehe [Split Payment POC: Architektur- und Design-Entscheidungen](./architecture-and-decisions.md)). Mit zunehmender Reife der API-Oberfläche von Adobe Commerce können einige dieser Funktionen verschoben werden:
+
+**In Zukunft potenziell beweglich:**
+* Die Store-Credit-REST-API entwickelt sich weiter - zukünftige Versionen können die Anwendung von Guthaben nach der Bestellung oder auf inaktive Warenkörbe unterstützen
+* Da immer mehr Commerce-Vorgänge asynchron sind, kann der Schwellenwert-Guard auf einen vorkonfigurierten API-Mesh-Resolver verschoben werden
+
+**Nicht beweglich (architektonische Einschränkungen):**
+* Die Zitatbearbeitung vor dem `placeOrder()` erfordert immer prozessinternen Code, es sei denn, Commerce stellt über einen API-First-Erweiterungspunkt einen fehlerfreien Hook zur Verfügung
+* Die REST-Endpunkte (`/V1/split-payment/*`) sind für diese Funktion spezifisch. Sie befinden sich in Commerce, weil sie Commerce-interne Services aufrufen
+
+
+## Schritt 5: Hinzufügen eines weiteren Workflows zu App Builder
+
+Der aktuelle PoC tut eine Sache: die Auftragserteilung überwachen und dann Akzeptieren/Ablehnen aktivieren. Natürliche Erweiterungen:
+
+**Betrugs-Scoring vor der Annahme:**
+Rufen Sie in `payment-orchestrator` nach der Aufzeichnung ausstehender Barmittel eine Betrugs-Scoring-API auf, bevor das Orchestrierungsergebnis als endgültig betrachtet wird. Wenn der Score über einem Schwellenwert liegt, wird automatisch abgelehnt, anstatt auf eine Benutzeraktion zu warten.
+
+**Benachrichtigungs-E-Mails:**
+Wenn `payment-accept` erfolgreich ist, senden Sie eine E-Mail (über Adobe Campaign, SendGrid oder eine beliebige HTTPS-API), die den Kunden darüber informiert, dass seine Barzahlung bestätigt wurde.
+
+**Treuepunktpreise:**
+Nachdem die Barzahlung bestätigt wurde, rufen Sie eine Treue-API auf, um Punkte zu vergeben. Dies ist reine App Builder - kein PHP erforderlich.
+
+**Verarbeitung der Zeitüberschreitung:**
+Fügen Sie eine geplante App Builder-Aktion (unter Verwendung von `cron` in `app.config.yaml`) hinzu, die Bestellungen mit `split_cash_status = 'pending'` älter als X Tage sucht und automatisch ablehnt.
+
+
+## Schritt 6: Bereitstellung für Produktion
+
+Der POC ist für `Stage` Arbeitsbereich konfiguriert. Wechseln zur Produktion:
 
 ```bash
 # Switch to production workspace
@@ -116,12 +116,12 @@ aio app use
 aio app deploy
 ```
 
-**Checklist for production readiness:**
-* [ ] `DEMO_UI_SECRET` set (or demo dashboard replaced with Experience Cloud UI)
-* [ ] `LOG_LEVEL=warn` or `error` in production (not `debug`)
-* [ ] `PAYMENT_THRESHOLD` matches Commerce production config
-* [ ] Commerce Integration credentials in `.env` are for a dedicated production integration (not staging)
-* [ ] Fastly IP allowlist updated with App Builder production egress IPs (Commerce Cloud)
+**Checkliste für die Produktionsbereitschaft:**
+* [ ] `DEMO_UI_SECRET` festgelegt (oder das Demo-Dashboard durch die Experience Cloud-Benutzeroberfläche ersetzt)
+* [ ] `LOG_LEVEL=warn` oder `error` in Produktion (nicht `debug`)
+* [ ] `PAYMENT_THRESHOLD` entspricht der Commerce-Produktionskonfiguration
+* [ ] Anmeldedaten für die Commerce-Integration in `.env` für eine dedizierte Produktionsintegration (nicht für Staging)
+* [ ] Fastly IP-Zulassungsliste mit App Builder Production Egress-IPs (Commerce Cloud) aktualisiert
 * [ ] E/A-Ereignisregistrierung in Produktionsarbeitsbereich bestätigt
 
 

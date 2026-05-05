@@ -1,6 +1,6 @@
 ---
 title: 'Aufspaltung des Zahlungs-POC: App Builder Orchestrator-KI-Eingabeaufforderung'
-description: 'Erfahren Sie, wie Sie mit dieser Eingabeaufforderung die Split-Payment-Orchestrator-App erstellen können: E/A-Ereignisse, Payment-Orchestrator, Web-Aktionen, Demo-Dashboard und Mobile-App-Bereitstellung.'
+description: Erfahren Sie, wie Sie mit dieser Eingabeaufforderung die Split-Payment-Orchestrator-App erstellen. E/A-Ereignisse, Zahlungskoordinator, Web-Aktionen, Demo-Dashboard und Mobile-App-Bereitstellung.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Kopieren Sie alles von **PROMPT START** bis **Ende der Eingabeaufforderung** nac
 
 ## Vor der Ausführung
 
-* Beenden [Zahlungs-POC aufteilen: Voraussetzungen und Einrichtung der Umgebung](split-payment-poc-prerequisites-and-setup.md).
-* Halten Sie [Zahlungs-POC: Umgebungsvariablen referenzieren](split-payment-poc-env-reference.md) und `.env` Datei im Projekt bereit.
+* Beenden [Zahlungs-POC aufteilen: Voraussetzungen und Einrichtung der Umgebung](./prerequisites-and-setup.md).
+* Halten Sie [Zahlungs-POC: Umgebungsvariablen referenzieren](./env-reference.md) und `.env` Datei im Projekt bereit.
 
 
 ## Die Eingabeaufforderung
@@ -185,47 +185,47 @@ Logik:
 
 **`updateOrderAfterOrchestration({ commerce, orderId, success, detail, logger })`** — gibt `{ ok: boolean, error? }` zurück
 
-* If `success`: posts a history comment `"Split payment orchestration completed. Order awaiting cash confirmation."`
-* If `!success`: posts `"Payment could not be processed. Please try again or contact support."` — never include `detail` in the customer-visible comment; log `detail` internally only
-* Returns `{ ok: boolean, error? }` — never throws
+* Wenn `success`: Veröffentlicht einen Kommentar-`"Split payment orchestration completed. Order awaiting cash confirmation."` zum Verlauf
+* Wenn `!success`: Beiträge `"Payment could not be processed. Please try again or contact support."` — `detail` nie in den vom Kunden sichtbaren Kommentar einbeziehen; `detail` nur intern protokollieren
+* Gibt `{ ok: boolean, error? }` zurück - wirft nie
 
 
 ### `actions/payment-orchestrator/store-credit.js`
 
-**`applyStoreCredit({ commerce, cartId, amount, logger })`** — deprecated no-op implementation
+**`applyStoreCredit({ commerce, cartId, amount, logger })`** — Veraltete No-op-Implementierung
 
-Include this file with a JSDoc `@deprecated` notice explaining:
-> The orchestrator no longer applies store credit via REST. Store credit is applied at checkout in the Commerce PHP module (`PlaceOrderPlugin`) using `BalanceManagementInterface::apply()`, which requires an active cart. By the time App Builder receives the I/O Event, the cart is inactive. This file is kept for reference or for custom flows where store credit is applied post-order.
+Schließen Sie diese Datei mit einem JSDoc-`@deprecated` ein, der Folgendes erklärt:
+> Der Orchestrator wendet keine Speichergutschrift mehr über REST an. Store-Guthaben wird an der Kasse im Commerce PHP-Modul (`PlaceOrderPlugin`) unter Verwendung von `BalanceManagementInterface::apply()` angewendet, wofür ein aktiver Warenkorb erforderlich ist. Wenn App Builder das I/O-Ereignis erhält, ist der Warenkorb inaktiv. Diese Datei wird zur Referenz oder für benutzerdefinierte Flüsse aufbewahrt, bei denen Speichergutschriften nach der Bestellung angewendet werden.
 
-Keep a working implementation (same shape as other modules) so developers can study the pattern, but mark it clearly as not used in the current flow.
+Halten Sie eine funktionierende Implementierung (dieselbe Form wie andere Module) aufrecht, damit Entwickler das Muster untersuchen können, markieren Sie es jedoch eindeutig als im aktuellen Fluss nicht verwendet.
 
 
 ### `actions/payment-orchestrator/index.js`
 
-I/O Event entry point. Implements `async function main(params)`.
+Einstiegspunkt für E/A-Ereignisse. Implementiert `async function main(params)`.
 
-**Payload extraction:**
+**Payload-Extraktion:**
 
-Adobe Commerce I/O Events may deliver the payload in several shapes. Extract the order value object by checking these paths in order:
-1. `params.__ow_body` (parse JSON string if needed) → `.event.data.value`
+Adobe Commerce I/O Events kann die Payload in verschiedenen Formen bereitstellen. Extrahieren Sie das Objekt für den Bestellwert, indem Sie diese Pfade in der richtigen Reihenfolge überprüfen:
+1. `params.__ow_body` (parst bei Bedarf JSON-String) → `.event.data.value`
 2. `params.data.value`
 3. `params.value`
 4. `params.body.event.data.value`
-5. Fall back to `params` itself
+5. Auf `params` selbst zurückgreifen
 
-**Field extraction from value:**
+**Feldextraktion aus Wert:**
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
-* Split amounts from `value.extension_attributes` (check both `extension_attributes` and `extensionAttributes`):
+* Beträge aus `value.extension_attributes` aufteilen (sowohl `extension_attributes` als auch `extensionAttributes` überprüfen):
    * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
    * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
-**Flow:**
-1. Extract value; if `orderId` is missing, log error and return `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
-2. Call `evaluateThreshold(...)` — if fails, log and return same 200 response
-3. Call `createCommerceClient(params, logger)` — if fails, return 200 error
-4. If `storeCredit > 0`, log that store credit was applied at checkout (no REST call needed)
-5. Call `recordCashPending(...)` — if fails, call `updateOrderAfterOrchestration(..., success: false)` and return 200 error
+**Fluss:**
+1. Wert extrahieren; wenn `orderId` fehlt, Fehler protokollieren und `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }` zurückgeben
+2. `evaluateThreshold(...)` aufrufen — Wenn der Vorgang fehlschlägt, protokollieren Sie und geben Sie dieselbe 200-Antwort zurück.
+3. Aufruf `createCommerceClient(params, logger)` — gibt bei Fehlschlagen den Fehler 200 zurück
+4. Wenn `storeCredit > 0`, protokollieren Sie, dass die Speichergutschrift an der Kasse angewendet wurde (kein REST-Aufruf erforderlich)
+5. Aufruf `recordCashPending(...)` — Wenn der Vorgang fehlschlägt, rufen Sie `updateOrderAfterOrchestration(..., success: false)` auf und geben den Fehler 200 zurück
 6. `updateOrderAfterOrchestration(..., success: true)`
 7. `{ statusCode: 200, body: { ok: true, message: 'processed' } }`
 

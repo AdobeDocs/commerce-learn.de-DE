@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%
@@ -44,37 +44,37 @@ App Builder *auch* validiert den Schwellenwert (als Audit), aber das Kundenerleb
 
 ### &#x200B;3. Benutzerdefinierte REST-Endpunkte: `webapi.xml` und `SplitPaymentManagement`
 
-The following endpoints must:
+Die folgenden Endpunkte müssen:
 
-* Invoke `SplitInvoiceService` (invoices that use the Commerce internal invoice service)
-* Invoke `ShipOrder::execute()` (Commerce&#39;s internal shipment service)
-* Update order state and status with Commerce&#39;s order state machine
+* `SplitInvoiceService` aufrufen (Rechnungen, die den internen Rechnungsdienst von Commerce verwenden)
+* `ShipOrder::execute()` aufrufen (interner Versand-Service von Commerce)
+* Status und Status der Bestellung mit dem Auftragsstatus-Computer von Commerce aktualisieren
 
 `/V1/split-payment/orders/:id/cash-received` und `/V1/split-payment/orders/:id/cash-decline`
 
-There is no clean public REST layer for that behavior, so Commerce exposes the endpoints. App Builder calls them.
+Es gibt keine saubere öffentliche REST-Ebene für dieses Verhalten, sodass Commerce die Endpunkte verfügbar macht. App Builder nennt sie.
 
-### 4. Split amounts on quote and order: observers and plugins
+### &#x200B;4. Beträge nach Angebot und Bestellung aufteilen: Beobachter und Plug-ins
 
-Commerce needs the split amounts (`split_store_credit_amount`, `split_cash_amount`, `split_cash_status`) on the order, both for the REST responses App Builder reads and for the **[!UICONTROL Admin]** order view. The amounts are attached with extension attributes and are copied from the quote to the order in an observer on `sales_model_service_quote_submit_before`.
+Commerce benötigt die aufgeteilten Beträge (`split_store_credit_amount`, `split_cash_amount`, `split_cash_status`) für die Bestellung, sowohl für die REST-Antworten, die App Builder liest, als auch für die **[!UICONTROL Admin]**. Die Beträge werden mit Erweiterungsattributen angehängt und in einem Beobachter auf `sales_model_service_quote_submit_before` aus dem Angebot in den Auftrag kopiert.
 
-## What lives in App Builder and why
+## Was lebt in App Builder und warum
 
-### 1. Event-driven order processing: `payment-orchestrator`
+### &#x200B;1. Ereignisgesteuerte Auftragsverarbeitung: `payment-orchestrator`
 
-After `sales_order_place_before` fires, App Builder receives the event. It re-validates the threshold (as an audit), records a *cash pending* comment on the order, and updates order status. None of that requires new PHP, only REST back into Commerce.
+Nachdem `sales_order_place_before` ausgelöst wird, erhält App Builder das Ereignis. Er überprüft den Schwellenwert erneut (als Audit), zeichnet einen *Kassenantrag* Kommentar zur Bestellung auf und aktualisiert den Bestellstatus. Nichts davon erfordert neues PHP, nur REST zurück in Commerce.
 
-### 2. Cash acceptance: `payment-accept`
+### &#x200B;2. Barakzept: `payment-accept`
 
-When an ERP (or an operator in the dashboard) confirms cash was received, `payment-accept` calls `POST /V1/split-payment/orders/:id/cash-received`. Invoice, shipment, and order status are handled in Commerce. App Builder is the trigger.
+Wenn ein ERP (oder ein Benutzer im Dashboard) den Empfang von Bargeld bestätigt, werden `payment-accept` Anrufe `POST /V1/split-payment/orders/:id/cash-received`. Rechnung, Versand und Auftragsstatus werden in Commerce abgewickelt. App Builder ist der Trigger.
 
-### 3. Cash decline: `payment-decline`
+### &#x200B;3. Kassenrückgang: `payment-decline`
 
-`payment-decline` calls `POST /V1/split-payment/orders/:id/cash-decline` and Commerce cancels the order. Same pattern as cash acceptance.
+`payment-decline` ruft `POST /V1/split-payment/orders/:id/cash-decline` auf und Commerce storniert die Bestellung. Das gleiche Muster wie Barakzepte.
 
-### 4. Operator dashboard: `demo-dashboard`
+### &#x200B;4. Benutzer-Dashboard: `demo-dashboard`
 
-A self-contained HTML dashboard served from an App Builder web action. It fetches orders that are waiting on cash from Commerce REST and provides **[!UICONTROL Accept]** / **[!UICONTROL Decline]** actions that call the App Builder actions above. Commerce **[!UICONTROL Admin]** ist nicht erforderlich.
+Ein eigenständiges HTML-Dashboard, das von einer App Builder-Web-Aktion bereitgestellt wird. Es ruft Bestellungen, die auf Bargeld warten, aus Commerce REST ab und bietet **[!UICONTROL Accept]**-/**[!UICONTROL Decline]**-Aktionen, die die oben genannten App Builder-Aktionen aufrufen. Commerce **[!UICONTROL Admin]** ist nicht erforderlich.
 
 ## Der Schwellenwert: zweimal absichtlich erzwungen
 

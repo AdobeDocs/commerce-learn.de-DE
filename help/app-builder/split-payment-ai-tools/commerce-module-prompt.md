@@ -1,6 +1,6 @@
 ---
 title: 'Aufspaltung des Zahlungs-POC: Commerce-Modul-KI-Eingabeaufforderung'
-description: 'Erfahren Sie, wie Sie mit dieser Eingabeaufforderung Client_SplitPayment generieren können: REST, Plug-ins, Checkout JavaScript, I/O-Ereignisse und Befehle aktivieren, kompilieren und bereitstellen.'
+description: Erfahren Sie, wie Sie mit dieser Eingabeaufforderung Client_SplitPayment generieren. REST, Plug-ins, Checkout-JavaScript, E/A-Ereignisse und Aktivieren, Kompilieren und Bereitstellen von Befehlen.
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%
@@ -46,7 +46,7 @@ Sie generieren ein vollständiges, produktionsfähiges Adobe Commerce 2.4.5+ In-
 * Speicherort: `app/code/Client/SplitPayment/`
 * Abhängigkeiten: `Magento_Checkout`, `Magento_CustomerBalance`, `Magento_Sales`, `Magento_Quote`, `Magento_WebApi`, `Magento_AdobeCommerceEventsClient`
 
-Generate every file listed in the file structure below. Do not omit any file. Use `declare(strict_types=1)` in all PHP files.
+Generieren Sie jede Datei, die in der folgenden Dateistruktur aufgeführt ist. Lassen Sie keine Datei aus. Verwenden Sie `declare(strict_types=1)` in allen PHP-Dateien.
 
 
 ### Zu erzeugende Dateistruktur
@@ -131,19 +131,19 @@ app/code/Client/SplitPayment/
 ```
 
 
-### Behavioral Specifications
+### Verhaltensspezifikationen
 
-#### 1. Database Schema (`etc/db_schema.xml`)
+#### &#x200B;1. Datenbankschema (`etc/db_schema.xml`)
 
-Add these columns to `sales_order` (resource: `sales`):
+Fügen Sie diese Spalten zu `sales_order` hinzu (Ressource: `sales`):
 
-| Spalte | Typ | Nullable | Comment |
+| Spalte | Typ | nullable | Kommentar |
 |---|---|---|---|
-| `split_store_credit_amount` | decimal(12,4) | yes | Store credit portion |
-| `split_cash_amount` | decimal(12,4) | yes | Cash portion due |
-| `split_cash_status` | varchar(32) | yes | `pending` / `received` / `declined` |
-| `split_sc_invoice_id` | int unsigned | yes | Store credit invoice entity ID |
-| `split_cash_invoice_id` | int unsigned | yes | Cash invoice entity ID |
+| `split_store_credit_amount` | DECIMAL(12,4) | Ja | Gutschriftanteil speichern |
+| `split_cash_amount` | DECIMAL(12,4) | Ja | fälliger Kassenanteil |
+| `split_cash_status` | varchar(32) | Ja | `pending` / `received` / `declined` |
+| `split_sc_invoice_id` | int unsigniert | Ja | Entitäts-ID der Gutschriftsrechnung speichern |
+| `split_cash_invoice_id` | int unsigniert | Ja | Entitäts-ID der Kassenrechnung |
 
 Generieren Sie auch die `db_schema_whitelist.json` für diese Spalten.
 
@@ -299,35 +299,35 @@ Eine `uiComponent`, die:
 
 #### 22. `cashondelivery-method.js`
 
-Erweitert `Magento_OfflinePayments/js/view/payment/offline-payments`. Verwendet `payment-method-helper.js` zur Erkennung des Bargeldmethodencodes. Registers `split-payment` component in its `additional` region.
+Erweitert `Magento_OfflinePayments/js/view/payment/offline-payments`. Verwendet `payment-method-helper.js` zur Erkennung des Bargeldmethodencodes. Registriert `split-payment` Komponente in ihrer `additional`.
 
 #### 23. `payment-method-helper.js`
 
-Utility returning `getCashMethodCode()` — checks `window.checkoutConfig.paymentMethods` for `cashondelivery`; falls back to `checkmo` if needed.
+Dienstprogramm gibt `getCashMethodCode()` zurück — prüft `window.checkoutConfig.paymentMethods` auf `cashondelivery`; kehrt bei Bedarf auf `checkmo` zurück.
 
-#### 24. `cashondelivery.html` Template
+#### &#x200B;24. `cashondelivery.html` Vorlage
 
-Standard COD template but includes `<!-- ko foreach: getRegion('additional') -->` region so the split payment child component can render.
+Standard-CSV-Vorlage, aber enthält `<!-- ko foreach: getRegion('additional') -->` Region, damit die untergeordnete Komponente für aufgeteilte Zahlungen gerendert werden kann.
 
-#### 25. `split-payment.html` Template
+#### &#x200B;25. `split-payment.html` Vorlage
 
-KnockoutJS template for the split payment fields:
-* Available store credit balance display
-* Cash amount input (number, step 0.01)
-* Store credit portion display (read-only)
-* Auto-apply store credit message (shown when split is valid and store credit > 0)
-* Validation error message
+KnockoutJS-Vorlage für die Aufspaltungszahlungsfelder:
+* Anzeige des Kontostands des verfügbaren Speichers
+* Eingabe des Barbetrags (Nummer, Schritt 0.01)
+* Anzeige des Gutschriftanteils speichern (schreibgeschützt)
+* Automatische Anwendung der Store-Gutschrift-Nachricht (wird angezeigt, wenn die Aufspaltung gültig ist, und Store-Gutschrift > 0)
+* Validierungsfehlermeldung
 
 #### 26. `requirejs-config.js`
 
-Maps:
-* `Client_SplitPayment/js/view/payment/split-payment` → the component
-* `Client_SplitPayment/js/view/payment/cashondelivery-method` → the COD override
-* `Client_SplitPayment/js/model/payment-method-helper` → the helper
+Karten:
+* `Client_SplitPayment/js/view/payment/split-payment` → Komponente
+* `Client_SplitPayment/js/view/payment/cashondelivery-method` → der COD-Überschreibung
+* `Client_SplitPayment/js/model/payment-method-helper` → Helfers
 
 #### 27. `etc/config.xml`
 
-Default system config values:
+Standardwerte der Systemkonfiguration:
 
 ```xml
 <split_payment>
@@ -339,15 +339,15 @@ Default system config values:
 ```
 
 
-### Critical Implementation Notes
+### Wichtige Implementierungshinweise
 
-**Store credit application must use `BalanceManagementInterface`, not direct model manipulation.** `BalanceManagementInterface::apply()` handles the session, validation, and cart recalculation atomically.
+**Store-Kreditantrag muss `BalanceManagementInterface` verwenden, nicht die direkte Modellbearbeitung.** `BalanceManagementInterface::apply()` handhabt die Sitzung, die Validierung und die Neuberechnung des Warenkorbs automatisch.
 
-**`PlaceOrderPlugin`must use `aroundPlaceOrder` (not `beforePlaceOrder`).** The store credit must be applied while the cart is still active, and that must be guaranteed before `$proceed()` is called.
+**`PlaceOrderPlugin`muss `aroundPlaceOrder` (nicht `beforePlaceOrder`) verwenden.** Das Store-Guthaben muss angewendet werden, während der Warenkorb noch aktiv ist, und das muss garantiert werden, bevor `$proceed()` aufgerufen wird.
 
-**The session flag pattern for `beginBalanceApply` / `endBalanceApply` is critical.** Without it, `FixSplitPaymentGrandTotalPlugin` runs during `collectTotals()` inside the balance operation and sets grand total to the cash remainder, causing `BalanceManagementInterface::apply()` to fail or cap the credit.
+**Das Sitzungs-Flag-Muster für `beginBalanceApply`/`endBalanceApply` ist wichtig.** Andernfalls läuft `FixSplitPaymentGrandTotalPlugin` während der `collectTotals()` innerhalb des Saldovorgangs und setzt die Gesamtsumme auf den Rest des Bargelds, was dazu führt, dass `BalanceManagementInterface::apply()` scheitert oder den Kredit begrenzt wird.
 
-**Never expose internal error details to the customer.** All `catch` blocks that surface to REST responses must throw `LocalizedException('Payment could not be processed. Please try again or contact support.')`.
+**Geben Sie dem Kunden niemals interne Fehlerdetails an.** Alle `catch`, die REST-Antworten zuführen, müssen `LocalizedException('Payment could not be processed. Please try again or contact support.')`.
 
 **`entity_id`ist die numerische Datenbank-ID.** REST-Aufrufe aus App Builder verwenden immer `entity_id`, nicht `increment_id`.
 
