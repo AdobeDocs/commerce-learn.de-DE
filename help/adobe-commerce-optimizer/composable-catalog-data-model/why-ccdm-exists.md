@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Moderne Commerce-Teams verkaufen häufig über **Marken**, **Regionen**, **&#x20
 * Wie Katalogansichten als „Linse“ zwischen einem freigegebenen Basiskatalog und einer bestimmten Storefront oder Zielgruppe fungieren
 * Wie Merchandising Services-APIs diese Ansichten nutzen, damit Headless-Erlebnisse mit dem konfigurierten Katalog übereinstimmen
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491294?captions=ger&learn=on)
 
 ## Die Herausforderung mit isolierten Katalogen
 
