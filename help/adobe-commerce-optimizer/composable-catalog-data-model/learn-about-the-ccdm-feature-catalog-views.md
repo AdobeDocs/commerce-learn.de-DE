@@ -31,7 +31,7 @@ In Katalogansichten wird erläutert, wie sich die Bereitstellung der einzelnen Z
 * Verwendung einer Katalogansicht durch eine Storefront zum Filtern von Produkten und Preisen (z. B. Celport)
 * Katalogansicht - Eindeutige IDs und der Geschäftswert einer einzelnen Datenquelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491271?captions=ger&learn=on)
 
 ## Szenario: Carvelo Automobile
 

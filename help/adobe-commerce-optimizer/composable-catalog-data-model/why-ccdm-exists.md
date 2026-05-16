@@ -31,7 +31,7 @@ Moderne Commerce-Teams verkaufen häufig über **Marken**, **Regionen**, **&#x20
 * Wie Katalogansichten als „Linse“ zwischen einem freigegebenen Basiskatalog und einer bestimmten Storefront oder Zielgruppe fungieren
 * Wie Merchandising Services-APIs diese Ansichten nutzen, damit Headless-Erlebnisse mit dem konfigurierten Katalog übereinstimmen
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491294?captions=ger&learn=on)
 
 ## Die Herausforderung mit isolierten Katalogen
 
