@@ -41,7 +41,7 @@ Wenn eine **Katalogansicht** die Linse ist, die das formt, was Kunden von einem 
 In der [Celport-Katalogansicht](./learn-about-the-ccdm-feature-catalog-views.md) arbeiten zwei Richtlinien zusammen:
 
 1. **Markenfilter** - Erlaubt nur **Bolt** und **Cruz** Marken. Aurora-Produkte übergeben diesen Filter nicht.
-2. **Kategoriefilter** — beschränkt sichtbare Produkte nur auf **Bremsen** und ****.
+2. **Kategoriefilter** — beschränkt sichtbare Produkte nur auf **Bremsen** und **&#x200B;**.
 
 Ein Produkt muss **jede aktive Richtlinie“ erfüllen** um sichtbar zu sein. Alles andere wird herausgefiltert.
 
