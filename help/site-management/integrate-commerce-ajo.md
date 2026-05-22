@@ -1,6 +1,6 @@
 ---
-title: Integrate Adobe Commerce and Adobe Journey Optimizer
-description: Learn why and how an integration between Adobe Commerce and Adobe Journey Optimizer can be implemented.
+title: Integrieren von Adobe Commerce und Adobe Journey Optimizer
+description: Erfahren Sie, warum und wie eine Integration zwischen Adobe Commerce und Adobe Journey Optimizer implementiert werden kann.
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
@@ -36,28 +36,28 @@ ht-degree: 0%
 
 ---
 
-# Integrate Adobe Commerce and Adobe Journey Optimizer
+# Integrieren von Adobe Commerce und Adobe Journey Optimizer
 
-Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=de){target="blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
+Erfahren Sie, wie Sie [Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=de){target="blank"} in Adobe Commerce verwenden können, um Commerce-Daten zu entsperren und mithilfe von Adobe Journey Optimizer personalisierte End-to-End-Kundenerlebnisse in Echtzeit bereitzustellen.
 
 ## Für wen ist dieses Video bestimmt?
 
-* E-Commerce Managers and Operations interested in sharing e-commerce data and audiences to Marketing teams
-* Marketing Managers looking to use customer data from Commerce to further drive personalization at scale
-* Marketing Operations who are interested in driving efficiency with the automated data stream between Commerce and Journey Optimizer
+* E-Commerce-Manager und -Vorgänge, die E-Commerce-Daten und -Zielgruppen an Marketing-Teams weitergeben möchten
+* Marketing-Manager, die Kundendaten aus Commerce verwenden möchten, um die Personalisierung in jedem Maßstab weiter voranzutreiben
+* Marketing-Abläufe, die die Effizienz mit dem automatisierten Datenstrom zwischen Commerce und Journey Optimizer steigern möchten
 
 ## Videoinhalt
 
-* Address siloed data challenges by seamlessly streaming data between Adobe Commerce and the Adobe Experience Platform, including Journey Optimizer, with the Data Connection
-* Take data delivered from Commerce in real time to activate and personalize customer journeys in Journey Optimizer
-* Combine Commerce data with data from additional sources. Build audiences and target them with unique messages, experiences, or offers
-* Implement this integration in just one hour with the Data Connection, compared to the typical 20 days it takes for a custom implementation
-* In Adobe Journey Optimizer, easily build and activate 1:1 customer journeys, using out-of-the-box events that are available with the Data Connection
-* Engage with shoppers across all channels in real-time using Adobe Journey Optimizer&#39;s native messaging capabilities
+* Bewältigung isolierter Datenherausforderungen durch nahtloses Streaming von Daten zwischen Adobe Commerce und Adobe Experience Platform, einschließlich Journey Optimizer, mit der Datenverbindung
+* Daten aus Commerce in Echtzeit nutzen, um Kunden-Journey in Journey Optimizer zu aktivieren und zu personalisieren
+* Kombinieren Sie Commerce-Daten mit Daten aus zusätzlichen Quellen. Zielgruppen erstellen und mit eindeutigen Nachrichten, Erlebnissen oder Angeboten ansprechen
+* Implementieren Sie diese Integration in nur einer Stunde mit der Datenverbindung, im Vergleich zu den typischen 20 Tagen für eine benutzerdefinierte Implementierung
+* Erstellen und aktivieren Sie in Adobe Journey Optimizer :1 1-Kunden-Journey mit nativen Ereignissen, die mit der Datenverbindung verfügbar sind
+* Interagieren Sie mit Kunden auf allen Kanälen in Echtzeit und verwenden Sie dazu die nativen Messaging-Funktionen von Adobe Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452479?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Data Connection Overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=de){target="_blank"}
-[Install Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=de){target="_blank"}
+[Übersicht über Datenverbindungen](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=de){target="_blank"}
+[Installieren der Datenverbindung](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=de){target="_blank"}
