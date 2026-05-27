@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,10 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330032?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35949?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Store-Details - [!DNL Commerce] Erste Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html?lang=de)
+[Store-Details -  [!DNL Commerce]  Schritte](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

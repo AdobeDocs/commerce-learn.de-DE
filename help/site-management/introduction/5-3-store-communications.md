@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330182?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36190?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[E-Mail-Vorlagen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=de)
+[E-Mail-Vorlagen - Handbuch  [!DNL Commerce] Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variablen und Kundenkommunikation - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=de#variables-and-customer-communications)
+[Variablen und Kundenkommunikation - Handbuch  [!DNL Commerce] Admin Systems“](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

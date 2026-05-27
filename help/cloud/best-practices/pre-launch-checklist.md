@@ -11,25 +11,12 @@ last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 2365
@@ -39,107 +26,107 @@ ht-degree: 0%
 
 # Checkliste vor dem Start
 
-Auf dieser Seite finden Sie eine Zusammenfassung der Adobe Commerce [Site Launch-Dokumentation](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}.
+Auf dieser Seite finden Sie eine Zusammenfassung der Adobe Commerce [Site Launch-Dokumentation](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}.
 
 Diese Checkliste soll Sie bei der Planung und Ausführung eines erfolgreichen Starts der Adobe Commerce Cloud-Site unterstützen. Arbeiten Sie mit Ihrem Systemintegrator für Adobe Commerce Cloud zusammen, um sicherzustellen, dass alle Konfigurationsaufgaben und Checklisten-Elemente abgeschlossen und überprüft wurden. Wenn Sie Probleme mit Checklisten-Elementen haben oder Fragen haben, wenden Sie sich bitte an den zuständigen technischen Kundenberater oder Customer Success Engineer. Wenn Ihrem -Konto kein CTA/CSE zugewiesen ist, können Sie ein Support-Ticket erstellen, um Unterstützung zu erhalten.
 
 Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor dem Start der neuen Adobe Commerce Cloud-Site an diesen und den Account Manager, um ihn über Ihre **Absicht** zu informieren.
 
-* Einige Prüfungen werden mit [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} hervorgehoben, da sie möglicherweise Ihre Live-Schaltung blockieren, wenn sie nicht sorgfältig überprüft wird.
+* Einige Prüfungen werden mit [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} hervorgehoben, da sie möglicherweise Ihre Live-Schaltung blockieren, wenn sie nicht sorgfältig überprüft wird.
 * Arbeiten Sie mit Ihrem Entwickler oder Systemintegrationspartner zusammen, damit Ihr Implementierungsansatz aufeinander abgestimmt bleibt.
 
 >[!IMPORTANT]
-> Sie übernehmen [Verantwortung](https://experienceleague.adobe.com/de/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"} für alle nachteiligen Auswirkungen und damit verbundenen Risiken für den Produktions-Launch-Zeitplan und die fortlaufende Site-Stabilität, wenn Sie diese Checkliste nicht verwenden und ausfüllen.
+> Sie übernehmen [Verantwortung](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"} für alle nachteiligen Auswirkungen und damit verbundenen Risiken für den Produktions-Launch-Zeitplan und die fortlaufende Site-Stabilität, wenn Sie diese Checkliste nicht verwenden und ausfüllen.
 
 ## &#x200B;1. Vor der Live-Schaltung
 
-1. Lesen Sie die Dokumentation zum Testen und zur Live[Schaltung (Dokumentation zum Site-Launch](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
+1. Lesen Sie die Dokumentation zum Testen und zur Live[Schaltung (Dokumentation zum Site-Launch](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar den Schwerpunkt auf die Best Practices von Adobe legt _&#x200B;**jedoch**&#x200B;_ ersetzt (nicht), dass Sie einen eigenen Plan für die Live-Schaltung benötigen.
+   >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar den Schwerpunkt auf die Best Practices von Adobe legt _**jedoch**_ ersetzt (nicht), dass Sie einen eigenen Plan für die Live-Schaltung benötigen.
 
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[&#x200B; (Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[ (Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Bestätigen, dass Endbenutzer und Händler UAT (User Acceptance Testing) abgeschlossen haben, einschließlich Backend-Vorgänge.
-4. Bestätigen Sie, dass das Systemintegrator-Team End-to-End-UAT für Staging und Produktion durchgeführt hat. Weitere Informationen finden Sie in der Dokumentation zu [Experience League](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
-5. Bestätigen der Bereitstellung und des Testens von Code in Staging- und Produktionsumgebungen ([mehr dazu](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"})
+4. Bestätigen Sie, dass das Systemintegrator-Team End-to-End-UAT für Staging und Produktion durchgeführt hat. Weitere Informationen finden Sie in der Dokumentation zu [Experience League](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
+5. Bestätigen der Bereitstellung und des Testens von Code in Staging- und Produktionsumgebungen ([mehr dazu](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"})
 6. Vergewissern Sie sich, dass der Produktions-Cluster dauerhaft auf die vertraglich festgelegte tägliche Grundlinie vergrößert wurde. Wenden Sie sich an den zugewiesenen CTA/CSE, um weitere Informationen zu erhalten, oder erstellen Sie ein Support-Ticket.
 
 ## &#x200B;2. Aktuelle Konfigurationen
 
-1. Aktualisieren von Adobe Commerce und zugehörigen Paketen/Services auf die [neueste Version](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/overview){target="_blank"}
-2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [&#x200B; Sie die Best Practices](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
-3. Überprüfen Sie MySQL/Shared-Files [Festplattenauslastung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space){target="_blank"}
+1. Aktualisieren von Adobe Commerce und zugehörigen Paketen/Services auf die [neueste Version](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview){target="_blank"}
+2. Überprüfen Sie die aktuellen Konfigurationen und Services mit Ihrem SI/Partner und [ Sie die Best Practices](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
+3. Überprüfen Sie MySQL/Shared-Files [Festplattenauslastung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space){target="_blank"}
 
 ## &#x200B;3. Fastly-Konfigurationen
 
-1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Stellen Sie sicher, dass die Zwischenspeicherung funktioniert ([Vollseitencache](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/tools/cache-management){target="_blank"} oder [GraphQL-](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lesen Sie das [Handbuch zur schnellen Einrichtung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/fastly){target="_blank"}.
-2. Verwenden Sie gegebenenfalls die GET-Methode für GraphQL-Abfragen auf PWA-/Headless-Websites.
+1. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Stellen Sie sicher, dass die Zwischenspeicherung funktioniert ([Vollseitencache](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/tools/cache-management){target="_blank"} oder [GraphQL-](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lesen Sie das [Handbuch zur schnellen Einrichtung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly){target="_blank"}.
+2. Verwenden Sie ggf. die GET-Methode für GraphQL-Abfragen auf PWA-/Headless-Websites.
 
    >[!NOTE]
-   > Nur die mit einem HTTP-GET-Vorgang gesendeten Abfragen können zwischengespeichert werden (falls zutreffend). [POST-Abfragen können nicht zwischengespeichert &#x200B;](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
+   > Nur die mit einem HTTP-GET-Vorgang gesendeten Abfragen können zwischengespeichert werden (falls zutreffend). [POST-Abfragen können nicht zwischengespeichert ](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
 
-3. Stellen Sie sicher, dass Fastly Image Optimization aktiviert ist [siehe Fastly Image Optimization](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"})
-4. Stellen Sie sicher, dass der richtige Shield-Speicherort konfiguriert ist ([Konfigurieren des Cache, der Backends und der Ursprungsabschirmung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Bestätigen Sie, dass die Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen.)
-6. Aktualisieren Sie die Liste „Ignorierte URL[&#128279;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly  im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
+3. Stellen Sie sicher, dass Fastly Image Optimization aktiviert ist [siehe Fastly Image Optimization](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"})
+4. Stellen Sie sicher, dass der richtige Shield-Speicherort konfiguriert ist ([Konfigurieren des Cache, der Backends und der Ursprungsabschirmung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
+5. Bestätigen Sie, dass die Web Application Firewall (**WAF**) funktioniert. (Siehe [Fehlerbehebung bei blockierten ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"}, falls vorhanden, und Einschränkungen.)
+6. Aktualisieren Sie die Liste „Ignorierte URL](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"}Parameter“ von Fastly [ im Admin-Bedienfeld, um die Cache-Leistung zu verbessern.
 
    >[!NOTE]
    > In der Fastly-Konfiguration unter _Admin > Stores > Konfigurationen > System > Vollständiger Seiten-Cache > Fastly-Konfiguration > Erweiterte Konfiguration > Ignorierte URL-Parameter (global)_ finden Sie eine kommagetrennte Liste von Parametern, die Fastly bei der Suche nach zwischengespeicherten Seiten ignorieren sollte. Laden Sie die VCL erneut hoch, nachdem Sie diese Liste geändert haben.
 
 ## &#x200B;4. DNS und SSL
 
-1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Bestätigen Sie, dass alle erforderlichen Domain-Namen angefordert werden. _(Senden Sie im Voraus ein Support-Ticket für hinzugefügte oder geänderte Domains.)_
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} SSL-Zertifikat (TLS) wurde auf die Domain(s) angewendet. Lesen Sie [diesen Artikel](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"}, um weitere Informationen zu erhalten.
-3. Aktualisieren Sie den DNS[TTL-Wert (Time to Live](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"} auf das Minimum für die Live-Schaltung.
+1. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Bestätigen Sie, dass alle erforderlichen Domain-Namen angefordert werden. _(Senden Sie im Voraus ein Support-Ticket für hinzugefügte oder geänderte Domains.)_
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} SSL-Zertifikat (TLS) wurde auf die Domain(s) angewendet. Lesen Sie [diesen Artikel](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"}, um weitere Informationen zu erhalten.
+3. Aktualisieren Sie den DNS[TTL-Wert (Time to Live](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"} auf das Minimum für die Live-Schaltung.
 4. Aktivieren von SendGrid SPF und DKIM.
 
    >[!NOTE]
-   > Fügen Sie die SendGrid-CNAME-Einträge für jede Domain zur DNS-Konfiguration hinzu. Lesen Sie [SendGrid-E-Mail](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}Service, um zu sehen, wie Sie die Absender-Domains ändern können, und vieles mehr.
+   > Fügen Sie die SendGrid-CNAME-Einträge für jede Domain zur DNS-Konfiguration hinzu. Lesen Sie [SendGrid-E-Mail](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}Service, um zu sehen, wie Sie die Absender-Domains ändern können, und vieles mehr.
 
 ## &#x200B;5. Datenbankkonfigurationen
 
 Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für die Staging- und die Produktionsumgebung. Galera-Cluster sind entscheidend für die Verbesserung der Leistung und Skalierbarkeit. Informationen zu optimalen Verfahren und Einschränkungen für Galera-Cluster-Replikationen finden Sie in den folgenden Artikeln.
 
-* [Best Practices für MySQL-Konfigurationen](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
-* Verwaltete Warnhinweise in Adobe Commerce: [MariaDB-Warnhinweise](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
-* Best Practices für [Datenbankkonfiguration](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Galera-Clusterreplikation und Flusskontrolle](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (tiefer gehende Analyse)
+* [Best Practices für MySQL-Konfigurationen](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
+* Verwaltete Warnhinweise in Adobe Commerce: [MariaDB-Warnhinweise](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
+* Best Practices für [Datenbankkonfiguration](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
+* [Galera-Clusterreplikation und Flusskontrolle](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (tiefer gehende Analyse)
 
-1. [MySQL-Slave-Verbindung](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} wird empfohlen, um die Leistung bei hohen Datenbanklasten zu verbessern.
-2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
-3. Ändern Sie die Datenbank-Speicher-Engine von [MyISAM zu InnoDB](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} für alle Tabellen.
+1. [MySQL-Slave-Verbindung](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} wird empfohlen, um die Leistung bei hohen Datenbanklasten zu verbessern.
+2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
+3. Ändern Sie die Datenbank-Speicher-Engine von [MyISAM zu InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} für alle Tabellen.
 4. Überprüfen und optimieren Sie Datenbanktabellen mit einer Größe von mehr als 1 GB rechtzeitig im Voraus.
-5. The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
+5. Die Informationen zum Datenbankschema sind aktuell und aktuell. (Siehe [dieses Handbuch](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
 
-## 6. Deployments
+## &#x200B;6. Bereitstellungen
 
-1. Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on the production environment. Review [Static Content Deployment (SCD) Strategies](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"} guide.
-2. Review minification settings for HTML, JavaScript, and CSS. (This does not apply to PWA/Headless websites).
-3. Confirm that the utilization of the following cloud variables aligns with their intended purposes. ([SCD_MATRIX](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+1. Überprüfen Sie den idealen Status der statischen Inhaltsbereitstellung (SCD), um die Wartungszeit während Bereitstellungen in der Produktionsumgebung zu reduzieren. Lesen Sie [SCD-Strategien (Static Content Deployment](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"} und [Store-](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"}).
+2. Überprüfen Sie die Minimierungseinstellungen für HTML, JavaScript und CSS. (Dies gilt nicht für PWA-/Headless-Websites).
+3. Vergewissern Sie sich, dass die Verwendung der folgenden Cloud-Variablen ihren Verwendungszwecken entspricht. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} und [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
-## 7. Testing and Troubleshooting
+## &#x200B;7. Tests und Fehlerbehebung
 
-1. Test the outgoing transactional emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}.
-2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Confirm there are no Adobe-related blockers to launch.
-3. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Perform load and stress testing on the Production instance before going live and share results with the assigned CTA/CSE.
+1. Testen Sie die ausgehenden Transaktions-E-Mails. Lesen Sie mehr über [Adobe Commerce Cloud - SendGrid-E-Mail-Funktion](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}.
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Vergewissern Sie sich, dass keine Adobe-bezogenen Blocker zum Starten vorhanden sind.
+3. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Führen Sie vor der Live-Schaltung Belastungs- und Belastungstests auf der Produktionsinstanz durch und teilen Sie die Ergebnisse mit dem zugewiesenen CTA/CSE.
 
    >[!NOTE]
-   > A [load and stress test serves the purpose](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
+   > Ein [Belastungs- und Belastungstest dient dem Zweck](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} Engpässe zu identifizieren und Leistungsprobleme innerhalb der Anwendung aufzudecken. Sie spielt eine entscheidende Rolle bei der Verwaltung der Erwartungen hinsichtlich der Cluster-Größe und der Bestimmung der erforderlichen Skalierungsanpassungen, um die Geschäftsanforderungen effektiv zu erfüllen.
 
    >[!IMPORTANT]
-   > **_WARNING:_** When preparing a load test, **do not** send live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch.
+   > **_WARNING:_** Senden Sie beim Vorbereiten eines Auslastungstests **keine** Live-Transaktions-E-Mails (auch an Platzhalteradressen). Das Senden von E-Mails während des Tests kann dazu führen, dass das Projekt vor dem Start das für SendGrid konfigurierte Standard-Versandlimit (12 KB) erreicht.
    > 
-   > * How to disable email communication:
-   >   Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
+   > * Deaktivieren der E-Mail-Kommunikation:
+   >   Navigieren Sie _Store > Konfiguration > Erweitert > System > E-Mail-Sendeeinstellungen_.
 
-4. Conduct security penetration testing on the production instance as part of the [shared responsibility security model](https://business.adobe.com/de/products/commerce.html){target="_blank"}. For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
+4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ ](https://business.adobe.com/products/commerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
 
-## 8. Other Configurations
+## &#x200B;8. Andere Konfigurationen
 
-1. Switch indexing to _&quot;update on schedule_&quot;, except the **_customer_grid_** which remains on &quot;SAVE&quot; (see [Indexing modes](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
-2. Document any third-party search engines or extensions in use.
-3. Überprüfen Sie, ob [SEO-Konfigurationen (Suchmaschinenoptimierung) ordnungsgemäß eingerichtet sind](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"} damit Indexer/Crawler die Website ggf. scannen können.
-4. Hinzufügen von Weiterleitungen und Routen (siehe [Konfigurieren von Routen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/routes/routes-yaml){target="_blank"})
+1. Wechseln Sie für die Indizierung auf _Aktualisierung planmäßig_, mit Ausnahme des **_customer_grid_**, das auf „SAVE“ bleibt (siehe [Indizierungsmodi](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
+2. Dokumentieren Sie alle verwendeten Suchmaschinen oder Erweiterungen von Drittanbietern.
+3. Überprüfen Sie, ob [SEO-Konfigurationen (Suchmaschinenoptimierung) ordnungsgemäß eingerichtet sind](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"} damit Indexer/Crawler die Website ggf. scannen können.
+4. Hinzufügen von Weiterleitungen und Routen (siehe [Konfigurieren von Routen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/routes/routes-yaml){target="_blank"})
 
    >[!NOTE]
    > Fügen Sie in der Integrationsumgebung Umleitungen und Routen zur Datei „routes.yaml“ hinzu und überprüfen Sie die Konfiguration in dieser Umgebung, bevor Sie sie in der Staging- und Produktionsumgebung bereitstellen.
@@ -156,45 +143,45 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
                upstream: "mymagento:http"
    ```
 
-5. Stellen Sie sicher, dass Xdebug deaktiviert ist, wenn es während der Entwicklung aktiviert wurde (siehe [Konfigurieren von Xdebug für Commerce in Cloud](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"}).
+5. Stellen Sie sicher, dass Xdebug deaktiviert ist, wenn es während der Entwicklung aktiviert wurde (siehe [Konfigurieren von Xdebug für Commerce in Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"}).
 6. Überprüfen Sie, ob OPcache und andere Konfigurationen in der Datei php.ini korrekt aktualisiert wurden ([siehe Beispiel](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
-7. Abonnieren Sie die [**Adobe Commerce-Statusseite**](https://status.adobe.com/de-de/cloud/experience_cloud#/){target="_blank"}.
-8. Abonnieren Sie die New Relic[Benachrichtigungskanäle „Verwaltete Warnhinweise für Adobe Commerce](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}, um die angegebenen Leistungsmetriken zu überwachen ([mehr dazu](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+7. Abonnieren Sie die [**Adobe Commerce-Statusseite**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
+8. Abonnieren Sie die New Relic[Benachrichtigungskanäle „Verwaltete Warnhinweise für Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}, um die angegebenen Leistungsmetriken zu überwachen ([mehr dazu](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## &#x200B;9. Sicherheit
 
 1. Richten Sie die Adobe Commerce-Sicherheitsprüfung ein.
 
    >[!NOTE]
-   > [Die Adobe Commerce-Sicherheitsprüfung ist ein hilfreiches Tool](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-scan){target="_blank"} mit dem Sie veraltete Softwareversionen, fehlerhafte Konfigurationen und potenzielle Malware auf der Website entdecken können. Melden Sie sich an, planen Sie die Ausführung häufig und stellen Sie sicher, dass E-Mails an den richtigen technischen Sicherheitskontakt gesendet werden.
+   > [Die Adobe Commerce-Sicherheitsprüfung ist ein hilfreiches Tool](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-scan){target="_blank"} mit dem Sie veraltete Softwareversionen, fehlerhafte Konfigurationen und potenzielle Malware auf der Website entdecken können. Melden Sie sich an, planen Sie die Ausführung häufig und stellen Sie sicher, dass E-Mails an den richtigen technischen Sicherheitskontakt gesendet werden.
    > 
-   > Führen Sie diese Aufgabe während der UAT aus. Wenn Sie die Option „Periodische Scans“ verwenden, sollten Sie die Scans zu Zeiten geringer Auslastung planen. Öffnen Sie nach der Anmeldung bei Ihrem Adobe Commerce-Konto das Sicherheits-Scan-Tool von Ihrem Konto aus (siehe [Sicherheitsprüfung](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-scan){target="_blank"} für Zugriff und Verwendung).
+   > Führen Sie diese Aufgabe während der UAT aus. Wenn Sie die Option „Periodische Scans“ verwenden, sollten Sie die Scans zu Zeiten geringer Auslastung planen. Öffnen Sie nach der Anmeldung bei Ihrem Adobe Commerce-Konto das Sicherheits-Scan-Tool von Ihrem Konto aus (siehe [Sicherheitsprüfung](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-scan){target="_blank"} für Zugriff und Verwendung).
 
 2. Ändern Sie die Standardeinstellungen für den Adobe Commerce Admin.
-3. Ändern Sie das Administratorkennwort (siehe [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
-4. Admin-URL ändern (siehe [Verwenden einer benutzerdefinierten Admin-URL](https://experienceleague.adobe.com/de/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url){target="_blank"}).
-5. Entfernen Sie alle Benutzer, die nicht mehr im Projekt vorhanden sind (siehe [Erstellen und Verwalten von Benutzern](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/user-access){target="_blank"}).
-6. Bestätigen Sie, dass die Administratorkennwörter den Anforderungen entsprechen (siehe [Administratorkennwörter](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
-7. Konfigurieren Sie die Zwei-Faktor-Authentifizierung (siehe [Zwei-Faktor-Authentifizierung (Admin)](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/security-admin#two-factor-authentication){target="_blank"}.
+3. Ändern Sie das Administratorkennwort (siehe [Konfigurieren der Admin-Sicherheit](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
+4. Admin-URL ändern (siehe [Verwenden einer benutzerdefinierten Admin-URL](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url){target="_blank"}).
+5. Entfernen Sie alle Benutzer, die nicht mehr im Projekt vorhanden sind (siehe [Erstellen und Verwalten von Benutzern](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access){target="_blank"}).
+6. Bestätigen Sie, dass die Administratorkennwörter den Anforderungen entsprechen (siehe [Administratorkennwörter](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
+7. Konfigurieren Sie die Zwei-Faktor-Authentifizierung (siehe [Zwei-Faktor-Authentifizierung (Admin)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin#two-factor-authentication){target="_blank"}.
 
 ## &#x200B;10. Live-Schaltung
 
-Wenn die Umstellung abgeschlossen ist, führen Sie die folgenden Schritte aus (weitere Informationen finden Sie unter [DNS-Konfigurationen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}):
+Wenn die Umstellung abgeschlossen ist, führen Sie die folgenden Schritte aus (weitere Informationen finden Sie unter [DNS-Konfigurationen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}):
 
 1. Greifen Sie auf Ihren DNS-Service zu und aktualisieren Sie A- und CNAME-Einträge für jede Ihrer Domains und Hostnamen:
    1. Fügen Sie einen CNAME-Eintrag für _&lt;&lt;www.yourdomain.com>>_ hinzu, der auf **prod.magentocloud.map.fastly.net** verweist.
-   2. Legen Sie vier A-Einträge für _&lt;yourdomain.com>_ fest, die auf verweisen:\
+   2. Legen Sie vier A-Einträge für _&lt;meinedomäne.com“_ fest, die auf Folgendes verweisen:\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Ändern Sie die Adobe Commerce-Basis-URL in _&lt;&lt;www.yourdomain.com>_
+2. Ändern Sie die Adobe Commerce-Basis-URL in _&lt;&lt;www.yourdomain.com>>_
 3. Warten Sie, bis die TTL-Zeit verstrichen ist, und starten Sie dann den Webbrowser neu.
 4. Testen Sie die Website.
 
 ### Wenn Sie ein Problem bei der Blockierung der Live-Schaltung haben:
 
-Wenn während der Umstellung Probleme auftreten, die Sie daran hindern, den Service zu starten, verwenden Sie am schnellsten den Helpdesk und öffnen Sie ein Ticket mit dem Grund „Mein Geschäft kann nicht gestartet werden“ und rufen Sie eine Hotline-Support-Nummer an (aktuelle Nummern und Verfahren finden Sie unter [Adobe Commerce P1](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline){target="_blank"}Benachrichtigungs-Hotline):
+Wenn während der Umstellung Probleme auftreten, die Sie daran hindern, den Service zu starten, verwenden Sie am schnellsten den Helpdesk und öffnen Sie ein Ticket mit dem Grund „Mein Geschäft kann nicht gestartet werden“ und rufen Sie eine Hotline-Support-Nummer an (aktuelle Nummern und Verfahren finden Sie unter [Adobe Commerce P1](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline){target="_blank"}Benachrichtigungs-Hotline):
 
 * Gebührenfrei in den USA: (+1) 877 282 7436 (direkt über die Adobe Commerce P1-Hotline)
 * Gebührenfrei in den USA: (+1) 800 685 3620 (Beim ersten Menü drücken Sie 7 für die Adobe Commerce P1-Hotline)
@@ -209,7 +196,7 @@ Sobald die Site live ist, senden Sie eine E-Mail an die zugewiesene CTA (technis
 
 >[!MORELIKETHIS]
 > 
-> * [Übersicht über die Launch-Bereitschaft - Implementierungs-Playbook](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
-> * [Launch-Checkliste - Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}
-> * [Checkliste vor dem Start - Site-Manager/Commerce-Administratorhandbuch](https://experienceleague.adobe.com/de/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
-> * [Sicherheitsmodell mit gemeinsamer Verantwortung](https://experienceleague.adobe.com/de/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
+> * [Übersicht über die Launch-Bereitschaft - Implementierungs-Playbook](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
+> * [Launch-Checkliste - Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}
+> * [Checkliste vor dem Start - Site-Manager/Commerce-Administratorhandbuch](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
+> * [Sicherheitsmodell mit gemeinsamer Verantwortung](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
