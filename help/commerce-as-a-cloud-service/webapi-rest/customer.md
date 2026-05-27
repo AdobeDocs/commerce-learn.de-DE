@@ -46,7 +46,7 @@ Erfahren Sie, wie Sie neue Kunden-REST-APIs in Adobe Commerce as a Cloud Service
 
 * Authentifizierung bei Adobe IMS mithilfe von Server-zu-Server-Anmeldedaten, um ein Zugriffstoken für API-Anfragen zu erhalten
 * Verwenden des richtigen REST-API-Endpunktformats für Commerce as a Cloud Service
-* Programmgesteuertes Erstellen und Aktualisieren von Kundenkonten mithilfe von POST- und PUT-Anfragen mit entsprechenden JSON-Payloads
+* Programmgesteuertes Erstellen und Aktualisieren von Kundenkonten mithilfe von POST- und PUT-Anfragen mit geeigneten JSON-Payloads
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479371?captions=ger&learn=on)
 
@@ -150,7 +150,7 @@ curl -X POST \
 >
 > Die in diesem Beispiel angegebene URL ist ungültig. Verwenden Sie Ihre REST-Basis-URL. Austausch von &quot;&lt;rest_endpoint>&quot; mit der URL. Es sieht in etwa so aus wie `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 
-The number `5` in the following example is the ID from the previously created customer using POST `"id": 5,`. Be sure to change`5` to whatever id was returned in your request.
+Die im folgenden Beispiel `5` Zahl ist die ID des zuvor erstellten Kunden, der die POST-`"id": 5,` verwendet. Stellen Sie sicher, dass Sie `5` ID ändern, die in Ihrer Anfrage zurückgegeben wurde.
 
 **Endpunkt:** `PUT /V1/customers/{customerId}`
 
@@ -187,11 +187,11 @@ curl -X PUT \
 }
 ```
 
-## Complete script (all-in-one)
+## Vollständiges Skript (All-in-One)
 
 >[!IMPORTANT]
 >
-> Die in diesem Beispiel angezeigten Variablen sind ungültig. Use the client ID and client secret from your project credentials. Verwenden Sie Ihre REST-Basis-URL. Exchange &#39;&lt;rest_endpoint>&#39; with your REST endpoint URL from experience.adobe.com. It looks similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
+> Die in diesem Beispiel angezeigten Variablen sind ungültig. Verwenden Sie die Client-ID und das Client-Geheimnis aus Ihren Projekt-Anmeldeinformationen. Verwenden Sie Ihre REST-Basis-URL. Austausch von &quot;&lt;rest_endpoint>&quot; mit Ihrer REST-Endpunkt-URL von experience.adobe.com. Es sieht in etwa so aus wie `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
 
 ```bash
 #!/bin/bash
@@ -251,15 +251,15 @@ curl -s -X PUT \
   }" | jq .
 ```
 
-## Important notes about this tutorial
+## Wichtige Hinweise zu diesem Tutorial
 
-1. **URL Path**: Use `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
-1. **Authentication**: This tutorial used Server-to-Server (`client_credentials` grant type)
-1. **Required Scope**: `commerce.accs`
-1. **Token Expiry**: 86400 seconds (24 hours)
+1. **URL Path**: Verwenden Sie `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
+1. **Authentifizierung**: In diesem Tutorial wurde „Server-zu-Server“ (`client_credentials` Gewährungstyp) verwendet
+1. **Erforderlicher Umfang**: `commerce.accs`
+1. **Token-Ablauf**: 86400 Sekunden (24 Stunden)
 
-## References
+## Verweise
 
-* [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/release-notes)
-* [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [Versionshinweise zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/release-notes)
+* [SaaS-REST-API-Referenz](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [Handbuch zur Benutzerauthentifizierung](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
