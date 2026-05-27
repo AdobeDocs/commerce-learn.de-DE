@@ -50,5 +50,5 @@ Kundenattribute liefern die Informationen, die zur Unterstützung der Auftrags-,
 
 ## Zusätzliche Ressourcen
 
-* [Eigenschaften von Kundenattributen -  [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-* [Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+* [Eigenschaften von Kundenattributen -  [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=de)
+* [Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=de)
