@@ -1,7 +1,7 @@
 ---
 title: Einführung in GraphQL
 description: Erfahren Sie, wie Sie GraphQL in Adobe Commerce und  [!DNL Magento Open Source]. Verwenden Sie GraphQL GET- und POST-Aufrufe für Adobe Commerce und  [!DNL Magento Open Source].
-short-description: Erfahren Sie, wie Sie GraphQL GET- und POST-Aufrufe für Adobe Commerce und  [!DNL Magento Open Source].
+short-description: Erfahren Sie, wie Sie GraphQL-GET- und -POST-Aufrufe für Adobe Commerce und  [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 duration: 286
@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,6 @@ Sie benötigen einen GUI GraphQL-Client, um Code-Beispiele und -Tutorials zu tes
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} ist eine Implementierung der GraphQL-IDE von GraphQL Foundation. Dies ist kein installierbares Tool, sondern ein Paket, mit dem Sie die Schnittstelle selbst erstellen können.
 * Wenn Sie bereits mit [Postman](https://www.postman.com/){target="_blank"} vertraut sind, bietet diese Funktion anständige Unterstützung für GraphQL-Abfragen, auch wenn sie nicht so umfassend ist wie ein dedizierter GraphQL-Client.
 
-In Ihrem GraphQL-Client sollten Sie Ihre Anfragen an den URL-Pfad senden, der auf Ihrer Adobe Commerce- oder `/graphql`-Instanz [!DNL Magento Open Source] ist. Wenn Sie lieber eine vorhandene Instanz für Ihre Tests verwenden möchten, können Sie die Demo des Venia-Designs verwenden (die Beispielimplementierung von PWA Studio): `https://venia.magento.com/graphql`
+In Ihrem GraphQL-Client sollten Sie Ihre Anfragen an den URL-Pfad senden, der auf Ihrer Adobe Commerce- oder [!DNL Magento Open Source]-Instanz `/graphql` ist. Wenn Sie lieber eine vorhandene Instanz für Ihre Tests verwenden möchten, können Sie die Demo des Venia-Designs verwenden (die Beispielimplementierung von PWA Studio): `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

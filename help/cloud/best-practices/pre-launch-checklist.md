@@ -45,7 +45,7 @@ Diese Checkliste soll Sie bei der Planung und Ausführung eines erfolgreichen St
 
 Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor dem Start der neuen Adobe Commerce Cloud-Site an diesen und den Account Manager, um ihn über Ihre **Absicht** zu informieren.
 
-* Einige Prüfungen werden mit [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} hervorgehoben, da sie möglicherweise Ihre Live-Schaltung blockieren, wenn sie nicht sorgfältig überprüft wird.
+* Einige Prüfungen werden mit [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} hervorgehoben, da sie möglicherweise Ihre Live-Schaltung blockieren, wenn sie nicht sorgfältig überprüft wird.
 * Arbeiten Sie mit Ihrem Entwickler oder Systemintegrationspartner zusammen, damit Ihr Implementierungsansatz aufeinander abgestimmt bleibt.
 
 >[!IMPORTANT]
@@ -58,7 +58,7 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
    >[!NOTE]
    >Stellen Sie sicher, dass mit Ihrem Partner oder Systemintegrator ein umfassender _-&quot;_-Plan“ vollständig vorbereitet ist, der alle erforderlichen Aktionselemente enthält. Denken Sie daran, dass die Checkliste vor der Markteinführung zwar den Schwerpunkt auf die Best Practices von Adobe legt _&#x200B;**jedoch**&#x200B;_ ersetzt (nicht), dass Sie einen eigenen Plan für die Live-Schaltung benötigen.
 
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[&#x200B; (Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Lesen Sie die Empfehlungen und Informationen zu Support Insights (SWAT[&#x200B; (Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Bestätigen, dass Endbenutzer und Händler UAT (User Acceptance Testing) abgeschlossen haben, einschließlich Backend-Vorgänge.
 4. Bestätigen Sie, dass das Systemintegrator-Team End-to-End-UAT für Staging und Produktion durchgeführt hat. Weitere Informationen finden Sie in der Dokumentation zu [Experience League](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Bestätigen der Bereitstellung und des Testens von Code in Staging- und Produktionsumgebungen ([mehr dazu](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"})
@@ -72,8 +72,8 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 
 ## &#x200B;3. Fastly-Konfigurationen
 
-1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Stellen Sie sicher, dass die Zwischenspeicherung funktioniert ([Vollseitencache](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/tools/cache-management){target="_blank"} oder [GraphQL-](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lesen Sie das [Handbuch zur schnellen Einrichtung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/fastly){target="_blank"}.
-2. Verwenden Sie gegebenenfalls die GET-Methode für GraphQL-Abfragen auf PWA-/Headless-Websites.
+1. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Stellen Sie sicher, dass die Zwischenspeicherung funktioniert ([Vollseitencache](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/tools/cache-management){target="_blank"} oder [GraphQL-](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lesen Sie das [Handbuch zur schnellen Einrichtung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/fastly){target="_blank"}.
+2. Verwenden Sie ggf. die GET-Methode für GraphQL-Abfragen auf PWA-/Headless-Websites.
 
    >[!NOTE]
    > Nur die mit einem HTTP-GET-Vorgang gesendeten Abfragen können zwischengespeichert werden (falls zutreffend). [POST-Abfragen können nicht zwischengespeichert &#x200B;](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
@@ -88,8 +88,8 @@ Wenn Ihnen ein CTA/CSE zugewiesen wurde, wenden Sie sich mindestens 4 Wochen vor
 
 ## &#x200B;4. DNS und SSL
 
-1. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} Bestätigen Sie, dass alle erforderlichen Domain-Namen angefordert werden. _(Senden Sie im Voraus ein Support-Ticket für hinzugefügte oder geänderte Domains.)_
-2. [!BADGE Blocker]{type=caution tooltip="Potential Blocker"} SSL-Zertifikat (TLS) wurde auf die Domain(s) angewendet. Lesen Sie [diesen Artikel](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"}, um weitere Informationen zu erhalten.
+1. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Bestätigen Sie, dass alle erforderlichen Domain-Namen angefordert werden. _(Senden Sie im Voraus ein Support-Ticket für hinzugefügte oder geänderte Domains.)_
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} SSL-Zertifikat (TLS) wurde auf die Domain(s) angewendet. Lesen Sie [diesen Artikel](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"}, um weitere Informationen zu erhalten.
 3. Aktualisieren Sie den DNS[TTL-Wert (Time to Live](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"} auf das Minimum für die Live-Schaltung.
 4. Aktivieren von SendGrid SPF und DKIM.
 
@@ -109,35 +109,35 @@ Adobe Commerce Cloud verwendet einen MariaDB Galera-Cluster als Datenbank für d
 2. Stellen Sie sicher, dass das Zeilenformat für alle Datenbanktabellen auf &quot;[&quot; anstelle von „COMPACT“ &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} ist (dies gilt insbesondere für On-Premise- zu Cloud-Migrationen).
 3. Ändern Sie die Datenbank-Speicher-Engine von [MyISAM zu InnoDB](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} für alle Tabellen.
 4. Überprüfen und optimieren Sie Datenbanktabellen mit einer Größe von mehr als 1 GB rechtzeitig im Voraus.
-5. The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
+5. Die Informationen zum Datenbankschema sind aktuell und aktuell. (Siehe [dieses Handbuch](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
 
-## 6. Deployments
+## &#x200B;6. Bereitstellungen
 
-1. Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on the production environment. Review [Static Content Deployment (SCD) Strategies](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"} guide.
-2. Review minification settings for HTML, JavaScript, and CSS. (This does not apply to PWA/Headless websites).
-3. Confirm that the utilization of the following cloud variables aligns with their intended purposes. ([SCD_MATRIX](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+1. Überprüfen Sie den idealen Status der statischen Inhaltsbereitstellung (SCD), um die Wartungszeit während Bereitstellungen in der Produktionsumgebung zu reduzieren. Lesen Sie [SCD-Strategien (Static Content Deployment](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"} und [Store-](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"}).
+2. Überprüfen Sie die Minimierungseinstellungen für HTML, JavaScript und CSS. (Dies gilt nicht für PWA-/Headless-Websites).
+3. Vergewissern Sie sich, dass die Verwendung der folgenden Cloud-Variablen ihren Verwendungszwecken entspricht. ([SCD_MATRIX](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} und [SKIP_SCD](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
-## 7. Testing and Troubleshooting
+## &#x200B;7. Tests und Fehlerbehebung
 
-1. Test the outgoing transactional emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}.
-2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Confirm there are no Adobe-related blockers to launch.
-3. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Perform load and stress testing on the Production instance before going live and share results with the assigned CTA/CSE.
+1. Testen Sie die ausgehenden Transaktions-E-Mails. Lesen Sie mehr über [Adobe Commerce Cloud - SendGrid-E-Mail-Funktion](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}.
+2. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Vergewissern Sie sich, dass keine Adobe-bezogenen Blocker zum Starten vorhanden sind.
+3. [!BADGE Blocker]{type=caution tooltip="Potenzieller Blocker"} Führen Sie vor der Live-Schaltung Belastungs- und Belastungstests auf der Produktionsinstanz durch und teilen Sie die Ergebnisse mit dem zugewiesenen CTA/CSE.
 
    >[!NOTE]
-   > A [load and stress test serves the purpose](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
+   > Ein [Belastungs- und Belastungstest dient dem Zweck](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} Engpässe zu identifizieren und Leistungsprobleme innerhalb der Anwendung aufzudecken. Sie spielt eine entscheidende Rolle bei der Verwaltung der Erwartungen hinsichtlich der Cluster-Größe und der Bestimmung der erforderlichen Skalierungsanpassungen, um die Geschäftsanforderungen effektiv zu erfüllen.
 
    >[!IMPORTANT]
-   > **_WARNING:_** When preparing a load test, **do not** send live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch.
+   > **_WARNING:_** Senden Sie beim Vorbereiten eines Auslastungstests **keine** Live-Transaktions-E-Mails (auch an Platzhalteradressen). Das Senden von E-Mails während des Tests kann dazu führen, dass das Projekt vor dem Start das für SendGrid konfigurierte Standard-Versandlimit (12 KB) erreicht.
    > 
-   > * How to disable email communication:
-   >   Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
+   > * Deaktivieren der E-Mail-Kommunikation:
+   >   Navigieren Sie _Store > Konfiguration > Erweitert > System > E-Mail-Sendeeinstellungen_.
 
-4. Conduct security penetration testing on the production instance as part of the [shared responsibility security model](https://business.adobe.com/de/products/commerce.html){target="_blank"}. For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
+4. Führen Sie Sicherheitstests auf der Produktionsinstanz im Rahmen des Sicherheitsmodells [gemeinsame Verantwortung“ &#x200B;](https://business.adobe.com/de/products/commerce.html){target="_blank"}. Für die Einhaltung der PCI-Richtlinien (Payment Card Industry) erfordert die angepasste Site Penetrationstests.
 
-## 8. Other Configurations
+## &#x200B;8. Andere Konfigurationen
 
-1. Switch indexing to _&quot;update on schedule_&quot;, except the **_customer_grid_** which remains on &quot;SAVE&quot; (see [Indexing modes](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
-2. Document any third-party search engines or extensions in use.
+1. Wechseln Sie für die Indizierung auf _Aktualisierung planmäßig_, mit Ausnahme des **_customer_grid_**, das auf „SAVE“ bleibt (siehe [Indizierungsmodi](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
+2. Dokumentieren Sie alle verwendeten Suchmaschinen oder Erweiterungen von Drittanbietern.
 3. Überprüfen Sie, ob [SEO-Konfigurationen (Suchmaschinenoptimierung) ordnungsgemäß eingerichtet sind](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"} damit Indexer/Crawler die Website ggf. scannen können.
 4. Hinzufügen von Weiterleitungen und Routen (siehe [Konfigurieren von Routen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/configure/routes/routes-yaml){target="_blank"})
 
@@ -183,12 +183,12 @@ Wenn die Umstellung abgeschlossen ist, führen Sie die folgenden Schritte aus (w
 
 1. Greifen Sie auf Ihren DNS-Service zu und aktualisieren Sie A- und CNAME-Einträge für jede Ihrer Domains und Hostnamen:
    1. Fügen Sie einen CNAME-Eintrag für _&lt;&lt;www.yourdomain.com>>_ hinzu, der auf **prod.magentocloud.map.fastly.net** verweist.
-   2. Legen Sie vier A-Einträge für _&lt;yourdomain.com>_ fest, die auf verweisen:\
+   2. Legen Sie vier A-Einträge für _&lt;meinedomäne.com“_ fest, die auf Folgendes verweisen:\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Ändern Sie die Adobe Commerce-Basis-URL in _&lt;&lt;www.yourdomain.com>_
+2. Ändern Sie die Adobe Commerce-Basis-URL in _&lt;&lt;www.yourdomain.com>>_
 3. Warten Sie, bis die TTL-Zeit verstrichen ist, und starten Sie dann den Webbrowser neu.
 4. Testen Sie die Website.
 

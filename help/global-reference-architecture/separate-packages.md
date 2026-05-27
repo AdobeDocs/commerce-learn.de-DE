@@ -312,6 +312,6 @@ Die Code-Beispiele für diesen Blogpost wurden in einer Reihe von Git-Repository
 * Ein Beispiel für ein Foundation-Modul: <https://github.com/AntonEvers/module-example-gra>
 * Ein Beispiel für ein Modul eines Drittanbieters: <https://github.com/AntonEvers/module-example-3rdparty>
 * Ein Beispiel für ein lokales Modul: <https://github.com/AntonEvers/module-example-local>
-* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
-* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
-* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>
+* Ein Beispiel für ein Foundation-Metapaket: <https://github.com/AntonEvers/gra-meta-foundation>
+* Ein Beispiel für ein lokales Metapaket (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* Ein Beispiel für ein Composer-Repository: <https://github.com/AntonEvers/gra-composer-repository>

@@ -1,8 +1,8 @@
 ---
-title: Learn how to find and set up new alert notifications in New Relic
-description: Learn how to find alerts, policies and delivery mechanisms for New Relic alerts
-landing-page-description: Learn how to find alerts, policies and delivery mechanisms for New Relic alerts
-short-description: Learn how to add a new email address to an existing alert policy in New Relic.
+title: Erfahren Sie, wie Sie neue Warnbenachrichtigungen in New Relic finden und einrichten
+description: Erfahren Sie, wie Sie Warnhinweise, Richtlinien und Versandmechanismen für New Relic-Warnhinweise finden
+landing-page-description: Erfahren Sie, wie Sie Warnhinweise, Richtlinien und Versandmechanismen für New Relic-Warnhinweise finden
+short-description: Erfahren Sie, wie Sie in New Relic eine neue E-Mail-Adresse zu einer bestehenden Warnhinweisrichtlinie hinzufügen.
 kt: 15984
 doc-type: technical video
 duration: 162
@@ -34,19 +34,19 @@ ht-degree: 0%
 
 ---
 
-# New Relic alert notification setup
+# New Relic-Benachrichtigungseinrichtung
 
-Learn how to find alerts, policy, workflows, and destinations in New Relic. Observer how easy it is to add an email to an existing policy.
+Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Relic finden. Beobachten Sie, wie einfach es ist, eine E-Mail zu einer vorhandenen Richtlinie hinzuzufügen.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Developers and teams who need to add a new email to an existing alert in New Relic
+* Entwickler und Teams, die eine neue E-Mail zu einem bestehenden Warnhinweis in New Relic hinzufügen müssen
 
 ## Videoinhalt {#video-content}
 
-* Find where in the New Relic panel alerts are managed
-* Discover some of the alerts created for an Adobe Commerce Cloud project by the support team
-* Learn about alert notifications, policies and workflows
-* Saving the destination and validating the new email was added to a policy
+* Suchen Sie, wo im New Relic-Bedienfeld Warnhinweise verwaltet werden
+* Entdecken Sie einige der Warnhinweise, die vom Support-Team für ein Adobe Commerce Cloud-Projekt erstellt wurden
+* Erfahren Sie mehr über Warnhinweise, Richtlinien und Workflows
+* Das Speichern des Ziels und die Validierung der neuen E-Mail wurde zu einer Richtlinie hinzugefügt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441214?captions=ger&learn=on)

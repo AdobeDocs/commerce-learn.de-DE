@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[E-Mail-Vorlagen - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=de)
+[E-Mail-Vorlagen - Handbuch  [!DNL Commerce] Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=de)
 
-[Variablen und Kundenkommunikation - [!DNL Commerce] Handbuch für Admin-Systeme](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=de#variables-and-customer-communications)
+[Variablen und Kundenkommunikation - Handbuch  [!DNL Commerce] Admin Systems“](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=de#variables-and-customer-communications)

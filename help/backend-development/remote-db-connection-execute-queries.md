@@ -1,6 +1,6 @@
 ---
 title: Verbinden und Ausführen von Abfragen mit der Adobe Commerce-Datenbank
-description: Connect to an Adobe Commerce on cloud project, create a database dump for offsite use, mask or remove PII, and run SQL with the Cloud CLI, a GUI client, or direct connections.
+description: Stellen Sie eine Verbindung zu einem Adobe Commerce on Cloud-Projekt her, erstellen Sie einen Datenbank-Dump für die Offsite-Verwendung, maskieren oder entfernen Sie personenbezogene Daten und führen Sie SQL mit der Cloud-CLI, einem GUI-Client oder Direktverbindungen aus.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
@@ -29,34 +29,34 @@ ht-degree: 0%
 
 # Verbinden und Ausführen von Abfragen mit der Adobe Commerce-Datenbank
 
-Learn how to connect to an Adobe Commerce on cloud project, create a database dump for offsite use, and mask or remove personally identifiable information (PII). Access data with a local dump, a GUI such as MySQL Workbench or TablePlus, or the `magento-cloud` CLI.
+Erfahren Sie, wie Sie eine Verbindung zu einem Adobe Commerce on Cloud-Projekt herstellen, einen Datenbank-Dump für die Offsite-Verwendung erstellen und personenbezogene Daten maskieren oder entfernen können. Greifen Sie auf Daten mit einem lokalen Dump, einer GUI wie MySQL Workbench oder TablePlus oder der `magento-cloud` CLI zu.
 
-## Video contents
+## Videoinhalte
 
-* Connect to a remote Adobe Commerce Cloud project with a GUI tool such as MySQL Workbench or TablePlus.
-* Connect to the project and run SQL from the command line.
+* Stellen Sie mit einem GUI-Tool wie MySQL Workbench oder TablePlus eine Verbindung zu einem Remote-Adobe Commerce-Cloud-Projekt her.
+* Stellen Sie eine Verbindung mit dem Projekt her und führen Sie SQL über die Befehlszeile aus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450045?captions=ger&learn=on)
 
-You can access Adobe Commerce data from your cloud project using any of the following methods:
+Sie können mit einer der folgenden Methoden auf Adobe Commerce-Daten aus Ihrem Cloud-Projekt zugreifen:
 
-* Use a local DB dump.
-* Open a DB connection to your remote cloud environment with an application such as MySQL Workbench or TablePlus.
-* Connect directly to the cloud environment with the `magento-cloud` CLI and run commands on the remote server.
+* Verwenden Sie einen lokalen DB-Dump.
+* Öffnen Sie mit einer Anwendung wie MySQL Workbench oder TablePlus eine DB-Verbindung zu Ihrer Remote-Cloud-Umgebung.
+* Stellen Sie mit der `magento-cloud` CLI eine direkte Verbindung zur Cloud-Umgebung her und führen Sie Befehle auf dem Remote-Server aus.
 
-Prefer a database dump that you scrub to remove customer information. Remove customer data entirely when you do not need it.
+Es wird empfohlen, einen Datenbank-Dump zu löschen, um Kundeninformationen zu entfernen. Entfernen Sie Kundendaten vollständig, wenn Sie sie nicht benötigen.
 
-## Using the Adobe Commerce Cloud CLI tool
+## Verwenden des Adobe Commerce Cloud CLI-Tools
 
-You need the [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=de) installed to create a database dump. On your local computer, open a directory and run the following command. Replace `your-project-id` with your project ID (similar to `asasdasd45q`). Replace `your-environment-name` with your environment name, such as `master` or `staging`.
+Zum Erstellen eines Datenbank[Dump muss die &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=de)Adobe Commerce Cloud CLI) installiert sein. Öffnen Sie auf dem lokalen Computer ein Verzeichnis und führen Sie den folgenden Befehl aus. Ersetzen Sie `your-project-id` durch Ihre Projekt-ID (ähnlich wie `asasdasd45q`). Ersetzen Sie `your-environment-name` durch den Namen Ihrer Umgebung, z. B. `master` oder `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
-If you are not sure of the project ID or the environment, you can omit these in the command:
+Wenn Sie sich bezüglich der Projekt-ID oder der Umgebung nicht sicher sind, können Sie diese im Befehl weglassen:
 
 `magento-cloud db:dump`
 
-The CLI asks you to specify the correct project and environment. The following example displays that dialog. Dieses Beispiel zeigt mehrere Projekte, die Ihrem Konto zugewiesen sind, aber Sie haben wahrscheinlich nur ein Projekt zur Verfügung.
+Die CLI fordert Sie auf, das richtige Projekt und die richtige Umgebung anzugeben. Im folgenden Beispiel wird dieses Dialogfeld angezeigt. Dieses Beispiel zeigt mehrere Projekte, die Ihrem Konto zugewiesen sind, aber Sie haben wahrscheinlich nur ein Projekt zur Verfügung.
 
 In Verzeichnis ändern
 
