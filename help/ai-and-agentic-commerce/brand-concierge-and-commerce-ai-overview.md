@@ -36,4 +36,4 @@ Die Eingangstür zum Handel ist keine Startseite mehr - es ist ein Gespräch. Br
 
 ## Zusätzliche Ressourcen
 
-[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/de/docs/brand-concierge/content/home){target="_blank"}
