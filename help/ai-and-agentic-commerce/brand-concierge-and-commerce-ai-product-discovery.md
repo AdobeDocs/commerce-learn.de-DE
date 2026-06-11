@@ -38,4 +38,4 @@ Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in gro√
 
 ## Zus√§tzliche Ressourcen
 
-[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/de/docs/brand-concierge/content/home){target="_blank"}
