@@ -37,4 +37,4 @@ Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/de/docs/commerce/live-search/overview){target="_blank"}
