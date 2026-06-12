@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
 
-Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in große Sprachmodelle (LLMs). Rich-Attribute wie Produktvarianten, Mahltyp, Geschmackshinweise und Verpackungen sind oft hinter ausblendbaren Bedienfeldern und Pop-ups verborgen, die KI-Crawler nicht lesen können. Der Katalogagent von Brand Concierge erkennt diese Sichtbarkeitslücken automatisch und behebt sie - ohne die Storefront für den Einkäufer zu ändern.
+Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in große Sprachmodelle (LLMs). Rich-Attribute wie Produktvarianten, Mahltyp, Geschmackshinweise und Verpackungen sind oft hinter ausblendbaren Bedienfeldern und Pop-ups verborgen, die KI-Crawler nicht lesen können. Der Commerce Catalog Agent erkennt diese Sichtbarkeitslücken automatisch und behebt sie - ohne die Storefront für den Einkäufer zu ändern.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -38,4 +38,4 @@ Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in gro�
 
 ## Zusätzliche Ressourcen
 
-[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/de/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
