@@ -34,7 +34,7 @@ Experience Workspace ist die agentische Authoring-Umgebung, die Marketing-Expert
 * Natürliche Sprache fordert dazu auf, den Katalog abzufragen und vollständige Kampagnenseiten zu generieren
 * Bearbeitung auf Blockebene und am Rand gerenderte Live-Vorschau vor der Veröffentlichung
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492303?captions=ger)
 
 <!-- ## Additional resources -->
 
