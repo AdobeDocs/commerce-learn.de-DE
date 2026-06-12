@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: cac02a33a2fcbfb83989178b6b2b41f364da1d43
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
 
-Experience Workspace ist die in die Adobe Commerce-Storefront integrierte Authoring-Umgebung für Agenten. Es bietet Marketing-Experten und Entwicklern eine einheitliche Oberfläche - Dateistruktur, Seiteninhalte, Metadaten und Live-Vorschau - alles an einem Ort. Der KI-Authoring-Assistent wird auf MCP ausgeführt. Es stellt eine direkte Verbindung zu Ihrem Produktkatalog und Ihren Markeninhalten her, sodass Sie beschreiben können, was Sie erstellen möchten, und das Erscheinungsbild beobachten können, ohne zwischen Registerkarten zu wechseln, Tickets einzufügen oder einzureichen.
+Experience Workspace ist die agentische Authoring-Umgebung, die Marketing-Experten und Entwicklern eine einheitliche Oberfläche - Dateistruktur, Seiteninhalt, Metadaten und Live-Vorschau - an einem Ort bietet. Der KI-Authoring-Assistent wird auf MCP ausgeführt. Es stellt eine direkte Verbindung zu Ihrem Produktkatalog und Ihren Markeninhalten her, sodass Sie beschreiben können, was Sie erstellen möchten, und das Erscheinungsbild beobachten können, ohne zwischen Registerkarten zu wechseln, Tickets einzufügen oder einzureichen.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -34,7 +34,7 @@ Experience Workspace ist die in die Adobe Commerce-Storefront integrierte Author
 * Natürliche Sprache fordert dazu auf, den Katalog abzufragen und vollständige Kampagnenseiten zu generieren
 * Bearbeitung auf Blockebene und am Rand gerenderte Live-Vorschau vor der Veröffentlichung
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492303?captions=ger)
 
 <!-- ## Additional resources -->
 

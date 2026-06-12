@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
 
-Die Eingangstür zum Handel ist keine Startseite mehr - es ist ein Gespräch. Brand Concierge, integriert mit Adobe Commerce, ersetzt Filter, Suchleisten und Kategorieseiten durch einen KI-Assistenten, der die Kundenabsicht versteht, den Katalog abfragt und den Warenkorb in einem Gespräch verwaltet. KI-referenzierte Kunden konvertieren 31 % höher, erzielen 254 % mehr Umsatz pro Besuch und verbringen 45 % mehr Zeit vor Ort (Adobe Digital Insights, Januar 2026).
+Brand Concierge bringt Konversationseinkäufe nach Adobe Commerce, lässt Kunden einfach beschreiben, was sie wollen, und erhält passende Produkte aus dem Live-Katalog - keine Filter, keine Suchleisten erforderlich. In derselben Konversation werden Warenkorbaktualisierungen, Checkout- und Anleitungen nach dem Kauf unter Beibehaltung des vollständigen Kontexts während der gesamten Sitzung behandelt.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -34,7 +34,7 @@ Die Eingangstür zum Handel ist keine Startseite mehr - es ist ein Gespräch. Br
 * Checkout innerhalb der Konversation abgeschlossen, ohne wegzunavigieren
 * Kontextuelle Anleitungen nach dem Kauf, die speziell für das gekaufte Produkt gelten
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492321?captions=ger)
 
 ## Zusätzliche Ressourcen
 
