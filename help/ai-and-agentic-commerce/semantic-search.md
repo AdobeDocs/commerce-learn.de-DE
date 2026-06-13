@@ -33,7 +33,7 @@ Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer
 * Automatische Katalogindizierung zur Umwandlung von Produktdaten in semantische Signale
 * Ergebnissteigerung, Ähnlichkeitsschwellen und Konfiguration der Fuzzy-Suche
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492312?captions=ger)
 
 ## Zusätzliche Ressourcen
 
