@@ -34,7 +34,7 @@ Für die Erstellung von Commerce-Anpassungen waren traditionell mehrere Teams, T
 * Gleichzeitige Validierung und Optimierung über die gesamte Systemansicht hinweg
 * Kontinuierlicher Bereitstellungsfluss ohne Übergabe oder Kontextverlust
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492294?captions=ger)
 
 <!-- ## Additional resources -->
 
