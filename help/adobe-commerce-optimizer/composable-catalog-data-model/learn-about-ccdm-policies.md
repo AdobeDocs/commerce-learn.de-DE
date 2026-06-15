@@ -32,7 +32,7 @@ Wenn eine **Katalogansicht** die Linse ist, die das formt, was Kunden von einem 
 * Durch API-Anfrage-Header aktivierte Trigger-Richtlinien (z. B. `AC-Policy-Brand`)
 * Aktualisieren von Richtlinien in täglichen Vorgängen ohne Katalogneuaufbau
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491433?captions=ger&learn=on)
 
 Eine **Richtlinie** ist ein **Datenzugriffsfilter**. Sie prüft Produktattribute und wendet Regeln an, die bestimmen, welche Produkte eine Katalogansicht verfügbar machen kann. Richtlinien befinden sich oberhalb des freigegebenen zusammensetzbaren Katalogs und duplizieren keine Katalogdaten.
 
