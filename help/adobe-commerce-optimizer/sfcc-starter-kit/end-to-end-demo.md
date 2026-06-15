@@ -1,18 +1,18 @@
 ---
 title: End-to-End-Demo für den Salesforce Commerce Cloud Connector
-description: Sehen Sie sich die End-to-End-Demo zu Salesforce Commerce Cloud mit Adobe Commerce Optimizer an.
+description: Erfahren Sie, wie Sie eine vollständige Delta- und Delta-Synchronisierung zwischen Salesforce Commerce Cloud und Adobe Commerce Optimizer durchführen und dann die Ergebnisse in einer Live-Storefront validieren.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Sehen Sie sich eine umfassende Demonstration an, in der die erfolgreiche Einrich
 * Änderungen an Produktdetails und Preisen im Salesforce Commerce Cloud-Katalog werden automatisch in Commerce Optimizer über den Delta-Synchronisierungsprozess erkannt und aktualisiert.
 * Echtzeit-Updates und Demonstration eines nahtlosen Datenflusses und einer nahtlosen Synchronisation zwischen Systemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476102?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

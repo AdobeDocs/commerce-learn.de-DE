@@ -1,6 +1,6 @@
 ---
 title: Einführung in Salesforce Commerce Cloud
-description: Erfahren Sie mehr über Salesforce Commerce Cloud mit Adobe Commerce Optimizer unter Verwendung des SFCC-Connectors.
+description: Erfahren Sie, wie der Salesforce Commerce Cloud Connector SFCC mit Commerce Optimizer integriert, um den E-Commerce mit KI-Erkennung und Katalogsynchronisierung zu modernisieren.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 230
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ Erfahren Sie mehr über den Commerce Optimizer Salesforce Commerce Cloud Connect
 * Erfahren Sie mehr über den Zweck des Salesforce Commerce Cloud Integration Starter Kits.
 * Informationen zur Installation des Starter Kits
 
->[!VIDEO](https://video.tv.adobe.com/v/3476022?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
