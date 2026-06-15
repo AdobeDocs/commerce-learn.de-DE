@@ -1,6 +1,6 @@
 ---
 title: Installieren der Salesforce Commerce Cloud-Kassette
-description: Erfahren Sie mehr über die in Salesforce mit Adobe Commerce Optimizer verwendete Kassette.
+description: Erfahren Sie, wie Sie die Adobe Commerce Optimizer-Kassette für Salesforce Commerce Cloud installieren und konfigurieren, Delta-Exporte einrichten und die Installation überprüfen.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

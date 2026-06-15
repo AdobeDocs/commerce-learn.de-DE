@@ -1,13 +1,13 @@
 ---
 title: Verwalten einer Adobe Commerce Optimizer-Instanz
-description: Erfahren Sie, wie Sie Adobe Commerce Optimizer-Instanzen verwalten und wichtige Details und Endpunkte finden
+description: Erfahren Sie, wie Sie Adobe Commerce Optimizer-Instanzen verwalten - Aktualisieren Sie Namen und Beschreibungen und suchen Sie wichtige Endpunkte wie GraphQL, Katalog-URLs und Instanz-IDs.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Tutorial
-duration: 164
-last-substantial-update: 2025-07-29T00:00:00.000Z
+doc-type: Technical Video
+duration: 163
+last-substantial-update: 2025-07-29
 jira: KT-18638
 exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
 TQID: https://experienceleague.adobe.com/XsNNvqmfYw7veX8lyKXjy1ifTD3FaoJA5WFSxQtw0l0
@@ -18,9 +18,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: 140
 ht-degree: 0%
 
 ---
@@ -46,5 +46,5 @@ Erfahren Sie, wie Sie eine Adobe Commerce Optimizer-Instanz verwalten, um Namen 
 ## Verwandte Inhalte
 
 * [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
-* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
 * [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/get-started){target="_blank"}

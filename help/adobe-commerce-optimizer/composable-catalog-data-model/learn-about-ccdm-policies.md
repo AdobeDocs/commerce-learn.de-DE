@@ -1,17 +1,17 @@
 ---
 title: Erfahren Sie mehr über CCDM-Richtlinien im zusammensetzbaren Katalogdatenmodell
-description: Erfahren Sie, wie Richtlinien im Adobe Composable Catalog Data Model Produkte mit STATIC-Regeln und TRIGGER-Headern in jeder Katalogansicht filtern.
+description: Erfahren Sie, wie STATIC- und TRIGGER-Richtlinien im zusammensetzbaren Katalogdatenmodell von Adobe die Sichtbarkeit von Produkten über Katalogansichten hinweg steuern, ohne den Katalog neu zu erstellen.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Richtlinien sind einfache Filter in einem **freigegebenen Katalog**, keine Regel
 * [Informationen zu Katalogansichten](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Katalogansichten für Merchandising-Services](https://experienceleague.adobe.com/de/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
-* [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

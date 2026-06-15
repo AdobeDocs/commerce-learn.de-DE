@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -55,12 +55,12 @@ Diese Trennung - **woher die Daten stammen** (Katalogquelle) versus **wie sie pr
 
 Wie in [Katalogansichten für Merchandising-Services](https://experienceleague.adobe.com/de/docs/commerce/optimizer/setup/catalog-view){target="_blank"} beschrieben, verhält sich eine Katalogansicht wie eine **Linse**: Käufer sehen nur die Produkte, Preise und Regeln, die diese Ansicht zulässt, während der **Basiskatalog** das gemeinsame Aufzeichnungssystem bleibt. Dieses Modell verbindet sich direkt mit **Merchandising Services**, sodass API-Clients die richtige Ansicht (und die zugehörigen Kopfzeilen) übergeben und für jedes Erlebnis eine konsistente, richtliniengesteuerte Antwort erhalten.
 
-Eine genauere Anleitung dazu, wie diese Teile in einen End-to-End-Fluss passen, finden Sie im Abschnitt Anleitung für Entwickler [Erstellen eines zusammensetzbaren Katalogs für Ihre Storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}.
+Eine genauere Anleitung dazu, wie diese Teile in einen End-to-End-Fluss passen, finden Sie im Abschnitt Anleitung für Entwickler [Erstellen eines zusammensetzbaren Katalogs für Ihre Storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Verwandte Inhalte
 
 * [Informationen zu Katalogansichten](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Katalogansichten für Merchandising-Services](https://experienceleague.adobe.com/de/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Erstellen eines zusammenstellbaren Katalogs für Ihre Storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}
+* [Erstellen eines zusammenstellbaren Katalogs für Ihre Storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
 * [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
-* [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
