@@ -1,0 +1,38 @@
+---
+title: Commerce AI-Produkterkennung
+description: Erfahren Sie, wie der Commerce-Katalogagent KI-Sichtbarkeitslücken schließt und so Commerce-Produktdaten anreichert, damit LLMs Ihre Produkte erkennen und empfehlen können.
+role: User
+level: Beginner
+doc-type: Value Video
+last-substantial-update: 2026-06-11T00:00:00Z
+jira: KT-21572
+duration: 451
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
+
+---
+
+# Commerce AI-Produkterkennung
+
+[!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
+
+Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in große Sprachmodelle (LLMs). Rich-Attribute wie Produktvarianten, Mahltyp, Geschmackshinweise und Verpackungen sind oft hinter ausblendbaren Bedienfeldern und Pop-ups verborgen, die KI-Crawler nicht lesen können. Der Commerce Catalog Agent erkennt diese Sichtbarkeitslücken automatisch und behebt sie - ohne die Storefront für den Einkäufer zu ändern.
+
+## Für wen ist dieses Video bestimmt?
+
+* Merchandiser
+* Commerce-Administratoren
+* Digitale Marketer
+
+## Videoinhalt
+
+* KI-Sichtbarkeitsprüfer zur Simulation, wie LLM-Crawler Ihre Produktseiten lesen
+* Bedienfeld „Optimierungsmöglichkeiten“ mit wirkungsvollen Anreicherungsempfehlungen
+* Anreicherung von Produktdetailseiten, um ausgeblendete Attribute für LLM-Crawler verfügbar zu machen
+* Kataloganreicherung zur Generierung von KI-optimierten Produktnamen und Beschreibungen
+* Validierung von Verbesserungen mithilfe des KI-Content-Sichtbarkeiten-Checkers
+
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
+
