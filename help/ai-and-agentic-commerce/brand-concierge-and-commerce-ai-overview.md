@@ -34,7 +34,7 @@ Die Integration von Brand Concierge mit Adobe Commerce macht Konversationen übe
 * Checkout innerhalb der Konversation abgeschlossen, ohne wegzunavigieren
 * Kontextuelle Anleitungen nach dem Kauf, die speziell für das gekaufte Produkt gelten
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492321?captions=ger)
 
 ## Zusätzliche Ressourcen
 
