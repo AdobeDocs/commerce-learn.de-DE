@@ -34,5 +34,5 @@ Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in groÃ
 * Kataloganreicherung zur Generierung von KI-optimierten Produktnamen und Beschreibungen
 * Validierung von Verbesserungen mithilfe des KI-Content-Sichtbarkeiten-Checkers
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492330?captions=ger)
 
