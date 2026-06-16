@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -34,8 +34,9 @@ Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in gro√
 * Kataloganreicherung zur Generierung von KI-optimierten Produktnamen und Beschreibungen
 * Validierung von Verbesserungen mithilfe des KI-Content-Sichtbarkeiten-Checkers
 
->[!VIDEO](https://video.tv.adobe.com/v/3492330?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 
 ## Zus√§tzliche Ressourcen
 
-[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/de/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+
