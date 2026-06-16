@@ -1,20 +1,20 @@
 ---
-title: KI-Produkterkennung von Brand Concierge und Commerce
-description: Erfahren Sie, wie Brand Concierge mithilfe eines Katalogagenten KI-Sichtbarkeitslücken schließt und so Commerce-Produktdaten anreichert, damit LLMs Ihre Produkte erkennen und empfehlen können.
+title: Commerce AI-Produkterkennung
+description: Erfahren Sie, wie der Commerce-Katalogagent KI-Sichtbarkeitslücken schließt und so Commerce-Produktdaten anreichert, damit LLMs Ihre Produkte erkennen und empfehlen können.
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# KI-Produkterkennung von Brand Concierge und Commerce
+# Commerce AI-Produkterkennung
 
 [!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
 
@@ -35,8 +35,4 @@ Selbst die umfangreichsten Produktkataloge bieten nur teilweise Einblick in gro�
 * Validierung von Verbesserungen mithilfe des KI-Content-Sichtbarkeiten-Checkers
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492330?captions=ger)
-
-## Zusätzliche Ressourcen
-
-[[!DNL Brand Concierge] Dokumentation](https://experienceleague.adobe.com/de/docs/brand-concierge/content/home){target="_blank"}
 
