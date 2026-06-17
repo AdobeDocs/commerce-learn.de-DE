@@ -34,4 +34,4 @@ Das Commerce MCP für Adobe Commerce unterstützt Entwickler beim Erstellen benu
 * Checkout innerhalb der Konversation abgeschlossen, ohne wegzunavigieren
 * Kontextuelle Anleitungen nach dem Kauf, die speziell für das gekaufte Produkt gelten
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492321?captions=ger)
