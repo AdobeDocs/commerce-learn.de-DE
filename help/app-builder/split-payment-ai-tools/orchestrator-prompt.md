@@ -1,15 +1,15 @@
 ---
-title: 'Aufspaltung des Zahlungs-POC: App Builder Orchestrator-KI-Eingabeaufforderung'
+title: Aufspaltung des Zahlungs-POC - App Builder Orchestrator-KI-Eingabeaufforderung
 description: Erfahren Sie, wie Sie mit dieser Eingabeaufforderung die Split-Payment-Orchestrator-App erstellen. E/A-Ereignisse, Zahlungskoordinator, Web-Aktionen, Demo-Dashboard und Mobile-App-Bereitstellung.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%

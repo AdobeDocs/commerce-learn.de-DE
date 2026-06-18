@@ -1,6 +1,6 @@
 ---
 title: Die Datei app.config.yaml
-description: Erfahren Sie mehr über die Dateitypen in der Datei app.config.yaml für diese Beispielanwendung.
+description: Erfahren Sie, wie die Datei „app.config.yaml“ die Anwendungskonfiguration bestimmt und wie ihre Definitionen mit JavaScript-Dateien in Ihrer Adobe Developer App Builder-Beispielanwendung verknüpft sind.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -11,18 +11,13 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
 TQID: https://experienceleague.adobe.com/iK4PPaI2-vxQK32DMfkMRZMgNYpLExMbNge2lXIJzLg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 96
 ht-degree: 0%
 
 ---
@@ -38,9 +33,9 @@ Diese Datei bestimmt die Konfiguration für das Programm.
 ## Videoinhalt
 
 * Die besprochene `app.config.yaml`
-* Verknüpfen von Definitionen mit anderen `.js`
+* Verknüpfung von Definitionen mit anderen `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430838?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## Code-Beispiel
 

@@ -1,15 +1,15 @@
 ---
-title: 'Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Konzeptnachweis'
+title: Aufspaltung des Zahlungs-POC - nächste Schritte nach dem Machbarkeitsnachweis
 description: Erfahren Sie, wie Sie den POC für aufgeteilte Zahlungen in die Produktion verschieben können. Experience Cloud-Benutzeroberfläche, ERP-Hooks, API-Mesh, PHP-Umfang, App Builder-Workflows und Bereitstellungs-Checkliste.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 Das Demo-Dashboard und das Simulationsskript, das Sie in diesem Tutorial erstellt haben, sind absichtlich grob. Sie existieren, um das Muster zu beweisen. Auf dieser Seite wird ein praktischer Weg von der Machbarkeitsstudie zur App Builder-Entwicklung im Produktionsstil beschrieben.
 
 
-## Schritt 1: Ersetzen des Demo-Dashboards durch eine Experience Cloud-Benutzeroberflächenerweiterung
+## Schritt 1: Ersetzen des Demo-Dashboards durch eine Experience Cloud-UI-Erweiterung
 
 Die `demo-dashboard` Web-Aktion stellt HTML über eine Zeichenfolge innerhalb einer Node.js-Funktion bereit. Es funktioniert, aber es ist nicht das Produktionsmuster.
 
-Der richtige Ersatz ist die `commerce-backend-ui-1` im `commerce-checkout-starter-kit` - eine React-App, die über die Adobe Admin UI SDK in die Commerce Admin Shell eingebettet ist. Siehe [Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterungs-KI](./experience-cloud-ui-prompt.md)Eingabeaufforderung für die Erzeugungsaufforderung.
+Der richtige Ersatz ist die `commerce-backend-ui-1` im `commerce-checkout-starter-kit` - eine React-App, die über die Adobe Admin UI SDK in die Commerce Admin Shell eingebettet ist. Siehe [Aufspaltung des Zahlungs-POC: Eingabeaufforderung zur Erweiterung der Experience Cloud](./experience-cloud-ui-prompt.md)Benutzeroberfläche für die Eingabeaufforderung zur Generierung.
 
 **Änderungen:**
 * Benutzende melden sich über die Commerce Admin Shell an (IMS-Authentifizierung statt eines freigegebenen Geheimnisses)

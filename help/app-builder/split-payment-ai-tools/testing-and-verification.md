@@ -1,15 +1,15 @@
 ---
-title: 'Split Payment POC: Test- und Verifizierungshandbuch'
+title: Aufspaltung des Zahlungs-POC — Test- und Verifizierungshandbuch
 description: Erfahren Sie, wie Sie den aufgeteilten Zahlungs-POC überprüfen. Commerce-Installation, REST, Checkout, Schwellenwert, Annahme und Ablehnung von Simulationen, Demo-Dashboard und App Builder-Protokolle.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
