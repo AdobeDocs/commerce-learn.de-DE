@@ -1,15 +1,15 @@
 ---
-title: 'Aufspaltung des Zahlungs-POC: Tutorial-Kurzanleitung'
+title: Aufspaltung des Zahlungs-POC — Tutorial-Schnellübersicht
 description: Erfahren Sie mehr über die aufgeteilte POC-Dateizuordnung für Zahlungen. Welche Experience League-Seite für jede KI-Eingabeaufforderung, vorgeschlagene Abschnittsreihenfolge und Autorenhinweise für den Luma-Checkout geeignet ist.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Abschnitt „Erstellen des App Builder-Programms“. Begleiter der Commerce-Modulaufforderung.
 
 
-### [Zahlungs-POC aufteilen: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung](./experience-cloud-ui-prompt.md)
+### [Zahlungs-POC aufteilen: Eingabeaufforderung für die Erweiterung der Experience Cloud-Benutzeroberfläche](./experience-cloud-ui-prompt.md)
 
 
 **Zweck:** KI-Aufforderung, die optionale SDK-Erweiterung für die Experience Cloud Admin-Benutzeroberfläche zu generieren.
@@ -165,7 +165,7 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 
 **Zweck:** Roadmap für die Weiterentwicklung des POC zu produktionsbereiten Mustern.
 
-**Warum es erforderlich ist:** Ein PoC-Tutorial birgt die Gefahr, dass Entwickler ein „Was jetzt?“ Gefühl. In diesem Dokument werden die natürlichen Fortschritte von der Demo- zur Produktionsumgebung zusammengefasst: Ersetzen des Demo-Dashboards durch eine Experience Cloud-Erweiterung, Verbinden eines echten ERP, Hinzufügen von API-Mesh, Erweitern des App Builder-Workflows und Checkliste für die Produktionsbereitstellung.
+**Warum es erforderlich ist:** Ein PoC-Tutorial birgt die Gefahr, dass Entwickler ein „Was jetzt?“ Gefühl. In diesem Dokument werden die natürlichen Fortschritte von der Demo- zur Produktionsumgebung dargestellt: Ersetzen des Demo-Dashboards durch eine Experience Cloud-Erweiterung, Verbinden eines echten ERP, Hinzufügen von API-Mesh, Erweitern des App Builder-Workflows und Checkliste für die Produktionsbereitstellung.
 
 **Wichtiger Inhalt:**
 
@@ -192,7 +192,7 @@ Basierend auf diesen Dateien ist eine typische Struktur für Leser:
 | Schritt 1: Commerce-Modul erstellen | [Zahlungs-POC aufteilen: Commerce-Modul-KI-Eingabeaufforderung](./commerce-module-prompt.md) |
 | Schritt 2: App Builder Orchestrator erstellen | [Zahlungs-POC aufteilen: App Builder Orchestrator-KI-Eingabeaufforderung](./orchestrator-prompt.md) |
 | Schritt 3: Testen des End-to-End-Flusses | [Aufspaltung des Zahlungs-POC: Test- und Verifizierungshandbuch](./testing-and-verification.md) |
-| Schritt 4 (optional): Erweiterung der Admin-Benutzeroberfläche | [Zahlungs-POC aufteilen: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung](./experience-cloud-ui-prompt.md) |
+| Schritt 4 (optional): Erweiterung der Admin-Benutzeroberfläche | [Zahlungs-POC aufteilen: Eingabeaufforderung für die Erweiterung der Experience Cloud-Benutzeroberfläche](./experience-cloud-ui-prompt.md) |
 | Nächste Schritte und Produktionspfad | [Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Machbarkeitsnachweis](./next-steps.md) |
 
 

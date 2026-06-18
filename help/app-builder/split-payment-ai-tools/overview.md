@@ -1,16 +1,16 @@
 ---
-title: 'Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools'
+title: Aufspaltung des Zahlungs-POC - App Builder und KI-Tools
 description: Erfahren Sie mehr über einen separaten Zahlungsnachweis mit App Builder und Commerce PaaS, einschließlich der Ziele, der Architektur und der Themen, die in dieser ersten Sitzung behandelt werden.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 237
 jira: KT-20791
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---

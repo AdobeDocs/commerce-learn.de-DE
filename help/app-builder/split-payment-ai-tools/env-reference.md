@@ -1,15 +1,15 @@
 ---
-title: 'Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz'
+title: Aufspaltung des Zahlungs-POC — Umgebungsvariablen-Referenz
 description: Erfahren Sie, wie Sie die Einstellungen für Commerce OAuth, Basis-URL, Zahlungsschwellenwert und optionale Demos den Dateien „Orchestrator“, „Benutzeroberflächenerweiterung“ und „Simulationsumgebung“ zuordnen.
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -61,7 +61,7 @@ DEMO_UI_BASE_URL=
 ```
 
 
-## Experience Cloud-Benutzeroberflächenerweiterung (commerce-checkout-starter-kit)
+## Experience Cloud-UI-Erweiterung (commerce-checkout-starter-kit)
 
 ### `commerce-checkout-starter-kit/.env`
 

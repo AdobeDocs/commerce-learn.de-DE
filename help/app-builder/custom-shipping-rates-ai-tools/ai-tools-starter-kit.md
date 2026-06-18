@@ -1,18 +1,18 @@
 ---
 title: Funktion für benutzerdefinierte Versandraten mit KI-Tools erstellen
-description: Erfahren Sie, wie Sie mit den KI-Tools von Adobe benutzerdefinierte Versandraten erstellen und die Checkout-Funktionen mit einer Pseudo-API und sicheren Konfigurationen erweitern können.
+description: Erfahren Sie, wie Sie mit den KI-Tools von Adobe benutzerdefinierte Versandraten erstellen, Checkout-Funktionen mit einer Pseudo-API erweitern und sichere Service-Endpunkte konfigurieren können.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie mit den KI-gestützten Tools von Adobe den Entwicklungs-Wo
 * Der KI-Agent analysiert den Kontext und verwendet rollenbasierte Fähigkeiten, um die Entwicklung zu steuern.
 * Das Starter Kit bietet Struktur und Beispielmuster für eine schnellere Erweiterungserstellung.
 * MCP-Tools stellen Befehle und Daten bereit, die der Agent zum Planen und Generieren von Code verwendet.
-* KI automatisiert Anforderungen, Architektur und Entscheidungen bei der Implementierung.
+* KI automatisiert Anforderungen, Architektur und Implementierungsentscheidungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481353?captions=ger&learn=on)
 

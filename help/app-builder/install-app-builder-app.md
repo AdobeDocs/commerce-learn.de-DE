@@ -1,6 +1,6 @@
 ---
 title: Installieren von App Builder Apps über Adobe Exchange
-description: Erfahren Sie, wie Sie Adobe Commerce App Builder-Apps mit Adobe Exchange installieren und validieren.
+description: Erfahren Sie, wie Sie Adobe Commerce App Builder-Apps in Adobe Exchange finden, installieren und validieren, einschließlich Filtern, Genehmigung, Einrichtung der Umgebung und Installationsüberprüfung.
 feature: App Builder
 topic: Commerce
 role: Developer, User
@@ -22,16 +22,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 120
 ht-degree: 0%
 
 ---
 
 # Installieren von App Builder-Apps über Adobe Exchange
 
-Erfahren Sie, wie Sie Adobe Commerce App Builder-Apps mit Adobe Exchange finden, installieren und validieren. Sie werden durch das Filtern nach relevanten Apps, das Akquirieren und Genehmigen dieser Apps, das Einrichten von Bereitstellungsumgebungen und die Überprüfung der erfolgreichen Installation geführt - alles anhand eines realen Beispiels mit der Feed Generator-App. Unabhängig davon, ob Sie neu bei App Builder sind oder Ihren Workflow optimieren möchten, bietet Ihnen dieses Tutorial einen praktischen, schrittweisen Überblick, um Ihnen den Einstieg zu erleichtern.
+Erfahren Sie, wie Sie Adobe Commerce App Builder-Apps mit Adobe Exchange finden, installieren und validieren. Sie werden durch das Filtern nach relevanten Apps, das Akquirieren und Genehmigen dieser Apps, das Einrichten von Bereitstellungsumgebungen und die Überprüfung der erfolgreichen Installation geführt - alles anhand eines Beispiels mit der Feed Generator-App. Unabhängig davon, ob Sie neu bei App Builder sind oder Ihren Workflow optimieren möchten, bietet Ihnen dieses Tutorial einen praktischen, schrittweisen Überblick, um Ihnen den Einstieg zu erleichtern.
 
 
 ## Für wen ist dieses Video bestimmt?

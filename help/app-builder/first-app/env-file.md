@@ -1,7 +1,7 @@
 ---
 title: Die .env-Datei
-description: Erfahren Sie mehr über die Dateitypen in der .env-Datei für diese Beispielanwendung
-jira: KT-12423
+description: Erfahren Sie, wie Sie die .env-Datei für Ihr Adobe Developer App Builder-Programm generieren und konfigurieren, einschließlich der Verwaltung von geheimen Daten und der Verhinderung versehentlicher Übertragungen an die Versionsverwaltung.
+jira: KT-21681
 doc-type: Tutorial
 duration: 177
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -22,9 +22,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 147
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Der `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber
 
 * Einführung in die .env-Datei und ihren Zweck
 * Generieren der .env-Datei
-* Anhängen der Datei zum Hinzufügen neuer geheimer Daten
+* Um neue geheime Daten hinzuzufügen, hängen Sie die Datei an
 * Übertragung dieser Datei vermeiden, da sie vertrauliche Informationen enthält
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)

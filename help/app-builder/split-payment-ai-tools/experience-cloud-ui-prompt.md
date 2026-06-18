@@ -1,22 +1,22 @@
 ---
-title: 'Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung'
-description: 'Erfahren Sie, wie Sie mit dieser optionalen Eingabeaufforderung die Aufspaltungszahlung in Commerce Admin einbetten können: Admin-Benutzeroberfläche, SDK, IMS, OAuth, Akzeptieren und Ablehnen und das Simulationsskript.'
+title: Aufspaltung des Zahlungs-POC - Eingabeaufforderung zur Erweiterung der Experience Cloud-Benutzeroberfläche
+description: Erfahren Sie, wie Sie mit dieser optionalen Eingabeaufforderung die Aufspaltungszahlung in Commerce Admin einbetten können - Admin-Benutzeroberfläche, SDK, IMS, OAuth, Akzeptieren und Ablehnen und das Simulationsskript.
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Aufspaltung des Zahlungs-POC: Experience Cloud UI-Erweiterung - KI-Eingabeaufforderung
+# Aufspaltung des Zahlungs-POC: API-Eingabeaufforderung für Experience Cloud-UI-Erweiterung
 
 Dies ist der optionale Schritt, bei dem das Bedienfeld „Aufspaltung“ für Zahlungsaufträge mithilfe der `commerce-checkout-starter-kit` und des `commerce-backend-ui-1` in die **[!UICONTROL Adobe Commerce]** Admin Shell (Experience Cloud) eingebettet wird. Das eigenständige [Demo-Dashboard](./orchestrator-prompt.md) von App Builder Orchestrator deckt denselben Akzeptieren- und Ablehnungsfluss ohne Admin-Shell-Integration ab.
 

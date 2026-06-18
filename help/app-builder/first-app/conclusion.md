@@ -1,7 +1,7 @@
 ---
 title: Schlussfolgerung
-description: Learn where to go for more information on App Builder.
-jira: KT-12428
+description: Erfahren Sie mehr über zusätzliche Adobe Developer App Builder-Ressourcen, Dokumentation und Community-Optionen nach Abschluss Ihres ersten App Builder-Programms mit Adobe Commerce.
+jira: KT-21686
 doc-type: Tutorial
 duration: 100
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,35 +18,34 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: 130
 ht-degree: 0%
 
 ---
 
 # Schlussfolgerung {#conclusion}
 
-Now that you have built your first Adobe Developer App Builder app, learn about other resources Adobe provides.
+Erfahren Sie nach dem Erstellen Ihrer ersten Adobe Developer App Builder-App mehr über die anderen Ressourcen, die Adobe bereitstellt.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who has completed their first Adobe Developer App Builder app and are ready to learn more.
+* Entwicklerinnen und Entwickler, die neu bei Adobe Commerce sind und nur über eingeschränkte Erfahrung mit Adobe App Builder verfügen, die ihre erste Adobe Developer App Builder-App abgeschlossen haben und bereit sind, mehr zu erfahren.
 
 ## Videoinhalt
 
 * Zusätzliche Ressourcen
-* Methods of connecting to other developers
-* Closing comments
+* Methoden zum Herstellen einer Verbindung zu anderen Entwicklern
+* Abschließende Kommentare
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
 
-## Additional App Builder resources
+## Zusätzliche App Builder-Ressourcen
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
-* [Adobe Developer App Builder trial](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer App Builder docs](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder forums](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=de){target="_blank"}
-* [Adobe Developer App Builder contribution guidelines](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder-Testversion](https://developer.adobe.com/app-builder/trial/){target="_blank"}
+* [Adobe Developer App Builder-Dokumente](https://developer.adobe.com/app-builder/docs/intro_and_overview){target="_blank"}
+* [Adobe Developer App Builder-Beitragsrichtlinien](https://developer.adobe.com/app-builder/docs/guides/contribution_guide){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
