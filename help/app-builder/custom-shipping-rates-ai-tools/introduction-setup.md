@@ -33,6 +33,6 @@ Erfahren Sie, wie Sie KI-Tools einrichten, um benutzerdefinierte Versandraten zu
 * Beschreibt das Einrichten der Entwicklungsumgebung, einschließlich Klonen des Repositorys, Überprüfen der Starter-Kit-Struktur und Installieren der erforderlichen Tools.
 * Bereitet das System für die KI-unterstützte Entwicklung vor, indem es sich anmeldet, den Zugriff konfiguriert und sicherstellt, dass alle Abhängigkeiten und Voraussetzungen vorhanden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481337?captions=ger&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

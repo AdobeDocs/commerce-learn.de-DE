@@ -21,7 +21,7 @@ Dies ist das erste einer Reihe von Tutorials, die Sie mit der Verwendung der KI-
 
 ## Video
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483942?captions=ger&learn=on)
 
 ## Wichtige Details
 

@@ -33,6 +33,6 @@ Der KI-Agent schließt die Implementierung ab, bereinigt nicht verwendeten Code 
 Die Anmeldeinformationen und die Umgebung sind konfiguriert, um die neue Versanderweiterung bereitzustellen und zu registrieren.
 Storefront-Tests bestätigen, dass die externen Versandraten wie erwartet angezeigt werden und funktionieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481366?captions=ger&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
