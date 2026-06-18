@@ -1,17 +1,14 @@
 ---
-title: Integration der letzten Meile im Commerce-Integrations-Starter-Kit.
-description: Integration der letzten Meile in Commerce, wobei Erweiterbarkeitshaken wie Validierung, Umwandlung, Vorverarbeitung, Senden und Nachbearbeitung hervorgehoben werden​
-landing-page-description: Erfahren Sie mehr über den Aufbau und die Funktionen von Erweiterbarkeitshaken bei der Integration der letzten Meile für Commerce-Systeme.
-kt: 15869
-doc-type: video
+title: Integration der letzten Meile im Commerce Starter Kit
+description: Erfahren Sie mehr über die Integration der letzten Meile in Commerce mithilfe von Erweiterbarkeits-Hooks für die Validierung, Umwandlung, Vorverarbeitung, Übermittlung und Nachbearbeitung.
+doc-type: Technical Video
 duration: 557
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
 product_v2:
@@ -24,16 +21,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 359
+source-wordcount: 342
 ht-degree: 0%
 
 ---
 
 # Integration der letzten Meile mit dem Adobe Starter Kit
 
-Erfahren Sie mehr über Elemente, die Sie beim Starten der Last-Mile-Integration mit Adobe Commerce berücksichtigen sollten, wobei Sie sich auf die Verwendung von Erweiterbarkeits-Hooks konzentrieren sollten, um die Konnektivität mit Drittanbietersystemen zu verbessern. In diesem Video wird ein strukturierter Ansatz erläutert, bei dem verschiedene Hooks wie Validierung, Transformation, Vorverarbeitung, Senden und Nachbearbeitung einen nahtlosen Datenfluss und eine nahtlose Systemsynchronisierung sicherstellen. Jeder Hook erfüllt einen bestimmten Zweck, darunter:
+Erfahren Sie mehr über Elemente, die Sie beim Starten der Last-Mile-Integration mit Adobe Commerce berücksichtigen sollten, und konzentrieren Sie sich auf Erweiterbarkeits-Hooks, um die Konnektivität mit Drittanbietersystemen zu verbessern. In diesem Video wird ein strukturierter Ansatz erläutert, bei dem verschiedene Hooks wie Validierung, Transformation, Vorverarbeitung, Senden und Nachbearbeitung einen nahtlosen Datenfluss und eine nahtlose Systemsynchronisierung sicherstellen. Jeder Hook erfüllt einen bestimmten Zweck, darunter:
 
 * Validieren eingehender Daten anhand von Schemata
 * Transformieren von Datenobjekten zwischen Systemen
