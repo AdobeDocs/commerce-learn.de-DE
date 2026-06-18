@@ -1,6 +1,6 @@
 ---
 title: API-Mesh-Starter-Kit mit GitHub-Codespaces
-description: Erste Schritte mit Adobe Commerce API Mesh unter Verwendung eines GitHub-basierten Starter Kits - kein lokales Setup erforderlich.
+description: Erfahren Sie, wie Sie mit Adobe Commerce API Mesh unter Verwendung eines GitHub-Codespaces-Starter-Kits beginnen, ohne dass eine Konfiguration der lokalen Umgebung erforderlich ist.
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
@@ -19,16 +19,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: 188
 ht-degree: 0%
 
 ---
 
 # API-Mesh-Starter-Kit mit GitHub-Codespaces
 
-In dieser Sitzung wird das Adobe Commerce API Mesh Starter Kit vorgestellt, mit dem Entwicklerinnen und Entwickler API Mesh schnell mithilfe von GitHub-Codespaces ohne lokale Einrichtung erkunden können. Es führt Sie durch die Einrichtung eines Repositorys, die Konfiguration von Endpunkten und die Verwendung integrierter Tools wie GraphQL Yoga für Tests.
+In dieser Sitzung wird das Adobe Commerce API Mesh-Starter Kit vorgestellt. Es wurde entwickelt, um Entwicklern zu helfen, API Mesh mithilfe von GitHub-Codespaces ohne lokale Einrichtung schnell zu erkunden. Es führt Sie durch die Einrichtung eines Repositorys, die Konfiguration von Endpunkten und die Verwendung integrierter Tools wie GraphQL Yoga für Tests.
 
 ## Für wen ist dieses Video bestimmt?
 
