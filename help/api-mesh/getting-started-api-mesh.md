@@ -1,19 +1,19 @@
 ---
 title: Erste Schritte mit API-Mesh
-description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und  [!DNL Adobe App Builder]. Erfahren Sie mehr über die Installation von Adobe App Builder, die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr.
+description: Erfahren Sie, wie Sie API Mesh in Adobe Commerce und Adobe App Builder verwenden, einschließlich der Installation von App Builder, der Arbeit mit Projekten und der Erstellung eines Reverse-Proxys.
 jira: KT-11802
 doc-type: Tutorial
-duration: 442
+duration: 422
 last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 6%
+source-wordcount: '269'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Wenn Sie neu bei API Mesh für Adobe Developer App Builder sind, empfiehlt Adobe
 
 API Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, die Ihre Anwendung nutzen kann.
 
-[Vollständige Dokumentation zu API Mesh anzeigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
+[Vollständige Dokumentation zu API-Mesh anzeigen](https://developer.adobe.com/graphql-mesh-gateway/mesh/){target="_blank"}
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -42,13 +42,13 @@ API Mesh kombiniert mehrere Datenquellen, um eine einzige Antwort zu erhalten, d
 
 ## Anwendungsbeispiele
 
-Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt. Sie können beispielsweise die REST-API verwenden, um Sonderpreise anzuwenden, oder den GraphQL-Endpunkt, um den Lagerstatus zu verarbeiten. Mithilfe von API Mesh können Sie beide Endpunkte definieren, die Informationen abrufen und als eine Antwort an die anfordernde Anwendung zurückgeben.
+Ihre Commerce-Anwendung verfügt über eine REST-API und einen GraphQL-Endpunkt. Verwenden Sie beispielsweise die REST-API, um Sonderpreise anzuwenden, oder den GraphQL-Endpunkt, um den Lagerstatus zu verarbeiten. Mithilfe von API Mesh können Sie beide Endpunkte definieren, die Informationen abrufen und als eine Antwort an die anfordernde Anwendung zurückgeben.
 
 ## Was ist ein Reverse-Proxy?
 
-Wenn Sie Adobe App Builder und API Mesh verwenden, müssen Sie nicht verstehen, was ein Reverse-Proxy ist. Wenn Sie jedoch an der allgemeinen Funktionalität für Adobe App Builder interessiert sind, verwenden Sie die folgenden Ressourcen:
+Als Entwickler, der Adobe App Builder und API Mesh verwendet, ist es nicht erforderlich, die Definition eines Reverse-Proxys zu verstehen. Wenn Sie jedoch an der allgemeinen Funktionalität für Adobe App Builder interessiert sind, verwenden Sie die folgenden Ressourcen:
 
-* [Was ist ein Reverse-Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Was ist ein Reverse-Proxy?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 
 
 {{$include /help/_includes/api-mesh-related-links.md}}
