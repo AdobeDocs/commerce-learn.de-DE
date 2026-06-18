@@ -59,5 +59,5 @@ Mit den erforderlichen Berechtigungen für ihre Rolle können B2B-Kunden Genehmi
 
 ## Zusätzliche Ressourcen
 
-* [Bestellungen für Firmen](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Genehmigungsregeln für Bestellungen](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Bestellungen für Firmen](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Genehmigungsregeln für Bestellungen](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
