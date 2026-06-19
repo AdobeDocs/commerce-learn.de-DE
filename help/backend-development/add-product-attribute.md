@@ -1,38 +1,30 @@
 ---
 title: Produktattribut erstellen
-description: Erstellen Sie eine Seite, die JSON mit einem Parameter zurückgibt.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: Erfahren Sie, wie Sie ein Produktattribut programmgesteuert in Adobe Commerce erstellen, einschließlich Attributen vom Typ Dropdown mit benutzerdefinierten Backend-, Frontend- und Quellmodellen.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # Produktattribut erstellen
 
-Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [!DNL Commerce]. Attribute sind eine leistungsstarke Methode, um viele praktische Aufgaben im Zusammenhang mit einem Produkt zu lösen. Es gibt einen einfachen Prozess zum Hinzufügen eines Attributs vom Typ Dropdown zu einem Produkt.
+Das Hinzufügen eines Produktattributs ist einer der beliebtesten Vorgänge in [!DNL Commerce]. Attribute sind eine effektive Möglichkeit, viele praktische Aufgaben im Zusammenhang mit einem Produkt zu bewältigen. Es gibt einen einfachen Prozess zum Hinzufügen eines Attributs vom Typ Dropdown zu einem Produkt.
 
 In diesem Video:
 
@@ -43,7 +35,7 @@ In diesem Video:
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickler, die noch nicht mit Commerce vertraut sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
+* Entwickler, die noch nicht mit [!DNL Commerce] vertraut sind und lernen müssen, wie ein Produktattribut programmgesteuert erstellt wird
 
 ## Videoinhalt
 
@@ -77,14 +69,14 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [&#x200B; unter &#x200B;](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
+>Wenn Ihr Modul ein deklaratives Schema verwendet und die meisten davon seit 2.3.0 verwenden, sollten Sie setup_version auslassen. Wenn Sie jedoch über ältere Projekte verfügen, wird diese Methode möglicherweise verwendet.  Weitere Informationen finden [ unter ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}.adobe.com.\
 >BITTE BEACHTEN SIE: Damit dieser Beispielcode funktioniert, müssen Sie die setup_version einbeziehen, sonst wird InstallData.php nicht ausgeführt.
 
 
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
