@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Semantische Suche
-
-[!BADGE Bald verfügbar]{type=Informative tooltip="Diese Funktion wird in Kürze verfügbar sein und kann sich ändern."}
 
 Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer kennen jedoch nur selten die richtigen. Die semantische Suche in Adobe Commerce nutzt KI, um die Zielsetzung einer Abfrage zu verstehen, d. h. Käuferinnen und Käufer anhand der Bedeutung und nicht anhand des tatsächlichen Texts mit Produkten abzugleichen. Dies verbessert die Produkterkennung, erhöht die Interaktion und steigert die Konversionsrate, indem Ergebnisse zurückgegeben werden, die widerspiegeln, was die Kunden wünschen.
 
@@ -37,4 +35,5 @@ Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/de/docs/commerce/live-search/overview){target="_blank"}
+&#x200B;- Bereitstellungen für Adobe Commerce on Cloud, On-Premise und Adobe Commerce as a Cloud Service finden Sie [[!DNL Live Search] semantische Suche](https://experienceleague.adobe.com/de/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} im _Live Search-_.
+&#x200B;- Informationen zu Bereitstellungen mit Adobe Commerce Optimizer finden Sie [Einstellungen - Erweiterte Suche](https://experienceleague.adobe.com/de/docs/commerce/optimizer/settings#advanced-search){target="_blank"} im _Commerce Optimizer-Handbuch_.
