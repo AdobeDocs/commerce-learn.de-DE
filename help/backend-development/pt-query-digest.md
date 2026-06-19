@@ -42,7 +42,7 @@ Erfahren Sie, warum Sie pt-query-digest verwenden, und lernen Sie einige praktis
 * Erfahren Sie mehr über die Vorteile und Mängel dieser Funktion des Percona Toolkits
 * Machen Sie sich mit den Ergebnissen vertraut und erfahren Sie, welche möglichen Leistungsschritte berücksichtigt werden sollten
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452303?captions=ger&learn=on)
 
 ## Code-Verweise
 

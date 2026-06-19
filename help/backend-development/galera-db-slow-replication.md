@@ -44,7 +44,7 @@ Damit die Replikatdatenbanken mit dem primären Batch synchronisiert bleiben, so
 * Massenausführungen finden nur auf der primären Instanz statt. Die Replikationen erfolgen jeweils 1
 * Damit die Replikation mit dem primären Batch Schritt halten kann, sollten Sie die großen Commits im Batch speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423540?captions=ger&learn=on)
 
 ## Nützliche Ressourcen
 
