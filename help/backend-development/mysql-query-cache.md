@@ -47,5 +47,5 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 
 ## Nützliche Ressourcen
 
-* [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Galerische Replikation und langsame Abfragen](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/de/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [Galerische Replikation und langsame Abfragen](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
