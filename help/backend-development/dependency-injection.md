@@ -1,15 +1,14 @@
 ---
 title: Beispiel für eine Injektion von Abhängigkeiten
-description: Die Injektion von Abhängigkeiten ermöglicht es einem Objekt, seine Abhängigkeiten zu deklarieren, die von einem externen Objekt bereitgestellt werden, wodurch Flexibilität und Modularität gefördert werden.
-kt: 5621
-doc-type: video
+description: Erfahren Sie mehr über das Einfügen von Abhängigkeiten in Adobe Commerce - ein Design-Muster, bei dem Objekte ihre Abhängigkeiten für das externe Einfügen deklarieren, was die Flexibilität verbessert.
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -25,18 +24,18 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: 85
 ht-degree: 0%
 
 ---
 
 # Beispiel für eine Injektion von Abhängigkeiten
 
-Das Einfügen von Abhängigkeiten ist ein Designmuster, das es einem Objekt A ermöglicht, seine Abhängigkeiten zu einem externen Objekt B zu deklarieren, das diese Abhängigkeiten bereitstellt. Die von A deklarierten Abhängigkeiten sind normalerweise Klassenschnittstellen und die von B bereitgestellten Abhängigkeiten sind konkrete Implementierungen für diese Schnittstellen.
+Das Einfügen von Abhängigkeiten ist ein Design-Muster, das es einem Objekt A ermöglicht, seine Abhängigkeiten zu einem externen Objekt B zu deklarieren, das diese Abhängigkeiten bereitstellt. Die von A deklarierten Abhängigkeiten sind normalerweise Klassenschnittstellen und die von B bereitgestellten Abhängigkeiten sind konkrete Implementierungen für diese Schnittstellen.
 
-## Für wen ist dieses Video bestimmt?
+## Vorgesehene Zielgruppe
 
 * Entwickler
 
@@ -46,5 +45,4 @@ Das Einfügen von Abhängigkeiten ist ein Designmuster, das es einem Objekt A er
 
 ## Nützliche Ressourcen
 
-* [Injektion einer Abhängigkeit](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [PHP-Entwicklerhandbuch](https://developer.adobe.com/commerce/php/development/)

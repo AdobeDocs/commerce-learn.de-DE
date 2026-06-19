@@ -1,16 +1,14 @@
 ---
-title: Erfahren Sie, wie Sie MySQL-Abfragen zwischenspeichern
-description: Manchmal werden MySQL-Abfragen gesichert, während auf eine Sperre gewartet wird. In diesem Tutorial wird erläutert, was das Abfrage-Caching ist und einige Empfehlungen für Einstellungen, wenn Probleme auftreten.
-kt: 13690
-doc-type: video
+title: Erfahren Sie, wie das Caching von MySQL-Abfragen funktioniert
+description: Erfahren Sie, wie das Caching von MySQL-Abfragen funktioniert, wie Sie Caching-Probleme erkennen können, indem Sie in langsamen Abfrageprotokollen „Warten auf eine Abfrage-Cache-Sperre“ finden, und erhalten Sie Konfigurationstipps.
+doc-type: Technical Video
 duration: 444
-activity: use
-last-substantial-update: 2023-7-27
+last-substantial-update: 2023-07-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-13690
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
 TQID: https://experienceleague.adobe.com/W91-fJGZtgfpp03ZtYmSh97oNqmCFpF8AvkTYDaOB-g
 product_v2:
@@ -21,18 +19,18 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: 155
 ht-degree: 0%
 
 ---
 
 # Informationen zum Caching von MySQL-Abfragen
 
-Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren Sie, wie Sie ein Problem mit dem Caching von MySQL-Abfragen erkennen können, indem Sie feststellen, dass „Warten auf eine Abfrage-Cache-Sperre“ in einem hohen Volumen in den langsamen MySQL-Abfrageprotokollen angezeigt wird.
+Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren Sie, wie Sie Probleme mit dem Caching von MySQL-Abfragen erkennen können, indem Sie in den langsamen Abfrageprotokollen von MySQL „Warten auf die Abfrage-Cache-Sperre“ finden.
 
-## Für wen ist dieses Video bestimmt?
+## Vorgesehene Zielgruppe
 
 * Architekten
 * Entwickler
@@ -41,7 +39,7 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 ## Videoinhalt
 
 * Informationen zum Caching von Abfragen
-* So erkennen Sie, ob Ihre Abfrage-Cache-Einstellungen ein Problem darstellen können, indem Sie nach „Warten auf die Abfrage-Cache-Sperre“ suchen
+* Ermitteln Sie, ob Ihre Abfrage-Cache-Einstellungen ein Problem darstellen, indem Sie nach „Warten auf die Abfrage-Cache-Sperre“ suchen.
 * Erfahren Sie, wie die SQL gespeichert und zum Suchen eines übereinstimmenden Abfrage-Caches verwendet wird
 * Einige Tipps zu Konfigurationseinstellungen
 
@@ -49,5 +47,5 @@ Erfahren Sie, was der MySQL-Abfrage-Cache ist und wie er funktioniert. Erfahren 
 
 ## Nützliche Ressourcen
 
-* [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=de){target="_blank"}
-* [Galerische Replikation und langsame Abfragen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=de){target="_blank"}
+* [Allgemeine MySQL-Richtlinien](https://experienceleague.adobe.com/de/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [Galerische Replikation und langsame Abfragen](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
