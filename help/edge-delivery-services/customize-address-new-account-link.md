@@ -58,4 +58,4 @@ Zu den Rollen, die vom Lesen dieses Transkripts profitieren, gehören:
 
 ## Zusätzliche Dokumentation
 
-* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)
+* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=de)

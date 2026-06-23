@@ -50,4 +50,4 @@ Erfahren Sie, wie Sie die Edge Delivery Services-Warenkorbablage beim Checkout a
 
 ## Zusätzliche Dokumentation
 
-* [Mehrstufiger Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Mehrstufiger Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=de)

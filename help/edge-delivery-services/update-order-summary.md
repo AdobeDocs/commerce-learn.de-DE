@@ -52,4 +52,4 @@ Erfahren Sie, wie Sie das Adobe Commerce-Warenkorb-Dropdown-Menü verwenden und 
 
 ## Zusätzliche Dokumentation
 
-* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=de)
