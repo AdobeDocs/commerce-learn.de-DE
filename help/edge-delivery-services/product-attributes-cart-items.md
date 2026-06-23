@@ -1,12 +1,12 @@
 ---
 title: Edge Delivery Services-Artikel im Warenkorb
-description: Erfahren Sie mehr über Adobe Edge-Bereitstellungs-Services und wie Sie Produktattribute verwenden können, um neue Informationen zu Warenkorbartikeln anzuzeigen.
+description: Erfahren Sie, wie Sie Produktattribute und Slots in Adobe Commerce Edge Delivery Services verwenden, um Versandzeitpläne, Verkaufsmitteilungen und Warenkorbrabatte anzuzeigen.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
@@ -22,9 +22,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: 287
 ht-degree: 0%
 
 ---
@@ -35,18 +35,18 @@ Erfahren Sie, wie Sie den Adobe Commerce-Warenkorb anpassen und erweitern könne
 
 ## Was Sie lernen werden
 
-Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transaktionsfluss anpassen können, um Kunden durch Ändern einiger Codezeilen eine Reihe neuer Funktionen zu zeigen.  Erfahren Sie außerdem, wie Sie diese Änderungen zur Verwaltung von SharePoint konvertieren können, um AB-Tests durchzuführen.
+Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transaktionsfluss anpassen können, um Kunden durch Ändern einiger Codezeilen eine Reihe neuer Funktionen zu zeigen.  Erfahren Sie außerdem, wie Sie diese Änderungen für die Verwaltung von SharePoint konvertieren können, um A/B-Tests durchzuführen.
 
 ## Für wen ist dieses Video bestimmt?
 
 * E-Commerce-Unternehmen, die den Warenkorb mit Lieferfristen, Verkaufsinformationen und Rabatten erweitern möchten.
 * Entwickler, die lernen müssen, wie diese Anpassungen für Warenkorbartikel implementiert werden.
-* Merchandiser, um zu verstehen, welche Optionen mit nativen Funktionen verfügbar sind, um das Kundenerlebnis zu verbessern.
+* Merchandiser, die verstehen möchten, welche Optionen mit nativen Funktionen verfügbar sind, um das Kundenerlebnis zu verbessern.
 
 ## Videoinhalt
 
-* Anpassung der Produktdetails und Anzeige der benutzerdefinierten Lieferfristen für zurückbestellte Produkte im Warenkorb.
-* Beispiele für rückgabepflichtige und endgültige Verkaufsinformationen unter Verwendung der vorkonfigurierten Funktionen für die Artikel im Warenkorb.
+* Passen Sie die Produktdetails an und zeigen Sie benutzerdefinierte Versandzeitpläne für zurückbestellte Produkte im Warenkorb an.
+* Beispiele für rückgabepflichtige und endgültige Verkaufsinformationen unter Verwendung der Standardfunktion für die Artikel im Warenkorb.
 * Der Coupon-Rabatt wird mithilfe von Warenkorbregeln und Fußzeilen-Slots angezeigt, um diese Informationen effektiv anzuzeigen.
 * Verwendung von Produktattributen und Slots zur Erweiterung und Anpassung der Warenkorbfunktion, um sicherzustellen, dass alle Projektanforderungen erfüllt werden.
 

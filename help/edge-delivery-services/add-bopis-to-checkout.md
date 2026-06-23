@@ -1,6 +1,6 @@
 ---
 title: EDGE DELIVERY SERVICES BOPIS
-description: Erfahren Sie mehr über Adobe Edge-Bereitstellungsdienste und das Hinzufügen einer Online-Abholung im Geschäft oder einer BOPIS-Funktion zum Auschecken.
+description: Erfahren Sie, wie Sie mithilfe von Adobe Commerce-Warenkorbkomponenten und Inhaltsfragmenten die Unterstützung für Online-Kaufen, Abholung im Geschäft (BOPIS) zu einem Edge Delivery Services-Checkout hinzufügen.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,24 +20,24 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: 158
 ht-degree: 0%
 
 ---
 
-# BOPIS zum Auschecken hinzufügen
+# BOPIS zum Checkout hinzufügen
 
-Erfahren Sie, wie Sie die erforderlichen Komponenten zur Edge Delivery Services-Kasse hinzufügen, an der ein Online-Kauf und eine Abholung im Geschäft, auch als BOPIS bezeichnet, möglich sind.
+Erfahren Sie, wie Sie die erforderlichen Komponenten zur Edge Delivery Services-Kasse hinzufügen, die Online-Käufe und Abholungen im Geschäft ermöglicht, auch als BOPIS bezeichnet.
 
 ## Was Sie lernen werden
 
-Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb von Edge Delivery Services BOPIS-Funktionen bereitstellen können.
+Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb von Edge Delivery Services Online-Käufe und Abholungen im Geschäft bereitstellen können.
 
 ## Für wen ist dieses Video bestimmt?
 
-* E-Commerce-Unternehmen, die den Warenkorb mit Online-Kaufen und Abholung im Geschäft verbessern möchten.
+* E-Commerce-Unternehmen, die den Warenkorb durch Online-Käufe und Abholung im Geschäft verbessern möchten.
 * Entwickler, die lernen müssen, wie BOPIS implementiert wird.
 
 ## Videoinhalt

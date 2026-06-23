@@ -1,13 +1,13 @@
 ---
 title: Edge Delivery Services Checkout anpassen
-description: Erfahren Sie, wie Entwickler-APIs das Adobe Commerce-Checkout anpassen, einschließlich Versandoptionen und mehrstufigen Checkout, indem sie Best Practices und die Wiederverwendung von Code verwenden. ​
+description: Erfahren Sie, wie Sie den Adobe Commerce-Checkout einschließlich Versandoptionen und mehrstufigem Checkout mithilfe von Edge Delivery Services-Komponenten und Best Practices anpassen.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 885
-last-substantial-update: 2025-1-2
+last-substantial-update: 2025-01-02
 jira: KT-16723
 exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
 TQID: https://experienceleague.adobe.com/sHAJy3AIwUgyWlGcViRb9ZT0ymIOap6HybG--NbI0jM
@@ -21,9 +21,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: 143
 ht-degree: 0%
 
 ---
@@ -34,20 +34,20 @@ Erfahren Sie, wie Sie das Checkout-Erlebnis in Adobe Commerce über die Edge Del
 
 ## Was Sie lernen werden
 
-Erfahren Sie Beispiele für die Anpassung der Edge Delivery Services-Warenkorbablage beim Checkout-Erlebnis, indem Sie Elemente wie Versandoptionen und geschätzte Kosten entfernen und erneut hinzufügen und einen mehrstufigen Checkout-Prozess implementieren, während Sie gleichzeitig vorhandenen Code wiederverwenden und Best Practices befolgen. &#x200B;
+Erfahren Sie, wie Sie die Edge Delivery Services-Warenkorbablage beim Checkout anpassen können, indem Sie Elemente ändern, einen mehrstufigen Prozess implementieren und die Best Practices befolgen.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Entwickelnde und technische Fachkräfte, die mit Adobe Commerce, Edge Delivery Services arbeiten und den Warenkorb verwenden (Dropdown)
+* Entwickelnde und technische Fachkräfte, die mit Adobe Commerce, Edge Delivery Services und der Verwendung des Warenkorbs arbeiten
 
 ## Videoinhalt
 
-* Anpassung des Checkout-Erlebnisses &#x200B;
-* Implementierung des mehrstufigen Checkouts&#x200B;
+* Anpassung des Checkout-Erlebnisses
+* Implementierung des mehrstufigen Checkouts
 * Wiederverwenden von vorhandenem Code und Best Practices
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442659?captions=ger&learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Mehrstufiger Gast-Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=de)
+* [Mehrstufiger Checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=de)

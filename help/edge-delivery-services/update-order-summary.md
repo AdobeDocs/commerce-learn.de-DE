@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services-Bestellzusammenfassung beim Checkout
-description: Erfahren Sie mehr über die Adobe Edge-Bereitstellungs-Services und darüber, wie Sie den Abschnitt mit der Bestellzusammenfassung des Commerce-Dropdown-Menüs bei der Kasse aktualisieren können.
+description: Erfahren Sie, wie Sie die Dropdown-Bestellübersicht für den Adobe Commerce-Warenkorb aktualisieren, einschließlich Versandschätzungen, Anzeige der Gesamteinsparungen und Layout der ausblendbaren Abschnitte.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # Aktualisieren der Warenkorbzusammenfassung beim Checkout
 
-Erfahren Sie, wie Sie die Bestellzusammenfassung des Adobe Commerce-Warenkorbs in für Edge Delivery Services ändern.  Es gibt mehrere Beispiele dafür, wie Sie das Layout oder die Informationen, die einem Kunden an der Kasse bereitgestellt werden, schnell verbessern können.
+Erfahren Sie, wie Sie Änderungen an der Bestellzusammenfassung des Dropdown-Menüs für den Adobe Commerce-Warenkorb für Edge Delivery Services vornehmen. Es gibt mehrere Beispiele dafür, wie Sie das Layout oder die Informationen verbessern können, die einem Kunden an der Kasse bereitgestellt werden.
 
 ## Was Sie lernen werden
 
-Erfahren Sie, wie Sie Adobe Commerce zum Ablegen in den Warenkorb verwenden und das Warenkorberlebnis anpassen.  Es gibt mehrere Möglichkeiten, den Warenkorb zu verbessern, indem Sie einige kleinere Änderungen oder Aktualisierungen am Code vornehmen.
+Erfahren Sie, wie Sie das Adobe Commerce-Warenkorb-Dropdown-Menü verwenden und das Warenkorberlebnis anpassen. Es gibt mehrere Möglichkeiten, den Warenkorb durch geringfügige Änderungen oder Aktualisierungen des Codes zu verbessern.
 
 ## Für wen ist dieses Video bestimmt?
 
 * Entwickler, die lernen müssen, wie diese Anpassungen für die Bestellübersicht implementiert werden.
-* Merchandisers, um zu verstehen, welche Optionen mit nativen Funktionen verfügbar sind, um das Kundenerlebnis rund um die Bestellzusammenfassung zu verbessern.
+* Merchandiser, die verstehen möchten, welche Optionen mit nativen Funktionen verfügbar sind, um das Kundenerlebnis rund um die Bestellzusammenfassung zu verbessern.
 
 ## Videoinhalt
 
