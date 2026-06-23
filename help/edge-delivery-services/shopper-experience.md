@@ -58,4 +58,4 @@ Sie erfahren, wie Sie in der Adobe Commerce-Storefront auf Edge Delivery Service
 * Arbeiten mit dem Warenkorb und Bestellungen: Artikel hinzufügen, als Gast auschecken, Bestellungen stornieren, neu anordnen und Rücksendungen verarbeiten.
 * Aktualisieren Sie Kontoinformationen, fügen Sie Gast- und Kundenwagen zusammen und gewährleisten Sie Konsistenz beim Checkout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446771?captions=ger&learn=on)

@@ -48,7 +48,7 @@ Erfahren Sie, wie Sie das Adobe Commerce-Warenkorb-Dropdown-Menü verwenden und 
 * Erfahren Sie, wie Sie einen für die Warenkorbzusammenfassung gespeicherten Gesamtbetrag einbeziehen.
 * Erfahren Sie, wie Sie Zeilen in der Warenkorbzusammenfassung in einen ausblendbaren Abschnitt zusammenführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441194?captions=ger&learn=on)
 
 ## Zusätzliche Dokumentation
 

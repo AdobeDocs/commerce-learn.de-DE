@@ -54,7 +54,7 @@ Zu den Rollen, die vom Lesen dieses Transkripts profitieren, gehören:
 * Validierung und Fehlerbehandlung für die Adresseingabefelder, um sicherzustellen, dass Benutzende sofortiges Feedback zu falschen oder unvollständigen Einträgen erhalten, und um das Benutzererlebnis zu verbessern.
 * Erweiterung des Benutzerkonto-Dashboards, mit der dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzugefügt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442915?captions=ger&learn=on)
 
 ## Zusätzliche Dokumentation
 
