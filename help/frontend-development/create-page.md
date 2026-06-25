@@ -1,14 +1,13 @@
 ---
 title: Erstellen einer neuen Seite
-description: Erstellen Sie eine Seite, die JSON mit einem Parameter zurückgibt.
-kt: 5602
-doc-type: video
+description: Erfahren Sie, wie Sie in Adobe Commerce eine neue Seite erstellen, die JSON mit einem Parameter zurückgibt, einschließlich Moduleinrichtung, routes.xml-Konfiguration und Controller-Aktionen.
+jira: KT-5602
+doc-type: Technical Video
 duration: 259
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Developer
+level: Beginner
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 TQID: https://experienceleague.adobe.com/WtDUQ2sH27ci33UMLBtuNac1oo2CVfBlnFdAbwM3dmY
 product_v2:
@@ -23,9 +22,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 106
 ht-degree: 0%
 
 ---
@@ -51,8 +50,8 @@ Erstellen Sie eine Seite, die JSON mit einem Parameter zurückgibt.
 * Erstellen des Modulordners
 * Erstellen der `etc/module.xml`
 * Erstellen der `registration.php`
-* Führen Sie das `bin/magento setup:upgrade`-Skript aus, um das neue Modul zu installieren
-* Prüfen Sie, ob das Modul funktioniert
+* Um das neue Modul zu installieren, führen Sie das `bin/magento setup:upgrade` aus
+* Prüfen, ob das Modul funktioniert
 
 ## Videoinhalt
 

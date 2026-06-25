@@ -1,14 +1,13 @@
 ---
-title: Page Builder for developers - Custom content types
-description: Learn how to customize and create content types. Understand the steps involved in creating a content type​. Understand the steps involved in extending an existing content type.
-kt: 5655
-doc-type: video
+title: Page Builder für Entwickler - Benutzerdefinierte Inhaltstypen
+description: Erfahren Sie, wie Sie Page Builder-Inhaltstypen anpassen und erstellen, einschließlich der Schritte zum Erstellen eines neuen Inhaltstyps von Grund auf und zum Erweitern eines vorhandenen Inhaltstyps.
+jira: KT-5655
+doc-type: Technical Video
 duration: 1058
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
 badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: https://experienceleague.adobe.com/nAM2YJScViK-UiyNtArtvXJyg0qZw-DReCFo0EdnTtI
@@ -24,22 +23,22 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: 166
 ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Custom content types
+# Page Builder für Entwickler - Benutzerdefinierte Inhaltstypen
 
 {{only-for-on-prem-commerce-cloud}}
 
 In diesem Video:
 
-* Customize and create additional content types
-* Understand the steps involved in creating a content type&#x200B;
-* Understand the steps involved in extending an existing content type
+* Anpassen und Erstellen zusätzlicher Inhaltstypen
+* Verstehen der Schritte, die zum Erstellen eines Inhaltstyps erforderlich sind
+* Machen Sie sich mit den Schritten zur Erweiterung eines vorhandenen Inhaltstyps vertraut
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -50,7 +49,7 @@ In diesem Video:
 
 >[!NOTE]
 >
->Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [&#x200B; zu Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=de).
+>Dieser Inhalt spiegelt die Page Builder -Version 1.0.0 für Adobe Commerce 2.3.1 wider. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [&#x200B; zu Page Builder &#x200B;](https://experienceleague.adobe.com/de/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430879?captions=ger&learn=on)
 
@@ -58,4 +57,4 @@ In diesem Video:
 
 [Entwicklerdokumentation zu Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=de)
+[Page Builder-Handbuch](https://experienceleague.adobe.com/de/docs/commerce-admin/page-builder/introduction)
