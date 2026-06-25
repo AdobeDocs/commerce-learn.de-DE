@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Wenn eine **Katalogansicht** die Linse ist, die das formt, was Kunden von einem 
 * Durch API-Anfrage-Header aktivierte Trigger-Richtlinien (z. B. `AC-Policy-Brand`)
 * Aktualisieren von Richtlinien in täglichen Vorgängen ohne Katalogneuaufbau
 
->[!VIDEO](https://video.tv.adobe.com/v/3491433?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Eine **Richtlinie** ist ein **Datenzugriffsfilter**. Sie prüft Produktattribute und wendet Regeln an, die bestimmen, welche Produkte eine Katalogansicht verfügbar machen kann. Richtlinien befinden sich oberhalb des freigegebenen zusammensetzbaren Katalogs und duplizieren keine Katalogdaten.
 
@@ -79,6 +79,7 @@ Richtlinien sind einfache Filter in einem **freigegebenen Katalog**, keine Regel
 
 * [Warum das zusammenstellbare Katalogdatenmodell vorhanden ist](./why-ccdm-exists.md)
 * [Informationen zu Katalogansichten](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Katalogansichten für Merchandising-Services](https://experienceleague.adobe.com/de/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
+* [Katalogansichten für Merchandising-Services](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

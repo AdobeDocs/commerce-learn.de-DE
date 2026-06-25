@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,10 @@ In Katalogansichten wird erläutert, wie sich die Bereitstellung der einzelnen Z
 * Verwendung einer Katalogansicht durch eine Storefront zum Filtern von Produkten und Preisen (z. B. Celport)
 * Katalogansicht - Eindeutige IDs und der Geschäftswert einer einzelnen Datenquelle
 
->[!VIDEO](https://video.tv.adobe.com/v/3491271?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## Verwandte Inhalte
 
-* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
+* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Erste Schritte mit der Merchandising-API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+
