@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Warum das zusammenstellbare Katalogdatenmodell vorhanden ist
 
-Moderne Commerce-Teams verkaufen häufig über **Marken**, **Regionen**, **** und **digitale Kanäle**. Wenn jeder Kanal seine eigene Katalogkopie speichert, verbringen Teams mehr Zeit damit, SKUs, Preise und Verfügbarkeit miteinander in Einklang zu bringen, als das Käufererlebnis zu verbessern. Das **Adobe Composable Catalog Data Model (CCDM)** hinter **Adobe Commerce Optimizer** wurde entwickelt, um dieses Muster umzukehren: **ein einheitlicher Katalog** in einer SaaS-Ebene, mit **Katalogansichten** und **Richtlinien** die Gestaltung dessen, was jede Storefront oder Integration sehen darf.
+Moderne Commerce-Teams verkaufen häufig über **Marken**, **Regionen**, **&#x200B;**&#x200B;und **digitale Kanäle**. Wenn jeder Kanal seine eigene Katalogkopie speichert, verbringen Teams mehr Zeit damit, SKUs, Preise und Verfügbarkeit miteinander in Einklang zu bringen, als das Käufererlebnis zu verbessern. Das **Adobe Composable Catalog Data Model (CCDM)** hinter **Adobe Commerce Optimizer** wurde entwickelt, um dieses Muster umzukehren: **ein einheitlicher Katalog** in einer SaaS-Ebene, mit **Katalogansichten** und **Richtlinien** die Gestaltung dessen, was jede Storefront oder Integration sehen darf.
 
 ## Für wen ist dieses Video bestimmt?
 
