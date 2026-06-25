@@ -45,7 +45,7 @@ Erfahren Sie, wie Sie eine Adobe Commerce Optimizer-Instanz verwalten, um Namen 
 
 ## Verwandte Inhalte
 
-* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
-* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
+* [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
+* [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/get-started){target="_blank"}
 
