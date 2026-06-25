@@ -18,7 +18,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 140
 ht-degree: 0%
@@ -48,3 +48,4 @@ Erfahren Sie, wie Sie eine Adobe Commerce Optimizer-Instanz verwalten, um Namen 
 * [Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
 * [Überblick über Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
 * [Erste Schritte mit Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce/optimizer/get-started){target="_blank"}
+

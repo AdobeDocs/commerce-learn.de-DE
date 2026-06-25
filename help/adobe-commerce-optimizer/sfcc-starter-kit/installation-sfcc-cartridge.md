@@ -10,7 +10,7 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,3 +37,4 @@ Erfahren Sie, wie Sie die Adobe Commerce Optimizer-Kassette für eine Salesforce
 * Testen Sie einen benutzerdefinierten API-Endpunkt, um die erfolgreiche Installation zu bestätigen und die Katalogsynchronisierung vorzubereiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476079?captions=ger&learn=on)
+
