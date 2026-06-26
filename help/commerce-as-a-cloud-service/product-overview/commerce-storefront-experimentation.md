@@ -1,13 +1,13 @@
 ---
-title: Optimize Storefronts with Built-In Experimentation
-description: Test and optimize storefront content using Adobe Commerce’s native experimentation tools without developer support.
+title: Optimieren von Storefronts mit integrierten Experimenten
+description: Testen und optimieren Sie Storefront-Inhalte mithilfe der nativen Experimentierwerkzeuge von Adobe Commerce ohne Entwicklerunterstützung.
 feature: Recommendations, Admin Workspace, Extensions
 topic: Personalization, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
 TQID: https://experienceleague.adobe.com/9DrRRAPjTyRJ8pb7ss-oytdMDNXGKXVui9x0oTyPG8k
@@ -26,26 +26,26 @@ topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 114
 ht-degree: 0%
 
 ---
 
-# Optimize storefronts with built-in experimentation
+# Optimieren von Storefronts mit integrierten Experimenten
 
-Discover how Adobe Commerce as a Cloud Service enables business teams to run A/B tests and optimize storefront content without relying on developers or third-party tools. Learn how to measure impact on conversions and engagement using native experimentation features.
+Erfahren Sie, wie Adobe Commerce as a Cloud Service es Unternehmens-Teams ermöglicht, A/B-Tests durchzuführen und Storefront-Inhalte zu optimieren, ohne auf Entwickler oder Tools von Drittanbietern angewiesen zu sein. Erfahren Sie, wie Sie die Auswirkungen auf Konversionen und Interaktionen mithilfe nativer Experimentfunktionen messen können.
 
 ## Für wen ist dieses Video bestimmt?
 
 * E-Commerce-Manager
-* Digital Marketing Specialist
-* Conversion Optimization Analyst
+* Spezialist für Digital Marketing
+* Konversionsoptimierungs-Analyst
 
 ## Videoinhalt
 
-* Learn how to set up and run A/B tests directly in Adobe Commerce to improve storefront performance.
-* Discover how built-in experimentation and product recommendations help boost conversions and engagement.
+* Erfahren Sie, wie Sie A/B-Tests direkt in Adobe Commerce einrichten und ausführen, um die Leistung der Storefront zu verbessern.
+* Erfahren Sie, wie integrierte Experimente und Produktempfehlungen Konversionen und Interaktionen fördern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478795?learn=on)

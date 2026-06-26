@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: 507
 ht-degree: 0%
 
 ---
@@ -56,13 +56,13 @@ Bevor Sie beginnen, erfassen Sie alle erforderlichen Werte aus [Experience Cloud
 
 >[!NOTE]
 >
->Stellen Sie sicher, dass Sie in der richtigen Organisation arbeiten. Die Auswahl Ihres Unternehmens wirkt sich darauf aus, welche Instanzen und Umgebungen sowohl in Experience Cloud als auch in Developer Console sichtbar sind.
+>Stellen Sie sicher, dass Sie in der richtigen Organisation arbeiten. Die Auswahl Ihres Unternehmens wirkt sich darauf aus, welche Instanzen und Umgebungen sowohl in Experience Cloud als auch in der Developer Console sichtbar sind.
 
 ### Details der Instanz - experience.adobe.com
 
 Die Instanzdetails enthalten Dinge wie Ihre Instanz-ID, GraphQL-Endpunkte und Anmeldeinformationen.
 
-### Details für Entwickler - https://developer.adobe.com/console/
+### Entwicklerdetails - [developer.adobe.com/console](https://developer.adobe.com/console/)
 
 In der Developer Console verwalten Sie Ihre API-Anmeldeinformationen, einschließlich Client-IDs, Client-Geheimnissen und Zugriffstoken. Sie können auch neue Berechtigungstypen erstellen, z. B. Server-zu-Server- oder native App-Authentifizierung.
 
@@ -74,7 +74,6 @@ In der Developer Console verwalten Sie Ihre API-Anmeldeinformationen, einschlie�
 | REST-Endpunkt | `<rest_endpoint>` | experience.adobe.com |
 | Client-ID | `<client_id>` | developer.adobe.com/console |
 | Client-Geheimnis | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Schritt 1: Zugriffstoken abrufen (Server-zu-Server-Authentifizierung)
 

@@ -1,13 +1,13 @@
 ---
-title: Setup Experience
-description: Quickly launch secure, cloud-native Adobe Commerce storefronts with self-service setup and lightning-fast performance.
+title: Setup-Erlebnis
+description: Schneller Launch sicherer, Cloud-nativer Adobe Commerce-Storefronts mit Self-Service-Setup und blitzschneller Leistung.
 feature: Cloud, Admin Workspace, Storefront
 topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20084
 exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
 TQID: https://experienceleague.adobe.com/kO5g-sPkt40tx3zB9j7h-pANHBl0OEio-Lt6BoC5GU4
@@ -21,26 +21,26 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# Setup experience
+# Setup-Erlebnis
 
-Learn how Adobe Commerce as a Cloud Service empowers teams to launch storefronts quickly with self-service setup and secure endpoints. Learn how its edge-based architecture delivers lightning-fast performance and scalability.
+Erfahren Sie, wie Adobe Commerce as a Cloud Service es Teams ermöglicht, Storefronts schnell mit Self-Service-Setup und sicheren Endpunkten zu starten. Erfahren Sie, wie die Edge-basierte Architektur eine extrem schnelle Leistung und Skalierbarkeit bietet.
 
 ## Für wen ist dieses Video bestimmt?
 
-* E-commerce Manager
-* Solutions Architect
+* E-Commerce-Manager
+* Lösungsarchitekt
 * Digital Transformation Lead
 
 ## Videoinhalt
 
-* Learn how to set up and launch Adobe Commerce storefronts in minutes using a self-service dashboard.
-* Discover how Edge Delivery Services enable lightning-fast performance and scalability.
+* Erfahren Sie, wie Sie Adobe Commerce-Storefronts in Minutenschnelle mithilfe eines Self-Service-Dashboards einrichten und starten.
+* Erfahren Sie, wie Edge Delivery Services eine blitzschnelle Leistung und Skalierbarkeit ermöglicht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478790?learn=on)
