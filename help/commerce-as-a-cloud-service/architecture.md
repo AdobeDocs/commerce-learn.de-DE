@@ -57,4 +57,4 @@ Erfahren Sie mehr über die Architektur und die wichtigsten Funktionen von Adobe
 * Umfassende API-Abdeckung: Die Plattform unterstützt eine umfassende API-Abdeckung mithilfe von GraphQL- und REST-APIs, was eine nahtlose Integration mit Drittanbietersystemen ermöglicht.
 * Entkoppelte Architektur: Eine vollständig entkoppelte Architektur ermöglicht Entwicklern die Verwendung verschiedener Frontend-Frameworks und bietet so Flexibilität und Leistung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443276?captions=ger&learn=on)
