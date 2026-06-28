@@ -1,38 +1,25 @@
 ---
 title: Optimieren der Wiederverwendung von Code mit Adobe Commerce
 description: Erfahren Sie, wie Sie die Wiederverwendung von Code in Adobe Commerce mit Mustern der globalen Referenzarchitektur optimieren und so die Leistung und Compliance über mehrere Instanzen hinweg verbessern können.
-kt: 15773
-doc-type: tutorial
-duration: 287
-audience: all
-last-substantial-update: 2025-1-6
+jira: KT-15773
+doc-type: Tutorial
+duration: 284
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
+badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Beiträge von Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1116
 ht-degree: 0%
 
 ---
@@ -45,13 +32,13 @@ Es gibt mehrere Möglichkeiten, die Wiederverwendung von Code mit Adobe Commerce
 
 ## Verwendung der globalen Referenzarchitektur
 
-Die globale Referenzarchitektur kann je nach der Anzahl der Instanzen, deren Inhaber Sie sind, von Nutzen sein. Eine Instanz ist eine eigenständige Installation von Adobe Commerce unter Verwendung einer eigenen Datenbank. Zählen Sie die Anzahl der Produktionsdatenbanken, um zu erfahren, wie viele Instanzen Sie besitzen. Wenn Sie mehr als eine Instanz verwalten oder dieses Szenario für die Zukunft vorhersehen, können Sie von der globalen Referenzarchitektur profitieren. Je mehr Funktionen die Instanzen gemeinsam nutzen, desto mehr Wert bietet eine globale Referenzarchitektur.
+Die globale Referenzarchitektur kann je nach der Anzahl der Instanzen, deren Inhaber Sie sind, von Nutzen sein. Eine Instanz ist eine eigenständige Installation von Adobe Commerce unter Verwendung einer eigenen Datenbank. Um zu erfahren, wie viele Instanzen Sie besitzen, zählen Sie die Anzahl der Produktionsdatenbanken. Wenn Sie mehr als eine Instanz verwalten oder dieses Szenario für die Zukunft vorhersehen, können Sie von der globalen Referenzarchitektur profitieren. Je mehr Funktionen die Instanzen gemeinsam nutzen, desto mehr Wert bietet eine globale Referenzarchitektur.
 
 In jedem dieser Szenarien ist es ratsam, die Verwendung mehrerer Instanzen von Adobe Commerce zu untersuchen.
 
-1. **Verschiedene Store-Inhaber**: Wenn Sie Code für mehrere Store-Inhaber verwalten, von denen jeder über einen eigenen Store verfügt, sind möglicherweise separate Instanzen erforderlich, um die individuellen Anforderungen effektiv zu erfüllen.
+1. **Verschiedene Store-**: Wenn Sie Code für mehrere Store-Operatoren mit jeweils einem eigenen Store verwalten, sind separate Instanzen erforderlich, um die individuellen Anforderungen effektiv zu erfüllen.
 2. **Einhaltung nationaler Vorschriften**: Bestimmte Vorschriften verlangen, dass Kundendaten in bestimmten Regionen gespeichert werden müssen. In solchen Fällen sind gesonderte Instanzen unerlässlich, um die Einhaltung dieser Vorschriften zu gewährleisten.
-3. **Betriebliche Unterschiede zwischen geografischen Regionen**: Der Betrieb in mehreren Regionen kann unterschiedliche Wartungspläne und -anforderungen bedeuten. Die Verwendung separater Instanzen ermöglicht eine flexible und effiziente Verwaltung dieser Varianten.
+3. **Betriebliche Unterschiede zwischen geografischen Regionen**: Betrieb in mehreren Regionen bedeutet unterschiedliche Wartungspläne und -anforderungen. Die Verwendung separater Instanzen ermöglicht eine flexible und effiziente Verwaltung dieser Varianten.
 4. **Flash-Verkäufe mit hoher Intensität**: Geschäfte, die Flash-Verkäufe in großem Umfang durchführen, benötigen oft eine optimierte Server-Leistung. Dedizierte Infrastruktur, die von separaten Instanzen bereitgestellt wird, sorgt für eine optimale Leistung in solchen Zeiten hoher Nachfrage.
 5. **Wesentliche Unterschiede zwischen Marken oder Ländern**: Wenn der Unterschied zwischen Marken oder Ländern groß ist, führt die Verwendung einer einzigen Instanz zu Code, der nur für einige Marken oder Länder verwendet wird. Separate Instanzen können die Leistung und Stabilität verbessern, indem unnötiger Code für Marken und Länder, die ihn nicht benötigen, entfernt wird.
 
@@ -73,7 +60,7 @@ Wenn kein GRA-Muster verwendet wird, ist jede Adobe Commerce-Instanz eine eindeu
 
 ![Ein Symbol, das das „geteilte“ GRAA-Muster darstellt](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-Dieses Muster besteht aus Git-Repositorys für die Entwicklung und einem Git-Repository pro Instanz. Jede Datei in der Instanz wird in einem der Entwicklungs-Repositorys verwaltet. Sie kommen als Zopf zusammen und bilden die ganze GRA. Jede Codezeile ist nur in einem einzigen Entwicklungs-Repository vorhanden und wird mithilfe der Fleding-Technik auf den Instanzen installiert, was zu einer Wiederverwendung von Code führt.
+Dieses Muster besteht aus Git-Repositorys für die Entwicklung und einem Git-Repository pro Instanz. Jede Datei in der Instanz wird in einem Entwicklungs-Repository gepflegt. Sie werden zu der gesamten GRA zusammengefasst. Jede Codezeile ist nur in einem einzigen Entwicklungs-Repository vorhanden und wird mithilfe der Fleding-Technik auf den Instanzen installiert, was zu einer Wiederverwendung von Code führt.
 
 ![Ein Diagramm, das zeigt, wo Code in einem aufgeteilten GRA-Muster gespeichert ist](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -103,7 +90,7 @@ Die gesamte Entwicklung erfolgt in einem einzigen Code-Repository. Durch die Aut
 
 ## Auswählen eines GRA-Musters
 
-Die Wahl für ein GRA-Muster wird getroffen, indem die Projektkomplexität, der Bedarf an Flexibilität und die Anpassungsfähigkeit des Entwicklungsteams bewertet werden.
+Bewerten Sie die Projektkomplexität, den Bedarf an Flexibilität und die Fähigkeit des Entwicklungsteams, sich an die Auswahl eines GRA-Musters anzupassen.
 
 Teams mit wenig Adobe Commerce-Erfahrung beginnen am besten einfach. Wenn das Projekt jedoch aufgrund seiner Eigenschaften ein komplexeres GRA-Muster erfordert, gehen Sie keine Kompromisse ein.
 
@@ -111,9 +98,9 @@ Allgemeine Projektmerkmale in Bezug auf jedes Muster:
 
 1. **Kein GRA-Muster**: Einzelne Instanz von Adobe Commerce ohne Erweiterungspläne. Mehrere Instanzen von Adobe Commerce mit minimaler Gemeinsamkeit zwischen ihnen.
 
-2. **Git-GRA-Muster aufteilen**: Teams, die Composer wegen ihrer Anpassungen vermeiden möchten, in den meisten Fällen ist das Muster für Massenpakete ein bevorzugtes Muster für Git-Aufspaltung.
+2. **Git-GRA-Muster aufteilen**: Teams, die Composer wegen ihrer Anpassungen vermeiden möchten. In den meisten Fällen ist das Muster für Massenpakete ein bevorzugtes Muster für Git-Aufspaltungen.
 
-3. **Massen-Paket-GRA-Muster**: Anpassungs-Code-Basis mit hoher Interdependenz. Instanzen haben alle sehr ähnliche Kombinationen benutzerdefinierter Pakete. Keine häufige Promotion oder Herabstufung einzelner Pakete. Teams mit wenig Erfahrung im Code-Management und Bedarf an Einfachheit.
+3. **Massen-Paket-GRA-Muster**: Anpassungs-Code-Basis mit hoher Interdependenz. Instanzen haben sehr ähnliche Kombinationen benutzerdefinierter Pakete. Keine häufige Promotion oder Herabstufung einzelner Pakete. Teams mit wenig Erfahrung im Code-Management und einem Bedürfnis nach Einfachheit.
 
 4. **Separate packages GRA pattern**: Flexible Verwaltung des Veröffentlichungsumfangs erforderlich. In den nächsten fünf Jahren werden 50 oder weniger individuelle Pakete erwartet. Potenziell globale und regionale Ebenen des gemeinsamen Codes. Keine Pläne für die Migration zu einem Monorepo-Muster. Das Team ist technisch versiert und hält sich strikt an den Prozess.
 

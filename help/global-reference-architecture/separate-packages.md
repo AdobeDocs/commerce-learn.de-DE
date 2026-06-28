@@ -2,37 +2,24 @@
 title: Separate Packages Globale Referenzarchitektur
 description: Optimieren Sie Adobe Commerce mit separaten GRA-Paketen. Informationen zu Setup, Vorteilen und Best Practices für die flexible, versionierte Paketverwaltung.
 jira: KT-16727
-doc-type: tutorial
-duration: 594
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 340
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Beiträge von Tony Evers"
-old-role: Architect, Developer
+badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Beiträge von Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
 TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 2132
+source-wordcount: 2099
 ht-degree: 0%
 
 ---
@@ -45,7 +32,7 @@ In diesem Handbuch wird erläutert, wie Sie Adobe Commerce mit dem GRA-Muster (S
 
 Das GRA-Muster für separate Pakete umfasst ein Git-Repository für jedes gemeinsame Paket und ein Git-Repository für jede Adobe Commerce-Instanz. Häufige Pakete werden über Composer mit einem privaten Composer-Repository bereitgestellt.
 
-Dieses globale Referenzarchitekturmuster basiert vollständig auf Composer und wurde entwickelt, um den maximalen Nutzen aus allen Composer-Funktionen zu ziehen.
+Dieses Muster der globalen Referenzarchitektur basiert auf Composer und wurde entwickelt, um den maximalen Nutzen aus allen Composer-Funktionen zu ziehen.
 
 ![Ein Diagramm, das zeigt, wo Code in einem separaten Pakete-GRA-Muster gespeichert wird](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
@@ -62,7 +49,7 @@ Vorteile:
 Nachteile:
 
 * Die Entwicklung innerhalb dieses GRA-Musters ist am Anfang etwas schwieriger, es gibt eine kleine Lernkurve
-* Mögliche Kombinationen von Paketen bereitzustellen, die nicht in derselben Konfiguration entwickelt wurden, erfordern strenge Testverfahren
+* Möglich, Kombinationen von Paketen bereitzustellen, die nicht in derselben Konfiguration entwickelt wurden; strenge Testverfahren erforderlich
 
 ## Einrichten von Adobe Commerce mit dem separaten Package GRA-Muster
 
@@ -127,7 +114,7 @@ Metapakete steuern den Umfang der gemeinsamen GRA-Codebasis in diesem GRA-Muster
 }
 ```
 
-Das obige Snippet ist composer.json eines Metapakets. Da Metapakete nur eine composer.json-Datei und keinen anderen Code enthalten. Der obige Code ist auch das vollständige Metapaket. Hosten Sie sie in einem Git-Repository und Sie verfügen über ein installierbares Metapaket-Composer-Repository. Dazu sind ein Beispiel-GRA-Modul und ein Drittanbietermodul sowie das Adobe Commerce-Kernmodul erforderlich. Dazu ist auch die gra-component-foundation erforderlich, die im nächsten Kapitel erläutert wird.
+Das obige Snippet ist composer.json eines Metapakets. Metapakete enthalten nur die Datei „composer.json“ und keinen anderen Code. Der obige Code ist auch das vollständige Metapaket. Hosten Sie sie in einem Git-Repository und Sie verfügen über ein installierbares Metapaket-Composer-Repository. Dazu sind ein Beispiel-GRA-Modul und ein Drittanbietermodul sowie das Adobe Commerce-Kernmodul erforderlich. Dazu ist auch die gra-component-foundation erforderlich, die im nächsten Kapitel erläutert wird.
 
 Metapakete sind eine Möglichkeit, Pakete zu bündeln, ohne Abhängigkeiten zwischen den Paketen zu erstellen. Selbst wenn keine technische Abhängigkeit zwischen Paketen besteht, können Sie mit einem Metapaket bewirken, dass diese zusammen installiert werden. Wenn Sie dieses Metapaket in Ihrem Projekt benötigen, werden alle Pakete oder Metapakete installiert, die für das Metapaket erforderlich sind. Wenn Sie also ein leeres Composer-Projekt erstellen und nur dieses Paket benötigen, installiert Composer Adobe Commerce und das GRA- und Drittanbietermodul.
 
@@ -146,11 +133,11 @@ Sie können auf ähnliche Weise ein Metapaket definieren, das Store x definiert.
 }
 ```
 
-Das Brand-X-Metapaket ist optional. Sie können auch das Brand Metapaket überspringen und diese Abhängigkeiten direkt in Ihrem Store Composer-Projekt benötigen. Der Vorteil eines Metapakets für lokale Module besteht darin, dass Sie keine Funktionsverzweigungen und Funktions-Pull-Anforderungen im Git-Repository des Speichers haben, nur in den Paket-Repositorys. Es handelt sich um eine Sicherheitsmaßnahme. Darüber hinaus können Sie semantische Versionen auf die Paket-Repositorys anwenden und verschiedene Git-Tags auf Ihrem Hauptprojekt verwenden, z. B. um benannte Versionen zu verfolgen. Es liegt an dir.
+Das Brand-X-Metapaket ist optional. Überspringen Sie das Brand Metapaket und benötigen Sie diese Abhängigkeiten direkt in Ihrem Store Composer-Projekt. Der Vorteil eines Metapakets für lokale Module besteht darin, dass Sie keine Funktionsverzweigungen und Funktions-Pull-Anforderungen im Git-Repository des Speichers haben, nur in den Paket-Repositorys. Es handelt sich um eine Sicherheitsmaßnahme. Darüber hinaus können Sie semantische Versionen auf die Paket-Repositorys anwenden und verschiedene Git-Tags auf Ihrem Hauptprojekt verwenden, z. B. um benannte Versionen zu verfolgen. Es liegt an dir.
 
 ### GRA Foundation-Dateien außerhalb des Anbieterverzeichnisses
 
-Manchmal müssen Dateien außerhalb des Anbieterverzeichnisses gespeichert werden. Dateien, die sich im `dev/`-Verzeichnis befinden, oder Domain-Überprüfungsdateien, z. B. `.gitignore`. Der Pakettyp „magento2-component“ ist für diesen Zweck konzipiert. Schauen Sie sich <https://github.com/AntonEvers/gra-component-foundation> an.
+Manchmal müssen Dateien außerhalb des Anbieterverzeichnisses gespeichert werden. Dateien, die in das Verzeichnis `dev/`oder die Domain-Überprüfungsdateien aufgenommen werden, z. B. `.gitignore` Der Pakettyp „magento2-component“ ist für diesen Zweck konzipiert. Schauen Sie sich <https://github.com/AntonEvers/gra-component-foundation> an.
 
 ```json
 {
@@ -176,18 +163,18 @@ Auf diese Weise können Sie Dateien außerhalb des Anbieterverzeichnisses auch z
 
 ### Entwickeln eines GRA Foundation-Moduls
 
-Die Entwicklung erfolgt innerhalb des Anbieterverzeichnisses. Bitten Sie Composer, Ihre Foundation-Pakete aus der Quelle zu installieren. Checkt dabei Pakete aus Git aus, anstatt sie aus einem heruntergeladenen Archiv zu installieren.
+Die Entwicklung erfolgt innerhalb des Anbieterverzeichnisses. Bitten Sie Composer, Ihre Foundation-Pakete aus der Quelle zu installieren. Dadurch werden Pakete aus Git ausgecheckt, anstatt sie aus einem heruntergeladenen Archiv zu installieren.
 
 ```bash
 rm -r vendor/antonevers/*
 composer install --prefer-source
 ```
 
-Mit diesem Befehl wurden Pakete im Namespace „antonevers“ mit Git ausgecheckt. Wenn Sie den Ordner Vendor/Antonevers/module-gra aufrufen, gelangen Sie auch in das Git-Repository „module-gra“. Sie können jetzt Verzweigungen direkt aus dem Anbieterverzeichnis erstellen, auschecken und zusammenführen und auf diese Weise entwickeln.
+Mit diesem Befehl wurden Pakete im Namespace „antonevers“ mit Git ausgecheckt. Wenn Sie den Ordner Vendor/Antonevers/module-gra aufrufen, gelangen Sie auch in das Git-Repository „module-gra“. Sie können jetzt aus dem Anbieterverzeichnis Verzweigungen erstellen, auschecken und zusammenführen und auf diese Weise entwickeln.
 
-### Einbinden von Drittanbietermodulen in die GRA Foundation
+### Einbeziehen von Drittanbietermodulen in die GRA Foundation
 
-Fügen Sie dem GRA-Metapaket Pakete von Drittanbietern hinzu. Wenn kein Drittanbieter-Code verfügbar ist, um ihn aus einem Composer-Repository zu installieren, erstellen Sie ein Paket dafür. Erstellen Sie ein Git-Repository, fügen Sie die Paketinhalte hinzu (alles, was in app/code/vender/package enthalten sein würde) und stellen Sie sicher, dass sich eine gültige Datei „composer.json“ im Stammverzeichnis des Repositorys befindet. Sie können dieses Paket jetzt über Composer installieren.
+Fügen Sie dem GRA-Metapaket Pakete von Drittanbietern hinzu. Wenn kein Drittanbieter-Code verfügbar ist, um ihn aus einem Composer-Repository zu installieren, erstellen Sie ein Paket dafür. Erstellen Sie ein Git-Repository, fügen Sie die Paketinhalte hinzu (alles, was in app/code/vender/package enthalten ist) und stellen Sie sicher, dass sich eine gültige Datei „composer.json“ im Stammverzeichnis des Repositorys befindet. Sie können dieses Paket jetzt über Composer installieren.
 
 ## Einrichten eines privaten Composer-Repositorys
 
@@ -195,7 +182,7 @@ Ein privates Repository ist in der globalen Referenzarchitektur nicht obligatori
 
 Darüber hinaus bieten einige private Repositorys zusätzliche Funktionen wie E-Mail-Benachrichtigungen, wenn einer Ihrer Stores eine Sicherheitslücke in einer seiner Abhängigkeiten aufweist.
 
-Das Problem der Langsamkeit tritt auf, wenn mehrere VCS-Repositorys in composer.json vorhanden sind. Jedes Composer-Repository muss bei Upgrades gelesen werden und mit 50 Repositorys für 50 Pakete mindestens den 50-fachen Mehraufwand für nur ein einzelnes Composer-Repository aufweisen.
+Das Problem der Langsamkeit tritt auf, wenn mehrere VCS-Repositorys in composer.json vorhanden sind. Jedes Composer-Repository muss bei Upgrades gelesen werden und mit 50 Repositorys für 50 Pakete den 50-fachen Mehraufwand eines einzelnen Composer-Repositorys verursachen.
 
 ![Ein Diagramm, das zeigt, wo eine Langsamkeit auftritt, wenn ein Composer-Repository fehlt](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
@@ -221,8 +208,7 @@ Um eine neue Version zu erstellen, führen Sie das Composer-Update im Haupt-Comp
 
 ## Versionierung
 
-Die Versionierung in einem separaten Paket-GRA ist ein Synonym für Tagging-Module in Git. Git-Tags erstellen nummerierte Versionen Ihrer Pakete, die Composer installiert.
-Mit dem richtigen Versionierungsansatz können Ihre Pakete automatisch fließen, ohne dass die Sicherheit beeinträchtigt wird.
+Die Versionierung in einem separaten Paket-GRA ist ein Synonym für Tagging-Module in Git. Git-Tags erstellen nummerierte Versionen Ihrer Pakete, die Composer installiert.Mit dem richtigen Versionierungsansatz können Ihre Pakete automatisch fließen, ohne dass die Sicherheit beeinträchtigt wird.
 
 Zwei Beispiele:
 
@@ -258,8 +244,7 @@ Dieses Beispiel zeigt eine lockere Definition von Abhängigkeiten. Mit `~1.0` ka
 
 Sobald Sie eine neue Version eines der genannten Pakete veröffentlichen, wird diese automatisch mit dem Composer-Update installiert.
 
-Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Vor allem die FAQ ist ein Muss zu lesen. Bei der semantischen Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets sollten sicher eingeführt werden, ohne die Anwendung zu beschädigen.
-Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswählen. Beachten Sie, dass dies zusätzlichen Aufwand verursacht, wenn Sie jede kleinere Änderung manuell auswählen:
+Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Insbesondere die FAQ wird empfohlen zu lesen. Bei der semantischen Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets können problemlos eingeführt werden, ohne dass die Anwendung beschädigt wird.Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswählen. Beachten Sie, dass dies zusätzlichen Aufwand verursacht, wenn Sie jede kleinere Änderung manuell auswählen:
 
 ```json
 {
@@ -273,7 +258,7 @@ Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswä
 }
 ```
 
-All dies funktioniert natürlich nur, wenn Sie die semantische Versionierung immer konsequent anwenden. Und nicht nur in Metapaketen, sondern die Anforderungen Ihrer regulären Pakete sollten Abhängigkeiten auch lose definieren. Wenn Sie eine strikte Abhängigkeit in Ihrem System haben, ist dieses Paket auf die strikte Definition beschränkt.
+All dies funktioniert natürlich nur, wenn Sie die semantische Versionierung immer konsequent anwenden. Und nicht nur in Metapaketen, sondern auch in den Anforderungen Ihrer regulären Pakete werden Abhängigkeiten zu locker definiert. Wenn Sie eine strikte Abhängigkeit in Ihrem System haben, ist dieses Paket auf die strikte Definition beschränkt.
 
 Suchen Sie diese strikten Abhängigkeiten, indem Sie „composer depends \&lt;Paketname\>&quot; eingeben. Weitere Informationen finden Sie unter <https://getcomposer.org/doc/03-cli.md#depends-why> .
 
@@ -281,9 +266,9 @@ Suchen Sie diese strikten Abhängigkeiten, indem Sie „composer depends \&lt;Pa
 
 Sie können verschiedene Verzweigungsstrategien verwenden, um dieses globale Referenzstrategiemuster zu unterstützen, sofern die Hauptverzweigung die einzige Verzweigung ist, in der Sie Ihre Pakete versionieren. Wenn Sie eine Version über mehrere Verzweigungen hinweg erstellen, besteht die Gefahr, dass die Funktionalität zwischen den Versionen nach dem Zufallsprinzip verloren geht. Erstellen Sie nur stabile Versionen auf dem Hauptzweig.
 
-Erstellen Sie nur Funktionsverzweigungen in Ihren Paket-Repositorys. Nicht in Ihren Store-Installations-Repositorys. Bleiben Sie in der Lage, Änderungen an Ihrem Store nur mit Composer einzuführen. Vermeidung der Notwendigkeit von Git-Zusammenführungen im Bereitstellungs-Repository.
+Erstellen Sie nur Funktionsverzweigungen in Ihren Paket-Repositorys. Nicht in Ihren Store-Installations-Repositorys. Bleiben Sie in der Lage, mit Composer Änderungen an Ihrem Store vorzunehmen. Vermeidung der Notwendigkeit von Git-Zusammenführungen im Bereitstellungs-Repository.
 
-Verzweigungstypen, die in Verzweigungsstrategien und Repositorys häufig sind, in denen sie vorhanden sein sollten:
+Verzweigungstypen, die in Verzweigungsstrategien und den Repositorys, in denen sie vorhanden sind, häufig sind:
 
 **Funktionsverzweigungen**: sind nirgendwo sonst in Ihren Paket-Repositorys vorhanden.
 
@@ -291,8 +276,7 @@ Verzweigungstypen, die in Verzweigungsstrategien und Repositorys häufig sind, i
 
 **QA/Dev-Verzweigungen**: Ähnlich wie Versionsverzweigungen.
 
-**Hauptverzweigung**: Muss in jedem Repository vorhanden sein und sollte immer die Verzweigung sein, die die Produktion oder einen produktionsbereiten Status darstellt. Der Hauptzweig ist der Ort, an dem Sie Code taggen, um Versionen zu veröffentlichen.
-Stellen Sie sicher, dass Sie eine Verzweigungsstrategie mit geringem Wartungsaufwand wählen. Beispielsweise ist das Zusammenführen der Hauptverzweigung wieder in QA-, UAT-, Release- oder Dev-Verzweigungen nach einer Hotfix-Veröffentlichung eine allgemeine Wartungsaufgabe. Je mehr Pakete, desto mehr Repositorys und desto mehr sich wiederholende Overhead-Aufgaben.
+**Hauptverzweigung**: ist in jedem Repository vorhanden und ist immer die Verzweigung, die für die Produktion oder einen produktionsbereiten Status steht. Der Hauptzweig ist der Ort, an dem Sie Code taggen, um Versionen zu veröffentlichen.Stellen Sie sicher, dass Sie eine Verzweigungsstrategie mit geringem Wartungsaufwand wählen. Beispielsweise ist das Zusammenführen der Hauptverzweigung wieder in QA-, UAT-, Release- oder Dev-Verzweigungen nach einer Hotfix-Veröffentlichung eine allgemeine Wartungsaufgabe. Je mehr Pakete, desto mehr Repositorys und desto mehr sich wiederholende Overhead-Aufgaben.
 
 Verwenden Sie ein Tool wie mixu/gr, um Routinevorgänge für mehrere Git-Repositorys in einem Batch durchzuführen: <https://github.com/mixu/gr>
 
@@ -300,13 +284,13 @@ Verwenden Sie ein Tool wie mixu/gr, um Routinevorgänge für mehrere Git-Reposit
 
 Mit dem GRA-Muster Separate Packages sind Pakete Teil der GRA-Foundation, wenn das Foundation-Metapaket sie erfordert. Fügen Sie Pakete zum Metapaket hinzu oder entfernen Sie es, um sie in die Foundation und wieder heraus zu verschieben.
 
-Metapakete bieten Flexibilität beim Installationsumfang von Paketen. Es ist besonders wichtig, dass die Namen von Paketen keine Wörter enthalten, die sich auf den vorgesehenen Zweck des Pakets beziehen. Der Name antonevers/module-gra-store-locator kann verwirrend werden, wenn Sie sich entscheiden, dieses Paket aus der GRA Foundation zu nehmen. Vermeiden Sie den Umfang (GRA, Foundation, lokal). Vermeiden Sie Regionen (EMEA, Spanien, Global). Vermeiden Sie auf jeden Fall den Namen des Speichers, für den ein Paket erstellt wurde. Wählen Sie Namen aus, die sich nur auf die Funktion beziehen, die dem Paket hinzugefügt wird. Auf diese Weise können Sie sie überall dort wiederverwenden, wo Sie möchten, auch in unvorhergesehenen zukünftigen Szenarien. Der Name antonevers/module-store-locator wäre ausgezeichnet.
+Metapakete bieten Flexibilität beim Installationsumfang von Paketen. Es ist besonders wichtig, dass die Namen von Paketen keine Wörter enthalten, die sich auf den vorgesehenen Zweck des Pakets beziehen. Der Name antonevers/module-gra-store-locator kann verwirrend werden, wenn Sie sich entscheiden, dieses Paket aus der GRA Foundation zu nehmen. Vermeiden Sie den Umfang (GRA, Foundation, lokal). Vermeiden Sie Regionen (EMEA, Spanien, Global). Vermeiden Sie auf jeden Fall den Namen des Speichers, für den ein Paket erstellt wurde. Wählen Sie Namen aus, die sich nur auf die Funktion beziehen, die dem Paket hinzugefügt wird. Auf diese Weise können Sie sie in jeder Umgebung wiederverwenden, auch in unvorhergesehenen zukünftigen Szenarien. Der Name antonevers/module-store-locator wäre ausgezeichnet.
 
 Stellen Sie sicher, dass verwandte Pakete in Übersichten zusammen angezeigt werden. Erstellen Sie Namen von generisch zu spezifisch. Also: antonevers/module-b2b-tax-free anstelle von antonevers/tax-free-module-b2b.
 
 ## Code-Beispiele
 
-Die Code-Beispiele für diesen Blogpost wurden in einer Reihe von Git-Repositorys kombiniert, mit denen Sie mit dem Machbarkeitsnachweis spielen können.
+Die Code-Beispiele in diesem Artikel wurden in einer Reihe von Git-Repositorys kombiniert, mit denen Sie den Machbarkeitsnachweis untersuchen können.
 
 * Ein Beispiel für einen Produktionsspeicher: <https://github.com/AntonEvers/gra-separate-brand-x>
 * Ein Beispiel für ein Foundation-Modul: <https://github.com/AntonEvers/module-example-gra>
