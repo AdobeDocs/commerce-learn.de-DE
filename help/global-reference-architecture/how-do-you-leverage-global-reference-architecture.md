@@ -1,17 +1,14 @@
 ---
-title: How do you leverage Global Reference Architecture
-description: Learn how to leverage a global reference architecture to establish a scalable and resilient commerce experience
-landing-page-description: Erfahren Sie mehr über die globale Referenzarchitektur und deren Verwendung mit Adobe Commerce
-kt: 14040
-doc-type: video
-duration: 1833
-audience: all
-last-substantial-update: 2023-9-27
+title: Wie kann die globale Referenzarchitektur genutzt werden?
+description: Erfahren Sie, wie Sie eine globale Referenzarchitektur nutzen können, um ein skalierbares und widerstandsfähiges Commerce-Erlebnis zu schaffen
+jira: KT-14040
+doc-type: Value Video
+duration: 1817
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 TQID: https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns
 product_v2:
@@ -31,16 +28,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: 113
 ht-degree: 0%
 
 ---
 
-# Leveraging Global Reference Architecture
+# Nutzung der globalen Referenzarchitektur
 
-Learn how to leverage Global Reference Architecture or GRA for short. To better prepare a GRA for a successful implementation, the Adobe experts discuss the different phases of the project and go into detail for the discovery phase. QA resources are discussed and how they are a valuable resource to a GRA implementation.
+Erfahren Sie, wie Sie die globale Referenzarchitektur für GRA nutzen. Um einen GRA besser für eine erfolgreiche Implementierung vorzubereiten, besprechen die Adobe-Experten die verschiedenen Projektphasen und gehen detailliert auf die Discovery-Phase ein. QA-Ressourcen werden besprochen und erklären, warum sie eine wertvolle Ressource für eine GRA-Implementierung sind.
 
 ## Zielgruppe
 
@@ -49,10 +46,10 @@ Learn how to leverage Global Reference Architecture or GRA for short. To better 
 
 ## Videoinhalt
 
-* What is not considered a Global Reference Architecture
-* Benefits to GRA implementations
-* Requirement gathering
-* When do you involve the QA team
+* Was nicht als globale Referenzarchitektur betrachtet wird
+* Vorteile für GRA-Implementierungen
+* Anforderungserfassung
+* Wann beziehen Sie das QS-Team ein?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
