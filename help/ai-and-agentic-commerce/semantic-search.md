@@ -37,5 +37,5 @@ Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer
 
 ## Zusätzliche Ressourcen
 
-&#x200B;- Bereitstellungen für Adobe Commerce in Cloud, On-Premise und Adobe Commerce as a Cloud Service finden Sie unter [[!DNL Live Search] semantische Suche](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} im _Live Search-_.
-&#x200B;- Informationen zu Bereitstellungen mit Adobe Commerce Optimizer finden Sie [Semantische Suche](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"} im _Commerce Optimizer-Handbuch_.
+&#x200B;- Bereitstellungen für Adobe Commerce in Cloud, On-Premise und Adobe Commerce as a Cloud Service finden Sie unter [[!DNL Live Search] semantische Suche](https://experienceleague.adobe.com/de/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} im _Live Search-_.
+&#x200B;- Informationen zu Bereitstellungen mit Adobe Commerce Optimizer finden Sie [Semantische Suche](https://experienceleague.adobe.com/de/docs/commerce/optimizer/setup/semantic-search){target="_blank"} im _Commerce Optimizer-Handbuch_.
