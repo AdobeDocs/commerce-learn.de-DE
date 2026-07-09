@@ -33,7 +33,7 @@ Die herkömmliche Keyword-Suche stimmt genau mit den Wörtern überein - Käufer
 * Beispiele aus der Praxis für Kundeninteressen und verbesserte Suchrelevanz
 * Die wichtigsten Vorteile: bessere Relevanz, weniger Suchen ohne Ergebnis und bessere Kundenerlebnisse
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492312?captions=ger)
 
 ## Zusätzliche Ressourcen
 
