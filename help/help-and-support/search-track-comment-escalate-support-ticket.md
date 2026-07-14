@@ -42,4 +42,4 @@ Erfahren Sie, wie Sie ein Support-Ticket in Adobe Experience League für Adobe C
 
 ## Handbuch zum Commerce Knowledge Base-Adobe-Hilfezentrum
 
-[Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
