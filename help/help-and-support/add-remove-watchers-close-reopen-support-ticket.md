@@ -38,7 +38,7 @@ Erfahren Sie, wie Sie in Adobe Experience League für Adobe Commerce Beobachter 
 * Informationen zum Schließen eines Support-Tickets
 * Erfahren Sie, wie Sie ein Support-Ticket erneut öffnen
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441361?captions=ger&learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Adobe-Hilfezentrum
 
