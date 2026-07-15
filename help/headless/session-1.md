@@ -1,14 +1,12 @@
 ---
 title: 'Headless-Architektur: Sitzung 1'
-description: Erfahren Sie mehr über Headless-Architektur, zusammensetzbaren Commerce und personalisierte Erlebnisse
-kt: 13144
-doc-type: tutorial
+description: Erfahren Sie mehr über die Headless-Architektur, zusammensetzbaren Commerce und personalisierte Erlebnisse mit Adobe Commerce und lernen Sie die Vorteile einer entkoppelten Storefront kennen.
+jira: KT-13144
+doc-type: Value Video
 duration: 1952
-audience: all
 last-substantial-update: 2023-04-25T00:00:00.000Z
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
@@ -32,20 +30,20 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce Headless-Architektur
 
-Allgemeine Übersicht über den Verlauf von Adobe Commerce und darüber, wie die Dinge zur vollständigen Unterstützung von Headless voranschreiten.  Zu den Vorteilen der Headless-Architektur gehören Parität über Touchpoints hinweg, Trennung von Entwicklungsaktivitäten, verbesserte Skalierbarkeit und vieles mehr.
+Allgemeine Übersicht über den Verlauf von Adobe Commerce und wie die Dinge zur vollständigen Unterstützung von Headless voranschreiten. Zu den Vorteilen der Headless-Architektur gehören Parität über Touchpoints hinweg, die Trennung von Entwicklungsaktivitäten, eine verbesserte Skalierbarkeit und zusätzliche Vorteile.
 
 ## Was Sie lernen werden
 
-Erfahren Sie, was Headless ist und wie Adobe Commerce die Headless-Architektur vollständig unterstützt.
+Erfahren Sie, was Headless ist und wie Adobe Commerce die Headless-Architektur unterstützt.
 
 ## Für wen ist dieses Video bestimmt?
 
