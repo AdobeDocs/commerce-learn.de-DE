@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 
 ## Datei-für-Datei-Verweis
 
-### [Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools](./overview.md)
+### Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools
+
+[Erstellen eines aufgeteilten Zahlungs-POC: App Builder- und KI-Tools](./overview.md)
 
 **Zweck:** Einführung und Ausrichtung für das Tutorial.
 
@@ -32,8 +34,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Nutzung:** Abschnitt wird geöffnet. Legt den Kontext vor allen technischen Schritten fest.
 
 
-### [Aufspaltung des Zahlungs-POC: Architektur- und Design-Entscheidungen](./architecture-and-decisions.md)
+### Aufspaltung des Zahlungs-POC: Architektur- und Design-Entscheidungen
 
+[Aufspaltung des Zahlungs-POC: Architektur- und Design-Entscheidungen](./architecture-and-decisions.md)
 
 **Zweck** Detaillierte Erläuterung jeder architektonischen Entscheidung im PoC.
 
@@ -50,8 +53,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Nutzung** Abschnitt „Architektur“ oder „Funktionsweise“. Kann von erfahrenen Commerce-Entwicklerinnen und -Entwicklern übersprungen werden, ist aber für App Builder-Neulinge unverzichtbar.
 
 
-### [Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung](./prerequisites-and-setup.md)
+### Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung
 
+[Aufspaltung des Zahlungs-POC: Voraussetzungen und Einrichtung der Umgebung](./prerequisites-and-setup.md)
 
 **Zweck:** Vervollständigen Sie die Checkliste vor dem Flug, bevor Code geschrieben oder Eingabeaufforderungen ausgeführt werden.
 
@@ -66,8 +70,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Abschnitt „Voraussetzungen“ oder „Erste Schritte“. Sollte interaktiv abgeschlossen werden - nicht nur gelesen.
 
 
-### [Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz](./env-reference.md)
+### Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz
 
+[Aufspaltung des Zahlungs-POC: Umgebungsvariablen-Referenz](./env-reference.md)
 
 **Zweck** Alle Umgebungsvariablen für alle drei Komponenten an einem Ort.
 
@@ -82,8 +87,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Verweis-Seitenleiste oder Abschnitt „Konfiguration“. Wird auch als Ergänzung zu den Build-Eingabeaufforderungen verwendet.
 
 
-### [Zahlungs-POC aufteilen: Commerce-Modul-KI-Eingabeaufforderung](./commerce-module-prompt.md)
+### Aufspaltung des Zahlungs-POC: Commerce-Modul-KI-Eingabeaufforderung
 
+[Aufspaltung des Zahlungs-POC: Commerce-Modul-KI-Eingabeaufforderung](./commerce-module-prompt.md)
 
 **Zweck:** Vollständige, eigenständige AI-Eingabeaufforderung, um das gesamte `Client_SplitPayment` PHP-Modul zu generieren.
 
@@ -101,8 +107,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Abschnitt „Erstellen des Commerce-Moduls“. Die Eingabeaufforderung selbst ist ein Artefakt - Entwickler kopieren sie in ihr KI-Tool und führen es aus.
 
 
-### [Zahlungs-POC aufteilen: App Builder Orchestrator-KI-Eingabeaufforderung](./orchestrator-prompt.md)
+### Aufspaltung des Zahlungs-POC: App Builder Orchestrator-KI-Eingabeaufforderung
 
+[Aufspaltung des Zahlungs-POC: App Builder Orchestrator-KI-Eingabeaufforderung](./orchestrator-prompt.md)
 
 **Zweck:** Vollständige, in sich abgeschlossene KI-Eingabeaufforderung zum Generieren der `split-payment-orchestrator` App Builder-Anwendung.
 
@@ -120,8 +127,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Abschnitt „Erstellen des App Builder-Programms“. Begleiter der Commerce-Modulaufforderung.
 
 
-### [Zahlungs-POC aufteilen: Eingabeaufforderung für die Erweiterung der Experience Cloud-Benutzeroberfläche](./experience-cloud-ui-prompt.md)
+### Aufspaltung des Zahlungs-POC: API-Eingabeaufforderung für Experience Cloud-UI-Erweiterung
 
+[Aufspaltung des Zahlungs-POC: API-Eingabeaufforderung für Experience Cloud-UI-Erweiterung](./experience-cloud-ui-prompt.md)
 
 **Zweck:** KI-Aufforderung, die optionale SDK-Erweiterung für die Experience Cloud Admin-Benutzeroberfläche zu generieren.
 
@@ -137,8 +145,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Optionaler Abschnitt „Weiter gehen“ oder „Produktionspfad“. Kann übersprungen werden, wenn sich das Tutorial nur auf den PoC konzentriert.
 
 
-### [Aufspaltung des Zahlungs-POC: Test- und Verifizierungshandbuch](./testing-and-verification.md)
+### Split Payment POC: Test- und Verifizierungshandbuch
 
+[Split Payment POC: Test- und Verifizierungshandbuch](./testing-and-verification.md)
 
 **Zweck** Eine schrittweise Anleitung zum Testen aller Komponenten in der richtigen Überprüfungsreihenfolge.
 
@@ -160,8 +169,9 @@ Auf dieser Seite wird zusammengefasst, wie die Tutorial-Reihe zum Machbarkeitsna
 **Tutorial-Verwendung** Abschnitt „Testen“ oder „Verifizierung“. Auch als Referenz zur Fehlerbehebung nützlich.
 
 
-### [Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Machbarkeitsnachweis](./next-steps.md)
+### Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Konzeptnachweis
 
+[Aufspaltung des Zahlungs-POC: Nächste Schritte nach dem Konzeptnachweis](./next-steps.md)
 
 **Zweck:** Roadmap für die Weiterentwicklung des POC zu produktionsbereiten Mustern.
 

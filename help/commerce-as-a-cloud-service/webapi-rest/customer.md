@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ Bevor Sie beginnen, erfassen Sie alle erforderlichen Werte aus [Experience Cloud
 
 Die Instanzdetails enthalten Dinge wie Ihre Instanz-ID, GraphQL-Endpunkte und Anmeldeinformationen.
 
-### Entwicklerdetails - [developer.adobe.com/console](https://developer.adobe.com/console/)
+### Details für Entwickler - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 In der Developer Console verwalten Sie Ihre API-Anmeldeinformationen, einschließlich Client-IDs, Client-Geheimnissen und Zugriffstoken. Sie können auch neue Berechtigungstypen erstellen, z. B. Server-zu-Server- oder native App-Authentifizierung.
 
