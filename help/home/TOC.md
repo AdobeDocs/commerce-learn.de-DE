@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: a785518a36cda9d2bfb82951c26f2e197ee3d43e
+source-git-commit: 0dcb41e9138a36528f10333b0b5a9a9b2a39ed40
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '967'
 ht-degree: 3%
 
 ---
@@ -68,6 +68,7 @@ ht-degree: 3%
     + Tool für die Massendatenmigration{#bulk-data-migration-tool}
       + [Einführung](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
       + [Source-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+      + [DB-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
   + Migration zu Adobe Commerce{#migrating-to-adobe-commerce}
     + [Überblick](../migrating-to-adobe-commerce/overview.md)
     + Vorbereitung{#preparation}
@@ -101,7 +102,7 @@ ht-degree: 3%
 
 + Erweiterbarkeit {#extensibility}
   + Backend-Entwicklung {#backend-development}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../backend-development/create-module.md)
     + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
