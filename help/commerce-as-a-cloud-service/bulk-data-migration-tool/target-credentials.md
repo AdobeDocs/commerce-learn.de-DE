@@ -33,4 +33,4 @@ Legen Sie die URLs der Zielinstanz, die Adobe IMS-Anmeldeinformationen und die C
 * Rufen Sie die Adobe IMS-Client-ID und das Client-Geheimnis aus **Projekt** > **OAuth Server-zu-Server** in der Adobe Developer Console ab.
 * Kopieren Sie die Zielgruppen-Organisations-ID und konfigurieren Sie den CDMS-Host, den Port und die lokalen Server-Einstellungen so, dass sie zu Ihrer Umgebung passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496174?captions=ger&learn=on)
