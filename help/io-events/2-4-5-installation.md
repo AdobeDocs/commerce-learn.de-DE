@@ -1,17 +1,13 @@
 ---
 title: Erfahren Sie, wie Sie IO-Ereignisse für Adobe Commerce 2.4.5 installieren
 description: Erfahren Sie, wie Sie Module installieren, die für E/A-Ereignisse in Adobe Commerce 2.4.5 zur Verwendung in Adobe Developer App Builder erforderlich sind
-landing-page-description: Erfahren Sie, wie Sie mit Composer mehrere für Adobe Commerce 2.4.5 erforderliche Module installieren.
-short-description: Erfahren Sie, wie Sie mit Composer mehrere für Adobe Commerce 2.4.5 erforderliche Module installieren.
-kt: 11886
-doc-type: tutorial
-duration: 214
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11886
+doc-type: Tutorial
+duration: 179
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
@@ -26,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # Installation von Adobe Commerce 2.4.5
 
-Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Adobe Commerce installieren. Dadurch werden die erforderlichen Module für die Verwendung in der Adobe Commerce-Anwendung eingerichtet. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Adobe Commerce installieren. Dadurch werden die erforderlichen Module für die Verwendung in der Adobe Commerce-Anwendung eingerichtet. Weitere Dokumentationen finden Sie unter [Installieren von Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -50,9 +46,9 @@ Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Ado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430646?captions=ger&learn=on)
 
-## Nützliche Befehle {#useful-commands}
+## Verfügbare Befehle {#useful-commands}
 
-Es gibt verschiedene Befehle, die sich geringfügig unterscheiden, je nachdem, ob Sie sich in einer selbst gehosteten Umgebung befinden oder Adobe Commerce Cloud verwenden.
+Es gibt verschiedene Befehle, die sich je nachdem, ob Sie sich in einer selbst gehosteten Umgebung befinden oder Adobe Commerce Cloud verwenden, leicht unterscheiden.
 
 ### On-Premise Hosting {#on-premise}
 
@@ -87,4 +83,5 @@ stage:
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 
