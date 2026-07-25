@@ -33,4 +33,4 @@ Bereiten Sie Docker vor und greifen Sie auf das Tool für die Massendatenmigrati
 * Extrahieren Sie das Toolpaket und legen Sie die richtigen Ordnerberechtigungen fest.
 * Sehen Sie sich die `.env.example` Datei an, die in den nächsten Videos dieser Reihe konfiguriert ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496129?captions=ger&learn=on)

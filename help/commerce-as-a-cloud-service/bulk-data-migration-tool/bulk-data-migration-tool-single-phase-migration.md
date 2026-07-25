@@ -34,4 +34,4 @@ Führen Sie eine einphasige Migration durch, wenn Ihre Quellumgebung während de
 * Überprüfen Sie den Migrationszusammenfassungsbericht - Schritt 8 (Datenintegritätsprüfung) protokolliert Fehler, ohne die Pipeline anzuhalten, sodass ein abgeschlossener Durchlauf keine saubere Überprüfung garantiert.
 * Dieser einphasige Befehl ist eine vollständige, in sich abgeschlossene Pipeline. Verwenden Sie ihn nicht als Schritt innerhalb des Workflows für den Wartungsmodus (stufenweise Migration), der über eigene dedizierte Befehle verfügt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496323?captions=ger&learn=on)
