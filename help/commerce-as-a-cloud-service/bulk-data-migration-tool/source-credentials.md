@@ -33,4 +33,4 @@ Legen Sie die URL der Quellinstanz und die Authentifizierungsdaten in Ihrer `.en
 * Um die vier erforderlichen Token zu generieren, aktivieren Sie die Integration.
 * Rufen Sie das Magento-CLI-Token von account.magento.cloud ab, wenn Ihre Quelle Adobe Commerce as a Cloud Service (PaaS) ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496149?captions=ger&learn=on)
