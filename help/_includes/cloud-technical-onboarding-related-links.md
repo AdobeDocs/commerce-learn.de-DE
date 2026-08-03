@@ -1,7 +1,7 @@
 ---
 title: Technische Onboarding-Seiten für Adobe Commerce Cloud
 description: Links zu verwandten Seiten im technischen Onboarding von Adobe Commerce Cloud
-source-git-commit: 14d37ba34791af87b09f2c6727adf1a3fa632ef5
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ## Weitere verwandte Tutorials
 
-* [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
-* [schnell](../cloud/fastly.md)
-* [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
-* [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
-* [SaaS-Angebote, Support und andere Kommunikationen sowie die nächsten Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
+* [Best Practices für Infrastruktur und Entwicklung](/help/cloud/infrastructure-development-best-practices.md)
+* [schnell](/help/cloud/fastly.md)
+* [Konfiguration und Debugging](/help/cloud/configuration-and-debugging.md)
+* [Bereitstellung, Tests, Überwachung und Sicherheit](/help/cloud/deployments-testing-monitoring-security.md)
+* [SaaS-Angebote, Support und andere Kommunikationen sowie die nächsten Schritte](/help/cloud/saas-offerings-support-communications-next-steps.md)
