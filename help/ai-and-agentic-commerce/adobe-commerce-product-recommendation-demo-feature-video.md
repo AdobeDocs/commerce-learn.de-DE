@@ -3,15 +3,14 @@ title: Demo zu Adobe Commerce-Produktempfehlungen - Funktionsvideo
 description: Erfahren Sie, wie Sie Adobe Sensei-Produktempfehlungen zu einer Adobe Commerce-Produktdetailseite hinzufügen, einschließlich Preisspanne und Regeln für den Ausschluss vorrätiger Artikel.
 feature: Recommendations
 topic: Commerce
-role:
-  - Admin
-  - User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
 last-substantial-update: 2026-08-11T00:00:00Z
+nudge-edit: 2026-08-12T00:00:00Z
 jira: KT-20981
-source-git-commit: 98ef78b8c4e9ad3fcb74b77dab0f4018d069dd5b
+source-git-commit: 1d321567c30b4f7f6df5dbab1b71260f2a291a63
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
