@@ -47,4 +47,4 @@ Adobe Commerce-Patch-Automatisierung ist eine Funktion des Adobe Commerce Site W
 
 ## Verwandte Dokumentation
 
-* [Dokumentation zur Patch-Automatisierung](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Dokumentation zur Patch-Automatisierung](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/caps-tool/intro)
