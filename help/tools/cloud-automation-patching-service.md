@@ -43,7 +43,7 @@ Adobe Commerce-Patch-Automatisierung ist eine Funktion des Adobe Commerce Site W
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476256?captions=ger&learn=on)
 
 ## Verwandte Dokumentation
 
