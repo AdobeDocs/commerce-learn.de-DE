@@ -1,13 +1,13 @@
 ---
-title: Cloud Automation Patching Service
-description: Streamline Adobe Commerce patching with CAPS via SWAT—automated updates for secure, hassle-free site maintenance
+title: Automatisierung des Patching
+description: Erfahren Sie, wie Sie die Adobe Commerce-Patching-Automatisierung im SWAT-Dashboard verwenden, um ein Projekt und eine Umgebung auszuwählen und dann Patches zu finden, anzuwenden und zurückzusetzen.
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 192
-last-substantial-update: 2025-10-24T00:00:00.000Z
+duration: 216
+last-substantial-update: 2025-10-24
 jira: KT-19485
 exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 TQID: https://experienceleague.adobe.com/ZGVmvNQFySX-mmXehuwNiW9PSKhQtgMeeioKG2Rz--M
@@ -24,27 +24,27 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 1081236a1fc40ae079dd2e489290a33c7b3be18d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: 106
 ht-degree: 0%
 
 ---
 
-# Cloud Automation Patching Service
+# Automatisierung von Adobe Commerce-Patches
 
-Adobe&#39;s Cloud Automation Patching Service (CAPS), a feature within the Adobe Commerce Site Wide Analysis Tool (SWAT) that streamlines the process of discovering and applying security patches. Users access CAPS via the Commerce Admin under the SWAT dashboard, select their project and environment, and view available patches.
+Adobe Commerce-Patch-Automatisierung ist eine Funktion des Adobe Commerce Site Wide Analysis Tool (SWAT), die den Prozess der Erkennung und Anwendung von Sicherheits-Patches optimiert. Anwender greifen über Commerce Admin unter dem SWAT-Dashboard auf die Patch-Automatisierung zu, wählen ihr Projekt und ihre Umgebung aus und zeigen verfügbare Patches an.
 
 ## Für wen ist dieses Video bestimmt?
 
-* Website managers
-* Developers
-* DevOps and System Administrators
+* Website-Manager
+* Entwickler
+* DevOps und Systemadministration
 
 ## Videoinhalt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476256?captions=ger&learn=on)
 
-## Related Documentation
+## Verwandte Dokumentation
 
-* [Cloud Automation Patching Service Documentation](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/caps-tool/intro)
+* [Dokumentation zur Patch-Automatisierung](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/caps-tool/intro)
