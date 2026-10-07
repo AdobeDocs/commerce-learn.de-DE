@@ -4,13 +4,11 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Videos und Tutorials zu Adobe Commerce {#tutorials}
 
@@ -114,7 +112,7 @@ ht-degree: 3%
     + [Schlussfolgerung](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder Probelauf](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Backend-Entwicklung {#backend-development}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../backend-development/create-module.md)
     + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Versand- und Liefermethoden](../site-management/shipping-delivery.md)
   + [Admin-Raster und -Filter](../site-management/admin-grids-and-filters.md)
   + [COMMERCE CLI](../site-management/view-update-store-configuration-cli.md)
+  + [Navigieren Sie zur Store-Konfiguration und zum Systemmenü](../site-management/store-configuration-and-system-menu.md)
   + Adobe Commerce Services {#adobe-commerce-services}
     + [Konfigurieren des Commerce Services-Connectors](../site-management/configure-adobe-commerce-services-connector.md)
     + [Konfigurieren von Zahlungsdiensten](../site-management/configure-adobe-payment-services.md)
