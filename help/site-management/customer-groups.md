@@ -56,4 +56,4 @@ Mit Kundengruppen in Adobe Commerce können Sie zielgerichtete Promotions und Pr
 
 ## Zusätzliche Ressourcen
 
-* [Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
+* [Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/de/docs/commerce-admin/customers/customer-groups)
