@@ -49,6 +49,6 @@ Das Menü [!UICONTROL Stores] bietet Zugriff auf die Speichereinstellungen. Die 
 
 * [Admin-Rasterfilter](admin-grids-and-filters.md)
 * [Anzeigen und Festlegen von Admin-Konfigurationen über die Befehlszeile](view-update-store-configuration-cli.md)
-* [Die Admin-Tools und der Arbeitsbereich](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Administratorraster-Steuerelemente](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site-, Speicher- und Anzeigebereich](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Die Admin-Tools und der Arbeitsbereich](https://experienceleague.adobe.com/de/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Administratorraster-Steuerelemente](https://experienceleague.adobe.com/de/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site-, Speicher- und Anzeigebereich](https://experienceleague.adobe.com/de/docs/commerce-admin/start/setup/websites-stores-views)
