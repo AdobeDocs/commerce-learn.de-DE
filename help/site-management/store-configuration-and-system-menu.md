@@ -35,7 +35,7 @@ Erfahren Sie mehr über den Adobe Commerce Admin-Arbeitsbereich, vom Filtern von
 * Wechseln Sie zwischen der Standardansicht und der gespeicherten Ansicht und aktualisieren Sie eine vorhandene Ansicht.
 * Navigieren Sie zur Store-Konfiguration und erkunden Sie die allgemeinen Einstellungen, den Katalog, die Sicherheit, den Kunden und den Vertrieb.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473180?captions=ger&learn=on)
 
 ## Gespeicherte Rasteransichten
 
