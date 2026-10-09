@@ -1,6 +1,6 @@
 ---
-title: Create Cart Price Rules
-description: Learn how to create cart price rules that apply discounts in the shopping cart when conditions you define are met.
+title: Erstellen von Regeln für Warenkorbpreise
+description: Erfahren Sie, wie Sie Regeln für den Warenkorbpreis erstellen, die Rabatte im Warenkorb anwenden, wenn von Ihnen definierte Bedingungen erfüllt sind.
 doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00.000Z
 feature: Configuration, System, Customers, Shopping Cart
@@ -10,30 +10,42 @@ level: Beginner
 duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-TQID: https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg
+TQID: 'https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: df8eaa0e-dd74-553a-8ad5-28129f8e8d3d
+    internal-label: Shopping Cart
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 701
+source-wordcount: '701'
 ht-degree: 0%
-
 ---
+# Erstellen von Regeln für Warenkorbpreise
 
-# Create Cart Price Rules
-
-Cart price rules apply discounts to items in the shopping cart based on conditions you set. The discount can apply automatically when conditions are met, or when the customer enters a valid coupon code. The discount appears in the cart under the subtotal. You can turn a rule on or off for a season or promotion by changing its status and date range.
+Die Regeln für den Warenkorbpreis wenden Rabatte auf Artikel im Warenkorb basierend auf den von Ihnen festgelegten Bedingungen an. Der Rabatt kann automatisch angewendet werden, wenn die Bedingungen erfüllt sind oder wenn der Kunde einen gültigen Gutscheincode eingibt. Der Rabatt wird im Warenkorb unter der Zwischensumme angezeigt. Sie können eine Regel für eine Saison oder eine Promotion aktivieren oder deaktivieren, indem Sie ihren Status und Datumsbereich ändern.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -42,32 +54,32 @@ Cart price rules apply discounts to items in the shopping cart based on conditio
 
 ## Videoinhalt
 
-* Create cart price rules and optional coupon codes.
-* See how discounts appear in the cart and for promotions.
+* Erstellen Sie Regeln für den Warenkorbpreis und optionale Gutscheincodes.
+* Erfahren Sie, wie Rabatte im Warenkorb angezeigt werden und welche Werbeaktionen es gibt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411359?captions=ger&learn=on)
 
-## Pricing display issues
+## Probleme mit der Preisanzeige
 
-In some cases, each line item must show the discount applied, but displayed values may not match exactly. This happens when a cart price rule applies one discount across multiple products and the split does not divide evenly to two decimal places.
+In einigen Fällen muss jeder Zeileneintrag den angewendeten Rabatt enthalten, aber die angezeigten Werte stimmen möglicherweise nicht genau überein. Dies geschieht, wenn eine Warenkorb-Preisregel einen Rabatt auf mehrere Produkte anwendet und die Aufspaltung nicht gleichmäßig auf zwei Dezimalstellen aufgeteilt wird.
 
 >[!BEGINSHADEBOX]
 
-Cart Price Rule = 10% discount applied to 2 products in the cart
-Condition for price rule to take effect: total items in cart is 2
-Actions apply percent of product price discount and that discount amount is 10
+Warenkorb-Preisregel = 10 % Rabatt auf 2 Produkte im Warenkorb
+Bedingung für das Inkrafttreten der Preisregel: Die Gesamtzahl der Artikel im Warenkorb ist 2.
+Aktionen wenden den Rabatt in Prozent des Produktpreises an und dieser Rabattbetrag ist 10
 
-2 items are added to the cart, each are $19.95
+2 Artikel werden zum Warenkorb hinzugefügt, jeder kostet $19.95
 
-To get the discount amount multiply the product price times 0.1
+Um den Rabattbetrag zu erhalten, multiplizieren Sie den Produktpreis mit 0,1
 
-19.95 x 0.1 = 1.995
+19,95 x 0,1 = 1,995
 
-This is the issue, we have 3 decimal places, instead of two. Converting this to dollars is now a problem
+Dies ist das Problem, wir haben 3 Dezimalstellen statt zwei. Dies in Dollar zu konvertieren ist jetzt ein Problem
 
 >[!ENDSHADEBOX]
 
-### The solution
+### Die Lösung
 
 Für den Händler in der Admin ist der klarste Ansatz, jede bestellte Zeile mit ihrem Rabatt in Dollar anzuzeigen. Um die Reihenfolge insgesamt korrekt zu halten, runden Sie den ersten Zeileneintrag auf und legen Sie die dritte Dezimalstelle auf den verbleibenden Zeileneinträgen ab. Dieses Szenario überprüfen:
 

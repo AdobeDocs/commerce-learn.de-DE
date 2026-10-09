@@ -1,26 +1,41 @@
 ---
 title: Ausführen einer Abfrage mit GraphQL
-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und  [!DNL Magento Open Source]. Dies ist eine Einführung in GraphQL mit GET- und POST-Aufrufen.
-landing-page-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und  [!DNL Magento Open Source]. Dies ist eine Einführung in GraphQL mit GET- und POST-Aufrufen.
-short-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und  [!DNL Magento Open Source]. Dies ist eine Einführung in GraphQL mit GET- und POST-Aufrufen.
+description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
+landing-page-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
+short-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
 kt: 13937
 doc-type: video
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '1000'
 ht-degree: 0%
-
 ---
-
 # GraphQL-Abfragen
 
 Dies ist Teil 2 der Serie für GraphQL und Adobe Commerce. In diesem Tutorial und Video erfahren Sie mehr über GraphQL-Abfragen und wie Sie diese mit Adobe Commerce durchführen.
@@ -130,7 +145,7 @@ Gleichzeitiges Abfragen mehrerer Datentypen. Die Abfrage gibt genau die gewünsc
 
 >[!NOTE]
 >
->GraphQL-Clients verschleiern das Format der tatsächlich gesendeten HTTP-Anfrage, aber dies ist leicht zu entdecken. Wenn Sie einen Browser-basierten Client verwenden, sehen Sie sich die Registerkarte [!UICONTROL Network] an, wenn eine Abfrage gesendet wird. Sie sehen, dass die Anfrage einen Rohtext enthält, der aus „Abfrage: `{string}`&quot; besteht, wobei `{string}` einfach die Rohzeichenfolge der gesamten Abfrage ist. Wenn die Anfrage als GET gesendet wird, kann die Abfrage stattdessen im Abfragezeichenfolgenparameter „query“ codiert werden. Im Gegensatz zu REST spielt der HTTP-Anfragetyp keine Rolle, sondern nur der Inhalt der Abfrage.
+>GraphQL-Clients verschleiern das Format der tatsächlich gesendeten HTTP-Anfrage, aber dies ist leicht zu entdecken. Wenn Sie einen Browser-basierten Client verwenden, sehen Sie sich die Registerkarte [!UICONTROL Network] an, wenn eine Abfrage gesendet wird. Sie sehen, dass die Anfrage einen Rohtext enthält, der aus „Abfrage: `{string}`&quot; besteht, wobei `{string}` einfach die Rohzeichenfolge der gesamten Abfrage ist. Wenn die Anfrage als GET gesendet wird, kann die Abfrage stattdessen im Abfragezeichenfolgen-Parameter „query“ codiert werden. Im Gegensatz zu REST spielt der HTTP-Anfragetyp keine Rolle, sondern nur der Inhalt der Abfrage.
 
 
 ## Fragen nach dem, was Sie möchten

@@ -4,37 +4,50 @@ description: Optimieren Sie Adobe Commerce mit separaten GRA-Paketen. Informatio
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Beiträge von Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Beiträge von Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # Das Muster der globalen Referenzarchitektur für separate Pakete
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ Um eine neue Version zu erstellen, führen Sie das Composer-Update im Haupt-Comp
 
 ## Versionierung
 
-Die Versionierung in einem separaten Paket-GRA ist ein Synonym für Tagging-Module in Git. Git-Tags erstellen nummerierte Versionen Ihrer Pakete, die Composer installiert.Mit dem richtigen Versionierungsansatz können Ihre Pakete automatisch fließen, ohne dass die Sicherheit beeinträchtigt wird.
+Die Versionierung in einem separaten Paket-GRA ist ein Synonym für Tagging-Module in Git. Git-Tags erstellen nummerierte Versionen Ihrer Pakete, die Composer installiert.
+Mit dem richtigen Versionierungsansatz können Ihre Pakete automatisch fließen, ohne dass die Sicherheit beeinträchtigt wird.
 
 Zwei Beispiele:
 
@@ -255,7 +269,8 @@ Dieses Beispiel zeigt eine lockere Definition von Abhängigkeiten. Mit `~1.0` ka
 
 Sobald Sie eine neue Version eines der genannten Pakete veröffentlichen, wird diese automatisch mit dem Composer-Update installiert.
 
-Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Insbesondere die FAQ wird empfohlen zu lesen. Bei der semantischen Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets können problemlos eingeführt werden, ohne dass die Anwendung beschädigt wird.Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswählen. Beachten Sie, dass dies zusätzlichen Aufwand verursacht, wenn Sie jede kleinere Änderung manuell auswählen:
+Anwenden der semantischen Versionierung. Alles über die semantische Versionierung erfahren Sie auf <https://semver.org/>. Insbesondere die FAQ wird empfohlen zu lesen. Bei der semantischen Versionierung werden die Zahlen in „1.0.0“ MAJOR.MINOR.PATCH genannt. Nebenversionen und Patch-Versionen eines Pakets können problemlos eingeführt werden, ohne dass die Anwendung beschädigt wird.
+Sie können automatisch Patches einbeziehen und kleinere Upgrades manuell auswählen. Beachten Sie, dass dies zusätzlichen Aufwand verursacht, wenn Sie jede kleinere Änderung manuell auswählen:
 
 ```json
 {
@@ -287,7 +302,8 @@ Verzweigungstypen, die in Verzweigungsstrategien und den Repositorys, in denen s
 
 **QA/Dev-Verzweigungen**: Ähnlich wie Versionsverzweigungen.
 
-**Hauptverzweigung**: ist in jedem Repository vorhanden und ist immer die Verzweigung, die für die Produktion oder einen produktionsbereiten Status steht. Der Hauptzweig ist der Ort, an dem Sie Code taggen, um Versionen zu veröffentlichen.Stellen Sie sicher, dass Sie eine Verzweigungsstrategie mit geringem Wartungsaufwand wählen. Beispielsweise ist das Zusammenführen der Hauptverzweigung wieder in QA-, UAT-, Release- oder Dev-Verzweigungen nach einer Hotfix-Veröffentlichung eine allgemeine Wartungsaufgabe. Je mehr Pakete, desto mehr Repositorys und desto mehr sich wiederholende Overhead-Aufgaben.
+**Hauptverzweigung**: ist in jedem Repository vorhanden und ist immer die Verzweigung, die für die Produktion oder einen produktionsbereiten Status steht. Der Hauptzweig ist der Ort, an dem Sie Code taggen, um Versionen zu veröffentlichen.
+Stellen Sie sicher, dass Sie eine Verzweigungsstrategie mit geringem Wartungsaufwand wählen. Beispielsweise ist das Zusammenführen der Hauptverzweigung wieder in QA-, UAT-, Release- oder Dev-Verzweigungen nach einer Hotfix-Veröffentlichung eine allgemeine Wartungsaufgabe. Je mehr Pakete, desto mehr Repositorys und desto mehr sich wiederholende Overhead-Aufgaben.
 
 Verwenden Sie ein Tool wie mixu/gr, um Routinevorgänge für mehrere Git-Repositorys in einem Batch durchzuführen: <https://github.com/mixu/gr>
 

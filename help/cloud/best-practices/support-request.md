@@ -10,25 +10,42 @@ duration: 126
 last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+TQID: 'https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: deedbb4d-f1b7-58ea-a34a-de1f481f9d4c
+    internal-label: Customer Service
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 519
+source-wordcount: '519'
 ht-degree: 0%
-
 ---
-
 # Effektive Support-Anfragen
 
 Bei der Erstellung eines Support-Tickets ist es wichtig, es über die entsprechenden Kanäle einzureichen, genaue und detaillierte Informationen zum Problem bereitzustellen, die richtige Organisation und den richtigen Kontaktgrund auszuwählen, das geeignete Produkt und die passende Version auszuwählen, empfohlene Artikel für potenzielle Lösungen zu lesen, alle Informationen vor dem Einreichen zu überprüfen, den Fortschritt des Tickets zu verfolgen und ein Gespräch mit dem Support-Team zu führen, das Ticket als gelöst zu markieren, wenn das Problem behoben ist, und ein Follow-up-Ticket zu erstellen, wenn weitere Hilfe benötigt wird. &#x200B; Denken Sie daran, das Ticket über die entsprechenden Kanäle einzureichen, genaue und detaillierte Informationen bereitzustellen, die richtige Organisation und den richtigen Kontaktgrund auszuwählen, das passende Produkt und die passende Version auszuwählen, vorgeschlagene Artikel zu überprüfen, alle Informationen vor dem Einreichen zu überprüfen, den Fortschritt des Tickets zu verfolgen, sich mit dem Support-Team zu unterhalten, das Ticket als gelöst zu markieren, wenn das Problem behoben ist, und bei Bedarf ein Folgeticket zu öffnen. &#x200B;
@@ -47,8 +64,8 @@ Durch die Erörterung und Dokumentation aller bisher durchgeführten Triage-Schr
 
 ## Links zu New Relic-Berichten oder Bereitstellung einer NRQL-Anweisung
 
-Viele Probleme in Adobe Commerce lassen sich über New Relic nachvollziehen. Durch die Betrachtung der New Relic-Dashboards oder benutzerdefinierten NRQL-Anweisungen erhalten Sie Einblicke, woher einige Probleme stammen. Dieselben Dashboards und benutzerdefinierten New Relic-Abfragen können freigegeben werden. By providing those links in the support ticket, the engineers are able to see exactly what the reporter is.
+Viele Probleme in Adobe Commerce lassen sich über New Relic nachvollziehen. Durch die Betrachtung der New Relic-Dashboards oder benutzerdefinierten NRQL-Anweisungen erhalten Sie Einblicke, woher einige Probleme stammen. Dieselben Dashboards und benutzerdefinierten New Relic-Abfragen können freigegeben werden. Indem sie diese Links im Support-Ticket angeben, können die Ingenieure genau sehen, was der Reporter ist.
 
 >[!MORELIKETHIS]
 > 
-> * [Adobe Commerce Help User Guide](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Benutzerhandbuch zur Adobe Commerce-Hilfe](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
