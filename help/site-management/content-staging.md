@@ -11,29 +11,39 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-TQID: https://experienceleague.adobe.com/BzcXZIYUFoXFVDzIf5yBuebeqjVR7tEt3S-ytvbTCE0
+TQID: 'https://experienceleague.adobe.com/BzcXZIYUFoXFVDzIf5yBuebeqjVR7tEt3S-ytvbTCE0'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 0054e3a7-7067-583b-bfd2-ab39dada9ab5
+    internal-label: Staging
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 172
+source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # Inhalts-Staging
 
 Mit der Inhalts-Staging-Funktion kann Ihr Business-Team eine breite Palette von Inhaltsaktualisierungen für Ihren Store einfach erstellen, in der Vorschau anzeigen und direkt vom Administrator planen. Anstatt beispielsweise an eine statische Seite zu denken, sollten Sie eine Seite als Sammlung verschiedener Elemente betrachten, die nach Zeitplan hinzugefügt oder entfernt werden können. Sie können die Inhalts-Staging-Umgebung verwenden, um eine Seite zu erstellen, die sich automatisch im Laufe des Jahres planmäßig ändert.
@@ -47,9 +57,9 @@ Mit der Inhalts-Staging-Funktion kann Ihr Business-Team eine breite Palette von 
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411362?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Inhalts-Staging - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=de){target="_blank"}
-* [Vorschau einer Kampagne -  [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=de){target="_blank"}
+* [Inhalts-Staging - [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+* [Vorschau einer Kampagne -  [!DNL Commerce] Inhalts- und Design-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

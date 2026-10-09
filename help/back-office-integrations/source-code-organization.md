@@ -3,32 +3,42 @@ title: Source Code-Organisation im Commerce Starter Kit
 description: Erfahren Sie mehr über die Organisation des Quell-Codes im Commerce Integration Starter Kit, einschließlich wichtiger Ordner wie Aktionen und Skripte, Automatisierungsskripte und Ereignisverarbeitung.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
+TQID: 'https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '369'
 ht-degree: 0%
-
 ---
-
 # Source Code-Organisation für das Adobe Starter Kit
 
 Erfahren Sie mehr über die Organisation des Quell-Codes im Adobe Commerce Integration Starter Kit. &#x200B; Sie die Struktur des Projekts durch Hervorheben wichtiger Ordner wie `actions` und `scripts` und ihrer jeweiligen Inhalte. &#x200B; Der Ordner „actions“ enthält Unterordner wie `ingestion` und `webhook`, die wesentlichen Code für die Ereignisverarbeitung und -verfolgung enthalten. Außerdem erfahren Sie mehr über die `starter-kit-info` und `scripts` Ordner. Der Ordner `scripts` konzentriert sich auf Automatisierungsskripte wie `commerce-event-subscribe` und `onboarding`, die die Ereigniskonfiguration und die Anbietereinrichtung innerhalb des Projekts optimieren.
@@ -43,7 +53,7 @@ Erkunden Sie die Logik hinter der Quell-Code-Struktur und beschreiben Sie, wie d
 
 ## Videoinhalt
 
-* Verstehen Sie, dass die vier Hauptordner `actions`, `scripts`, `test` und `utils` sind, mit Schwerpunkt auf den `actions` und `scripts` Ordnern während der Sitzung. &#x200B;
+* Verstehen Sie, dass die vier Hauptordner `actions`, `scripts`, `test` und `utils` sind, wobei der Schwerpunkt auf den `actions` und `scripts` Ordnern während der Sitzung liegt. &#x200B;
 * Erfahren Sie mehr über den `actions` Ordner und darüber, wie er wichtige Unterordner wie `ingestion` und `webhook` enthält.
 * Erfahren Sie mehr über den `actions` Ordner und darüber, warum es bestimmte Ordner für Entitäten wie `customer`, `order`, `product` und `stock` gibt, die jeweils Laufzeitaktionen enthalten, die in `commerce` und `external` Ordner strukturiert sind, um Ereignisse aus Commerce und Drittanbietersystemen effektiv zu verwalten. &#x200B;
 * Erfahren Sie, wie wichtig es ist, den Code im `starter-kit-info`-Ordner nicht zu ändern, der eine Laufzeitaktion enthält, die von Adobe verwendet wird, um Projektbereitstellungen basierend auf dem Starter Kit zu verfolgen. &#x200B;

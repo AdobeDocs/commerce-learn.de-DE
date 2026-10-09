@@ -1,6 +1,6 @@
 ---
-title: Truncate logs
-description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
+title: Protokolle kürzen
+description: Erfahren Sie, wie Sie eine fehlgeschlagene Bereitstellung aufgrund einer vollen Festplatte durch Abschneiden großer Protokolldateien einteilen können.
 feature: Cloud, Site Management
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -11,48 +11,56 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Troubleshooting
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 0%
-
 ---
+# Protokolle kürzen
 
-# Truncate logs
+Erfahren Sie, wie Sie eine fehlerhafte Bereitstellung aufgrund einer vollen Festplatte testen und beheben können. Erfahren Sie, wie Sie Befehle finden und ausführen können, um Speicherplatz in Ihrer Adobe Commerce Cloud-Umgebung freizugeben.
 
-Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.
-
-If you think you might need these log files, you can `rsync` them or use other methods to get a copy available off the server before you truncate them.
+Wenn Sie glauben, dass Sie diese Protokolldateien benötigen, können Sie sie `rsync` oder andere Methoden verwenden, um eine Kopie vom Server zur Verfügung zu stellen, bevor Sie sie abschneiden.
 
 ## Für wen ist dieses Video gedacht?
 
-* Developers and IT Professionals
+* Entwickler und IT-Experten
 * Systemadministratoren
 
 ## Videoinhalt
 
-* Diagnose and Resolve a failed deployment
-* Where some common large log files are found
-* Quick method to truncate a log file
+* Diagnose und Behebung einer fehlgeschlagenen Bereitstellung
+* Wo sich einige häufig vorkommende große Protokolldateien befinden
+* Schnellmethode zum Abschneiden einer Protokolldatei
 
->[!VIDEO](https://video.tv.adobe.com/v/3454592?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
-## Commands used in the video
+## Im Video verwendete Befehle
 
-To check hard drive space `df -h`. Pay attention to the line dev/mapper/xxxx
+So überprüfen Sie die `df -h` des Festplattenspeichers. Achten Sie auf die Zeile dev/mapper/xxxx
 
 ```SHELL
 df -h
@@ -72,7 +80,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Display the files and their sizes in human readable format such as kb, mb and gb using the command `ls -lah`
+Zeigen Sie die Dateien und ihre Größen in menschenlesbarem Format wie KB, MB und GB mithilfe der `ls -lah` an
 
 ```SHELL
 ls -lah
@@ -92,9 +100,9 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 -rw-rw-r-- 1 web web  516 Dec  6  2023 system.log
 ```
 
-## Examples for truncate log
+## Beispiele für das Abschneiden von Protokollen
 
-After you ssh into the right project and environment, change into the `var/log` directory. Then you can truncate a file with something similar to `> some-log-file.log`
+Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben haben, wechseln Sie in das Verzeichnis `var/log` . Dann können Sie eine Datei mit etwas Ähnlichem wie `> some-log-file.log` abschneiden
 
 ```BASH
 > support_report.log 
@@ -103,4 +111,4 @@ After you ssh into the right project and environment, change into the `var/log` 
 
 ## Verwandte Dokumentation
 
-* [Health notifications](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Statusbenachrichtigungen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

@@ -3,34 +3,46 @@ title: Konfigurieren, Bereitstellen und Anpassen eines Aufnahme-Webhooks
 description: Erfahren Sie, wie Sie einen Aufnahme-Webhook konfigurieren, bereitstellen und anpassen, um Adobe Commerce mit einem Back-Office-System eines Drittanbieters zu verbinden und die Ereignisübersetzung zu handhaben.
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15870
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-TQID: https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY
+TQID: 'https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 412
+source-wordcount: '412'
 ht-degree: 0%
-
 ---
-
 # Konfigurieren, Bereitstellen und Anpassen eines Aufnahme-Webhooks
 
 Erfahren Sie mehr über die Einrichtung und Anpassung eines Aufnahme-Webhooks zur Integration von Commerce mit einem Back-Office-System eines Drittanbieters. &#x200B; diesem Video wird erläutert, wie der Webhook Einschränkungen bei der Ereigniskommunikation zwischen Systemen beheben kann, indem er einen öffentlich verfügbaren Endpunkt bereitstellt, um Nachrichten vom Drittanbietersystem an die Adobe IO Eventing-API anzupassen. Der Prozess umfasst das Konfigurieren des Webhooks in der `actions.config.yaml`-Datei, dessen Aktivierung in der `app.config.yaml`-Datei und dessen Bereitstellung, um eine ordnungsgemäße Funktionalität sicherzustellen.

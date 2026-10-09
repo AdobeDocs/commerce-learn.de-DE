@@ -7,31 +7,49 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13
+last-substantial-update: 2025-01-13T00:00:00.000Z
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 322
+source-wordcount: '322'
 ht-degree: 0%
-
 ---
-
 # Adressenlayout anpassen
 
 Erfahren Sie, wie Sie das Layout des Adressformulars an der Kasse anpassen, um sicherzustellen, dass alle Felder mit Ausnahme des Textbereichs 50 % Breite haben. Erfahren Sie, wie Sie die Verwendung einer integrierten Drittanbieter-API, insbesondere der Google-Adressen-API, nutzen können, um die automatische Adresssuche und -validierung im Adressformular zu ermöglichen. &#x200B; Erfahren Sie, wie Sie dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzufügen, das mit einer benutzerdefinierten Seite für eine Store-Suche verknüpft ist.
@@ -54,8 +72,8 @@ Zu den Rollen, die vom Lesen dieses Transkripts profitieren, gehören:
 * Validierung und Fehlerbehandlung für die Adresseingabefelder, um sicherzustellen, dass Benutzende sofortiges Feedback zu falschen oder unvollständigen Einträgen erhalten, und um das Benutzererlebnis zu verbessern.
 * Erweiterung des Benutzerkonto-Dashboards, mit der dem Benutzerkonto-Dashboard ein neues Seitenleisten-Menüelement hinzugefügt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442915?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=de)
+* [Benutzerkonto](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)

@@ -3,27 +3,38 @@ title: Diagnose der Galera DB-Replikation in langsamen MySQL-Abfrageprotokollen
 description: Erfahren Sie, wie das Replikationsdesign von Galera DB die Synchronisation sekundärer Datenbanken verlangsamt, wie Sie diese Ereignisse in langsamen MySQL-Abfrageprotokollen identifizieren und wie Sie die Auswirkungen minimieren können.
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18
+last-substantial-update: 2023-07-18T00:00:00.000Z
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-13635
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-TQID: https://experienceleague.adobe.com/NYapiIjnRv5RAS1glm8do16M4jUPmbgfVCs6ICQwbUc
+TQID: 'https://experienceleague.adobe.com/NYapiIjnRv5RAS1glm8do16M4jUPmbgfVCs6ICQwbUc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+subfeature_v2:
+  - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
+    internal-label: Logs
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
-
 # Erfahren Sie mehr über die Galera-DB-Replikation und damit zusammenhängende langsame MySQL-Abfragen
 
 Galera-Cluster helfen bei Leistung und Skalierbarkeit. Bei der Betrachtung von Replikatdatenbanken ist es wichtig zu verstehen, dass die Art und Weise, wie die Datenreplikation erfolgt, sich von der primären unterscheidet. Die primäre Datenbank kann Massenvorgänge ausführen. Wenn die Replikation für alle Replikatdatenbanken erfolgt, führen sie die Aktionen nacheinander aus. Wenn beispielsweise 67.000.000 Elemente in einem Löschvorgang enthalten sind, geschieht in den Replikatdatenbanken jedes einzeln. Wenn Sie die MySQL-Protokolle für langsame Abfragen überprüfen, stellen Sie fest, dass diese Aktion lange dauern kann. Die Tatsache, dass die Replikatdatenbanken Vorgänge sequenziell ausführen, ist ein Grund dafür, dass die Dinge nicht synchronisiert sind, und Leistungseinbußen können erkannt werden.
@@ -44,7 +55,7 @@ Damit die Replikatdatenbanken mit dem primären Batch synchronisiert bleiben, so
 * Massenausführungen finden nur auf der primären Instanz statt. Die Replikationen erfolgen jeweils 1
 * Damit die Replikation mit dem primären Batch Schritt halten kann, sollten Sie die großen Commits im Batch speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423540?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Nützliche Ressourcen
 
