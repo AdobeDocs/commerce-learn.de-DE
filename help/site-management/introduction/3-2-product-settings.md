@@ -51,14 +51,14 @@ In diesem Video:
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Der Inhalt im Video entspricht Version 2.3.1. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Erstellen eines Produkt- [!DNL Commerce] -Katalogverwaltungshandbuchs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
+[Erstellen eines Produkt- [!DNL Commerce] -Katalogverwaltungshandbuchs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=de)
 
-[Produkteinstellungen - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
+[Produkteinstellungen - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=de#product-settings)
 
-[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=de)

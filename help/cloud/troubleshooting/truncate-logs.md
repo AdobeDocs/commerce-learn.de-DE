@@ -111,4 +111,4 @@ Nachdem Sie SSH in das richtige Projekt und die richtige Umgebung verschoben hab
 
 ## Verwandte Dokumentation
 
-* [Statusbenachrichtigungen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Statusbenachrichtigungen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

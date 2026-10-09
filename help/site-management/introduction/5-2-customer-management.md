@@ -57,6 +57,6 @@ In diesem Video:
 
 ## Zusätzliche Ressourcen
 
-[Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=de)
 
-[Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=de)
