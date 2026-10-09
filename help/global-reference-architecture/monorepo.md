@@ -211,7 +211,7 @@ Der folgende Git-Unterschied zeigt den Unterschied zwischen einer bereinigten Ad
 
 ### Verwenden von Metapaketen
 
-Um die in diesem Beispiel verwendeten Metapakete und Beispielmodule abzurufen, laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter.
+Um die in diesem Beispiel verwendeten Metapakete und Beispielmodule abzurufen, laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter.
 
 Composer-Metapakete bündeln mehrere Composer-Pakete in einem Paket. Wenn ein Metapaket erforderlich ist, werden alle Pakete, die es enthält, automatisch über den Abschnitt Composer erforderlich des Metapakets installiert.
 
@@ -280,7 +280,7 @@ Metapakete befinden sich im monorepo im `packages`. Dort wird die Verzeichnisstr
 
 Monorepo-Module befinden sich im `packages`. Auf diese Weise kann Composer sie über das Pfadtyp-Repository finden.
 
-Um die in diesem Beispiel verwendeten Metapakete und Beispielmodule abzurufen, laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) ](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter.
+Um die in diesem Beispiel verwendeten Metapakete und Beispielmodule abzurufen, laden Sie den Beispiel-Code von [AntonEvers/gra-meta-foundation) &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) GitHub herunter.
 
 ```text
 .
