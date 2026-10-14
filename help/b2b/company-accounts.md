@@ -54,7 +54,7 @@ ht-degree: 0%
 ---
 # Verwalten von Unternehmenskonten
 
-Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
+Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
 
 {{b2b-feature}}
 
@@ -66,9 +66,9 @@ Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktu
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411354?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Unternehmenskonten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Unternehmenskonten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

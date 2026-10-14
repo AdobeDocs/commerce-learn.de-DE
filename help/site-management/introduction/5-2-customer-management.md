@@ -53,10 +53,10 @@ In diesem Video:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/330190?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=de)
+[Erstellen eines individuellen Kundenkontos - Handbuch  [!DNL Commerce] Kundenverwaltung“](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=de)
+[Kundengruppen - [!DNL Commerce]  Handbuch für das Kundenmanagement](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
