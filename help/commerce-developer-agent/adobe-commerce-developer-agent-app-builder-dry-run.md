@@ -7,14 +7,12 @@ role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 438
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28
 source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce Developer Agent App Builder - Probelauf
 
 Eine praktische Anleitung zum Erstellen, Bereitstellen und Testen von Anwendungsfällen für die Erweiterbarkeit von Commerce mit dem Adobe Commerce Developer Agent (CDA). Dieser Probelauf deckt drei Anwendungsfälle ab: einen Webhook zur Begrenzung der Warenkorbmenge, einen hochwertigen Auftragsbestand und eine ereignisgesteuerte Archivierung für gespeicherte Aufträge, von der Blueprint bis hin zu Funktionstests.
