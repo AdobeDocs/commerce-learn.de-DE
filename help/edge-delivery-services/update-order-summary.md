@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Erfahren Sie, wie Sie das Adobe Commerce-Warenkorb-Dropdown-Menü verwenden und 
 * Erfahren Sie, wie Sie einen für die Warenkorbzusammenfassung gespeicherten Gesamtbetrag einbeziehen.
 * Erfahren Sie, wie Sie Zeilen in der Warenkorbzusammenfassung in einen ausblendbaren Abschnitt zusammenführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441194?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=de)
+* [Bestellzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

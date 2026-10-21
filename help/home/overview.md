@@ -54,14 +54,14 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 ---
 # Commerce-Tutorials {#videos}
 
-Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html?lang=de) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
+Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +72,11 @@ Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verw
 
 >[!TIP]
 >
->Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=de) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
+>Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation für Händler](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
+* [Dokumentation für Händler](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 * [Entwicklerdokumentation](https://developer.adobe.com/commerce)
 * [Adobe Digital Learning Services - Adobe Commerce-Kurskatalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

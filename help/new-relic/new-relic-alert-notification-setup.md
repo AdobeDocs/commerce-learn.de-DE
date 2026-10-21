@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Erfahren Sie, wie Sie Warnhinweise, Richtlinien, Workflows und Ziele in New Reli
 * Erfahren Sie mehr über Warnhinweise, Richtlinien und Workflows
 * Das Speichern des Ziels und die Validierung der neuen E-Mail wurde zu einer Richtlinie hinzugefügt
 
->[!VIDEO](https://video.tv.adobe.com/v/3441214?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

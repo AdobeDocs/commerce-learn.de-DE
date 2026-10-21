@@ -42,7 +42,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '998'
 ht-degree: 0%
@@ -59,7 +59,7 @@ In diesem Tutorial erfahren Sie, wie Sie ein konfigurierbares Produkt mit der RE
 
 Verwenden Sie die REST-API, um ein konfigurierbares Produkt zu erstellen:
 
-1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=de) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
+1. Rufen Sie die Attribute für einen [Attributsatz](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) ab, um die ID-Nummern für nachfolgende API-Aufrufe zu verwenden.
 1. Erstellen Sie einfache Produkte zur Verwendung im konfigurierbaren Produkt.
 1. Ein leeres konfigurierbares Produkt erstellen und die einfachen Produkte verknüpfen.
 1. Festlegen der Produktattribute für das konfigurierbare Produkt.
@@ -377,6 +377,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Zusätzliche Ressourcen
 
 * [Erstellen eines konfigurierbaren Produkt-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=de){target="_blank"}
+* [Konfigurierbares Produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -37,7 +37,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -59,7 +59,7 @@ In diesem Tutorial wird das Erstellen eines Projekts und Arbeitsbereichs erläut
 * Ändern der ausgewählten Organisation, des ausgewählten Projekts oder des ausgewählten Arbeitsbereichs in der CLI
 * Testen einfacher API-Mesh-Befehle
 
->[!VIDEO](https://video.tv.adobe.com/v/3430775?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Informationen über die Adobe Developer Console
 

@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Erfahren Sie, wie Sie mit der Dropdown-Liste &quot;Adobe Commerce-Warenkorb“ d
 * Flexibilität bei A/B-Tests. Konfigurationen über SharePoint ermöglicht es Marketing-Experten, diese Funktionen zu steuern und zu testen.
 * Verbesserte Marketing-Kontrolle. Einfaches Verwalten und Testen von Konfigurationen, wodurch das Benutzererlebnis und die Marketing-Effektivität verbessert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442360?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Zusätzliche Dokumentation
 
-* [Konfigurieren der Warenkorbzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=de)
+* [Konfigurieren der Warenkorbzusammenfassung](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

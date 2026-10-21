@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Erfahren Sie mehr über bedingte Ereignisse in Adobe Commerce, die in Adobe Deve
 * Definieren von Regeln zur Verwendung in bedingten Ereignissen
 * Erfahren Sie, wie Sie Ereignisse in der Commerce-Instanz registrieren `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430657?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
 
 ## Nützliche Befehle {#useful-commands}
 

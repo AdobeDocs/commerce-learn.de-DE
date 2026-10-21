@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Firmenkredite verwalten
 
-Unternehmen, die _[!UICONTROL Payment on Account]_&#x200B;aktiviert haben und Firmenkredite zur Verfügung haben, können bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
+Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert haben und Firmenkredite zur Verfügung haben, können bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
 
 Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter festgelegt werden:
 
@@ -70,9 +70,9 @@ Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter fe
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411352?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Firmenkredite verwalten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/credit-company)
+* [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Firmenkredite verwalten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

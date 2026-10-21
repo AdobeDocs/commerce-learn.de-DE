@@ -35,7 +35,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Erfahren Sie, wie Sie mit Composer für Version 2.4.5 mehrere neue Module in Ado
 * Für Adobe Commerce Cloud auszuführende Befehle
 * Adobe Commerce Cloud-YAML - erforderliche Bearbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3430646?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Verfügbare Befehle {#useful-commands}
 

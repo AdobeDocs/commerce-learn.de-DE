@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ Erfahren Sie, wie Sie in Adobe Experience League für Adobe Commerce ein Support
 * Erfahren Sie, wie sich die empfohlenen Artikel je nach den im Formular verwendeten Informationen ändern
 * Wie der Platzhaltertext in den Formularfeldern dabei hilft, die Art der Informationen zu verstehen, die für eine sinnvolle Support-Anfrage benötigt werden
 
->[!VIDEO](https://video.tv.adobe.com/v/3449562?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Adobe-Hilfezentrum
 
-[Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

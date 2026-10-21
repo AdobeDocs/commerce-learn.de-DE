@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Erfahren Sie mehr über den Adobe Commerce Admin-Arbeitsbereich, vom Filtern von
 * Wechseln Sie zwischen der Standardansicht und der gespeicherten Ansicht und aktualisieren Sie eine vorhandene Ansicht.
 * Navigieren Sie zur Store-Konfiguration und erkunden Sie die allgemeinen Einstellungen, den Katalog, die Sicherheit, den Kunden und den Vertrieb.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473180?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Gespeicherte Rasteransichten
 
@@ -70,6 +70,6 @@ Das Menü [!UICONTROL Stores] bietet Zugriff auf die Speichereinstellungen. Die 
 
 * [Admin-Rasterfilter](admin-grids-and-filters.md)
 * [Anzeigen und Festlegen von Admin-Konfigurationen über die Befehlszeile](view-update-store-configuration-cli.md)
-* [Die Admin-Tools und der Arbeitsbereich](https://experienceleague.adobe.com/de/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Administratorraster-Steuerelemente](https://experienceleague.adobe.com/de/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site-, Speicher- und Anzeigebereich](https://experienceleague.adobe.com/de/docs/commerce-admin/start/setup/websites-stores-views)
+* [Die Admin-Tools und der Arbeitsbereich](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Administratorraster-Steuerelemente](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site-, Speicher- und Anzeigebereich](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

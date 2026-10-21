@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -78,7 +78,7 @@ Das Quality Patches Tool ist ein Befehlszeilenprogramm für Adobe Commerce und M
 
 Diese Patches wurden von Adobe Developers und der Magento Open Source-Community entwickelt, um die Stabilität und Leistung zu verbessern. Beachten Sie, dass dies für die Anwendung einer großen Anzahl von Patches nicht empfohlen wird, da zukünftige Upgrades komplizierter werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454079?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Wozu dient das Quality Patch-Tool?
 
@@ -110,8 +110,8 @@ Bevor Sie Patches anwenden, müssen Sie diese unbedingt in einer Staging-Umgebun
 
 ## Verwandte Artikel und Videos
 
-* [Quality Patch-Tools suchen](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=de)
-* [Versionshinweise](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Quality Patch-Tools suchen](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Versionshinweise](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [GitHub für Patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Technisches Video zu QPT](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Verwendung des Quality Patch-Tools](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Technisches Video zu QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

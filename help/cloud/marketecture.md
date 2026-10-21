@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -72,4 +72,4 @@ Erweiterbarkeits-Tools wie API Mesh und einheitliches Ereignismanagement optimie
 * Adobe Commerce bietet zusammenstellbare Services wie Live-Suche, KI-Empfehlungen und flexible Zahlungslösungen.
 * Erweiterte Integration einschließlich API-Mesh, einheitliche Ereignisverwaltung und nahtlose Adobe Experience Platform-Integration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433444?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

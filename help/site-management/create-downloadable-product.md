@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%
@@ -64,7 +64,7 @@ Erfahren Sie, wie Sie mit der REST-API und Adobe Commerce Admin ein herunterladb
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3453955?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Zulässige herunterladbare Domains
 
@@ -88,7 +88,7 @@ Sobald dies abgeschlossen ist, wird der `env.php` innerhalb des Arrays _download
 
 Nachdem die Domain der `env.php` hinzugefügt wurde, können Sie ein herunterladbares Produkt in Adobe Commerce Admin oder mithilfe der REST-API erstellen.
 
-Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains)Konfigurationsreferenz“.
+Weitere Informationen [ Sie unter ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)Konfigurationsreferenz“.
 
 >[!IMPORTANT]
 >In einigen Versionen von Adobe Commerce wird möglicherweise die folgende Fehlermeldung angezeigt, wenn ein Produkt in der Admin-Abteilung von Adobe Commerce bearbeitet wird. Das Produkt wird mithilfe der REST-API erstellt, aber der verknüpfte Download hat einen `null` Preis.
@@ -97,7 +97,7 @@ Weitere Informationen [&#x200B; Sie unter &#x200B;](https://experienceleague.ado
 
 Um diesen Fehler zu beheben, verwenden Sie die Update-Link-API: `POST V1/products/{sku}/downloadable-links.`
 
-Weitere Informationen finden [&#x200B; im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
+Weitere Informationen finden [ im Abschnitt „Aktualisieren eines Produkt](#update-downloadable-links)Downloadlinks mit cURL“.
 
 ## Erstellen eines herunterladbaren Produkts mithilfe von cURL (Download vom Remote-Server)
 
@@ -270,7 +270,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Zusätzliche Ressourcen
 
-* [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=de){target="_blank"}
-* [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=de#downloadable_domains){target="_blank"}
+* [Herunterladbarer Produkttyp](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Konfigurationshandbuch für herunterladbare Domains](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Adobe Developer-REST-Tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST-Dokumentation](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

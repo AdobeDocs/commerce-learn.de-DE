@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Adobe Commerce erleichtert das Wachstum von Unternehmen, indem es ihnen den schr
 * Die Erweiterbarkeit von App Builder ermöglicht die Entkopplung benutzerdefinierter Logik in Server-lose Funktionen, wodurch die Wartung vereinfacht wird.
 * Storefront-Verbesserungen verbessern die Leistung und Inhaltserstellung mit Dropdown-Komponenten und Edge-Bereitstellung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475757?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

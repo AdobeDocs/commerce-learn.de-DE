@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Erfahren Sie, wie Sie ein Support-Ticket in Adobe Experience League für Adobe C
 * Erfahren Sie, wie Sie einem offenen Support-Ticket einen Kommentar hinzufügen.
 * Erfahren Sie, wie und warum Sie ein Support-Ticket eskalieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3445320?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Adobe-Hilfezentrum
 
-[Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

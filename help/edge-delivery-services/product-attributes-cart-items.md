@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,9 +67,9 @@ Erfahren Sie, wie Sie mit dem Adobe Commerce-Warenkorb ablegen und den Transakti
 * Der Coupon-Rabatt wird mithilfe von Warenkorbregeln und Fußzeilen-Slots angezeigt, um diese Informationen effektiv anzuzeigen.
 * Verwendung von Produktattributen und Slots zur Erweiterung und Anpassung der Warenkorbfunktion, um sicherzustellen, dass alle Projektanforderungen erfüllt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441125?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## Zusätzliche Dokumentation
 
-* [Produktlinien zum Warenkorb hinzufügen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=de)
+* [Produktlinien zum Warenkorb hinzufügen](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

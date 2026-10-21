@@ -67,7 +67,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -88,4 +88,4 @@ Adobe Commerce ist eine hybride Cloud-E-Commerce-Plattform, die auf AWS und Azur
 * Erweiterte KI-gesteuerte Services. Sie erhalten ein Verständnis für die intelligenten API-First-Services wie die Live-Suche, KI-gestützte Produktempfehlungen und Katalog-Services, um das Kundenerlebnis und die betriebliche Effizienz zu verbessern.
 * Umfassende Entwickler-Tools. Erfahren Sie mehr über die Cloud-nativen, Server-losen Entwickler-Tools wie API Mesh und App Builder, die eine nahtlose Integration und Anpassung ermöglichen, um Commerce-Funktionen zu erweitern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433509?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
