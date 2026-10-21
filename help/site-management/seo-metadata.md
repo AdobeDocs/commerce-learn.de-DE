@@ -66,4 +66,4 @@ Ihr Store enthält Orte, an denen Sie schlüsselwortreiche Metadaten eingeben k�
 
 ## Zusätzliche Ressourcen
 
-[Meta-Daten - [!DNL Commerce] - und Werbeaktionen-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Meta-Daten - [!DNL Commerce] - und Werbeaktionen-Handbuch](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=de)
