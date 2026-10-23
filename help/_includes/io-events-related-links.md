@@ -3,11 +3,9 @@ title: I/O-Ereignisse bezogene Seiten
 description: Links zu verwandten Seiten in IO Events
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Links zu E/A-Ereignissen
 
 ## Weitere verwandte Tutorials
@@ -22,4 +20,4 @@ ht-degree: 0%
 
 ## Dokumentation zu Adobe Developer
 
-* [Adobe I/O-Ereignisse für Adobe Commerce - Überblick](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Übersicht über Adobe I/O Events für Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
