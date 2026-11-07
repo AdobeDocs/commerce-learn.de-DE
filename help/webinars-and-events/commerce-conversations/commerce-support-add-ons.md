@@ -54,4 +54,4 @@ Adobe Commerce bietet durch verschiedene Pläne und Add-ons umfassenden Kunden-S
 * Erfahren Sie, welche Add-ons verfügbar sind.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505280?captions=ger&learn=on)

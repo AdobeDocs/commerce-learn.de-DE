@@ -63,7 +63,7 @@ Jede Adobe Commerce- und Magento Open Source-Installation unterstützt eine Hier
 >
 >Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507663?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

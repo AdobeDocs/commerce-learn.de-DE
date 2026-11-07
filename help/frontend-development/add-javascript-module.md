@@ -66,7 +66,7 @@ Erfahren Sie, wie Sie ein einfaches JavaScript-Modul entwickeln, das die Begrü�
 * Verkabeln Sie das Skript über eine Layout- und Aktualisierungsvorlage.
 * Überprüfen Sie die Begrüßung auf der Seite.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507650?captions=ger&learn=on)
 
 ## Nützliche Ressourcen
 

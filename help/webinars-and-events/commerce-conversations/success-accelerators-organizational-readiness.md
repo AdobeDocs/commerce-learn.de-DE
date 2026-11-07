@@ -57,4 +57,4 @@ Erfahren Sie mehr über die Erfolgsbeschleuniger von Adobe für die organisatori
 * Veränderungsmanagement und Kommunikationsstrategien
 * Digitale Überprüfung und Benchmarking
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505737?captions=ger&learn=on)
