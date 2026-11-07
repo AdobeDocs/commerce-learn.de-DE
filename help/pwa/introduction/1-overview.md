@@ -63,7 +63,7 @@ In diesem Video:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/35715?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507723?captions=ger&learn=on)
 
 ## Nützliche Ressourcen
 

@@ -61,7 +61,7 @@ Jede Website in einer Adobe Commerce- oder Magento Open Source-Installation verf
 >
 >Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507858?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 
