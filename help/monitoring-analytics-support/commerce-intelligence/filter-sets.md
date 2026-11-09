@@ -3,10 +3,10 @@ title: Commerce Intelligence - Filtersätze
 description: Erfahren Sie, wie Sie mit der Commerce Intelligence-Filtersatzfunktion das Reporting zu Geschäftsdaten für Adobe Commerce und Magento Open Source vereinfachen können.
 landing-page-description: In diesem Video erfahren Sie, wie Sie mit der Commerce Intelligence-Filtersatzfunktion das Reporting für Geschäftsdaten vereinfachen können.
 short-description: Sehen Sie sich dieses Video an, um zu erfahren, wie Sie mit der Filtersatzfunktion von MBCommerce IntelligenceI die Berichterstellung für Geschäftsdaten vereinfachen können.
-kt: 10289
-doc-type: feature video
+jira: KT-10289
+doc-type: Technical Video
 duration: 515
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

@@ -1,14 +1,15 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: Erfahren Sie, wie Sie mit Adobe Commerce Intelligence SQL Report Builder Ihr Data Warehouse abfragen, Ergebnisse anzeigen und Diagramme erstellen können, ohne auf Berichtaktualisierungszyklen zu warten.
+description: Erfahren Sie, wie Sie ein Data Warehouse mit Adobe Commerce Intelligence SQL Report Builder abfragen, Ergebnisse überprüfen und Diagramme erstellen, ohne auf Berichtaktualisierungszyklen zu warten.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:
@@ -36,13 +37,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # SQL-Report Builder
 
 Mit Adobe Commerce Intelligence SQL Report Builder können Sie Ihr Data Warehouse abfragen, Ergebnisse überprüfen und in Diagramme umwandeln. Wenn Sie Berichte mit SQL erstellen, müssen Sie nicht auf Aktualisierungszyklen warten, um die von Ihnen erstellten Spalten zu verfeinern. Wenn etwas aussieht, bearbeiten Sie die Abfrage und führen Sie sie erneut aus, bis die Ausgabe dem entspricht, was Sie erwarten.

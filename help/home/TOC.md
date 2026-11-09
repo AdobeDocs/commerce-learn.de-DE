@@ -4,15 +4,39 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Videos und Tutorials zu Adobe Commerce {#tutorials}
 
 + [Tutorials für [!DNL Commerce]](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [Überblick](../commerce-as-a-cloud-service/overview.md)
+  + [Architektur](../commerce-as-a-cloud-service/architecture.md)
+  + Produkt-Tour {#product-overview}
+    + [Einführung](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [Setup-Erlebnis](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [Inhaltserstellung](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [Lokalisieren und Planen von Inhalten](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [Inhaltserstellung mit GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [Katalogverwaltung und Merchandising-Services](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Experimentieren mit der Commerce-Storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Geschwindigkeit der Commerce-Storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce Storefront Full Shopper-Journey](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [Zusammensetzbare Storefront und modulare Architektur](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [Erweiterbarkeit](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [Modernisierung und Migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [Abschluss](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + Tool für die Massendatenmigration {#bulk-data-migration-tool}
+    + [Einführung](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [DB-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [Einphasige Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [Mehrphasen-Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + Fehlerbehebung {#troubleshooting}
     + [Ungültige SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [Support-Anfrage](../cloud/best-practices/support-request.md)
     + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [Überblick](../commerce-as-a-cloud-service/overview.md)
-    + [Architektur](../commerce-as-a-cloud-service/architecture.md)
-    + webapi-rest{#webapi-rest}
-      + [Kunden](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + Produktübersicht{#product-overview}
-      + [Einführung](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [Erlebnis einrichten](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [Inhaltserstellung](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [Inhalt lokalisieren und planen](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [Inhaltserstellung mit GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [Katalogverwaltung und Merchandising-Services](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Experimentieren mit der Commerce-Storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Geschwindigkeit der Commerce-Storefront](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [Commerce-Storefront mit vollständiger Käufer-Journey](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [Zusammensetzbare Storefront und modulare Architektur](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [Erweiterbarkeit](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [Modernisierung und Migration](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [schließend](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + Tool für die Massendatenmigration{#bulk-data-migration-tool}
-      + [Einführung](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [DB-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [Einphasige Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [Mehrphasen-Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Migration zu Adobe Commerce{#migrating-to-adobe-commerce}
     + [Überblick](../migrating-to-adobe-commerce/overview.md)
     + Vorbereitung{#preparation}
@@ -100,6 +98,10 @@ ht-degree: 3%
     + [Integration der letzten Meile](../back-office-integrations/last-mile-integration.md)
     + [Webhook-Aufnahme](../back-office-integrations/webhook-ingestion.md)
     + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
+
++ APIs und Integration {#apis-and-integration}
+  + Praktische Beispiele für REST und GraphQL {#examples}
+    + [Kunden mit REST](../apis-and-integration/examples/customer.md)
 
 + Erweiterbarkeit {#extensibility}
   + Commerce-Entwickleragent {#commerce-developer-agent}
@@ -210,21 +212,30 @@ ht-degree: 3%
     + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
     + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
 
-+ Beobachtbarkeit {#observability}
-  + [Übersicht über die Beobachtbarkeit](../observability/overview.md)
-  + [Telemetrie öffnen](../observability/open-telemetry.md)
-  + [Einrichtung und Konfiguration der Demos](../observability/demo-setup-configuration.md)
-  + [Demo](../observability/demo.md)
 + Globale Referenzarchitektur {#global-reference-architecture-implementation-techniques}
   + [Überblick](../global-reference-architecture/overview.md)
   + [Git teilen](../global-reference-architecture/split-git.md)
   + [Massenpakete](../global-reference-architecture/bulk-packages.md)
   + [Separate Packages](../global-reference-architecture/separate-packages.md)
   + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Hilfe und Support {#help-and-support}
-  + [Erstellen eines Support-Tickets](../help-and-support/create-a-support-ticket.md)
-  + [Support-Ticket suchen, verfolgen, kommentieren und eskalieren](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [Beobachter hinzufügen und entfernen, Ticket schließen und erneut öffnen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Überwachung, Analysen und Support {#monitoring-analytics-support}
+  + Beobachtbarkeit {#observability}
+    + [Übersicht über die Beobachtbarkeit](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [Einrichtung und Konfiguration der Demos](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [Demo](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [Erste Schritte](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [Integrationen und Konfigurationen](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [Berichte und Dashboards](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [Filtersätze](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [Kohorte Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL-Report Builder](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [Vorbereitung auf die Zukunft](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
+  + Hilfe und Support {#help-and-support}
+    + [Erstellen eines Support-Tickets](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [Support-Tickets suchen, überprüfen, kommentieren und eskalieren](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [Support-Ticket-Beobachter und -Status verwalten](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + Store-Administration {#admin}
   + [Verwalten von Benutzerrollen und Berechtigungen](../site-management/users-roles-permissions.md)
@@ -296,11 +307,3 @@ ht-degree: 3%
     + [Finden bösartiger IP-Adressen](../new-relic/malicious-ip.md)
     + [Setup für Warnhinweise](../new-relic/new-relic-alert-notification-setup.md)
     + [Benutzerdefinierte Warnhinweise](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [Erste Schritte](../business-intelligence/getting-started.md)
-  + [Integrationen und Konfigurationen](../business-intelligence/integrations-configurations.md)
-  + [Berichte und Dashboards](../business-intelligence/reports-and-dashboards.md)
-  + [Filtersätze](../business-intelligence/filter-sets.md)
-  + [Kohorte Report Builder](../business-intelligence/cohort-report-builder.md)
-  + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
-  + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
