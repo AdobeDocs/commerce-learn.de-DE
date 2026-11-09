@@ -4,7 +4,7 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '1007'
 ht-degree: 3%
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [Schlussfolgerung](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder Probelauf](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Backend-Entwicklung {#backend-development}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../backend-development/create-module.md)
     + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -222,6 +222,14 @@ ht-degree: 3%
     + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
     + [Einrichtung und Konfiguration der Demos](../monitoring-analytics-support/observability/demo-setup-configuration.md)
     + [Demo](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [Erste Schritte](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [Integrationen und Konfigurationen](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [Berichte und Dashboards](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [Filtersätze](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [Kohorte Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL-Report Builder](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [Vorbereitung auf die Zukunft](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
   + Hilfe und Support {#help-and-support}
     + [Erstellen eines Support-Tickets](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Support-Tickets suchen, überprüfen, kommentieren und eskalieren](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
@@ -297,11 +305,3 @@ ht-degree: 3%
     + [Finden bösartiger IP-Adressen](../new-relic/malicious-ip.md)
     + [Setup für Warnhinweise](../new-relic/new-relic-alert-notification-setup.md)
     + [Benutzerdefinierte Warnhinweise](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [Erste Schritte](../business-intelligence/getting-started.md)
-  + [Integrationen und Konfigurationen](../business-intelligence/integrations-configurations.md)
-  + [Berichte und Dashboards](../business-intelligence/reports-and-dashboards.md)
-  + [Filtersätze](../business-intelligence/filter-sets.md)
-  + [Kohorte Report Builder](../business-intelligence/cohort-report-builder.md)
-  + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
-  + [Vorbereitung auf die Zukunft](../business-intelligence/prepare-for-future.md)
