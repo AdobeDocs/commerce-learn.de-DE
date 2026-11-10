@@ -60,6 +60,6 @@ Verwalten Sie Versand- und Liefermethoden, um Produkte an Ihre Kunden zu liefern
 
 ## Zusätzliche Ressourcen
 
-* [Versandeinstellungen - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [Grundlegende Versandmethoden - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [Einrichtung von Spediteuren - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [Versandeinstellungen - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/de/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Grundlegende Versandmethoden - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/de/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Einrichtung von Spediteuren - Handbuch  [!DNL Commerce] Stores und Kauferlebnis“](https://experienceleague.adobe.com/de/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

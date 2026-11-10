@@ -62,5 +62,5 @@ Payment Services für Adobe Commerce und Magento Open Source helfen kleinen Unte
 
 ## Zusätzliche Ressourcen
 
-* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
-* [Commerce Services-Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)
+* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/de/docs/commerce/payment-services/guide-overview)
+* [Commerce Services-Connector](https://experienceleague.adobe.com/de/docs/commerce/user-guides/integration-services/saas)

@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/de/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
 TQID: 'https://experienceleague.adobe.com/FMCct3iKx-UuNYvHwbqOyzcxOTebFGorL5-Sgeh8OuQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -69,6 +69,6 @@ Im folgenden Video werden gängige Konfigurationsaufgaben und -probleme für den
 
 ## Zusätzliche Ressourcen
 
-* [Commerce Services-Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
-* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
-* [Commerce Services-Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Commerce Services-Connector](https://experienceleague.adobe.com/de/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/de/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services-Connector](https://experienceleague.adobe.com/de/docs/commerce/user-guides/integration-services/saas){target="_blank"}

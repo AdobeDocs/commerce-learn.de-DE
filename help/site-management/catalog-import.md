@@ -62,7 +62,7 @@ Wählen Sie eine der folgenden Optionen aus, um mehr zu erfahren.
 
 ## Manuelles Erstellen der Produkte {#manual-import}
 
-Erwägen Sie die manuelle Produkterstellung für einen kleinen Katalog mit gelegentlichen Aktualisierungen. Die Eingabe jedes Produkts ist zeitaufwendig und erfordert eine Grundschulung für den Commerce-Administrator. Die manuelle Katalogverwaltung eignet sich eher für bestimmte Situationen als für die meisten Stores. Anweisungen finden Sie unter [Erstellen eines Produkts](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Wenn Sie Methoden zur Katalogverwaltung kombinieren, beschränken Sie die manuelle Bearbeitung, sobald Sie die Automatisierung einführen. Bei automatischen Aktualisierungen besteht die Gefahr, dass manuelle Änderungen überschrieben werden und Verwirrung gestiftet wird. Wenn eine Integration den Katalog durch Automatisierung und APIs verwaltet, schränken Sie die Katalogverwaltung im Administrator durch [Benutzerrollen und -berechtigungen](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"} ein.
+Erwägen Sie die manuelle Produkterstellung für einen kleinen Katalog mit gelegentlichen Aktualisierungen. Die Eingabe jedes Produkts ist zeitaufwendig und erfordert eine Grundschulung für den Commerce-Administrator. Die manuelle Katalogverwaltung eignet sich eher für bestimmte Situationen als für die meisten Stores. Anweisungen finden Sie unter [Erstellen eines Produkts](https://experienceleague.adobe.com/de/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Wenn Sie Methoden zur Katalogverwaltung kombinieren, beschränken Sie die manuelle Bearbeitung, sobald Sie die Automatisierung einführen. Bei automatischen Aktualisierungen besteht die Gefahr, dass manuelle Änderungen überschrieben werden und Verwirrung gestiftet wird. Wenn eine Integration den Katalog durch Automatisierung und APIs verwaltet, schränken Sie die Katalogverwaltung im Administrator durch [Benutzerrollen und -berechtigungen](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"} ein.
 
 ### Wann dieser Ansatz in Betracht zu ziehen ist
 
@@ -77,7 +77,7 @@ Erwägen Sie die manuelle Produkterstellung für einen kleinen Katalog mit geleg
 ## Admin CSV Import Tool {#admin-csv}
 
 Mit diesem Tool kann ein Store-Inhaber einen Katalog mithilfe einer CSV-Datei direkt vom Commerce-Administrator importieren.
-[Daten von Commerce Admin importieren](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Daten von Commerce Admin importieren](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Vorteile:
 Das Hochladen einer CSV-Datei von der Administratorin bzw. dem Administrator ist ein unkomplizierter Ansatz für die Katalogverwaltung. Dies ermöglicht schnellere Katalogproduktaktualisierungen auf einen Katalog mittlerer Größe.
@@ -171,6 +171,6 @@ Nachteile:
 ## Zusätzliche Ressourcen
 
 * [Daten mit der neuen REST-CSV importieren](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Versionshinweise zu Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [Hauptdokumentation zum Datenimport](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Versionshinweise zu Adobe Commerce Version 2.4.6](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [Benutzer, Rollen und Berechtigungen](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
