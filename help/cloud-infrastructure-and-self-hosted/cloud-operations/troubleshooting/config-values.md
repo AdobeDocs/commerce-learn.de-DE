@@ -54,7 +54,7 @@ Dieses Handbuch bietet einen umfassenden Überblick darüber, wie Sie Konfigurat
 * Erfahren Sie, wie Sie Konfigurationswerte über das Admin-Bedienfeld, das Code-Repository und umgebungsspezifische Dateien bearbeiten und überschreiben können.
 * Entdecken Sie Best Practices für die Beibehaltung konsistenter Konfigurationseinstellungen über verschiedene Umgebungen hinweg mithilfe von Tools :config: App-Dump und der Admin-Benutzeroberfläche von Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505790?captions=ger&learn=on)
 
 ## Verwandte Dokumentation zu Experience League
 
