@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + Best Practices {#commerce-cloud-best-practices}
       + [Support-Anfrage](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [Checkliste vor dem Start](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Betriebstools {#tools}
+      + [Dashboard des Site-Wide Analysis Tool](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Cloud-Automatisierung - Patch-Service](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Beobachtung für Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Übersicht über das Quality Patch-Tool](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Quality Patch-Tool](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Finden bösartiger IP-Adressen](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Setup für Warnhinweise](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Benutzerdefinierte Warnhinweise](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
     + [Datenverbindung](../capabilities/data-connection.md)
     + [Vollständige Demonstration zur Live-Suche](../capabilities/live-search-full-demonstration.md)
     + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
-    + [Quality Patch-Tool](../capabilities/quality-patch-tool.md)
   + Erstellen von Produkten {#create-products}
     + [Einfaches Produkt](../site-management/create-simple-product.md)
     + [Virtuelles Produkt](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [Schlussfolgerung](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder Probelauf](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Backend-Entwicklung {#backend-development}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../backend-development/create-module.md)
     + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [Notizen zu Angebotspositionen](../b2b/quote-line-item-notes.md)
     + [Preisnachlass für Angebotspositionen GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [Preisnachlass-REST-API für Angebotspositionsartikel](../b2b/quote-rest-api-line-item-notes.md)
-+ Tools und externe Services {#tools}
-  + [Dashboard des Site-Wide Analysis Tool](../tools/site-wide-analysis-tool.md)
-  + [Cloud-Automatisierung - Patch-Service](../tools/cloud-automation-patching-service.md)
-  + [Beobachtung für Adobe Commerce](../tools/observation-tool.md)
-  + [Quality Patch-Tool](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Finden bösartiger IP-Adressen](../new-relic/malicious-ip.md)
-    + [Setup für Warnhinweise](../new-relic/new-relic-alert-notification-setup.md)
-    + [Benutzerdefinierte Warnhinweise](../new-relic/custom-alerts.md)
