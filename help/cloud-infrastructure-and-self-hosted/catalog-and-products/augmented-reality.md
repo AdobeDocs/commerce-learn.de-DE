@@ -87,9 +87,9 @@ Sobald der Besucher den QR-Code mit seinem Gerät scannt, wird das Element in de
 
 ## Nützliche Ressourcen
 
-[AR-Viewer für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Verwalten von Produkt-3D-Modellen mit dem AR-Viewer für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[AR-Viewer für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=de){target="_blank"}
+[Verwalten von Produkt-3D-Modellen mit dem AR-Viewer für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=de){target="_blank"}
 
 ## Adobe Commerce Marketplace-Erweiterung
 
-[Installationsanweisungen für AR Viewer](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
+[Installationsanweisungen für AR Viewer](https://experienceleague.adobe.com/de/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
