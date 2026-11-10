@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -57,26 +57,26 @@ ht-degree: 3%
         + [Standards für In-Process-Code](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA {#qa}
         + [Code-Freeze](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + Fehlerbehebung {#troubleshooting}
-    + [Ungültige SSL](../cloud/troubleshooting/invalid-ssl.md)
-    + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [Konfigurationswerte](../cloud/troubleshooting/config-values.md)
-    + [Protokolle kürzen](../cloud/troubleshooting/truncate-logs.md)
-  + [Projekt- und Umgebungsverwaltung](../cloud/project-environment-management.md)
-  + [Skalierung von Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA-fähiges Hosting](../cloud/hippa-ready-hosting.md)
-  + [IP-Adresse erkennen](../cloud/detect-ip-address.md)
-  + [Einschränken des Zugriffs mit Fastly](../cloud/limit-website-access-using-fastly.md)
-  + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
-    + [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
-    + [schnell](../cloud/fastly.md)
-    + [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
-    + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
-  + Best Practices {#commerce-cloud-best-practices}
-    + [Support-Anfrage](../cloud/best-practices/support-request.md)
-    + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
+  + Cloud-Vorgänge {#cloud-operations}
+    + Fehlerbehebung {#troubleshooting}
+      + [Ungültige SSL](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [Konfigurationswerte](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [Protokolle kürzen](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [Projekt- und Umgebungsverwaltung](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Skalierung von Adobe Commerce Cloud](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA-fähiges Hosting](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [IP-Adresse erkennen](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Einschränken des Zugriffs mit Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
+      + [Best Practices für Infrastruktur und Entwicklung](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [schnell](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [Konfiguration und Debugging](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + Best Practices {#commerce-cloud-best-practices}
+      + [Support-Anfrage](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [Checkliste vor dem Start](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
@@ -115,7 +115,7 @@ ht-degree: 3%
     + [Schlussfolgerung](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder Probelauf](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Backend-Entwicklung {#backend-development}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../backend-development/create-module.md)
     + [Produktattribut hinzufügen](../backend-development/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../backend-development/dependency-injection.md)
