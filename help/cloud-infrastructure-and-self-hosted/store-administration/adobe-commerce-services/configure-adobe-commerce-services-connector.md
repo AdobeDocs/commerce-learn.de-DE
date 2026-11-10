@@ -1,0 +1,74 @@
+---
+title: Konfigurieren des Adobe Commerce Services-Connectors
+description: Erfahren Sie, wie Sie den Adobe Commerce Services Connector für die Verwendung mit Commerce SaaS-Produkten konfigurieren und wie Sie häufige Probleme beheben können.
+jira: KT-14777
+doc-type: Technical Video
+duration: 521
+audience: all
+activity: use
+last-substantial-update: 2024-01-09T00:00:00.000Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
+badgePaas: label="Nur PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Gilt nur für Adobe Commerce in Cloud-Projekten (von Adobe verwaltete PaaS-Infrastruktur) und lokale Projekte."
+TQID: 'https://experienceleague.adobe.com/FMCct3iKx-UuNYvHwbqOyzcxOTebFGorL5-Sgeh8OuQ'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+workflow-type: tm+mt
+source-wordcount: '226'
+ht-degree: 0%
+---
+# Konfigurieren des Adobe Commerce Services-Connectors
+
+Der Commerce Services Connector ist eine Adobe-Konfiguration, die SaaS-Funktionen ermöglicht. Um Payment Services für Adobe Commerce und Magento Open Source zu verwenden, verbinden Sie Ihre Commerce-Instanz mithilfe von Produktions- und Sandbox-API-Schlüsseln und geben Sie den Datenspeicher in der Konfiguration an.
+
+Sehen Sie sich das Video _Konfigurieren des Adobe Commerce Services-Connectors_ an, um die Einrichtung von Zahlungsdiensten zu erleichtern.
+
+## Für wen ist dieses Video bestimmt?
+
+* Betriebsingenieure
+* E-Commerce-Manager und Ansprechpartner
+
+## Videoinhalt
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425958?learn=on)
+
+## Häufig gestellte Fragen zur Konfiguration
+
+Im folgenden Video werden gängige Konfigurationsaufgaben und -probleme für den Commerce Services-Connector behandelt:
+
+* Korrigieren Sie ungültige oder öffentliche Schlüssel.
+* Drehen des API-Schlüssels Ihres Stores.
+* Navigieren Sie zum Schritt SaaS-Kennung beim Einrichten des Commerce Services-Connectors.
+* Fehlerbehebung bei der Sandbox-Schaltfläche beim Onboarding von Zahlungsdiensten.
+* Der Commerce Services-Connector wird nicht in die Benutzeroberfläche geladen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
+
+## Zusätzliche Ressourcen
+
+* [Commerce Services-Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Handbuch zu Zahlungs-Services](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services-Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
