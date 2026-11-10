@@ -62,7 +62,7 @@ Mit Kundengruppen in Adobe Commerce können Sie zielgerichtete Promotions und Pr
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473333?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 
