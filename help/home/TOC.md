@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -37,46 +37,47 @@ ht-degree: 3%
     + [Target-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Einphasige Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Mehrphasen-Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + Fehlerbehebung {#troubleshooting}
-    + [Ungültige SSL](../cloud/troubleshooting/invalid-ssl.md)
-    + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [Konfigurationswerte](../cloud/troubleshooting/config-values.md)
-    + [Protokolle kürzen](../cloud/troubleshooting/truncate-logs.md)
-  + [Projekt- und Umgebungsverwaltung](../cloud/project-environment-management.md)
-  + [Skalierung von Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA-fähiges Hosting](../cloud/hippa-ready-hosting.md)
-  + [IP-Adresse erkennen](../cloud/detect-ip-address.md)
-  + [Marktstruktur](../cloud/marketecture.md)
-  + [Modell für globale Sendungen](../cloud/global-delivery-model.md)
-  + [Administratorrollen](../cloud/admin-roles.md)
-  + [Marketing-Flüsse](../cloud/marketing-flows.md)
-  + [Storefront-Optionen](../cloud/storefront-options.md)
-  + [Datenfreigabe](../cloud/data-sharing.md)
-  + [Mehrere Websites](../cloud/multiple-websites.md)
-  + [Experience Lead-Daten und -Promotions](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [Migration von einer selbst gehosteten Lösung](../cloud/overview.md)
-  + [Einschränken des Zugriffs mit Fastly](../cloud/limit-website-access-using-fastly.md)
-  + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
-    + [Best Practices für Infrastruktur und Entwicklung](../cloud/infrastructure-development-best-practices.md)
-    + [schnell](../cloud/fastly.md)
-    + [Konfiguration und Debugging](../cloud/configuration-and-debugging.md)
-    + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud/saas-offerings-support-communications-next-steps.md)
-  + Best Practices {#commerce-cloud-best-practices}
-    + [Support-Anfrage](../cloud/best-practices/support-request.md)
-    + [Checkliste vor dem Start](../cloud/best-practices/pre-launch-checklist.md)
++ Cloud-Infrastruktur und Self-Hosting {#cloud-infrastructure-and-self-hosted}
+  + Plattform und Migration {#platform-and-migration}
+    + [Marktstruktur](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [Modell für globale Sendungen](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [Administratorrollen](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [Marketing-Flüsse](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Storefront-Optionen](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [Datenfreigabe](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [Mehrere Websites](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Experience Lead-Daten und -Promotions](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [Migration von einer selbst gehosteten Lösung](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Migration zu Adobe Commerce {#migrating-to-adobe-commerce}
+      + [Überblick](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + Vorbereitung {#preparation}
+        + [Team und Projekt auswerten](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + Anpassungen {#customizations}
+        + [Standards für In-Process-Code](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [Code-Freeze](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
+  + Cloud-Vorgänge {#cloud-operations}
+    + Fehlerbehebung {#troubleshooting}
+      + [Ungültige SSL](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [Klassifizieren und Beheben von 2 häufigen Site-Fehlern](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [Konfigurationswerte](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [Protokolle kürzen](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [Projekt- und Umgebungsverwaltung](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Skalierung von Adobe Commerce Cloud](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA-fähiges Hosting](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [IP-Adresse erkennen](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Einschränken des Zugriffs mit Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + Technisches Onboarding und Hardware-Übergabe {#technical-onboarding-hardware-handoff}
+      + [Best Practices für Infrastruktur und Entwicklung](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [schnell](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [Konfiguration und Debugging](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [Bereitstellung, Tests, Überwachung und Sicherheit](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS-Angebote, Support und Kommunikation sowie die nächsten Schritte](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + Best Practices {#commerce-cloud-best-practices}
+      + [Support-Anfrage](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [Checkliste vor dem Start](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + Erste Schritte {#getting-started}
-  + Migration zu Adobe Commerce{#migrating-to-adobe-commerce}
-    + [Überblick](../migrating-to-adobe-commerce/overview.md)
-    + Vorbereitung{#preparation}
-      + [Team und Projekt auswerten](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + Anpassungen{#customizations}
-      + [Standards für In-Process-Code](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [Code-Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
     + [Datenverbindung](../capabilities/data-connection.md)
