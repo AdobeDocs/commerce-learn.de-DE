@@ -51,7 +51,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Positionsnotizen für ein Adobe Commerce B2B-Angebot verwenden.
 
-Informationen zum API-Workflow finden [ unter „Angebotspositionshinweise mit REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md).
+Informationen zum API-Workflow finden [&#x200B; unter „Angebotspositionshinweise mit REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md).
 
 {{b2b-feature}}
 
