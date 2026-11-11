@@ -79,6 +79,6 @@ ht-degree: 0%
 ## Zusätzliche Ressourcen
 
 * [Einführung in [!DNL Live Search]](live-search.md)
-* [Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-* [Einführung in Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=de)
+* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de)
+* [Einführung in Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=de)

@@ -154,5 +154,5 @@ Wenn wir jedoch die dritte Dezimalzahl fallen lassen, würde dies zeigen, dass $
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen einer Warenkorb-Preisregel - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Gutscheincodes - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Erstellen einer Warenkorb-Preisregel - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Gutscheincodes - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
