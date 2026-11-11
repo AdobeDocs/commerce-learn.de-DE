@@ -65,6 +65,6 @@ Informationen zum API-Workflow finden Sie [Angebotspositionsrabatte mit GraphQL]
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445594?captions=ger&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
