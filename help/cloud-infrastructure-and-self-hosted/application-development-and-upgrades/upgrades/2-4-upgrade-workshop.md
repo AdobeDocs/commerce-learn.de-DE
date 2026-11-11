@@ -73,6 +73,6 @@ In diesem Workshop ging Adobe Commerce eine Partnerschaft mit Merkle ein, um Fol
 
 ## Zusätzliche Ressourcen
 
-* [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [Aktualisierungshandbuch](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=de)
 * [Veröffentlichte Versionen](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-* [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+* [Veröffentlichungszeitplan](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=de)
