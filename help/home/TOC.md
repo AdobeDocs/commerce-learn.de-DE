@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -173,6 +173,23 @@ ht-degree: 3%
       + [Massenpakete](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Separate Packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + Fundament {#foundations}
+    + [Einführung in App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+    + [Erweiterbarkeits-Framework und Commerce Eventing](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Installieren von App Builder-Apps über Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+  + Erstellen des ersten Programms {#first-app}
+    + [Überblick](../app-builder/first-app/overview.md)
+    + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
+    + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+    + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
+    + [Informationen zum Testordner](../app-builder/first-app/test-folder.md)
+    + [Den Zweck des Ordners „web-src“ erkennen](../app-builder/first-app/web-src-folder.md)
+    + [Lokale Tests](../app-builder/first-app/testing-locally.md)
+    + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+    + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
+    + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
@@ -240,10 +257,7 @@ ht-degree: 3%
     + [Abfragen](../graphql-rest/graphql-queries.md)
     + [Mutationen](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Installieren von Apps aus Adobe Exchange](../app-builder/install-app-builder-app.md)
-    + [Einführung in App Builder](../app-builder/introduction-to-app-builder.md)
-    + [Erweiterbarkeits-Framework für App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+  + Weitere App Builder-Tutorials und I/O-Events {#adobe-developer-app-builder}
     + Verwenden von KI-Tools zum Erstellen eines aufgeteilten Zahlungs-POC {#create-a-split-payment-poc}
       + [App Builder- und KI-Tools](../app-builder/split-payment-ai-tools/overview.md)
       + [Vollständige Demo](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -262,17 +276,6 @@ ht-degree: 3%
       + [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [Implementierung und Tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [Feedback für Adobe geben](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + Erstellen Ihres ersten App Builder-Programms {#first-app}
-      + [Überblick](../app-builder/first-app/overview.md)
-      + [Generieren und Konfigurieren der .env-Datei](../app-builder/first-app/env-file.md)
-      + [Beschreibung und Verwendung der Datei app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Informationen zum Aktionsordner](../app-builder/first-app/actions-folder.md)
-      + [Informationen zum Testordner](../app-builder/first-app/test-folder.md)
-      + [Den Zweck des Ordners „web-src“ erkennen](../app-builder/first-app/web-src-folder.md)
-      + [Lokale Tests](../app-builder/first-app/testing-locally.md)
-      + [Testen mit App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
-      + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
-      + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
     + IO-Ereignisse für Adobe Commerce {#io-events}
       + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
       + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)

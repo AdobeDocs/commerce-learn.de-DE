@@ -1,6 +1,6 @@
 ---
 title: Die Datei app.config.yaml
-description: Erfahren Sie, wie die Datei „app.config.yaml“ die Anwendungskonfiguration bestimmt und wie ihre Definitionen mit JavaScript-Dateien in Ihrer Adobe Developer App Builder-Beispielanwendung verknüpft sind.
+description: Erfahren Sie, wie app.config.yaml Ihr Adobe Developer App Builder-Programm definiert und wie seine Konfiguration eine Verbindung zu JavaScript-Dateien in der Beispielanwendung herstellt.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -26,13 +26,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:16.146Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # Beschreibung und Verwendung der Datei app.config.yaml {#app-config-yaml}
 
 Diese Datei bestimmt die Konfiguration für das Programm.
@@ -46,7 +44,7 @@ Diese Datei bestimmt die Konfiguration für das Programm.
 * Die besprochene `app.config.yaml`
 * Verknüpfung von Definitionen mit anderen `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430838?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## Code-Beispiel
 

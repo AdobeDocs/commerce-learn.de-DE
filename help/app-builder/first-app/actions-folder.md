@@ -1,6 +1,6 @@
 ---
 title: Der Ordner „Aktionen“
-description: Erfahren Sie mehr über die JavaScript-Dateien und -Ordner im App Builder-Aktionsordner, einschließlich OAuth-Authentifizierung und Commerce-Verbindungsmustern für Ihre Beispielanwendung.
+description: Erkunden Sie den App Builder-Aktionsordner und seine JavaScript-Dateien, einschließlich OAuth-Authentifizierung und Commerce-Verbindungsmustern in der Beispielanwendung.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # Informationen zum Aktionsordner {#actions-folder}
 
 Der `actions` Ordner für diese Beispielanwendung enthält einige JavaScript-Dateien und einen Ordner mit dem Namen `commerce`. Die abgebildete JavaScript ist eine hilfreiche Beispieldatei, die wiederverwendet werden kann, wenn sie für Ihre Arbeit relevant ist. Dieser Ordner kann beim Herstellen einer Verbindung zur Adobe Commerce-Anwendung über OAuth und REST Zeit für die Entwicklung sparen.

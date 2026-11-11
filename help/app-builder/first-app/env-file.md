@@ -1,6 +1,6 @@
 ---
 title: Die .env-Datei
-description: Erfahren Sie, wie Sie die .env-Datei für Ihr Adobe Developer App Builder-Programm generieren und konfigurieren, einschließlich der Verwaltung von geheimen Daten und der Verhinderung versehentlicher Übertragungen an die Versionsverwaltung.
+description: Erfahren Sie, wie Sie die .env-Datei für Ihr App Builder-Programm generieren und konfigurieren, Geheimnisse verwalten und versehentliche Übertragungen an die Versionsverwaltung verhindern können.
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
@@ -33,13 +33,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:20.957Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 # Generieren und Konfigurieren der .env-Datei {#env-file}
 
 Der `.env` ist eine spezielle Datei, die nicht Teil des Beispielmoduls ist, aber für die Verwendung in Ihrer Adobe Developer App Builder-Anwendung wichtig ist. Diese Datei enthält Geheimnisse und andere Informationen. Vermeiden Sie es, diese Datei in ein Code-Repository zu übertragen.

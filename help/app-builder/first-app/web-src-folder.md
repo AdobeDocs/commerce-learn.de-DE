@@ -1,6 +1,6 @@
 ---
 title: Der Ordner web-src
-description: Erfahren Sie mehr über die Ordnerstruktur „web-src“, die JavaScript-Dateien und verschachtelten Ordner und darüber, wie dieser Ordner die Benutzeroberfläche in Ihrer Beispielanwendung für App Builder unterstützt.
+description: Erfahren Sie mehr über den Ordner "App Builder web-src“, seine JavaScript-Dateien und verschachtelten Ordner und wie sie die Benutzeroberfläche im Beispielprogramm unterstützen.
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # Den Zweck des Ordners „web-src“ erkennen {#web-src-folder}
 
 Der Ordner „web-src“ für diese Beispielanwendung enthält viele JavaScript-Dateien und -Ordner. Dieser Ordner wird für Programme mit einer Benutzeroberfläche verwendet. Nicht alle Anwendungen verwenden diese Funktion. Beispielsweise ist für eine Commerce-Integration mit einem externen Bestandsverwaltungssystem keine Frontend-Oberfläche und kein Frontend-Code erforderlich.

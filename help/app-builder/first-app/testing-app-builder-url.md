@@ -1,6 +1,6 @@
 ---
 title: Testen mithilfe der Adobe Developer App Builder-URL
-description: Erfahren Sie, wie Sie Ihre erste Adobe Developer App Builder-Anwendung mithilfe der Projekt-URL bereitstellen und testen können, einschließlich der Suche nach der URL nach einer erfolgreichen Bereitstellung.
+description: Erfahren Sie, wie Sie Ihr Adobe Developer App Builder-Programm mithilfe seiner Projekt-URL bereitstellen und testen können, einschließlich der Suche nach der URL nach der Bereitstellung.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # Testen mit App Builder URL {#testing-app-builder-url}
 
 Erfahren Sie, wie Sie Ihre neue Adobe Developer App Builder-Anwendung mit der URL aus Ihrem Projekt testen.

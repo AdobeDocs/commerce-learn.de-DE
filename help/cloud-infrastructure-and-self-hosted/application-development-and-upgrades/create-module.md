@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Diese Tutorials behandeln bestehende, in der Entwicklung befindliche Prozesse sowie Upgrades für Adobe Commerce auf Cloud-Infrastrukturen und Self-Hosting-Bereitstellungen. Um neue Funktionen zu entwickeln oder eine geeignete Anpassungsmigration durchzuführen, beginnen Sie mit [Einführung in App Builder](../../app-builder/introduction-to-app-builder.md).
+>Diese Tutorials behandeln bestehende, in der Entwicklung befindliche Prozesse sowie Upgrades für Adobe Commerce auf Cloud-Infrastrukturen und Self-Hosting-Bereitstellungen. Um neue Funktionen zu entwickeln oder eine geeignete Anpassungsmigration durchzuführen, beginnen Sie mit [Einführung in App Builder](../../app-builder/foundations/introduction-to-app-builder.md).
 
 Ein Modul ist ein Strukturelement von [!DNL Commerce] - Module bilden die Grundlage des Systems. Normalerweise starten Sie eine Anpassung, indem Sie ein Modul erstellen.
 
