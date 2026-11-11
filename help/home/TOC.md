@@ -4,7 +4,7 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [Verwalten von URL-Neuschreibungen für SEO](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [AR-Viewer](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [Katalogimport und -aktualisierung](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + Content-Management {#content-management}
+    + [Übersicht zu Page Builder](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [Erstellen von statischen und dynamischen Blöcken](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [Erstellen von Widgets](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [Verwenden von Inhaltsvorlagen](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [Inhalts-Staging](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [Verwalten der Mediensammlung](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [Support-Tickets suchen, überprüfen, kommentieren und eskalieren](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Support-Ticket-Beobachter und -Status verwalten](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Content-Management {#content}
-  + [Übersicht zu Page Builder](../site-management/page-builder-overview.md)
-  + [Erstellen von statischen und dynamischen Blöcken](../site-management/static-dynamic-blocks.md)
-  + [Erstellen von Widgets](../site-management/widgets.md)
-  + [Verwenden von Inhaltsvorlagen](../site-management/content-templates.md)
-  + [Inhalts-Staging](../site-management/content-staging.md)
-  + [Verwalten der Mediensammlung](../site-management/media-gallery.md)
 + Marketing-Tools {#marketing}
   + [Erstellen von Katalogpreisregeln](../site-management/catalog-price-rules.md)
   + [Erstellen von Regeln für Warenkorbpreise](../site-management/cart-price-rules.md)

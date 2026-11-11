@@ -1,8 +1,8 @@
 ---
 title: Übersicht über [!DNL Page Builder]
-description: Learn how to build pages [!DNL Commerce] store pages in the Admin using [!DNL Page Builder].
-kt: 5563
-doc-type: feature video
+description: Erfahren Sie, wie Sie mit [!DNL Page Builder] Seiten erstellen [!DNL Commerce] Seiten im Admin-Bereich speichern.
+jira: KT-5563
+doc-type: Feature Video
 duration: 317
 audience: all
 activity: use
@@ -35,32 +35,30 @@ topic_v2:
     internal-label: Customer engagement
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '177'
 ht-degree: 1%
-
 ---
-
 # Übersicht über [!DNL Page Builder]
 
-[!DNL Page Builder] makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty.
+Mit [!DNL Page Builder] können Sie mühelos inhaltsreiche Seiten mit benutzerdefinierten Layouts erstellen, die Ihre visuelle storytelling verbessern und die Kundeninteraktion und -loyalität fördern.
 
-Starting with the 2.4.3 release, [!DNL Page Builder] is available by default in both Adobe Commerce and Magento Open Source. With [!DNL Page Builder] in Adobe Commerce, you can incorporate staging and preview, personalized content, and product recommendations, with additional capabilities to come.
+Ab Version 2.4.3 ist [!DNL Page Builder] standardmäßig sowohl in Adobe Commerce als auch in Magento Open Source verfügbar. Mit [!DNL Page Builder] in Adobe Commerce können Sie Staging- und Vorschaufunktionen, personalisierte Inhalte und Produktempfehlungen integrieren, wobei zusätzliche Funktionen hinzukommen.
 
-In this video, learn how to:
+In diesem Video erfahren Sie, wie Sie:
 
-* Edit an existing page
-* Edit a new page
-* Add products to an existing page
-* Add and format rows and columns
-* Add media and elements to your columns and rows
-* Add and format a slider
+* Bearbeiten einer vorhandenen Seite
+* Bearbeiten einer neuen Seite
+* Hinzufügen von Produkten zu einer vorhandenen Seite
+* Hinzufügen und Formatieren von Zeilen und Spalten
+* Hinzufügen von Medien und Elementen zu Spalten und Zeilen
+* Hinzufügen und Formatieren eines Schiebereglers
 
 ## Für wen ist dieses Video bestimmt?
 
-* Web site designers
-* Store merchandisers
+* Website-Designer
+* Merchandiser-Store
 
 ## Videoinhalt
 
@@ -68,5 +66,5 @@ In this video, learn how to:
 
 ## Zusätzliche Ressourcen
 
-* [Page Builder User Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=de)
-* [Page Builder Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+* [Page Builder-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=de)
+* [Page Builder-Entwicklerhandbuch](https://developer.adobe.com/commerce/frontend-core/page-builder/)
