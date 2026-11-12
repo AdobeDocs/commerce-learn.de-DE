@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
-source-wordcount: '1029'
+source-wordcount: '1040'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Preisnachlässe bei Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notizen zu Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Anwendungsentwicklung und Upgrades {#application-development-and-upgrades}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Produktattribut hinzufügen](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -213,7 +213,6 @@ ht-degree: 3%
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
-    + [Datenverbindung](../capabilities/data-connection.md)
     + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
 
 + APIs und Integration {#apis-and-integration}
@@ -255,6 +254,9 @@ ht-degree: 3%
     + [Integration der letzten Meile](../back-office-integrations/last-mile-integration.md)
     + [Webhook-Aufnahme](../back-office-integrations/webhook-ingestion.md)
     + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
+
+  + Datenintegrationen {#data-integrations}
+    + [Datenverbindung](../capabilities/data-connection.md)
 
 + Erweiterbarkeit {#extensibility}
   + Commerce-Entwickleragent {#commerce-developer-agent}
