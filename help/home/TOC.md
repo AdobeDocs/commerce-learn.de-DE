@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: de9e426dad620ff9f242454e069e44919be39884
+source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1029'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Preisnachlässe bei Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notizen zu Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Anwendungsentwicklung und Upgrades {#application-development-and-upgrades}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Produktattribut hinzufügen](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -245,6 +245,16 @@ ht-degree: 3%
     + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
     + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
 
+  + Ereignisse und Webhooks {#events-and-webhooks}
+    + IO-Ereignisse für Adobe Commerce {#io-events}
+      + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
+      + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
+      + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
+      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
+      + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
+
 + Erweiterbarkeit {#extensibility}
   + Commerce-Entwickleragent {#commerce-developer-agent}
     + [Überblick](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -286,15 +296,6 @@ ht-degree: 3%
         + [Wanderin](../pwa/introduction/6-peregrine.md)
       + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
       + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
-  + Weitere App Builder-Tutorials und I/O-Events {#adobe-developer-app-builder}
-    + IO-Ereignisse für Adobe Commerce {#io-events}
-      + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
-      + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
-      + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
-      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
-      + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
 
 + Überwachung, Analysen und Support {#monitoring-analytics-support}
   + Beobachtbarkeit {#observability}
