@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Preisnachlässe bei Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notizen zu Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Anwendungsentwicklung und Upgrades {#application-development-and-upgrades}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
     + [Erstellen eines Moduls](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Produktattribut hinzufügen](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
