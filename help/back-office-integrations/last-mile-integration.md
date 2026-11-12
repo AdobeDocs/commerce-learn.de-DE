@@ -3,7 +3,7 @@ title: Integration der letzten Meile im Commerce Starter Kit
 description: Erfahren Sie mehr über die Integration der letzten Meile in Commerce mithilfe von Erweiterbarkeits-Hooks für die Validierung, Umwandlung, Vorverarbeitung, Übermittlung und Nachbearbeitung.
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -63,6 +63,6 @@ Erfahren Sie mehr über die Bedeutung von Nachbearbeitungsaktivitäten über den
 * Erfahren Sie mehr über die Rolle des Transformations-Hooks beim Transformieren von Datenobjekten zwischen dem Ursprungs- und dem Zielsystem.
 * Erfahren Sie mehr über die Bedeutung des Sende-Hooks bei der Erleichterung des tatsächlichen Datenversands an das Zielsystem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451936?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

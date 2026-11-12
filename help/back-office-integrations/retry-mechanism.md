@@ -3,7 +3,7 @@ title: Verwenden der nativen Funktionalität eines Wiederholungsmechanismus
 description: Erfahren Sie, wie Sie mit dem Wiederholungsmechanismus von Adobe I/O Events widerstandsfähige Programme erstellen können, die Wiederholungsbedingungen, Back-off-Strategien und visuelle Indikatoren abdecken.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # Verwenden des Adobe I/O Events-Wiederholungsmechanismus für eine robuste Anwendung
@@ -53,11 +53,11 @@ Erfahren Sie, wie der Wiederholungsmechanismus im Kontext der Laufzeitaktionen d
 * Visuelle Indikatoren in der Entwicklerkonsole, z. B. Warnsymbole für fehlgeschlagene Ereignisse und Zirkularpfeilsymbole für erneut versuchte Ereignisse.
 * Die Laufzeitaktionen „Consumer“ spielen eine entscheidende Rolle bei der Bestimmung der geeigneten HTTP-Antwort-Status-Codes für die Ereignisbehandlung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449082?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Verwandte Dokumentation
 
-* [Webhook kann ein Ereignis nicht verarbeiten](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook heruntergefahren und als instabil markiert](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook kann ein Ereignis nicht verarbeiten](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook heruntergefahren und als instabil markiert](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)
