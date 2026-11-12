@@ -60,4 +60,4 @@ In diesem Video:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/35718?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507759?captions=ger&learn=on)
