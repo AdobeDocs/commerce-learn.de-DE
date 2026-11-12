@@ -1,13 +1,11 @@
 ---
 title: Aufspaltung der PoC-KI-Tools für Zahlungen
-description: Links zu verwandten Seiten in Erweiterbarkeit - Adobe Developer App Builder - Verwenden von KI-Tools zum Erstellen eines aufgeteilten Zahlungs-POC
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: Links zu den Tutorials und Referenzressourcen zu den Machbarkeitsstudien zur Zahlung in App Builder-Split.
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # Aufspaltung Zahlung POC-bezogene Links
 
 ## Alle Ressourcen in dieser Reihe

@@ -4,7 +4,7 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -190,6 +190,26 @@ ht-degree: 3%
     + [Schlussfolgerung](../app-builder/first-app/conclusion.md)
     + [Quellcode des Beispielmoduls](https://github.com/magento/app-builder-samples){target="_blank"}
 
+  + Verwenden von KI-Tools zum Erstellen eines aufgeteilten Zahlungs-POC {#create-a-split-payment-poc}
+    + [App Builder- und KI-Tools](../app-builder/split-payment-ai-tools/overview.md)
+    + [Vollständige Demo](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [Schrittweise Implementierungshandbuch](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [Architektur- und Design-Entscheidungen](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [Voraussetzungen und Einrichtung der Umgebung](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [Tests und Verifizierung](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [Nächste Schritte](../app-builder/split-payment-ai-tools/next-steps.md)
+    + Referenzressourcen {#split-payment-resources}
+      + [Umgebungsvariablen-Referenz](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Commerce-Modul-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [App Builder Orchestrator-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [API-Eingabeaufforderung für Experience Cloud-UI-Erweiterung](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools {#custom-shipping-rates-ai-tools}
+    + [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [Implementierung und Tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [Feedback für Adobe geben](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
@@ -258,24 +278,6 @@ ht-degree: 3%
     + [Mutationen](../graphql-rest/graphql-mutations.md)
     + [Schema](../graphql-rest/graphql-schema.md)
   + Weitere App Builder-Tutorials und I/O-Events {#adobe-developer-app-builder}
-    + Verwenden von KI-Tools zum Erstellen eines aufgeteilten Zahlungs-POC {#create-a-split-payment-poc}
-      + [App Builder- und KI-Tools](../app-builder/split-payment-ai-tools/overview.md)
-      + [Vollständige Demo](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [Schrittweise Implementierungshandbuch](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [Architektur- und Design-Entscheidungen](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [Voraussetzungen und Einrichtung der Umgebung](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [Tests und Verifizierung](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [Nächste Schritte](../app-builder/split-payment-ai-tools/next-steps.md)
-      + Referenzressourcen {#split-payment-resources}
-        + [Umgebungsvariablen-Referenz](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Commerce-Modul-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [App Builder Orchestrator-KI-Eingabeaufforderung](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [API-Eingabeaufforderung für Experience Cloud-UI-Erweiterung](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-    + Erstellen benutzerdefinierter Versandraten mithilfe von KI-Tools {#custom-shipping-rates-ai-tools}
-      + [Einführung und Einrichtung](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [KI-Tools und Adobe Starter Kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [Implementierung und Tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [Feedback für Adobe geben](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
     + IO-Ereignisse für Adobe Commerce {#io-events}
       + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
       + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)

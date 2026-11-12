@@ -1,22 +1,20 @@
 ---
 title: Einführung und Einrichtung für KI-gesteuerte Versandraten
-description: Erfahren Sie, wie Sie KI-Tools zur Erstellung benutzerdefinierter Versandraten einrichten, einschließlich des Klonens des Starter Kits, der Überprüfung der Projektstrukturen und der Vorbereitung Ihrer Umgebung.
+description: Erfahren Sie, wie Sie KI-Tools für benutzerdefinierte Versandraten einrichten, das Checkout-Starter-Kit klonen, Projektstrukturen überprüfen und Ihre Entwicklungsumgebung vorbereiten.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 180
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # Erstellen benutzerdefinierter Versandraten mit KI-Tools - Einführung und Einrichtung
 
 Erfahren Sie, wie Sie KI-Tools einrichten, um benutzerdefinierte Versandraten zu erstellen. In diesem Tutorial wird beschrieben, wie Sie das Checkout-Starter-Kit klonen, seine Struktur überprüfen und die lokale Umgebung vorbereiten. Diese Grundlage gewährleistet eine nahtlose Integration externer Versandraten in Ihren Workflow. Um zu beginnen, sehen Sie sich das folgende Video an.
