@@ -3,11 +3,11 @@ title: Ausführen einer Abfrage mit GraphQL
 description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
 landing-page-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
 short-description: Erfahren Sie, wie Sie eine Abfrage mit GraphQL auf Adobe Commerce und [!DNL Magento Open Source] durchführen. Dies ist eine Einführung in GraphQL mithilfe von GET- und POST-Aufrufen.
-kt: 13937
-doc-type: video
+jira: KT-13937
+doc-type: Tutorial
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 Dies ist Teil 2 der Serie für GraphQL und Adobe Commerce. In diesem Tutorial und Video erfahren Sie mehr über GraphQL-Abfragen und wie Sie diese mit Adobe Commerce durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450067?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Verwandte Videos und Tutorials zu GraphQL in dieser Reihe
 
@@ -223,6 +223,6 @@ In jedem GraphQL-fähigen Client, den Sie zum Testen verwenden (z. B. Altair und
 
 Wie Sie gesehen haben, dass die eigentliche HTTP-Anfrage für eine GraphQL-Abfrage „query: `{string}`&quot; in ihrem Hauptteil enthält, enthält jede Anfrage mit einem Variablenwörterbuch einfach ein zusätzliches „variables: `{json}`&quot; in demselben Hauptteil, wobei `{json}` die JSON-Zeichenfolge mit den Variablenwerten ist.
 
-Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden &#x200B;](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
+Die neue Abfrage verwendet auch ein _Fragment_ (`productDetails`), um dieselbe Feldauswahl an mehreren Stellen wiederzuverwenden. [Weitere Informationen über Fragmente finden ](https://graphql.org/learn/queries/#fragments){target="_blank"} in der Dokumentation zu GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
