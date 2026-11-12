@@ -1,9 +1,9 @@
 ---
 title: Source Code-Organisation im Commerce Starter Kit
-description: Erfahren Sie mehr über die Organisation des Quell-Codes im Commerce Integration Starter Kit, einschließlich wichtiger Ordner wie Aktionen und Skripte, Automatisierungsskripte und Ereignisverarbeitung.
+description: Erfahren Sie mehr über die Organisation des Quell-Codes im Starter Kit von Commerce Integration, einschließlich Aktionen und Skriptordner, Automatisierungsskripte und Ereignisverarbeitung.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # Source Code-Organisation für das Adobe Starter Kit

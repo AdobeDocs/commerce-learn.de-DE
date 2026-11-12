@@ -4,10 +4,10 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1035'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Videos und Tutorials zu Adobe Commerce {#tutorials}
@@ -213,8 +213,40 @@ ht-degree: 3%
 + Erste Schritte {#getting-started}
   + Commerce-Funktionen {#capabilities}
     + [Verfügbare Commerce-Optionen](../capabilities/adobes-available-commerce-options.md)
-    + [Datenverbindung](../capabilities/data-connection.md)
     + [Zusammensetzbarer Commerce](../capabilities/what-is-composable-commerce.md)
+
++ APIs und Integration {#apis-and-integration}
+  + GraphQL Foundations {#graphql-rest}
+    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
+    + [Abfragen](../graphql-rest/graphql-queries.md)
+    + [Mutationen](../graphql-rest/graphql-mutations.md)
+    + [Schema](../graphql-rest/graphql-schema.md)
+  + Praktische Beispiele für REST und GraphQL {#examples}
+    + [Kunden mit REST](../apis-and-integration/examples/customer.md)
+    + B2B-Kursofferten {#b2b-quotes}
+      + [Vertriebsmitarbeiter initiiert Angebot-REST-API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [Preisnachlass für Angebotspositionen GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [Anmerkungen zu Angebotspositionen REST-API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + API-Mesh {#api-mesh}
+    + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+    + [Workflows für API Mesh-Starter-Kits](../api-mesh/starter-kit-workflows.md)
+    + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
+    + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
+    + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
+    + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
+    + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
+
+  + Ereignisse und Webhooks {#events-and-webhooks}
+    + IO-Ereignisse für Adobe Commerce {#io-events}
+      + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
+      + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
+      + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
+      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
+      + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
+
   + Back-Office-Integrations-Starter-Kit {#back-office-integration-starter-kit}
     + [Demonstration des Starter Kits](../back-office-integrations/starter-kit-demo.md)
     + [Integrationen](../back-office-integrations/integrations.md)
@@ -223,13 +255,8 @@ ht-degree: 3%
     + [Webhook-Aufnahme](../back-office-integrations/webhook-ingestion.md)
     + [Wiederholungsmechanismus](../back-office-integrations/retry-mechanism.md)
 
-+ APIs und Integration {#apis-and-integration}
-  + Praktische Beispiele für REST und GraphQL {#examples}
-    + [Kunden mit REST](../apis-and-integration/examples/customer.md)
-    + B2B-Kursofferten {#b2b-quotes}
-      + [Vertriebsmitarbeiter initiiert Angebot-REST-API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
-      + [Preisnachlass für Angebotspositionen GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
-      + [Anmerkungen zu Angebotspositionen REST-API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+  + Datenintegrationen {#data-integrations}
+    + [Datenverbindung](../capabilities/data-connection.md)
 
 + Erweiterbarkeit {#extensibility}
   + Commerce-Entwickleragent {#commerce-developer-agent}
@@ -241,8 +268,19 @@ ht-degree: 3%
     + [Migrieren von vorhandenem Code](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Schlussfolgerung](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder Probelauf](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Frontend-Luma-Entwicklung {#frontend-development}
-    + PaaS/SaaS Page Builder für Entwickler {#page-builder}
+
++ Storefront-Entwicklung {#storefront-development}
+  + Commerce-Storefront auf Edge Delivery Services {#edge-delivery-services}
+    + Erste Schritte {#getting-started}
+      + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
+      + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
+      + [Aktualisieren der Bestellzusammenfassung beim Checkout](../edge-delivery-services/update-order-summary.md)
+      + [Hinzufügen von BOPIS zum Checkout](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
+      + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Kundenerlebnis](../edge-delivery-services/shopper-experience.md)
+  + Luma- und PHP-basierte Storefront-Entwicklung {#frontend-development}
+    + Page Builder für Entwickler {#page-builder}
       + [&#x200B;1. Einführung](../frontend-development/page-builder/1-intro-case-studies.md)
       + [&#x200B;2. Konfiguration und Inhalte](../frontend-development/page-builder/2-config-create-content.md)
       + [&#x200B;3. Themen](../frontend-development/page-builder/3-themes.md)
@@ -251,49 +289,18 @@ ht-degree: 3%
       + [&#x200B;6. Benutzerdefinierte Inhaltstypen](../frontend-development/page-builder/6-custom-content-types.md)
     + [JavaScript-Modul hinzufügen](../frontend-development/add-javascript-module.md)
     + [Erstellen einer Seite](../frontend-development/create-page.md)
-    + Edge-Bereitstellungsdienste {#edge-delivery-services}
-      + Erste Schritte {#getting-started}
-        + [Transaktionsfluss ändern](../edge-delivery-services/transactional-flow.md)
-        + [Verwenden von Produktattributen für Artikel im Warenkorb](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Aktualisieren der Bestellzusammenfassung beim Checkout](../edge-delivery-services/update-order-summary.md)
-        + [Hinzufügen von BOPIS zum Checkout](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [Checkout anpassen](../edge-delivery-services/customize-checkout.md)
-        + [Adressenlayout anpassen](../edge-delivery-services/customize-address-new-account-link.md)
-        + [Kundenerlebnis](../edge-delivery-services/shopper-experience.md)
-    + Headless-Architektur {#headless-architecture}
-      + Einführung in Headless {#introduction-to-headless}
-        + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
-      + Einführung in PWA Studio {#introduction}
-        + [Überblick](../pwa/introduction/1-overview.md)
-        + [PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Starten](../pwa/introduction/3-launch.md)
-        + [NACH OBEN](../pwa/introduction/4-upward.md)
-        + [Erste Schritte](../pwa/introduction/5-getting-started.md)
-        + [Wanderin](../pwa/introduction/6-peregrine.md)
-      + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
-      + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
-  + GraphQL und Rest {#graphql-rest}
-    + [Grundlagen zu GraphQL](../graphql-rest/intro-graphql.md)
-    + [Abfragen](../graphql-rest/graphql-queries.md)
-    + [Mutationen](../graphql-rest/graphql-mutations.md)
-    + [Schema](../graphql-rest/graphql-schema.md)
-  + Weitere App Builder-Tutorials und I/O-Events {#adobe-developer-app-builder}
-    + IO-Ereignisse für Adobe Commerce {#io-events}
-      + [Erste Schritte mit IO-Ereignissen](../io-events/getting-started-io-events.md)
-      + [Installation von Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Installation von Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Erstellen eines App Builder-Projekts](../io-events/create-app-builder-project.md)
-      + [Konfigurieren von Adobe Commerce](../io-events/configure-commerce.md)
-      + [Entwicklung von Adobe Commerce-Modulen](../io-events/commerce-module-development.md)
-      + [Bedingte Adobe Commerce-Ereignisse](../io-events/conditional-events.md)
-  + API-Mesh {#api-mesh}
-    + [API-Mesh-Starter-Kit mit GitHub-Codespaces](../api-mesh/starter-kit-github-codespaces.md)
-    + [Workflows für API Mesh-Starter-Kits](../api-mesh/starter-kit-workflows.md)
-    + [Erste Schritte mit API-Mesh](../api-mesh/getting-started-api-mesh.md)
-    + [Installieren des Adobe IO- und Mesh-Plug-ins](../api-mesh/installing-aio-mesh-plugin.md)
-    + [Arbeiten mit Projekten und Arbeitsbereichen](../api-mesh/aio-projects-workspaces.md)
-    + [GraphQL-API-Mesh aus einer Quelle erstellen](../api-mesh/graphql-single-source.md)
-    + [GraphQL-API-Mesh mit mehreren Quellen erstellen](../api-mesh/graphql-multiple-source.md)
+  + Headless-Architektur und PWA Studio {#headless-architecture}
+    + Einführung in Headless {#introduction-to-headless}
+      + [Headless-Architektur - Sitzung 1](../headless/session-1.md)
+    + Einführung in PWA Studio {#introduction}
+      + [Überblick](../pwa/introduction/1-overview.md)
+      + [PWA Studio-Tools](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Starten](../pwa/introduction/3-launch.md)
+      + [NACH OBEN](../pwa/introduction/4-upward.md)
+      + [Erste Schritte](../pwa/introduction/5-getting-started.md)
+      + [Wanderin](../pwa/introduction/6-peregrine.md)
+    + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
+    + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
 
 + Überwachung, Analysen und Support {#monitoring-analytics-support}
   + Beobachtbarkeit {#observability}
