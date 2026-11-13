@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '808'
 ht-degree: 0%
 ---
 # Einführung in App Builder
@@ -45,7 +45,7 @@ Bisher wurde bei der Adobe Commerce-Entwicklung die prozessinterne Erweiterbarke
 
 ## App Builder für Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432199?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder ist eine Server-lose Erweiterungsplattform für die Integration und Erstellung benutzerdefinierter Erlebnisse zur Erweiterung von Adobe-Lösungen. Sie ist jetzt für Adobe Commerce verfügbar. Mit App Builder können Sie sichere und skalierbare Apps erstellen, die Commerce-native Funktionen erweitern und mit Lösungen von Drittanbietern integrieren. Als Entwickler können Sie jetzt die Vorteile der prozessexternen Erweiterbarkeit mit Adobe Commerce nutzen, was sofortige und langfristige Vorteile bietet.
 
@@ -106,5 +106,9 @@ App Builder bietet Videos und Dokumentation für Entwicklerinnen und Entwickler,
 Sind Sie bereit, mit der Entwicklung zu beginnen? Der folgende Link enthält Beispielanwendungen, die Ihnen bei den ersten Schritten helfen:
 
 * [App Builder Code Labs auf der Adobe Developer-Website](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+
+## Angebotsspezifisches Beispiel
+
+Für eine auf App Builder aufbauende Adobe Commerce Optimizer-Integration folgen Sie dem [Salesforce Commerce Cloud-Starter Kit](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). Die Serie umfasst die Architektur, die Installation von Salesforce-Kassetten, das App Builder Starter Kit und eine umfassende Demonstration.
 
 {{$include /help/_includes/app-builder-related-links.md}}

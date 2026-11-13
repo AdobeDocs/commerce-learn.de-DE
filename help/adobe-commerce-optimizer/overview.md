@@ -32,9 +32,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 # Überblick über Adobe Commerce Optimizer
@@ -53,9 +53,19 @@ Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine le
 * Nahtlose Integration mit vorhandenen ERP-, CRM-, OMS- und anderen Systemen ohne erneute Plattform.
 * Skalierung digitaler Vorgänge
 
->[!VIDEO](https://video.tv.adobe.com/v/3450472?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+
+## Weiter lernen
+
+* [Adobe Commerce-Optionen vergleichen](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Erstellen der ersten Instanz von Adobe Commerce Optimizer](./create-first-instance.md)
+* [Verwalten von Adobe Commerce Optimizer-Instanzen](./managing-instances.md)
+* [Aufnehmen von Beispieldaten](./ingest-sample-data.md)
+* [Erste GraphQL-Abfrage ausführen](./first-query.md)
+* [Salesforce Commerce Cloud Starter Kit](./sfcc-starter-kit/overview.md)
+* [Zusammensetzbares Katalogdatenmodell](./composable-catalog-data-model/why-ccdm-exists.md)
 
 ## Zusätzliche Ressourcen
 
-[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
+[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 
