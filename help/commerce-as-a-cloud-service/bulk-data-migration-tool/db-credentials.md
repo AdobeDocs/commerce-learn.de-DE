@@ -43,4 +43,4 @@ Richten Sie die Quelldatenbankverbindung in Ihrer `.my.cnf` ein, bevor Sie das T
 * Verwenden Sie die Befehle des Magento Cloud CLI-Tunnels, um Host-, Benutzer-, Passwort-, Port- und Datenbankwerte abzurufen.
 * Überprüfen Sie die Host- und Port-Konnektivität, bevor Sie das Tool ausführen, wenn Ihre Quelle lokal ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496164?captions=ger&learn=on)

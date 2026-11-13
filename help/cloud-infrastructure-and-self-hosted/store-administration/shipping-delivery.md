@@ -56,7 +56,7 @@ Verwalten Sie Versand- und Liefermethoden, um Produkte an Ihre Kunden zu liefern
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411980?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 
