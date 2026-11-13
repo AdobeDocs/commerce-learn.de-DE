@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 205
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -56,9 +56,9 @@ Kunden benötigen manchmal Hilfe, um einen Kauf abzuschließen. Einige Kunden ka
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411978?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Kundenunterstützung bereitstellen - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=de)
-* [Shopping-Hilfe - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=de#shopping-assistance)
+* [Kundenunterstützung bereitstellen - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Shopping-Hilfe - Handbuch  [!DNL Commerce] Stores und Kauferlebnisse“](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

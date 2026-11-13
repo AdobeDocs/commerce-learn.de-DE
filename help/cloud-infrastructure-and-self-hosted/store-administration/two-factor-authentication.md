@@ -3,7 +3,7 @@ title: Zwei-Faktor-Authentifizierung
 description: Erfahren Sie, wie 2FA den Administrator in Adobe Commerce und Magento Open Source mit mehreren Anbietern und Anmeldemethoden schützt, die Sie für Ihre Teams benötigen können.
 doc-type: Feature Video
 duration: 422
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 feature: Configuration, System, Security
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -56,13 +56,13 @@ Um den unbefugten Zugriff auf Ihre Daten zu verhindern, müssen alle Benutzer, d
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/overview).
+>Der Inhalt im Video entspricht Version 2.4.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507686?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Zwei-Faktor-Authentifizierung (2FA)](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [Zwei-Faktor-Authentifizierungs-Setup für Benutzerkonten](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [Zwei-Faktor-Authentifizierung verwalten](https://experienceleague.adobe.com/de/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [Zwei-Faktor-Authentifizierung (2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [Zwei-Faktor-Authentifizierungs-Setup für Benutzerkonten](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [Zwei-Faktor-Authentifizierung verwalten](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [Konfigurieren der Zwei-Faktor-Authentifizierung (2FA) - Entwicklerdokumentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication)

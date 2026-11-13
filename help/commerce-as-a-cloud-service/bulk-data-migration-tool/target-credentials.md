@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 226
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22107
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -43,4 +43,4 @@ Legen Sie die URLs der Zielinstanz, die Adobe IMS-Anmeldeinformationen und die C
 * Rufen Sie die Adobe IMS-Client-ID und das Client-Geheimnis aus **Projekt** > **OAuth Server-zu-Server** in der Adobe Developer Console ab.
 * Kopieren Sie die Zielgruppen-Organisations-ID und konfigurieren Sie den CDMS-Host, den Port und die lokalen Server-Einstellungen so, dass sie zu Ihrer Umgebung passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496174?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
