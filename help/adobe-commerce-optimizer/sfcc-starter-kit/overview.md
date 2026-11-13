@@ -57,4 +57,4 @@ Erfahren Sie mehr über den Commerce Optimizer Salesforce Commerce Cloud Connect
 3. [App Builder Starter Kit](./app-builder-starter-kit.md)
 4. [End-to-End-Demonstration](./end-to-end-demo.md)
 
-Informationen zu freigegebenen App Builder-Konzepten finden Sie unter [Einführung in App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
+Informationen zu freigegebenen App Builder-Konzepten finden Sie unter [Einführung in App Builder](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
