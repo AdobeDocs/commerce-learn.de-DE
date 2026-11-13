@@ -57,7 +57,7 @@ Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine le
 
 ## Weiter lernen
 
-* [Adobe Commerce-Optionen vergleichen](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce-Optionen vergleichen](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [Erstellen der ersten Instanz von Adobe Commerce Optimizer](./create-first-instance.md)
 * [Verwalten von Adobe Commerce Optimizer-Instanzen](./managing-instances.md)
 * [Aufnehmen von Beispieldaten](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer erweitert bestehende Commerce-Plattformen durch eine le
 
 ## Zusätzliche Ressourcen
 
-[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[Handbuch zu [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/de/docs/commerce/optimizer/overview){target="_blank"}
 
