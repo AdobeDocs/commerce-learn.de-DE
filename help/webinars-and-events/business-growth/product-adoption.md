@@ -2,7 +2,7 @@
 title: Vereinfachen der Adobe Commerce-Migration mit KI-Tools
 description: Erfahren Sie, wie Adobe Commerce die Cloud-Migration mit KI-Tools, modularer Anpassung und schneller Entwicklung für skalierbares Geschäftswachstum optimiert.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # Unternehmenswachstum durch vereinfachte Einführung neuer Produkte
@@ -63,4 +63,10 @@ Adobe Commerce erleichtert das Wachstum von Unternehmen, indem es ihnen den schr
 * Die Erweiterbarkeit von App Builder ermöglicht die Entkopplung benutzerdefinierter Logik in Server-lose Funktionen, wodurch die Wartung vereinfacht wird.
 * Storefront-Verbesserungen verbessern die Leistung und Inhaltserstellung mit Dropdown-Komponenten und Edge-Bereitstellung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475757?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## Verwandte Tutorials
+
+* [Migrieren zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Einführung in App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

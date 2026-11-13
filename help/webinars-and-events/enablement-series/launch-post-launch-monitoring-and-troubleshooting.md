@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Launch, Post Launch und fortlaufende Überwachung und Fehlerbehebung
-description: Erfahren Sie mehr über Best Practices und Tipps zum Vorbereiten und Starten einer Website. Erfahren Sie mehr über die Auswahl der richtigen Staging-Umgebung, die Bereitstellung relevanter Details in Support-Tickets und die Verwendung desselben Überwachungs-Tools wie das Support-Team für eine bessere Kommunikation.
+title: Starten, Überwachen und Fehlerbehebung in Adobe Commerce Cloud
+description: Erfahren Sie, wie Sie Adobe Commerce Cloud mithilfe von Staging-Umgebungen, detaillierten Support-Tickets und gemeinsamen Überwachungs-Tools vorbereiten, starten, überwachen und Fehler beheben können.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -41,9 +41,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '388'
 ht-degree: 0%
 ---
 # Starten, Überwachen und Fehlerbehebung in Adobe Commerce Cloud
@@ -66,5 +66,11 @@ Dieses Webinar bietet verschiedene Best Practices und Tipps zum Vorbereiten und 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## Verwandte Tutorials
+
+* [Cloud-Infrastruktur und Self-Hosting: Checkliste vor der Markteinführung](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Cloud-Infrastruktur und Self-Hosting: New Relic-Warnhinweise](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Erstellen eines Support-Tickets](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

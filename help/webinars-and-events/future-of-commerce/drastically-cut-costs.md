@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # Drastisch reduzierte Kosten
@@ -52,6 +52,12 @@ Die Cloud-native Plattform von Adobe Commerce ermöglicht Unternehmen die Reduzi
 * Flexible Integrationen - Einfache Verbindung mit ERP, CRM und mehr mithilfe von APIs und Accelerators.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
+
+## Verwandte Tutorials
+
+* [Übersicht über Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Einführung in App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Erste Schritte mit API-Mesh](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## Weitere Videos in dieser Reihe
 
