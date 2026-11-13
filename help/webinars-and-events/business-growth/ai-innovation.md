@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1449
-last-substantial-update: 2025-10-10T00:00:00.000Z
+last-substantial-update: 2025-10-10
 jira: KT-19376
 exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
 TQID: 'https://experienceleague.adobe.com/KAmLP-EQhBLLUC3U9ykcOV6ZEFiv8Dj5swc3w2CkjTU'
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
 ---
 # Unternehmenswachstum mit KI-Innovation
@@ -76,5 +76,5 @@ Erfahren Sie, wie Adobe Commerce den eCommerce mit innovativen KI-Lösungen und 
 ## Verwandte Tutorials
 
 * [Übersicht über Commerce MCP](https://experienceleague.adobe.com/de/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Lernpfad für Commerce Developer Agent](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: Zusammensetzbares Katalogdatenmodell](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Lernpfad für Commerce Developer Agent](https://experienceleague.adobe.com/de/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: Zusammensetzbares Katalogdatenmodell](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
