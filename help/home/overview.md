@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Commerce] Videos und Tutorials'
 description: Eine Videosammlung und Tutorials für Adobe Commerce und Magento Open Source
-last-substantial-update: 2023-01-19T00:00:00.000Z
+last-substantial-update: 2026-11-13
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
 old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-duration: 29
+duration: 76
 TQID: 'https://experienceleague.adobe.com/vKBZdCBWH5s8AspGVsCkbJ2cDD-L81ZFxbMjbt3X7Uc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -54,14 +54,23 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '387'
 ht-degree: 0%
 ---
 # Commerce-Tutorials {#videos}
 
-Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verwendung dieser Ressourcen zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/commerce.html?lang=de) können Sie lernen, wie Sie Adobe Commerce und Magento Open Source zur Unterstützung Ihres E-Commerce-Geschäfts verwenden können. Die Sammlung bietet hilfreiche Inhalte für Backend-Entwickler, Frontend-Entwickler, Systemadministratoren, Händler und andere Rollen in Ihrem Unternehmen.
+Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Hier finden Sie exemplarische Vorgehensweisen zu Produkten, praktische Demonstrationen, schrittweise technische Tutorials und aufgezeichnete Diskussionen mit Commerce-Experten. Diese Ressourcen helfen Entwicklern, Architekten, Systemadministratoren und Händlern, Funktionen zu verstehen, Lösungen zu implementieren und ihr Commerce-Geschäft zu verwalten.
+
+Beginnen Sie mit dem Angebot, das zu Ihrem Projekt passt: Adobe Commerce as a Cloud Service, Adobe Commerce Optimizer, Adobe Commerce on Cloud Infrastructure, Self-Hosting Adobe Commerce oder Magento Open Source. Verwenden Sie das Inhaltsverzeichnis, um ein Angebot oder ein gemeinsames Thema zu erkunden. Funktionen, Voraussetzungen und Implementierungsschritte variieren je nach Angebot.
+
+* **Planen und modernisieren:** Vergleichen Sie Commerce-Optionen, erkunden Sie Architektur- und Bereitstellungsansätze und lernen Sie Best Practices für Migration, Projektplanung und Implementierung kennen.
+* **Erstellen und integrieren:** Entwickeln mit App Builder, GraphQL, REST, API Mesh, Ereignissen und Webhooks. Erkunden Sie Backoffice-Integrationen und die Entwicklung von Storefronts, einschließlich Edge Delivery Services.
+* **Verwalten und betreiben:** Erfahren Sie mehr über Store-Verwaltung, Kataloge, Inhalte, Marketing, Merchandising, B2B-Workflows und Zahlungen. Hier finden Sie Anleitungen zu Cloud-Vorgängen, Überwachung, Analyse, Leistung und Fehlerbehebung.
+* **Erkunden von Optimizer und KI:** Erkunden von [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)-Tutorials für Katalog- und Storefront-Funktionen. Befolgen Sie das [KI und Agent Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)-Handbuch für die semantische Suche, Commerce MCP und Entwickler-Workflows.
+
+Weitere Informationen zu Implementierungsperspektiven, Produktaktualisierungen und Geschäftsbesprechungen finden Sie im Handbuch [Webinare und Veranstaltungen](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation) . Verwenden Sie die Videos und Tutorials zusammen mit der Dokumentation zu [Commerce](https://experienceleague.adobe.com/en/docs/commerce) um detaillierte Anforderungen und Referenzinformationen zu erhalten.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +81,12 @@ Willkommen in der Sammlung [!DNL Commerce] Videos und Tutorials . Durch die Verw
 
 >[!TIP]
 >
->Der Bereich [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=de) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
+>Der Bereich [Commerce Events](https://experienceleague.adobe.com/en/events) bietet Zugriff auf aufgezeichnete Ereignisinhalte, die Sie sich bei Bedarf ansehen können.
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation für Händler](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=de)
-* [Entwicklerdokumentation](https://developer.adobe.com/commerce)
-* [Adobe Digital Learning Services - Adobe Commerce-Kurskatalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
-
+* [Dokumentation zu Commerce](https://experienceleague.adobe.com/en/docs/commerce) - Produkthandbücher und Referenzinformationen für Commerce-Angebote.
+* [Händlerdokumentation](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) - Speichereinrichtung und -verwaltung für Cloud-Infrastrukturen und Self-Hosting-Bereitstellungen.
+* [Entwicklerdokumentation](https://developer.adobe.com/commerce/) - APIs, SDKs, Integrationen und Erweiterungsressourcen.
+* [Commerce Knowledge Base](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) - Artikel zur Fehlerbehebung, bekannte Probleme und Support-Anleitungen.
+* [Experience League-Kurse](https://experienceleague.adobe.com/en/courses?product=Commerce) - Strukturiertes Lernen auf Experience League.

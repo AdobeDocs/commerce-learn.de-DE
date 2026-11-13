@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie in Videos und Tutorials mehr über Adobe Co
 breadcrumb-title: Videos und Tutorials
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1137'
 ht-degree: 2%
 ---
 
@@ -42,6 +42,23 @@ ht-degree: 2%
     + [Target-Anmeldedaten](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Einphasige Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Mehrphasen-Migration](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+  + [Überblick](../adobe-commerce-optimizer/overview.md)
+  + [Erstellen der ersten Instanz von Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
+  + [Verwalten von Adobe Commerce Optimizer-Instanzen](../adobe-commerce-optimizer/managing-instances.md)
+  + [Aufnehmen von Beispieldaten](../adobe-commerce-optimizer/ingest-sample-data.md)
+  + [Erste Abfrage mit GraphQL](../adobe-commerce-optimizer/first-query.md)
+  + Salesforce Commerce Cloud Starter Kit {#sfcc-starter-kit}
+    + [Überblick](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+    + [Überblick über die Architektur](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+    + [Installation der SFCC-Patrone](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+    + [App Builder-Starter-Kit](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+    + [End-to-End-Demo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
+  + Zusammensetzbares Katalogdatenmodell {#composable-catalog-data-model}
+    + [Warum CCDM existiert](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+    + [Informationen zu Katalogansichten](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+    + [Informationen zu CDM-Richtlinien](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-ccdm-policies.md)
+
 + Cloud-Infrastruktur und Self-Hosting {#cloud-infrastructure-and-self-hosted}
   + Plattform und Migration {#platform-and-migration}
     + [Marktstruktur](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
@@ -160,7 +177,7 @@ ht-degree: 2%
       + [Preisnachlässe bei Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notizen zu Angebotspositionen](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Anwendungsentwicklung und Upgrades {#application-development-and-upgrades}
-    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=de)
+    + [Best Practices für das Ändern von Datenbanktabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Erstellen eines Moduls](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Produktattribut hinzufügen](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Beispiel für eine Injektion von Abhängigkeiten](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -178,7 +195,6 @@ ht-degree: 2%
       + [Massenpakete](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Separate Packages](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
-+ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 + App Builder {#app-builder}
   + Fundament {#foundations}
@@ -262,7 +278,7 @@ ht-degree: 2%
 
 + Erweiterbarkeit {#extensibility}
   + Commerce-Entwickleragent {#commerce-developer-agent}
-    + [Lernpfad für Entwickleragenten](https://experienceleague.adobe.com/de/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Lernpfad für Entwickleragenten](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Storefront-Entwicklung {#storefront-development}
   + Commerce-Storefront auf Edge Delivery Services {#edge-delivery-services}
@@ -297,7 +313,7 @@ ht-degree: 2%
     + [PWA Docker-Entwicklung](../pwa/pwa-docker-development.md)
     + [Einrichten von Venia für die Entwicklung](../pwa/set-up-venia-for-dev.md)
 
-+ [KI und agentischer Handel](https://experienceleague.adobe.com/de/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
++ [KI und agentischer Handel](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 
 + Überwachung, Analysen und Support {#monitoring-analytics-support}
   + Beobachtbarkeit {#observability}
@@ -318,4 +334,4 @@ ht-degree: 2%
     + [Support-Tickets suchen, überprüfen, kommentieren und eskalieren](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Support-Ticket-Beobachter und -Status verwalten](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ [Webinare und Veranstaltungen](https://experienceleague.adobe.com/de/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
++ [Webinare und Veranstaltungen](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
