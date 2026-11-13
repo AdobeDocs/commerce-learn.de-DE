@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Benutzer von B2B-Unternehmenskonten bis zu einem 
 doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Firmenkredite verwalten
 
-Unternehmen, die _[!UICONTROL Payment on Account]_&#x200B;aktiviert haben und Firmenkredite zur Verfügung haben, können bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
+Unternehmen, die _[!UICONTROL Payment on Account]_aktiviert haben und Firmenkredite zur Verfügung haben, können bis zum gewährten Kreditlimit auf ihrem Konto Einkäufe tätigen. Mit dieser Funktion können Kundinnen und Kunden den Status ihrer Firmenkredite über ihr Konto-Dashboard überprüfen.
 
 Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter festgelegt werden:
 
@@ -70,9 +70,9 @@ Für jedes Unternehmensprofil können die folgenden kreditbezogenen Parameter fe
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411352?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Firmenkredite verwalten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/credit-company)
+* [Konfigurieren der Zahlung auf Konto](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Firmenkredite verwalten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

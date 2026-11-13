@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00.000Z
+last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
 TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1127'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Das Magento-Cloud-CLI-Tool unterstützt Entwickler und Systemadministratoren bei
 
 In diesem ersten Abschnitt des Beispiel-Codes fordert `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` die URL für die Umgebung an. Der zurückgegebene Wert sieht in etwa wie `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/` aus. Ab und zu sieht es mehr so aus wie dieses `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Dieser erste Befehl ist recht einfach, und jetzt ist es an der Zeit, mit dem nächsten Befehl fortzufahren.
 
-Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Weitere Informationen finden Sie unter [Cloud-CLI - Übersicht](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Verwenden von `sed` für Suchen und Ersetzen
 
@@ -140,4 +140,4 @@ Diese Umgebungen auf niedrigerer Ebene sind mandantenfähig und teilen die zugru
 
 ## Verwandte Dokumentation
 
-* [Regionale IP-Adressen](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Regionale IP-Adressen](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

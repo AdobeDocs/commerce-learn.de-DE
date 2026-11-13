@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 348
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -56,10 +56,10 @@ Adobe Commerce verwendet Attribute, um die mit Produkten, Kunden und Produktbewe
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411959?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## Zusätzliche Ressourcen
 
-[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=de)
+[Übersicht über Produktattribute - [!DNL Commerce]  Handbuch für die Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[Attributsätze - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=de)
+[Attributsätze - [!DNL Commerce]  Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

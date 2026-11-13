@@ -4,7 +4,7 @@ description: Erfahren Sie, wie das Upgrade-Kompatibilitäts-Tool Versionsinkompa
 jira: KT-9983
 doc-type: Technical Video
 duration: 398
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer, Admin
@@ -36,7 +36,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.962Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -53,7 +53,7 @@ In diesem Video:
 * So können Sie schnell die Fehler und Fehlerbehebungen ermitteln, die für ein Upgrade auf eine neuere Adobe Commerce-Version erforderlich sind
 * Um Module nach Schweregrad und Anzahl der Inkompatibilitäten zu visualisieren, greifen Sie auf die HTML-Ergebnisse zu
 
-Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/de/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Weitere Informationen zur Durchführung und Vereinfachung Ihrer Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/de/docs/commerce-operations/upgrade-guide/overview).
+Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Weitere Informationen zur Durchführung und Vereinfachung Ihrer Upgrades finden Sie im [Upgrade-Handbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview).
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -62,11 +62,11 @@ Weitere Informationen zum Tool finden Sie in der [Dokumentation zum Upgrade-Komp
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3409509?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/de/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
-* [Aktualisierungshandbuch](https://experienceleague.adobe.com/de/docs/commerce-operations/upgrade-guide/overview)
-* [Veröffentlichte Versionen](https://experienceleague.adobe.com/de/docs/commerce-operations/release/versions)
-* [Veröffentlichungszeitplan](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/schedule)
+* [Dokumentation zum Upgrade-Kompatibilitäts-Tool](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
+* [Aktualisierungshandbuch](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)
+* [Veröffentlichte Versionen](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)
+* [Veröffentlichungszeitplan](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)

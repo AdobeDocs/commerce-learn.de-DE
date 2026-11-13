@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie B2B-Unternehmenskonten in Adobe Commerce verw
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 ---
 # Verwalten von Unternehmenskonten
 
-Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
+Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_alle aktuellen Unternehmenskonten und deren Status aufgelistet. Hier können Sie Ihre Unternehmenskonten verwalten. Alle ausstehenden Genehmigungsanfragen werden oben in der Liste angezeigt. Mit den standardmäßigen Arbeitsplatzsteuerelementen können Sie die Liste filtern, das Spaltenlayout ändern, Ansichten speichern und Daten exportieren.
 
 {{b2b-feature}}
 
@@ -63,9 +63,9 @@ Für B2B-Händler werden auf der Seite _[!UICONTROL Companies]_&#x200B;alle aktu
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3411354?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Unternehmenskonten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/de/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Unternehmenskonten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Verwalten von Unternehmenskonten](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

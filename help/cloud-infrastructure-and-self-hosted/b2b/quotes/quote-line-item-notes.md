@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie in Adobe Commerce Versionshinweise zu einem B
 doc-type: Technical Video
 duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Positionsnotizen für ein Adobe Commerce B2B-Angebot verwenden.
 
-Informationen zum API-Workflow finden [&#x200B; unter „Angebotspositionshinweise mit REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md).
+Informationen zum API-Workflow finden [ unter „Angebotspositionshinweise mit REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md).
 
 {{b2b-feature}}
 
@@ -63,6 +63,6 @@ Informationen zum API-Workflow finden [&#x200B; unter „Angebotspositionshinwei
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3423692?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
