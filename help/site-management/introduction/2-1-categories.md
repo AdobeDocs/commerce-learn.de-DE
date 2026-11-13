@@ -47,7 +47,7 @@ In diesem Video:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/35950?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330024?captions=ger&learn=on)
 
 ## Zusätzliche Ressourcen
 

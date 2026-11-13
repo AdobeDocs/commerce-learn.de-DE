@@ -52,4 +52,4 @@ Erfahren Sie mehr über den Adobe Commerce-Experten success plan. Erfahren Sie m
 * Drei Support-Kanäle.
 * Service-Level-Ziele.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505674?captions=ger&learn=on)

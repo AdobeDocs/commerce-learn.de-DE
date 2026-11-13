@@ -52,7 +52,7 @@ Erfahren Sie, wie Adobe Commerce digitale Storefronts mit hochmodernen Tools tra
 * Entwicklerfertige Komponenten und SDK
 * Integrierte Tools für die visuelle Bearbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505723?captions=ger&learn=on)
 
 ## Verwandte Tutorials
 
