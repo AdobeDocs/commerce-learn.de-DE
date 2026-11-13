@@ -67,6 +67,6 @@ Adobe Commerce erleichtert das Wachstum von Unternehmen, indem es ihnen den schr
 
 ## Verwandte Tutorials
 
-* [Migrieren zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
-* [Einführung in App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Migrieren zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Einführung in App Builder](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

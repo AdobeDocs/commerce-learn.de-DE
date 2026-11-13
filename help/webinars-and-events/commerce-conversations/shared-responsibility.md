@@ -61,12 +61,12 @@ Erfahren Sie, wie Adobe und Händler gemeinsam für die Sicherheit in Adobe Comm
 
 ## Zusätzliche Dokumentation
 
-* [Versionshinweise zum Sicherheits-Patch](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
-* [Benachrichtigungskanäle](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe-Sicherheitsbulletins](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Sichern Ihrer Commerce-Site und -Infrastruktur](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Versionshinweise zum Sicherheits-Patch](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/security-patches/overview)
+* [Benachrichtigungskanäle](https://business.adobe.com/de/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe-Sicherheitsbulletins](https://helpx.adobe.com/de/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Sichern Ihrer Commerce-Site und -Infrastruktur](https://experienceleague.adobe.com/de/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## Verwandte Tutorials
 
-* [Cloud-Infrastruktur und Self-Hosting: Bereitstellung, Tests, Überwachung und Sicherheit](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [Cloud-Infrastruktur und Self-Hosting: Checkliste vor der Markteinführung](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Cloud-Infrastruktur und Self-Hosting: Bereitstellung, Tests, Überwachung und Sicherheit](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [Cloud-Infrastruktur und Self-Hosting: Checkliste vor der Markteinführung](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

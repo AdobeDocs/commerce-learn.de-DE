@@ -85,7 +85,7 @@ Darüber hinaus wird in diesem Webinar die Flexibilität und Innovationskraft vo
 
 ## Verwandte Tutorials
 
-* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Anpassen des Checkouts in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Anpassen des Checkouts in Edge Delivery Services](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -62,8 +62,8 @@ Erfahren Sie, wie Adobe Commerce Unternehmen in die Lage versetzt, ihre digitale
 
 ## Verwandte Tutorials
 
-* [Adobe Commerce Optimizer: Katalogansichten](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
-* [Adobe Commerce as a Cloud Service: Katalogverwaltung und Merchandising](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
+* [Adobe Commerce Optimizer: Katalogansichten](https://experienceleague.adobe.com/de/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service: Katalogverwaltung und Merchandising](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Weitere Videos in dieser Reihe
 

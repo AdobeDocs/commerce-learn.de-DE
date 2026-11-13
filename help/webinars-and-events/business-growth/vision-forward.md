@@ -89,6 +89,6 @@ In der Adobe Commerce-Roadmap für 2026 wird eine umfassende Strategie zur Steig
 
 ## Verwandte Tutorials
 
-* [Datenverbindung](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Übersicht über die Beobachtbarkeit](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Einführung in App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Datenverbindung](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Übersicht über die Beobachtbarkeit](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Einführung in App Builder](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
