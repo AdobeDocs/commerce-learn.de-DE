@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 816
-last-substantial-update: 2025-05-16T00:00:00.000Z
+last-substantial-update: 2025-05-16
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
 TQID: 'https://experienceleague.adobe.com/qKPOl-FmaMKvLomLiSlzzDegyZXDfKeS6Xvv1cZlEX4'
@@ -28,7 +28,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -52,13 +52,13 @@ Erfahren Sie, wie Adobe Commerce digitale Storefronts mit hochmodernen Tools tra
 * Entwicklerfertige Komponenten und SDK
 * Integrierte Tools für die visuelle Bearbeitung
 
->[!VIDEO](https://video.tv.adobe.com/v/3505723?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
 ## Verwandte Tutorials
 
-* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: Erstellung generativer KI-Inhalte](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: Experimentieren mit Storefronts](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: Erstellung generativer KI-Inhalte](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: Experimentieren mit Storefronts](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Weitere Videos in dieser Reihe
 

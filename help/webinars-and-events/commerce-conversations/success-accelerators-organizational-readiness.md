@@ -1,13 +1,13 @@
 ---
 title: Vorbereitung auf den Unternehmenserfolg von Accelerators
-description: Erfahren Sie mehr über die Erfolgsbeschleuniger von Adobe für die organisatorische Vorbereitung. Die Bereitschaft der Commerce Success Accelerator-Organisation hilft bei strategischer Planung, Workflows, Änderungsmanagement und digitaler Überprüfung.
+description: Erfahren Sie, wie Adobe Commerce Success Accelerators die organisatorische Bereitschaft durch strategische Planung, Workflows, Änderungsmanagement und digitale Überprüfung unterstützen.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00.000Z
+last-substantial-update: 2025-04-29
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
 TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
@@ -35,9 +35,9 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Organisatorische Bereitschaft für Erfolgsbeschleuniger
@@ -57,4 +57,4 @@ Erfahren Sie mehr über die Erfolgsbeschleuniger von Adobe für die organisatori
 * Veränderungsmanagement und Kommunikationsstrategien
 * Digitale Überprüfung und Benchmarking
 
->[!VIDEO](https://video.tv.adobe.com/v/3505737?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
