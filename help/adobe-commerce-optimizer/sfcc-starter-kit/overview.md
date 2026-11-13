@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '209'
 ht-degree: 0%
 ---
 # Informationen zum Salesforce Commerce Cloud Starter Kit
@@ -49,3 +49,12 @@ Erfahren Sie mehr über den Commerce Optimizer Salesforce Commerce Cloud Connect
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473987?captions=ger&learn=on)
 
+
+## Fortsetzung der Starter-Kit-Serie
+
+1. [Überblick über die Architektur](./architecture-overview.md)
+2. [Installieren der SFCC-Patrone](./installation-sfcc-cartridge.md)
+3. [App Builder Starter Kit](./app-builder-starter-kit.md)
+4. [End-to-End-Demonstration](./end-to-end-demo.md)
+
+Informationen zu freigegebenen App Builder-Konzepten finden Sie unter [Einführung in App Builder](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
