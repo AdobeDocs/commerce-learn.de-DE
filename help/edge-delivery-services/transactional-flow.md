@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 525
-last-substantial-update: 2024-12-16T00:00:00.000Z
+last-substantial-update: 2024-12-16
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
 TQID: 'https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg'
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Erfahren Sie, wie Sie mit der Dropdown-Liste &quot;Adobe Commerce-Warenkorb“ d
 * Flexibilität bei A/B-Tests. Konfigurationen über SharePoint ermöglicht es Marketing-Experten, diese Funktionen zu steuern und zu testen.
 * Verbesserte Marketing-Kontrolle. Einfaches Verwalten und Testen von Konfigurationen, wodurch das Benutzererlebnis und die Marketing-Effektivität verbessert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442360?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Zusätzliche Dokumentation
 

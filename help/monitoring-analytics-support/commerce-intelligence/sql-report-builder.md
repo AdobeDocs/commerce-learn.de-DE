@@ -8,7 +8,7 @@ level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
 solution: Adobe Commerce
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Mit Adobe Commerce Intelligence SQL Report Builder können Sie Ihr Data Warehous
 
 >[!TIP]
 >
-> Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird im [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de){target="_blank"} erläutert, wie Sie Daten aggregieren, analysieren und visualisieren können, um bessere Geschäftserkenntnisse zu erhalten.
+> Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, wird im [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} erläutert, wie Sie Daten aggregieren, analysieren und visualisieren können, um bessere Geschäftserkenntnisse zu erhalten.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -65,9 +65,9 @@ Mit Adobe Commerce Intelligence SQL Report Builder können Sie Ihr Data Warehous
 * Erstellen einer Visualisierung aus den Abfrageergebnissen
 * Speichern Sie den Bericht in einem Dashboard für Ihr Team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413528?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
 
 ## Nützliche Ressourcen
 
-* [Verwenden von SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=de){target="_blank"} (Commerce Intelligence-Benutzerhandbuch)
-* [Erstellen von Visualisierungen aus SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=de){target="_blank"}Abfragen (Commerce Intelligence-Benutzerhandbuch)
+* [Verwenden von SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (Commerce Intelligence-Benutzerhandbuch)
+* [Erstellen von Visualisierungen aus SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"}Abfragen (Commerce Intelligence-Benutzerhandbuch)

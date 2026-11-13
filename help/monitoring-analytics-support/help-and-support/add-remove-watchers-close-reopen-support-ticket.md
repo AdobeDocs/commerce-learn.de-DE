@@ -7,7 +7,7 @@ role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 173
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
 TQID: 'https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54'
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Erfahren Sie, wie Sie in Adobe Experience League für Adobe Commerce Beobachter 
 * Informationen zum Schließen eines Support-Tickets
 * Erfahren Sie, wie Sie ein Support-Ticket erneut öffnen
 
->[!VIDEO](https://video.tv.adobe.com/v/3441361?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Handbuch zum Commerce Knowledge Base-Adobe-Hilfezentrum
 
-[Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

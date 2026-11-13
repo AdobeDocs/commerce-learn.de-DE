@@ -9,7 +9,7 @@ duration: 515
 solution: Adobe Commerce
 audience: all
 activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2023-02-10
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -65,7 +65,7 @@ In diesem Video:
 
 >[!TIP]
 >
->Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
+>Wenn Sie Commerce Intelligence noch nicht kennen, bietet das [Adobe Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 ## Für wen ist dieses Video bestimmt?
 
@@ -74,10 +74,10 @@ In diesem Video:
 
 ## Videoinhalt
 
->[!VIDEO](https://video.tv.adobe.com/v/3413527?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342408?learn=on)
 
 ## Nützliche Ressourcen
 
-[Erstellen von Filtersätzen - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=de)
+[Erstellen von Filtersätzen - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Empfohlene Datendimensionen für Segmentierung und Filterung - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=de)
+[Empfohlene Datendimensionen für Segmentierung und Filterung - Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
