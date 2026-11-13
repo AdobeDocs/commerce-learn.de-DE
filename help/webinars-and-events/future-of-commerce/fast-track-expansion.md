@@ -58,7 +58,7 @@ Erfahren Sie, wie Adobe Commerce Unternehmen in die Lage versetzt, ihre digitale
 * Nahtlose Integration von Produktsortimenten von Erst- und Drittanbietern
 * Beschleunigte Entwicklung der Storefront mit Drop-ins und Designs
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505307?captions=ger&learn=on)
 
 ## Verwandte Tutorials
 
