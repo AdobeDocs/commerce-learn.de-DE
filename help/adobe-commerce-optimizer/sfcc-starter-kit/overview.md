@@ -47,7 +47,7 @@ Erfahren Sie mehr über den Commerce Optimizer Salesforce Commerce Cloud Connect
 * Erfahren Sie mehr über den Zweck des Salesforce Commerce Cloud Integration Starter Kits.
 * Informationen zur Installation des Starter Kits
 
->[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473987?captions=ger&learn=on)
 
 
 ## Fortsetzung der Starter-Kit-Serie
