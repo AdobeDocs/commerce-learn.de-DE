@@ -56,9 +56,9 @@ Erfahren Sie, wie Adobe Commerce digitale Storefronts mit hochmodernen Tools tra
 
 ## Verwandte Tutorials
 
-* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: Erstellung generativer KI-Inhalte](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: Experimentieren mit Storefronts](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [Commerce-Storefront auf Edge Delivery Services: Kundenerlebnis](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: Erstellung generativer KI-Inhalte](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: Experimentieren mit Storefronts](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Weitere Videos in dieser Reihe
 

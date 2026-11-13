@@ -54,6 +54,6 @@ Adobe Commerce Success Accelerators umfassen Services wie technische Bereitschaf
 
 ## Verwandte Tutorials
 
-* [Cloud-Infrastruktur und Self-Hosting: Checkliste vor der Markteinführung](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Übersicht über die Beobachtbarkeit](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Erstellen eines Support-Tickets](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Cloud-Infrastruktur und Self-Hosting: Checkliste vor der Markteinführung](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Übersicht über die Beobachtbarkeit](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Erstellen eines Support-Tickets](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
