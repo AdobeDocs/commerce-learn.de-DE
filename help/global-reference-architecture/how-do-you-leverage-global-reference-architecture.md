@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # Nutzung der globalen Referenzarchitektur
+
+>[!NOTE]
+>
+>Diese Serie behandelt Adobe Commerce auf Cloud-Infrastruktur und Self-Hosting-Bereitstellungen.
 
 Erfahren Sie, wie Sie die globale Referenzarchitektur für GRA nutzen. Um einen GRA besser für eine erfolgreiche Implementierung vorzubereiten, besprechen die Adobe-Experten die verschiedenen Projektphasen und gehen detailliert auf die Discovery-Phase ein. QA-Ressourcen werden besprochen und erklären, warum sie eine wertvolle Ressource für eine GRA-Implementierung sind.
 

@@ -1,6 +1,6 @@
 ---
 title: Wie wird die globale Referenzarchitektur erstellt?
-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur entwerfen. Lernen Sie Techniken und Ideen kennen, um sicherzustellen, dass Ihr Projekt für eine globale Referenzarchitektur auf dem richtigen Weg beginnt
+description: Erfahren Sie, wie Sie eine globale Referenzarchitektur für Adobe Commerce erstellen, einschließlich Code-Management-Techniken, Dokumentation, Tools und Team-Zuständigkeiten.
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # Architektur für GRA
+
+>[!NOTE]
+>
+>Diese Serie behandelt Adobe Commerce auf Cloud-Infrastruktur und Self-Hosting-Bereitstellungen.
 
 Erfahren Sie, wie Sie eine globale Referenzarchitektur (kurz: GRA) erstellen. Um eine GRA besser auf eine erfolgreiche Implementierung vorzubereiten, besprechen die Adobe-Experten, was eine GRA ist und was nicht. Eine ausführliche Erläuterung der Code-Verwaltung mithilfe separater Pakete, Split-Git und MonoRepo. Weitere Themen rund um Dokumentation, Tools und Personalerwartungen werden diskutiert, um ihre Teile für eine erfolgreiche GRA-Implementierung auszuarbeiten.
 

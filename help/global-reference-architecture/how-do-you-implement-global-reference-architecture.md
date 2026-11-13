@@ -1,6 +1,6 @@
 ---
 title: Implementieren der globalen Referenzarchitektur
-description: Erfahren Sie, wie Sie eine globale Referenzarchitektur implementieren. Erfahren Sie, wie Sie Ihre Websites verteilen können, welche Schlüssel Sie für den Erfolg benötigen und welche Rollen Sie benötigen, um sicherzustellen, dass Ihr Projekt für eine globale Referenzarchitektur auf dem richtigen Weg beginnt.
+description: Erfahren Sie, wie Sie die globale Referenzarchitektur für Adobe Commerce implementieren, einschließlich Website-Verteilung, Erfolgsfaktoren, Funktionsentwicklung und Teamrollen.
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Implementieren der globalen Referenzarchitektur
+
+>[!NOTE]
+>
+>Diese Serie behandelt Adobe Commerce auf Cloud-Infrastruktur und Self-Hosting-Bereitstellungen.
 
 Erfahren Sie, wie Sie die globale Referenzarchitektur (GRA) implementieren. Erfahren Sie mehr über frühe Entscheidungen, die beim Einrichten einer erfolgreichen GA helfen. Erhalten Sie Ideen, wie Sie Ihre Websites trennen, Schlüssel zum Erfolg und einige Konzepte für die organisierte Entwicklung von Funktionen.
 
