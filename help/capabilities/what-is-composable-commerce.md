@@ -108,7 +108,7 @@ Die von Edge Delivery Services unterstützte Commerce-Storefront bietet die Eben
 
 Unterscheiden Sie die Storefront-Oberfläche von den Systemen, die für Katalogdaten, Preise, Warenkorbvorgänge, Checkout und Bestellungen verantwortlich sind. Edge Delivery Services ersetzt nicht das Transaktions-Commerce-Backend. Identifizieren Sie die unterstützten Services und den Integrationspfad für Ihr ausgewähltes Backend, bevor Sie die Storefront implementieren.
 
-Siehe die Dokumentation zur Commerce-Storefront [](https://experienceleague.adobe.com/en/tools/commerce-storefront/).
+Siehe die Dokumentation zur Commerce-Storefront [&#128279;](https://experienceleague.adobe.com/en/tools/commerce-storefront/).
 
 ## Integration und Erweiterbarkeit
 
