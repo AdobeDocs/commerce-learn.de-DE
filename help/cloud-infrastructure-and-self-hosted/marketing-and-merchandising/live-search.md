@@ -71,5 +71,5 @@ Dies ist eine kurze Einführung in [!DNL Live Search] aus Adobe Commerce. [!DNL 
 
 * [Vollständige Demonstration zur Live-Suche](live-search-full-demonstration.md){target="_blank"}
 * [[!DNL Live Search] für Empfehlungen](live-search-recommendations.md){target="_blank"}
-* [Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [Übersicht über [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=de){target="_blank"}
+* [Commerce Services-Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=de){target="_blank"}
