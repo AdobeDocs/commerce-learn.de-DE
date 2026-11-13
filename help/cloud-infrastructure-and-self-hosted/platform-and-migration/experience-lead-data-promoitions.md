@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 1345
-last-substantial-update: 2024-09-09T00:00:00.000Z
+last-substantial-update: 2024-09-09
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
 TQID: 'https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc'
@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Entdecken Sie die leistungsstarken Katalogverwaltungstools von Adobe Commerce, d
 * Erweiterte Integration und Anpassung.
 * Verbessertes Einkaufserlebnis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434073?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
@@ -93,7 +93,7 @@ Entdecken Sie die erweiterten Suchfunktionen der Adobe Commerce Live Search auf 
 * Anpassbares Sucherlebnis: Funktionen wie erweiterte Suchregeln, Synonyme und Facetten ermöglichen ein maßgeschneidertes und optimiertes Sucherlebnis für Kunden.
 * B2B-Integration: Die Live Search unterstützt B2B-Modelle mit freigegebenen Katalogen und spezifischen Preisen und verbessert so ihre Vielseitigkeit für verschiedene Geschäftsanforderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434051?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promotions  
 
@@ -105,5 +105,5 @@ Adobe Commerce ermöglicht es Store-Managern, Produktpakete und Werbeaktionen m�
 * Erweiterte Werbestrategien.
 * Nahtlose Integration mit Systemen von Drittanbietern für mehr Flexibilität und Automatisierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434062?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

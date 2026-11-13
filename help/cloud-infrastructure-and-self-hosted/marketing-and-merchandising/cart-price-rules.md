@@ -2,7 +2,7 @@
 title: Erstellen von Regeln für Warenkorbpreise
 description: Erfahren Sie, wie Sie Regeln für den Warenkorbpreis erstellen, die Rabatte im Warenkorb anwenden, wenn von Ihnen definierte Bedingungen erfüllt sind.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Die Regeln für den Warenkorbpreis wenden Rabatte auf Artikel im Warenkorb basie
 * Erstellen Sie Regeln für den Warenkorbpreis und optionale Gutscheincodes.
 * Erfahren Sie, wie Rabatte im Warenkorb angezeigt werden und welche Werbeaktionen es gibt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411359?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Probleme mit der Preisanzeige
 
@@ -154,5 +154,5 @@ Wenn wir jedoch die dritte Dezimalzahl fallen lassen, würde dies zeigen, dass $
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen einer Warenkorb-Preisregel - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Gutscheincodes - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/de/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Erstellen einer Warenkorb-Preisregel - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Gutscheincodes - Handbuch  [!DNL Commerce] Merchandising und Promotions“](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

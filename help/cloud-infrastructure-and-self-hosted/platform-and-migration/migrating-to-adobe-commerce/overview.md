@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 201
-last-substantial-update: 2024-10-02T00:00:00.000Z
+last-substantial-update: 2024-10-02
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
 TQID: 'https://experienceleague.adobe.com/qozc7AyTn20uLGoouMVGr8lLchGR7jAvXqf-dNViP7U'
@@ -31,7 +31,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -54,4 +54,4 @@ Willkommen zu dieser umfassenden Tutorial-Reihe zur Migration zu Adobe Commerce.
 * Erfahren Sie mehr über die wichtigsten Schritte und Best Practices für eine erfolgreiche Migration auf Adobe Commerce.
 * Bewerten und optimieren Sie benutzerdefinierten Code und Drittanbietermodule und verstehen Sie wichtige QA-Konzepte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444329?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846?learn=on)

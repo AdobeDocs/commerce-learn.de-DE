@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ Jede Adobe Commerce- und Magento Open Source-Installation unterstützt eine Hier
 
 >[!NOTE]
 >
->Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/de/docs/commerce-operations/release/notes/overview).
+>Der Inhalt im Video entspricht Version 2.1.0. Informationen zu Aktualisierungen in späteren Versionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507663?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Zusätzliche Ressourcen
 
-* [Websites, Stores und Ansichten - [!DNL Commerce]  Erste Schritte](https://experienceleague.adobe.com/de/docs/commerce-admin/start/setup/websites-stores-views)
-* [Stammkategorie und -hierarchie -  [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/de/docs/commerce-admin/catalog/categories/category-root)
+* [Websites, Stores und Ansichten - [!DNL Commerce]  Erste Schritte](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Stammkategorie und -hierarchie -  [!DNL Commerce] Handbuch zur Katalogverwaltung](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

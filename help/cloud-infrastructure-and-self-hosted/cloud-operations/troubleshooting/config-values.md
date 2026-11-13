@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00.000Z
+last-substantial-update: 2024-11-08
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
 TQID: 'https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs'
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -54,14 +54,14 @@ Dieses Handbuch bietet einen umfassenden Überblick darüber, wie Sie Konfigurat
 * Erfahren Sie, wie Sie Konfigurationswerte über das Admin-Bedienfeld, das Code-Repository und umgebungsspezifische Dateien bearbeiten und überschreiben können.
 * Entdecken Sie Best Practices für die Beibehaltung konsistenter Konfigurationseinstellungen über verschiedene Umgebungen hinweg mithilfe von Tools :config: App-Dump und der Admin-Benutzeroberfläche von Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505790?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
 ## Verwandte Dokumentation zu Experience League
 
-* [Konfiguration exportieren](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [Konfigurationseinstellungen überschreiben](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [Festlegen von Konfigurationswerten](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [config.php](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [Konfigurationsleitfaden - Technische Details](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/deployment/technical-details)
-* [Gesperrte Konfigurationswerte](https://experienceleague.adobe.com/de/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-* [Gespeicherte Werte auf der env.php](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+* [Konfiguration exportieren](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [Konfigurationseinstellungen überschreiben](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [Festlegen von Konfigurationswerten](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [Konfigurationsleitfaden - Technische Details](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [Gesperrte Konfigurationswerte](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+* [Gespeicherte Werte auf der env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
